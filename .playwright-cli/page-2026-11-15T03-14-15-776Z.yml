@@ -1,0 +1,400 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - heading "Revisión final · 9 imágenes pendientes" [level=1] [ref=e3]
+    - paragraph [ref=e4]: 2 requieren mayor detalle · 7 requieren confirmar encuadre/evaluabilidad.
+    - paragraph [ref=e5]:
+      - text: Fotografías originales sin modificación. Las etiquetas humanas permanecen desconocidas (
+      - code [ref=e6]: "null"
+      - text: ). Esta hoja no asigna ni guarda etiquetas.
+    - paragraph [ref=e7]: Abra «Ampliar», aumente el zoom y desplácese por la imagen para revisar cuerpo, cuello y tapa donde sean visibles. Ampliar no recupera detalles ausentes ni confirma evaluabilidad.
+    - paragraph [ref=e8]: Los grupos y particiones se conservan; las imágenes no representan necesariamente botellas independientes.
+  - main [ref=e9]:
+    - article [ref=e10]:
+      - heading "1. marginal-102-_jpg.rf.2ff5a0f64f02872f798fb6a3789a3c84.jpg" [level=2] [ref=e11]
+      - paragraph [ref=e12]: Encuadre y evaluabilidad conjunta por confirmar
+      - link [ref=e13] [cursor=pointer]:
+        - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/2c1f3b6f231f762eeb2e4c83d05355384b31fb01548e13882b9a658c8e1dccfa.jpg
+        - img "Original pendiente 1; abrir fotografía" [ref=e14]
+      - paragraph [ref=e15]:
+        - button "Ampliar imagen 1" [ref=e16] [cursor=pointer]
+        - text: ·
+        - link "Abrir original individual" [ref=e17] [cursor=pointer]:
+          - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/2c1f3b6f231f762eeb2e4c83d05355384b31fb01548e13882b9a658c8e1dccfa.jpg
+      - generic [ref=e18]:
+        - term [ref=e19]: sample_id
+        - definition [ref=e20]: mendeley_kthmmbsh8t_v1:2c1f3b6f231f762eeb2e4c83d05355384b31fb01548e13882b9a658c8e1dccfa
+        - term [ref=e21]: Nombre original
+        - definition [ref=e22]: train/images/marginal-102-_jpg.rf.2ff5a0f64f02872f798fb6a3789a3c84.jpg
+        - term [ref=e23]: Ruta del original importado
+        - definition [ref=e24]: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/2c1f3b6f231f762eeb2e4c83d05355384b31fb01548e13882b9a658c8e1dccfa.jpg
+        - term [ref=e25]: Hash esperado SHA-256
+        - definition [ref=e26]: 2c1f3b6f231f762eeb2e4c83d05355384b31fb01548e13882b9a658c8e1dccfa
+        - term [ref=e27]: Etiquetas humanas actuales
+        - definition [ref=e28]: "{\"RAYADURA\": null, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e29]: Evidencia fuente (no confirmación humana)
+        - definition [ref=e30]: "{\"RAYADURA\": null, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e31]: Motivo pendiente
+        - definition [ref=e32]: Encuadre y evaluabilidad conjunta por confirmar
+        - term [ref=e33]: Grupo de origen
+        - definition [ref=e34]: origin-284edeea1d737cb9
+        - term [ref=e35]: Partición propuesta conservada
+        - definition [ref=e36]: test
+        - term [ref=e37]: Fuente
+        - definition [ref=e38]: mendeley_kthmmbsh8t_v1
+        - term [ref=e39]: Autores fuente
+        - definition [ref=e40]: Fakhra Aftab, Majida Kazmi
+        - term [ref=e41]: Licencia
+        - definition [ref=e42]: CC-BY-4.0
+      - paragraph [ref=e43]:
+        - link "Procedencia" [ref=e44] [cursor=pointer]:
+          - /url: https://data.mendeley.com/datasets/kthmmbsh8t/1
+        - text: ·
+        - link "Licencia CC BY 4.0" [ref=e45] [cursor=pointer]:
+          - /url: https://creativecommons.org/licenses/by/4.0/
+    - article [ref=e46]:
+      - heading "2. unacceptable-23-_jpg.rf.58bdf860dfa64e1f995c7df88e7af0ee.jpg" [level=2] [ref=e47]
+      - paragraph [ref=e48]: Encuadre y evaluabilidad conjunta por confirmar
+      - link [ref=e49] [cursor=pointer]:
+        - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/656e04898a5bb68ff9e27e4bd9605dab078cfb6e406c726589f4bd8bc9f56363.jpg
+        - img "Original pendiente 2; abrir fotografía" [ref=e50]
+      - paragraph [ref=e51]:
+        - button "Ampliar imagen 2" [ref=e52] [cursor=pointer]
+        - text: ·
+        - link "Abrir original individual" [ref=e53] [cursor=pointer]:
+          - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/656e04898a5bb68ff9e27e4bd9605dab078cfb6e406c726589f4bd8bc9f56363.jpg
+      - generic [ref=e54]:
+        - term [ref=e55]: sample_id
+        - definition [ref=e56]: mendeley_kthmmbsh8t_v1:656e04898a5bb68ff9e27e4bd9605dab078cfb6e406c726589f4bd8bc9f56363
+        - term [ref=e57]: Nombre original
+        - definition [ref=e58]: train/images/unacceptable-23-_jpg.rf.58bdf860dfa64e1f995c7df88e7af0ee.jpg
+        - term [ref=e59]: Ruta del original importado
+        - definition [ref=e60]: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/656e04898a5bb68ff9e27e4bd9605dab078cfb6e406c726589f4bd8bc9f56363.jpg
+        - term [ref=e61]: Hash esperado SHA-256
+        - definition [ref=e62]: 656e04898a5bb68ff9e27e4bd9605dab078cfb6e406c726589f4bd8bc9f56363
+        - term [ref=e63]: Etiquetas humanas actuales
+        - definition [ref=e64]: "{\"RAYADURA\": null, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e65]: Evidencia fuente (no confirmación humana)
+        - definition [ref=e66]: "{\"RAYADURA\": null, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e67]: Motivo pendiente
+        - definition [ref=e68]: Encuadre y evaluabilidad conjunta por confirmar
+        - term [ref=e69]: Grupo de origen
+        - definition [ref=e70]: origin-2e10639104b5014e
+        - term [ref=e71]: Partición propuesta conservada
+        - definition [ref=e72]: train
+        - term [ref=e73]: Fuente
+        - definition [ref=e74]: mendeley_kthmmbsh8t_v1
+        - term [ref=e75]: Autores fuente
+        - definition [ref=e76]: Fakhra Aftab, Majida Kazmi
+        - term [ref=e77]: Licencia
+        - definition [ref=e78]: CC-BY-4.0
+      - paragraph [ref=e79]:
+        - link "Procedencia" [ref=e80] [cursor=pointer]:
+          - /url: https://data.mendeley.com/datasets/kthmmbsh8t/1
+        - text: ·
+        - link "Licencia CC BY 4.0" [ref=e81] [cursor=pointer]:
+          - /url: https://creativecommons.org/licenses/by/4.0/
+    - article [ref=e82]:
+      - heading "3. S_front-55-_jpg.rf.86f051efd37c40c24ca0d086505d83cc.jpg" [level=2] [ref=e83]
+      - paragraph [ref=e84]: "Regiones pequeñas: ONLY_SMALL_TARGET_REGIONS_NEEDS_DETAIL"
+      - link [ref=e85] [cursor=pointer]:
+        - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/candidate_presence/69291c719d28d186a07bf6c64a2a0fe3905cc065d4b5b69795149f06b29cd012.jpg
+        - img "Original pendiente 3; abrir fotografía" [ref=e86]
+      - paragraph [ref=e87]:
+        - button "Ampliar imagen 3" [ref=e88] [cursor=pointer]
+        - text: ·
+        - link "Abrir original individual" [ref=e89] [cursor=pointer]:
+          - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/candidate_presence/69291c719d28d186a07bf6c64a2a0fe3905cc065d4b5b69795149f06b29cd012.jpg
+      - generic [ref=e90]:
+        - term [ref=e91]: sample_id
+        - definition [ref=e92]: mendeley_kthmmbsh8t_v1:69291c719d28d186a07bf6c64a2a0fe3905cc065d4b5b69795149f06b29cd012
+        - term [ref=e93]: Nombre original
+        - definition [ref=e94]: train/images/S_front-55-_jpg.rf.86f051efd37c40c24ca0d086505d83cc.jpg
+        - term [ref=e95]: Ruta del original importado
+        - definition [ref=e96]: ../../imports/mendeley_kthmmbsh8t_v1_001/images/candidate_presence/69291c719d28d186a07bf6c64a2a0fe3905cc065d4b5b69795149f06b29cd012.jpg
+        - term [ref=e97]: Hash esperado SHA-256
+        - definition [ref=e98]: 69291c719d28d186a07bf6c64a2a0fe3905cc065d4b5b69795149f06b29cd012
+        - term [ref=e99]: Etiquetas humanas actuales
+        - definition [ref=e100]: "{\"RAYADURA\": null, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e101]: Evidencia fuente (no confirmación humana)
+        - definition [ref=e102]: "{\"RAYADURA\": 1, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e103]: Motivo pendiente
+        - definition [ref=e104]: "Regiones pequeñas: ONLY_SMALL_TARGET_REGIONS_NEEDS_DETAIL"
+        - term [ref=e105]: Grupo de origen
+        - definition [ref=e106]: origin-2822f71ab320652d
+        - term [ref=e107]: Partición propuesta conservada
+        - definition [ref=e108]: train
+        - term [ref=e109]: Fuente
+        - definition [ref=e110]: mendeley_kthmmbsh8t_v1
+        - term [ref=e111]: Autores fuente
+        - definition [ref=e112]: Fakhra Aftab, Majida Kazmi
+        - term [ref=e113]: Licencia
+        - definition [ref=e114]: CC-BY-4.0
+      - paragraph [ref=e115]:
+        - link "Procedencia" [ref=e116] [cursor=pointer]:
+          - /url: https://data.mendeley.com/datasets/kthmmbsh8t/1
+        - text: ·
+        - link "Licencia CC BY 4.0" [ref=e117] [cursor=pointer]:
+          - /url: https://creativecommons.org/licenses/by/4.0/
+    - article [ref=e118]:
+      - heading "4. scuff_m-218-_jpg.rf.e1aabdf8b383923647e2a25678c4f5d8.jpg" [level=2] [ref=e119]
+      - paragraph [ref=e120]: "Regiones pequeñas: ONLY_SMALL_TARGET_REGIONS_NEEDS_DETAIL"
+      - link [ref=e121] [cursor=pointer]:
+        - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/candidate_presence/73974905331dce5a41b4dc8ddcaef2533df1c8c5278dda7636c8aeabb11bd5b0.jpg
+        - img "Original pendiente 4; abrir fotografía" [ref=e122]
+      - paragraph [ref=e123]:
+        - button "Ampliar imagen 4" [ref=e124] [cursor=pointer]
+        - text: ·
+        - link "Abrir original individual" [ref=e125] [cursor=pointer]:
+          - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/candidate_presence/73974905331dce5a41b4dc8ddcaef2533df1c8c5278dda7636c8aeabb11bd5b0.jpg
+      - generic [ref=e126]:
+        - term [ref=e127]: sample_id
+        - definition [ref=e128]: mendeley_kthmmbsh8t_v1:73974905331dce5a41b4dc8ddcaef2533df1c8c5278dda7636c8aeabb11bd5b0
+        - term [ref=e129]: Nombre original
+        - definition [ref=e130]: train/images/scuff_m-218-_jpg.rf.e1aabdf8b383923647e2a25678c4f5d8.jpg
+        - term [ref=e131]: Ruta del original importado
+        - definition [ref=e132]: ../../imports/mendeley_kthmmbsh8t_v1_001/images/candidate_presence/73974905331dce5a41b4dc8ddcaef2533df1c8c5278dda7636c8aeabb11bd5b0.jpg
+        - term [ref=e133]: Hash esperado SHA-256
+        - definition [ref=e134]: 73974905331dce5a41b4dc8ddcaef2533df1c8c5278dda7636c8aeabb11bd5b0
+        - term [ref=e135]: Etiquetas humanas actuales
+        - definition [ref=e136]: "{\"RAYADURA\": null, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e137]: Evidencia fuente (no confirmación humana)
+        - definition [ref=e138]: "{\"RAYADURA\": 1, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e139]: Motivo pendiente
+        - definition [ref=e140]: "Regiones pequeñas: ONLY_SMALL_TARGET_REGIONS_NEEDS_DETAIL"
+        - term [ref=e141]: Grupo de origen
+        - definition [ref=e142]: origin-d20d8c34653fd4e1
+        - term [ref=e143]: Partición propuesta conservada
+        - definition [ref=e144]: train
+        - term [ref=e145]: Fuente
+        - definition [ref=e146]: mendeley_kthmmbsh8t_v1
+        - term [ref=e147]: Autores fuente
+        - definition [ref=e148]: Fakhra Aftab, Majida Kazmi
+        - term [ref=e149]: Licencia
+        - definition [ref=e150]: CC-BY-4.0
+      - paragraph [ref=e151]:
+        - link "Procedencia" [ref=e152] [cursor=pointer]:
+          - /url: https://data.mendeley.com/datasets/kthmmbsh8t/1
+        - text: ·
+        - link "Licencia CC BY 4.0" [ref=e153] [cursor=pointer]:
+          - /url: https://creativecommons.org/licenses/by/4.0/
+    - article [ref=e154]:
+      - heading "5. tear_marg-36-_jpg.rf.dcb68447f15ea7d4430d015ef9ffd48a.jpg" [level=2] [ref=e155]
+      - paragraph [ref=e156]: Encuadre y evaluabilidad conjunta por confirmar
+      - link [ref=e157] [cursor=pointer]:
+        - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/8246353b488b9e1ed8d3bf2ce8ab3b28dcefcd9fc5c708f9d495940c2c7caadc.jpg
+        - img "Original pendiente 5; abrir fotografía" [ref=e158]
+      - paragraph [ref=e159]:
+        - button "Ampliar imagen 5" [ref=e160] [cursor=pointer]
+        - text: ·
+        - link "Abrir original individual" [ref=e161] [cursor=pointer]:
+          - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/8246353b488b9e1ed8d3bf2ce8ab3b28dcefcd9fc5c708f9d495940c2c7caadc.jpg
+      - generic [ref=e162]:
+        - term [ref=e163]: sample_id
+        - definition [ref=e164]: mendeley_kthmmbsh8t_v1:8246353b488b9e1ed8d3bf2ce8ab3b28dcefcd9fc5c708f9d495940c2c7caadc
+        - term [ref=e165]: Nombre original
+        - definition [ref=e166]: train/images/tear_marg-36-_jpg.rf.dcb68447f15ea7d4430d015ef9ffd48a.jpg
+        - term [ref=e167]: Ruta del original importado
+        - definition [ref=e168]: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/8246353b488b9e1ed8d3bf2ce8ab3b28dcefcd9fc5c708f9d495940c2c7caadc.jpg
+        - term [ref=e169]: Hash esperado SHA-256
+        - definition [ref=e170]: 8246353b488b9e1ed8d3bf2ce8ab3b28dcefcd9fc5c708f9d495940c2c7caadc
+        - term [ref=e171]: Etiquetas humanas actuales
+        - definition [ref=e172]: "{\"RAYADURA\": null, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e173]: Evidencia fuente (no confirmación humana)
+        - definition [ref=e174]: "{\"RAYADURA\": null, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e175]: Motivo pendiente
+        - definition [ref=e176]: Encuadre y evaluabilidad conjunta por confirmar
+        - term [ref=e177]: Grupo de origen
+        - definition [ref=e178]: origin-242b26a04d3d5a8d
+        - term [ref=e179]: Partición propuesta conservada
+        - definition [ref=e180]: train
+        - term [ref=e181]: Fuente
+        - definition [ref=e182]: mendeley_kthmmbsh8t_v1
+        - term [ref=e183]: Autores fuente
+        - definition [ref=e184]: Fakhra Aftab, Majida Kazmi
+        - term [ref=e185]: Licencia
+        - definition [ref=e186]: CC-BY-4.0
+      - paragraph [ref=e187]:
+        - link "Procedencia" [ref=e188] [cursor=pointer]:
+          - /url: https://data.mendeley.com/datasets/kthmmbsh8t/1
+        - text: ·
+        - link "Licencia CC BY 4.0" [ref=e189] [cursor=pointer]:
+          - /url: https://creativecommons.org/licenses/by/4.0/
+    - article [ref=e190]:
+      - heading "6. unacceptable-24-_jpg.rf.7fc3ec1c7bad6ce0312faed2d3049a75.jpg" [level=2] [ref=e191]
+      - paragraph [ref=e192]: Encuadre y evaluabilidad conjunta por confirmar
+      - link [ref=e193] [cursor=pointer]:
+        - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/8a67dde1ac1d4b4d2ea5999ac1031f265459e6ea1fe0c04feadb36e1e86d9ed8.jpg
+        - img "Original pendiente 6; abrir fotografía" [ref=e194]
+      - paragraph [ref=e195]:
+        - button "Ampliar imagen 6" [ref=e196] [cursor=pointer]
+        - text: ·
+        - link "Abrir original individual" [ref=e197] [cursor=pointer]:
+          - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/8a67dde1ac1d4b4d2ea5999ac1031f265459e6ea1fe0c04feadb36e1e86d9ed8.jpg
+      - generic [ref=e198]:
+        - term [ref=e199]: sample_id
+        - definition [ref=e200]: mendeley_kthmmbsh8t_v1:8a67dde1ac1d4b4d2ea5999ac1031f265459e6ea1fe0c04feadb36e1e86d9ed8
+        - term [ref=e201]: Nombre original
+        - definition [ref=e202]: test/images/unacceptable-24-_jpg.rf.7fc3ec1c7bad6ce0312faed2d3049a75.jpg
+        - term [ref=e203]: Ruta del original importado
+        - definition [ref=e204]: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/8a67dde1ac1d4b4d2ea5999ac1031f265459e6ea1fe0c04feadb36e1e86d9ed8.jpg
+        - term [ref=e205]: Hash esperado SHA-256
+        - definition [ref=e206]: 8a67dde1ac1d4b4d2ea5999ac1031f265459e6ea1fe0c04feadb36e1e86d9ed8
+        - term [ref=e207]: Etiquetas humanas actuales
+        - definition [ref=e208]: "{\"RAYADURA\": null, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e209]: Evidencia fuente (no confirmación humana)
+        - definition [ref=e210]: "{\"RAYADURA\": null, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e211]: Motivo pendiente
+        - definition [ref=e212]: Encuadre y evaluabilidad conjunta por confirmar
+        - term [ref=e213]: Grupo de origen
+        - definition [ref=e214]: origin-17d513d4521ee6f4
+        - term [ref=e215]: Partición propuesta conservada
+        - definition [ref=e216]: test
+        - term [ref=e217]: Fuente
+        - definition [ref=e218]: mendeley_kthmmbsh8t_v1
+        - term [ref=e219]: Autores fuente
+        - definition [ref=e220]: Fakhra Aftab, Majida Kazmi
+        - term [ref=e221]: Licencia
+        - definition [ref=e222]: CC-BY-4.0
+      - paragraph [ref=e223]:
+        - link "Procedencia" [ref=e224] [cursor=pointer]:
+          - /url: https://data.mendeley.com/datasets/kthmmbsh8t/1
+        - text: ·
+        - link "Licencia CC BY 4.0" [ref=e225] [cursor=pointer]:
+          - /url: https://creativecommons.org/licenses/by/4.0/
+    - article [ref=e226]:
+      - heading "7. unacceptable-177-_jpg.rf.7b4d02326e003a4021954032e7ffd01b.jpg" [level=2] [ref=e227]
+      - paragraph [ref=e228]: Encuadre y evaluabilidad conjunta por confirmar
+      - link [ref=e229] [cursor=pointer]:
+        - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/a54236c3f60b68020bb53039535ceff9825f5a50b51ef8d9637da8f30a0aa694.jpg
+        - img "Original pendiente 7; abrir fotografía" [ref=e230]
+      - paragraph [ref=e231]:
+        - button "Ampliar imagen 7" [ref=e232] [cursor=pointer]
+        - text: ·
+        - link "Abrir original individual" [ref=e233] [cursor=pointer]:
+          - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/a54236c3f60b68020bb53039535ceff9825f5a50b51ef8d9637da8f30a0aa694.jpg
+      - generic [ref=e234]:
+        - term [ref=e235]: sample_id
+        - definition [ref=e236]: mendeley_kthmmbsh8t_v1:a54236c3f60b68020bb53039535ceff9825f5a50b51ef8d9637da8f30a0aa694
+        - term [ref=e237]: Nombre original
+        - definition [ref=e238]: valid/images/unacceptable-177-_jpg.rf.7b4d02326e003a4021954032e7ffd01b.jpg
+        - term [ref=e239]: Ruta del original importado
+        - definition [ref=e240]: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/a54236c3f60b68020bb53039535ceff9825f5a50b51ef8d9637da8f30a0aa694.jpg
+        - term [ref=e241]: Hash esperado SHA-256
+        - definition [ref=e242]: a54236c3f60b68020bb53039535ceff9825f5a50b51ef8d9637da8f30a0aa694
+        - term [ref=e243]: Etiquetas humanas actuales
+        - definition [ref=e244]: "{\"RAYADURA\": null, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e245]: Evidencia fuente (no confirmación humana)
+        - definition [ref=e246]: "{\"RAYADURA\": null, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e247]: Motivo pendiente
+        - definition [ref=e248]: Encuadre y evaluabilidad conjunta por confirmar
+        - term [ref=e249]: Grupo de origen
+        - definition [ref=e250]: origin-7d29942d2888b533
+        - term [ref=e251]: Partición propuesta conservada
+        - definition [ref=e252]: train
+        - term [ref=e253]: Fuente
+        - definition [ref=e254]: mendeley_kthmmbsh8t_v1
+        - term [ref=e255]: Autores fuente
+        - definition [ref=e256]: Fakhra Aftab, Majida Kazmi
+        - term [ref=e257]: Licencia
+        - definition [ref=e258]: CC-BY-4.0
+      - paragraph [ref=e259]:
+        - link "Procedencia" [ref=e260] [cursor=pointer]:
+          - /url: https://data.mendeley.com/datasets/kthmmbsh8t/1
+        - text: ·
+        - link "Licencia CC BY 4.0" [ref=e261] [cursor=pointer]:
+          - /url: https://creativecommons.org/licenses/by/4.0/
+    - article [ref=e262]:
+      - heading "8. unacceptable-180-_jpg.rf.0c37c2268bf74329c85c39b4047c20e6.jpg" [level=2] [ref=e263]
+      - paragraph [ref=e264]: Encuadre y evaluabilidad conjunta por confirmar
+      - link [ref=e265] [cursor=pointer]:
+        - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/c2baf700291b08003123c31f7d0d763cab074be5301dd83baaeab798192e972e.jpg
+        - img "Original pendiente 8; abrir fotografía" [ref=e266]
+      - paragraph [ref=e267]:
+        - button "Ampliar imagen 8" [ref=e268] [cursor=pointer]
+        - text: ·
+        - link "Abrir original individual" [ref=e269] [cursor=pointer]:
+          - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/c2baf700291b08003123c31f7d0d763cab074be5301dd83baaeab798192e972e.jpg
+      - generic [ref=e270]:
+        - term [ref=e271]: sample_id
+        - definition [ref=e272]: mendeley_kthmmbsh8t_v1:c2baf700291b08003123c31f7d0d763cab074be5301dd83baaeab798192e972e
+        - term [ref=e273]: Nombre original
+        - definition [ref=e274]: train/images/unacceptable-180-_jpg.rf.0c37c2268bf74329c85c39b4047c20e6.jpg
+        - term [ref=e275]: Ruta del original importado
+        - definition [ref=e276]: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/c2baf700291b08003123c31f7d0d763cab074be5301dd83baaeab798192e972e.jpg
+        - term [ref=e277]: Hash esperado SHA-256
+        - definition [ref=e278]: c2baf700291b08003123c31f7d0d763cab074be5301dd83baaeab798192e972e
+        - term [ref=e279]: Etiquetas humanas actuales
+        - definition [ref=e280]: "{\"RAYADURA\": null, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e281]: Evidencia fuente (no confirmación humana)
+        - definition [ref=e282]: "{\"RAYADURA\": null, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e283]: Motivo pendiente
+        - definition [ref=e284]: Encuadre y evaluabilidad conjunta por confirmar
+        - term [ref=e285]: Grupo de origen
+        - definition [ref=e286]: origin-c98d6f66260647fa
+        - term [ref=e287]: Partición propuesta conservada
+        - definition [ref=e288]: validation
+        - term [ref=e289]: Fuente
+        - definition [ref=e290]: mendeley_kthmmbsh8t_v1
+        - term [ref=e291]: Autores fuente
+        - definition [ref=e292]: Fakhra Aftab, Majida Kazmi
+        - term [ref=e293]: Licencia
+        - definition [ref=e294]: CC-BY-4.0
+      - paragraph [ref=e295]:
+        - link "Procedencia" [ref=e296] [cursor=pointer]:
+          - /url: https://data.mendeley.com/datasets/kthmmbsh8t/1
+        - text: ·
+        - link "Licencia CC BY 4.0" [ref=e297] [cursor=pointer]:
+          - /url: https://creativecommons.org/licenses/by/4.0/
+    - article [ref=e298]:
+      - heading "9. POB_unacc-156-_jpg.rf.1953f83033c9e66c8e4163e9a060a4d0.jpg" [level=2] [ref=e299]
+      - paragraph [ref=e300]: Encuadre y evaluabilidad conjunta por confirmar
+      - link [ref=e301] [cursor=pointer]:
+        - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/ecfa092b01052765c4e3da1c58e95cce275906f956c74bda989128f3a5e2141e.jpg
+        - img "Original pendiente 9; abrir fotografía" [ref=e302]
+      - paragraph [ref=e303]:
+        - button "Ampliar imagen 9" [ref=e304] [cursor=pointer]
+        - text: ·
+        - link "Abrir original individual" [ref=e305] [cursor=pointer]:
+          - /url: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/ecfa092b01052765c4e3da1c58e95cce275906f956c74bda989128f3a5e2141e.jpg
+      - generic [ref=e306]:
+        - term [ref=e307]: sample_id
+        - definition [ref=e308]: mendeley_kthmmbsh8t_v1:ecfa092b01052765c4e3da1c58e95cce275906f956c74bda989128f3a5e2141e
+        - term [ref=e309]: Nombre original
+        - definition [ref=e310]: train/images/POB_unacc-156-_jpg.rf.1953f83033c9e66c8e4163e9a060a4d0.jpg
+        - term [ref=e311]: Ruta del original importado
+        - definition [ref=e312]: ../../imports/mendeley_kthmmbsh8t_v1_001/images/unmapped_review_only/ecfa092b01052765c4e3da1c58e95cce275906f956c74bda989128f3a5e2141e.jpg
+        - term [ref=e313]: Hash esperado SHA-256
+        - definition [ref=e314]: ecfa092b01052765c4e3da1c58e95cce275906f956c74bda989128f3a5e2141e
+        - term [ref=e315]: Etiquetas humanas actuales
+        - definition [ref=e316]: "{\"RAYADURA\": null, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e317]: Evidencia fuente (no confirmación humana)
+        - definition [ref=e318]: "{\"RAYADURA\": null, \"DEFORMACION\": null, \"TAPA_DEFECTUOSA\": null}"
+        - term [ref=e319]: Motivo pendiente
+        - definition [ref=e320]: Encuadre y evaluabilidad conjunta por confirmar
+        - term [ref=e321]: Grupo de origen
+        - definition [ref=e322]: origin-32c66086c975640a
+        - term [ref=e323]: Partición propuesta conservada
+        - definition [ref=e324]: train
+        - term [ref=e325]: Fuente
+        - definition [ref=e326]: mendeley_kthmmbsh8t_v1
+        - term [ref=e327]: Autores fuente
+        - definition [ref=e328]: Fakhra Aftab, Majida Kazmi
+        - term [ref=e329]: Licencia
+        - definition [ref=e330]: CC-BY-4.0
+      - paragraph [ref=e331]:
+        - link "Procedencia" [ref=e332] [cursor=pointer]:
+          - /url: https://data.mendeley.com/datasets/kthmmbsh8t/1
+        - text: ·
+        - link "Licencia CC BY 4.0" [ref=e333] [cursor=pointer]:
+          - /url: https://creativecommons.org/licenses/by/4.0/
+  - dialog [ref=e334]:
+    - generic [ref=e335]:
+      - button "Cerrar" [active] [ref=e336] [cursor=pointer]
+      - button "Ajustar" [ref=e337] [cursor=pointer]
+      - button "100 % original" [ref=e338] [cursor=pointer]
+      - generic [ref=e339]:
+        - text: Zoom
+        - slider "Zoom" [ref=e340]: "71"
+      - status [ref=e341]: 71 %
+    - paragraph [ref=e342]: 1. marginal-102-_jpg.rf.2ff5a0f64f02872f798fb6a3789a3c84.jpg
+    - img "Fotografía original ampliada" [ref=e344]

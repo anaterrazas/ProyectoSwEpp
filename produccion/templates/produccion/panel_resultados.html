@@ -1,0 +1,35 @@
+{% extends 'produccion/base_consultas.html' %}
+{% block contenido %}
+<div class="cabecera"><div><span class="eyebrow">CONTROL DE PRODUCCIÓN</span><h1>Resultados de producción y calidad</h1><p class="muted">Una visión actual de cada lote, con acceso a todo su historial.</p></div><a class="boton" href="{% url 'descargar_resultados' %}?tipo={{ tipo_seleccionado|urlencode }}">Descargar informe CSV</a></div>
+<form method="get" class="panel" style="display:flex;gap:16px;align-items:center;flex-wrap:wrap">
+<label for="tipo"><strong>Tipo de producto</strong></label>
+<select id="tipo" name="tipo" style="padding:10px;border:1px solid #cbd5e1;border-radius:6px">
+<option value="">Todos los tipos</option>
+{% for valor, etiqueta in tipos_producto %}<option value="{{ valor }}" {% if valor == tipo_seleccionado %}selected{% endif %}>{{ etiqueta }}</option>{% endfor %}
+</select><button type="submit" class="boton" style="border:0;cursor:pointer">Aplicar filtro</button>
+<a href="{% url 'panel_resultados' %}">Limpiar filtro</a>
+<span class="muted">El filtro se aplica a indicadores, gr&aacute;ficos, lotes e informe.</span>
+</form>
+<div class="resumen-linea"><span><strong>{{ total_lotes }}</strong> lotes registrados</span><span><strong>{{ con_resultados }}</strong> con análisis completado</span><span>Conformidad <strong>{{ resumen.porcentaje_conformidad|floatformat:2 }} %</strong></span><span>Defectos <strong>{{ resumen.porcentaje_defectos|floatformat:2 }} %</strong></span></div>
+<div class="tarjetas">
+<div class="tarjeta"><span class="muted">Unidades producidas</span><strong class="valor">{{ resumen.total }}</strong><small>Mediciones vigentes</small></div>
+<div class="tarjeta"><span class="muted">Conformes</span><strong class="valor verde-texto">{{ resumen.conformes }}</strong><small>Clasificadas por el supervisor</small></div>
+<div class="tarjeta"><span class="muted">Defectuosas</span><strong class="valor rojo-texto">{{ resumen.defectuosas }}</strong><small>Clasificadas por el supervisor</small></div>
+<div class="tarjeta"><span class="muted">Pendientes de revisión</span><strong class="valor ambar-texto">{{ resumen.pendientes }}</strong><small>Sin clasificación definitiva</small></div>
+</div>
+<p class="muted">Los indicadores suman el análisis completado más reciente de cada lote; los análisis históricos no se acumulan. Los porcentajes usan el total producido.</p>
+{% if resumen.sin_registro %}<p class="aviso">{{ resumen.sin_registro }} unidades contadas no tienen registro de inspección. Se muestran por separado y no se consideran conformes ni defectuosas.</p>{% endif %}
+<div class="graficos">
+<section class="panel"><h2>Distribución de calidad</h2><p class="muted">Unidades de los análisis vigentes</p>
+{% for barra in grafico_calidad %}<div class="fila-grafico"><div class="etiqueta"><span>{{ barra.nombre }}</span><strong>{{ barra.cantidad }}</strong></div><div class="pista" aria-hidden="true"><div class="barra {{ barra.color }}" style="width:{{ barra.ancho|stringformat:'.2f' }}%"></div></div></div>{% endfor %}
+</section>
+<section class="panel"><h2>Producción por lote</h2><p class="muted">Hasta 12 lotes recientes con análisis completado</p>
+{% for barra in grafico %}<div class="fila-grafico"><div class="etiqueta"><span>{{ barra.codigo }}</span><strong>{{ barra.total }}</strong></div><div class="pista" aria-hidden="true"><div class="barra" style="width:{{ barra.ancho|stringformat:'.2f' }}%"></div></div></div>{% empty %}<p>No hay mediciones completadas.</p>{% endfor %}
+</section></div>
+<section class="panel"><h2>Historial de lotes</h2><div class="tabla"><table><thead><tr><th>Lote / producto</th><th>Fecha</th><th>Estado registrado</th><th>Análisis vigente</th><th>Producidas</th><th>Conformes</th><th>Defectuosas</th><th>Pendientes</th><th></th></tr></thead><tbody>
+{% for fila in pagina %}<tr><td><strong>{{ fila.lote.codigo }}</strong><small>{{ fila.lote.producto.nombre }} &middot; {{ fila.lote.producto.get_tipo_display }}</small></td><td>{{ fila.lote.fecha_creacion|date:'d/m/Y' }}</td><td>{{ fila.lote.get_estado_display }}</td><td>{% if fila.vigente %}#{{ fila.vigente.pk }}<small>{{ fila.vigente.get_origen_display }}</small>{% else %}Sin análisis completado{% endif %}<small>{{ fila.lote.numero_analisis }} análisis</small></td><td>{{ fila.resumen.total|default_if_none:'—' }}</td><td>{{ fila.resumen.conformes|default_if_none:'—' }}</td><td>{{ fila.resumen.defectuosas|default_if_none:'—' }}</td><td>{{ fila.resumen.pendientes|default_if_none:'—' }}{% if fila.resumen.sin_registro %}<small>{{ fila.resumen.sin_registro }} sin registro</small>{% endif %}</td><td><a href="{% url 'detalle_lote' fila.lote.pk %}">Ver lote</a></td></tr>
+{% empty %}<tr><td colspan="9">Todavía no se han registrado lotes.</td></tr>{% endfor %}
+</tbody></table></div>
+{% if pagina.has_other_pages %}<div class="paginacion">{% if pagina.has_previous %}<a href="?tipo={{ tipo_seleccionado|urlencode }}&amp;page={{ pagina.previous_page_number }}">Anterior</a>{% endif %}<span>Página {{ pagina.number }} de {{ pagina.paginator.num_pages }}</span>{% if pagina.has_next %}<a href="?tipo={{ tipo_seleccionado|urlencode }}&amp;page={{ pagina.next_page_number }}">Siguiente</a>{% endif %}</div>{% endif %}
+</section>
+{% endblock %}

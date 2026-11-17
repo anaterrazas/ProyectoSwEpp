@@ -1,0 +1,17 @@
+{% extends 'produccion/base_consultas.html' %}
+{% block titulo %}Lote {{ lote.codigo }} · Sistema EPP{% endblock %}
+{% block contenido %}
+<a href="{% url 'panel_resultados' %}">← Volver a resultados</a>
+<div class="cabecera"><div><h1>Lote {{ lote.codigo }}</h1><p class="muted">{{ lote.producto.nombre }} &middot; {{ lote.producto.get_tipo_display }} · {{ lote.fecha_creacion|date:'d/m/Y H:i' }} · {{ lote.get_estado_display }}</p></div><a class="boton" href="{% url 'descargar_resultados_lote' lote.pk %}">Descargar informe del lote</a></div>
+<section class="panel"><h2>Resultados actuales del lote</h2>
+{% if vigente %}<p>Medición vigente: <a href="{% url 'resultado_analisis' vigente.pk %}">análisis #{{ vigente.pk }}</a> ({{ vigente.get_origen_display }}). Es el análisis completado con fecha de creación más reciente.</p>
+<div class="resumen-linea"><span>Producidas <strong>{{ resumen.total }}</strong></span><span>Conformes <strong>{{ resumen.conformes }}</strong></span><span>Defectuosas <strong>{{ resumen.defectuosas }}</strong></span><span>Pendientes <strong>{{ resumen.pendientes }}</strong></span><span>Sin registro <strong>{{ resumen.sin_registro }}</strong></span></div>
+<p>Conformidad {{ resumen.porcentaje_conformidad|floatformat:2 }} % · Defectos {{ resumen.porcentaje_defectos|floatformat:2 }} %</p>
+{% else %}<p>No existe un análisis completado para este lote. No aporta unidades a los indicadores del panel.</p>{% endif %}
+<details><summary>Totales almacenados en el lote</summary><p>Producidas: {{ lote.cantidad_producida }} · Conformes: {{ lote.cantidad_conforme }} · Defectuosas: {{ lote.cantidad_defectuosa }}.</p><p class="muted">Se conservan los valores existentes. La consulta calcula sus indicadores a partir de los análisis e inspecciones, sin sobrescribir estos campos.</p></details>
+</section>
+<section class="panel"><h2>Análisis e historial de calidad</h2><p class="muted">Cada fila es una medición independiente. Consulte una fila para ver sus videos, inspecciones y observaciones.</p>
+<div class="tabla"><table><thead><tr><th>Análisis</th><th>Fecha</th><th>Estado</th><th>Producidas</th><th>Conformes</th><th>Defectuosas</th><th>Pendientes</th><th>Sin registro</th><th>Conformidad / defectos</th><th></th></tr></thead><tbody>
+{% for a in analisis %}<tr><td>#{{ a.pk }}<small>{{ a.get_origen_display }}</small>{% if a.pk == lote.vigente_id %}<small class="badge">Vigente</small>{% else %}<small>Fuera de los totales actuales</small>{% endif %}</td><td>{{ a.fecha_analisis|date:'d/m/Y H:i' }}</td><td>{{ a.get_estado_display }}</td><td>{{ a.cantidad_contada }}</td><td>{{ a.conformes }}</td><td>{{ a.defectuosas }}</td><td>{{ a.pendientes }}</td><td>{{ a.resumen_consulta.sin_registro }}</td><td>{{ a.resumen_consulta.porcentaje_conformidad|floatformat:2 }} % / {{ a.resumen_consulta.porcentaje_defectos|floatformat:2 }} %</td><td><a href="{% url 'resultado_analisis' a.pk %}">Ver inspecciones y videos</a></td></tr>
+{% empty %}<tr><td colspan="10">Este lote aún no tiene análisis.</td></tr>{% endfor %}</tbody></table></div></section>
+{% endblock %}

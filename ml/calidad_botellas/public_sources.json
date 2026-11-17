@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "sources": {
+    "mendeley_kthmmbsh8t_v1": {
+      "title": "Plastic Shampoo Bottle Dataset for Surface Defects Detection",
+      "version": "1",
+      "creators": ["Fakhra Aftab", "Majida Kazmi"],
+      "url": "https://data.mendeley.com/datasets/kthmmbsh8t/1",
+      "doi": "10.17632/kthmmbsh8t.1",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": "https://data.mendeley.com/public-api/datasets/kthmmbsh8t",
+      "license_verified_on": "2026-11-14",
+      "domain": "public_plastic_shampoo_bottles",
+      "source_annotation_author": "Individual annotators not specified by publisher",
+      "download_status": "VERIFIED_DOWNLOAD",
+      "archive_sha256": "530f60bbc145c839b143542ec3793024792393067c87879d52e8f9c769f18506",
+      "positive_mapping": {
+        "dent_marg": "DEFORMACION",
+        "dent_unacc": "DEFORMACION",
+        "scuff_marg": "RAYADURA",
+        "scuff_unacc": "RAYADURA"
+      },
+      "conditional_mapping": {},
+      "mapping_note": "Scuff maps to the broad EPP surface-damage category; not proof of a specific scratch morphology. Severity remains source metadata. Scene-level positive presence only."
+    },
+    "roboflow_caps_v26": {
+      "title": "Bottle Defects",
+      "version": "26",
+      "creators": ["Product Defect Detection"],
+      "url": "https://universe.roboflow.com/product-defect-detection/bottle-defects-o4gnx/dataset/26",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": "https://universe.roboflow.com/product-defect-detection/bottle-defects-o4gnx/dataset/26",
+      "license_verified_on": "2026-11-14",
+      "domain": "public_bottle_cap_inspection",
+      "source_annotation_author": "Individual annotators not specified by publisher",
+      "download_status": "AUTHENTICATION_REQUIRED",
+      "published_images": 570,
+      "positive_mapping": {"Broken Cap": "TAPA_DEFECTUOSA", "Loose Cap": "TAPA_DEFECTUOSA"},
+      "conditional_mapping": {"Broken Ring": "Confirm tamper-ring criterion before mapping to TAPA_DEFECTUOSA", "No Cap": "Confirm that this production stage requires a cap before mapping to TAPA_DEFECTUOSA"},
+      "mapping_note": "Good Cap does not prove whole-bottle conformity or absence of other defects. No automatic negative labels."
+    },
+    "roboflow_bottle_v4": {
+      "title": "Bottle Defect Detection",
+      "version": "4",
+      "creators": ["Spark Intelligence"],
+      "url": "https://universe.roboflow.com/spark-intelligence-scqhh/bottle-defect-detection/dataset/4",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": "https://universe.roboflow.com/spark-intelligence-scqhh/bottle-defect-detection/dataset/4",
+      "license_verified_on": "2026-11-14",
+      "domain": "public_bottle_deformation_and_cap",
+      "source_annotation_author": "Individual annotators not specified by publisher",
+      "download_status": "AUTHENTICATION_REQUIRED",
+      "published_images": 262,
+      "positive_mapping": {},
+      "conditional_mapping": {"crumbled": "Verify class definition and object assignment before mapping to DEFORMACION", "no-cap": "Confirm that this production stage requires a cap before mapping to TAPA_DEFECTUOSA"},
+      "mapping_note": "label, cap and not-crumbled do not establish absence of all target defects. Keep target values unknown."
+    }
+  }
+}
