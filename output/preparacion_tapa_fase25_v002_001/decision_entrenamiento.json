@@ -1,0 +1,8 @@
+{
+  "training_authorized_by_audit": false,
+  "training_executed": false,
+  "inference_executed": false,
+  "metrics": null,
+  "weights_created": [],
+  "reason": "Cuatro cajas incorrectas, tres dudosas, tapas visibles sin anotar y separación por procedencia no certificada."
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "caso": 1,
+    "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+    "box_id": "011cc367-0a4f-4dae-b3e3-414a0f0e6e95",
+    "clase_original": "ENVASE",
+    "estado": "PENDIENTE",
+    "clase_adjudicada": null,
+    "revisiones": 0
+  },
+  {
+    "caso": 2,
+    "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+    "box_id": "40004408-7538-4504-96be-18326d359f3b",
+    "clase_original": "ENVASE",
+    "estado": "PENDIENTE",
+    "clase_adjudicada": null,
+    "revisiones": 0
+  },
+  {
+    "caso": 3,
+    "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+    "box_id": "50478c3f-aa0c-4659-af31-5028d57adc44",
+    "clase_original": "ENVASE",
+    "estado": "PENDIENTE",
+    "clase_adjudicada": null,
+    "revisiones": 0
+  },
+  {
+    "caso": 4,
+    "sample_id": "vid_8a2b94bcf49a24212a443df0_f000100",
+    "box_id": "ce00f4be-3086-4e9f-a0fc-68a324a97b27",
+    "clase_original": "ENVASE",
+    "estado": "PENDIENTE",
+    "clase_adjudicada": null,
+    "revisiones": 0
+  },
+  {
+    "caso": 5,
+    "sample_id": "vid_8a2b94bcf49a24212a443df0_f000250",
+    "box_id": "4bacdeaa-1c24-49d7-9e8a-24627c32c6b2",
+    "clase_original": "ENVASE",
+    "estado": "PENDIENTE",
+    "clase_adjudicada": null,
+    "revisiones": 0
+  },
+  {
+    "caso": 6,
+    "sample_id": "vid_8a2b94bcf49a24212a443df0_f000300",
+    "box_id": "828408df-22d5-4bb1-b712-427c230eea56",
+    "clase_original": "ENVASE",
+    "estado": "PENDIENTE",
+    "clase_adjudicada": null,
+    "revisiones": 0
+  },
+  {
+    "caso": 7,
+    "sample_id": "vid_8a2b94bcf49a24212a443df0_f000350",
+    "box_id": "f7f8b8c8-d6be-458e-a044-966159612618",
+    "clase_original": "ENVASE",
+    "estado": "PENDIENTE",
+    "clase_adjudicada": null,
+    "revisiones": 0
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "exact_duplicates_among_8502": [],
+  "public_visual_analysis_reused_after_hash_match": true,
+  "public_visual_candidate_groups": 571,
+  "cross_source_visual_groups_found": 0,
+  "visual_pairs_historical": 142922,
+  "visual_groups_crossing_original_splits": 447,
+  "filename_groups_crossing_original_splits": 1352,
+  "proposal_cross_group_violations": 0,
+  "human25_new_perceptual_comparison": false,
+  "warning": "SHA ?nico no demuestra objeto f?sico ?nico; grupos perceptuales son candidatos no duplicados confirmados"
+}

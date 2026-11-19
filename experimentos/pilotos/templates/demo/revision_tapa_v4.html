@@ -1,0 +1,44 @@
+{% extends 'demo/base.html' %}{% load static %}
+{% block titulo %}Revisión TAPA v4 · Calidad{% endblock %}
+{% block contenido %}
+<style>
+.revision-grid{display:grid;grid-template-columns:minmax(0,2fr) minmax(280px,1fr);gap:20px}.revision-grid>*{min-width:0}.lienzo-scroll{overflow:auto;background:#14202e;max-height:76vh}#lienzo{display:block;width:100%;height:auto;touch-action:none}.revision label{display:block;margin:10px 0}.revision input,.revision textarea,.revision select{max-width:100%;box-sizing:border-box}.revision textarea{width:100%}.caja-editor{border:1px solid #a9b5c5;border-radius:8px;padding:12px;margin:10px 0}.contexto img{max-width:100%;height:auto}.conflictos{display:flex;gap:8px;flex-wrap:wrap}.conflictos button{padding:10px;cursor:pointer}.aviso-guardado{position:sticky;top:0;background:#fff;padding:12px;z-index:2;border:1px solid #b6c5d7}#recorte{width:100%;height:auto;background:#14202e}.numeros{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:5px}.numeros input{width:100%}@media(max-width:900px){.revision-grid{grid-template-columns:1fr}}
+</style>
+<div class="hero"><div><p class="eyebrow">CALIDAD / TAPA / FASE 2.6</p><h1>Adjudicación final y exhaustividad</h1><p class="intro">Roboflow v4. Originales conservados. Toda decisión y caja nueva debe introducirla una persona.</p></div><span class="badge experimental">Entrenamiento bloqueado</span></div>
+<div class="nota"><strong>Alcance de la revisión</strong>Seleccione ENVASE, TAPA, NO EVALUABLE o PENDIENTE. Una boca o cuello no implica una tapa. Revise todas las tapas claramente visibles del fotograma, también las del fondo. No marque cobertura completa si quedan regiones u objetos dudosos. Esta revisión no certifica procedencia, independencia ni una segunda revisión.</div>
+<div class="nota"><strong>Exhaustividad: revisar también imágenes 38, 42 y 95</strong>En 24 y 38 aparecen tapas verdes al fondo sin cajas específicas. En 42 y 95 hay una tapa verde visible en la botella del lado izquierdo, mientras la única caja cap registrada está en otra región. Son observaciones técnicas, no cajas ni etiquetas nuevas. Las imágenes se seleccionan con los botones de conflicto o el selector. Si una caja de botella se adjudica como ENVASE, su tapa no queda anotada por ese cambio.</div>
+{{ datos|json_script:'revision-datos' }}
+<section class="card revision">
+<h2>Siete conflictos identificados</h2><div id="conflictos" class="conflictos"></div>
+<p><button type="button" id="abrir24" class="boton secundario">Revisar exhaustividad · imagen 24</button> <button type="button" id="abrir38" class="boton secundario">Escena relacionada · imagen 38</button></p>
+<label>Imagen original <select id="imagen-selector" aria-label="Seleccionar imagen de Roboflow v4"></select></label>
+<p id="identidad" class="small doc"></p><p id="estado-resumen"></p>
+<div id="mensaje" class="aviso-guardado" role="status" aria-live="polite">Sin cambios guardados en esta pantalla.</div>
+<div class="revision-grid"><section>
+<div class="acciones"><label>Ampliación <select id="zoom"><option value="fit">Ajustar</option><option value="1">100 %</option><option value="2">200 %</option></select></label><label><input type="checkbox" id="dibujar" {% if not puede_revisar %}disabled{% endif %}> Dibujar caja nueva manualmente</label></div>
+<p class="small">Amarillo: caja original. Verde: caja añadida por persona. Blanco: caja seleccionada. Las coordenadas originales permanecen fijas; no se corrigen automáticamente.</p>
+<div class="lienzo-scroll"><canvas id="lienzo" aria-label="Imagen original con cajas; arrastre para dibujar una caja nueva"></canvas></div>
+<p><a id="original-enlace" target="_blank" rel="noopener">Abrir imagen original sin cajas</a></p>
+<details class="contexto"><summary>Contexto con todas las anotaciones originales · auditoría existente</summary><img id="contexto" alt="Todas las cajas fuente, sin adjudicación automática"></details>
+<h3>Contexto ampliado de la caja seleccionada</h3><canvas id="recorte" aria-label="Recorte ampliado de la caja seleccionada"></canvas>
+</section><section>
+<h2>Decisiones sobre cajas originales</h2><p class="small">Sin selección explícita, la caja conserva su estado anterior. Las decisiones se aplican únicamente a la nueva copia experimental.</p>
+<div id="cajas-originales"></div>
+<h2>Cajas nuevas manuales</h2><p class="small">Dibuje cada caja o introdúzcala por coordenadas. Elija explícitamente clase, visibilidad y justificación. Para retirar una caja de una versión nueva, indique la razón general; las versiones anteriores se conservan.</p>
+{% if puede_revisar %}<button id="agregar-coordenadas" type="button">Añadir caja por coordenadas</button>{% endif %}
+<div id="cajas-nuevas"></div>
+</section></div>
+<form id="formulario">{% csrf_token %}<fieldset {% if not puede_revisar %}disabled{% endif %}>
+<legend>Registrar revisión humana</legend>
+<label>Exhaustividad de TAPAS en toda la imagen <select id="exhaustividad"><option value="PENDIENTE">PENDIENTE · sin confirmar</option><option value="INCOMPLETA">INCOMPLETA · faltan referencias</option><option value="NO_EVALUABLE">NO EVALUABLE · cobertura no verificable</option><option value="COMPLETA">COMPLETA · todas las tapas evaluables revisadas</option></select></label>
+<label>Autor real <input id="autor" required maxlength="120" autocomplete="off"></label>
+<label>Justificación / regiones dudosas / motivo de retirada de cajas <textarea id="justificacion" required maxlength="3000" rows="3"></textarea></label>
+<button class="boton" type="submit">Guardar nueva versión experimental</button>
+</fieldset></form>
+{% if not puede_revisar %}<p>Solo consulta: requiere permiso para modificar inspecciones de Calidad.</p>{% endif %}
+<h2>Historial de esta imagen</h2><div id="historial"></div>
+<h2>Última copia experimental</h2><div id="descargas"></div>
+<p class="small">Particiones e independencia pendientes. Las 25 referencias propias no se incorporan al entrenamiento. Ningún guardado autoriza entrenamiento automáticamente.</p>
+</section>
+<script src="{% static 'laboratorio/revision_tapa_v4.js' %}" defer></script>
+{% endblock %}

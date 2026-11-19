@@ -1,0 +1,51 @@
+{
+  "usuario": "piloto",
+  "contexto_aislado": true,
+  "formulario": {
+    "usuario": true,
+    "csrf": true,
+    "errores": null
+  },
+  "admin": {
+    "ruta": "/admin/",
+    "administrador": true,
+    "rechazo": null
+  },
+  "paginas": [
+    {
+      "solicitada": "/",
+      "ruta": "/",
+      "login": false,
+      "titulo": "Sistema de Inspección IA"
+    },
+    {
+      "solicitada": "/demo/epp/",
+      "ruta": "/demo/epp/",
+      "login": false,
+      "titulo": "Seguridad EPP · Inspección IA"
+    },
+    {
+      "solicitada": "/demo/calidad/",
+      "ruta": "/demo/calidad/",
+      "login": false,
+      "titulo": "Control de Calidad · Inspección IA"
+    },
+    {
+      "solicitada": "/demo/historial/",
+      "ruta": "/demo/historial/",
+      "login": false,
+      "titulo": "Historial · Inspección IA"
+    },
+    {
+      "solicitada": "/admin/",
+      "ruta": "/admin/",
+      "login": false,
+      "titulo": "Sitio administrativo | Sitio de administración de Django"
+    }
+  ],
+  "controles": {
+    "csrf_sin_token": 403,
+    "admin_sigue_accesible": 200
+  },
+  "ok": true
+}

@@ -1,0 +1,37 @@
+{
+  "imagenes": 12,
+  "cajas_TAPA_fuente": 12,
+  "grupos_completos": 6,
+  "grupos": [
+    "v4g05",
+    "v4g07",
+    "v4g09",
+    "v4g12",
+    "v4g13",
+    "v4g14"
+  ],
+  "asignacion_propuesta_nueva": {
+    "v4g05": "train",
+    "v4g07": "train",
+    "v4g09": "train",
+    "v4g12": "train",
+    "v4g13": "validation",
+    "v4g14": "test"
+  },
+  "particiones": {
+    "train": 8,
+    "validation": 2,
+    "test": 2
+  },
+  "grupos_por_particion": {
+    "train": 4,
+    "validation": 1,
+    "test": 1
+  },
+  "approved": false,
+  "autoriza_entrenamiento": false,
+  "candidatos_para_evaluacion_defendible_video": 0,
+  "motivo": "Seis motivos visuales con dos variantes cada uno; validación y prueba tendrían un solo motivo cada una, sin cobertura de tapas pequeñas ni escenas de producción.",
+  "trabajo_minimo": "Confirmar seis pares y su procedencia; conservar etiquetas originales si se confirman. No reanotar 262 imágenes.",
+  "candidatos_con_fondo_blanco": "Las alertas de brillo/global Laplaciano no equivalen automáticamente a exposición o foco defectuosos de la tapa."
+}

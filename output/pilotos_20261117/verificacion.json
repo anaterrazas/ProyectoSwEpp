@@ -1,0 +1,12 @@
+{
+  "pruebas_unicas_aprobadas": 50,
+  "pruebas_nuevas_repetidas_tras_ajustes": 10,
+  "tablas_modificadas_en_base_operativa": [
+    "sqlite_sequence",
+    "administracion_areatrabajo_equipos_obligatorios"
+  ],
+  "simulacion_epp": "/monitoreo/piloto/1/89dea6db-38f9-40e5-a538-f9e3f7e4c471/",
+  "calidad": "NO EVALUABLE",
+  "bytes_respaldo_duplicado_eliminados": 341357548,
+  "precision_recall_medido": false
+}

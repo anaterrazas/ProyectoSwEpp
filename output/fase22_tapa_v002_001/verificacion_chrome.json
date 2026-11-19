@@ -1,0 +1,34 @@
+{
+  "ruta": "/demo/calidad/adjudicacion/",
+  "casos": 7,
+  "imagenes": 14,
+  "rotas": 0,
+  "formularios": 7,
+  "decisiones_preseleccionadas": 0,
+  "csrf": 7,
+  "resumen": "0 ADJUDICADOS · 7 PENDIENTES",
+  "movil": {
+    "ancho": 390,
+    "contenido": 390
+  },
+  "paginas": [
+    {
+      "url": "/",
+      "status": 200
+    },
+    {
+      "url": "/demo/epp/",
+      "status": 200
+    },
+    {
+      "url": "/demo/calidad/",
+      "status": 200
+    },
+    {
+      "url": "/demo/historial/",
+      "status": 200
+    }
+  ],
+  "decisiones_guardadas_en_prueba_real": 0,
+  "ok": true
+}

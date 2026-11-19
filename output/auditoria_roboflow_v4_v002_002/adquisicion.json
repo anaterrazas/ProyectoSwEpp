@@ -1,0 +1,15 @@
+{
+  "method": "user_supplied_official_export",
+  "source_path": "pruebas_ia/Bottle Defect Detection.v4i.coco.zip",
+  "archive_sha256": "1ee2254353fd3323c03154e878c31924dbafa03ae0df751763b6e85a43f7dc70",
+  "source_version": 4,
+  "license": "CC-BY-4.0",
+  "identity_evidence": [
+    "extracted/README.dataset.txt",
+    "extracted/README.roboflow.txt"
+  ],
+  "official_url": "https://universe.roboflow.com/spark-intelligence-scqhh/bottle-defect-detection/dataset/4",
+  "members": 266,
+  "uncompressed_bytes": 22388595,
+  "original_archive_preserved": true
+}

@@ -1,0 +1,30 @@
+{
+  "autor": "Ana",
+  "justificacion": "La botella presenta una tapa azul claramente visible y colocada. La región de la tapa puede evaluarse sin dificultad.",
+  "decisiones": [
+    {
+      "annotation_id": 567,
+      "clase": "ENVASE",
+      "visibilidad": "TOTAL",
+      "justificacion": "La caja original muestra el cuerpo de la botella que esta tapada con una tapa azul. Se reclasifica como ENVASE",
+      "clase_original": "cap",
+      "bbox_original": [
+        168,
+        63,
+        101.88,
+        442.06
+      ]
+    }
+  ],
+  "nuevas_cajas": [],
+  "exhaustividad": "COMPLETA",
+  "image_id": 165,
+  "imagen_sha256": "afaa5a58dd7917b9788b463663cddd66c96897f7eecf0b033533928e5a6d24f1",
+  "revision_global": 8,
+  "hash_decision_anterior": "f58d79e925e91590b611bb81f007d75f1d4c51da69a7066edc312629c66b8513",
+  "cuenta_usuario": "piloto",
+  "fecha_utc": "2026-11-18T21:56:41.898086+00:00",
+  "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+  "tipo": "REVISION_HUMANA_DECLARADA",
+  "segunda_revision_independiente": "NO_ACREDITADA"
+}

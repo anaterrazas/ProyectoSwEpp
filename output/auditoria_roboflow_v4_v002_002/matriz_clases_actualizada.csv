@@ -1,0 +1,6 @@
+﻿clase_fuente_v4,cajas_raw,imagenes_raw,cajas_en_subset_generico256,interpretacion,estado
+not-crumbled,203,140,191,ENVASE candidato; no conformidad global,PENDIENTE_APROBACION_DE_MAPEO
+label,266,228,251,Etiqueta del envase; no RAYADURA,PENDIENTE_APROBACION_DE_MAPEO
+cap,180,114,166,TAPA f?sica candidata; no asegura colocaci?n correcta,PENDIENTE_APROBACION_DE_MAPEO
+no-cap,146,144,146,Cuello/regi?n sin tapa; no bbox TAPA,PENDIENTE_APROBACION_DE_MAPEO
+crumbled,120,120,120,ENVASE deformado candidato; no parche DENT,PENDIENTE_APROBACION_DE_MAPEO

@@ -1,0 +1,19 @@
+{
+  "images": 262,
+  "cap_images": 114,
+  "cap_boxes": 180,
+  "confirmed_box_errors": 4,
+  "semantic_suspects": 3,
+  "cap_boxes_under_16px_at_640": 31,
+  "border_flags": 10,
+  "groups": 14,
+  "human_visibility_counts": null,
+  "proposed_partition_counts": {
+    "train": 173,
+    "test": 41,
+    "validation": 25,
+    "PENDIENTE": 23
+  },
+  "image24_cap_boxes": 1,
+  "checks": "PASS: hashes 262, 180 cajas originales, 14 grupos indivisibles, sin negativos inventados, referencia propia excluida"
+}

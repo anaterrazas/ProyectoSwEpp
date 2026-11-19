@@ -1,0 +1,114 @@
+[
+  {
+    "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+    "box_id": "011cc367-0a4f-4dae-b3e3-414a0f0e6e95",
+    "clase_guardada": "ENVASE",
+    "nota_humana": "tapa roja",
+    "bbox_xyxy": [
+      633.9881009178334,
+      0,
+      786.7242450891142,
+      98.10179315964241
+    ],
+    "autor_original": "ana",
+    "revision_original": 4,
+    "fecha_original": "2026-11-17T05:03:28.122879+00:00",
+    "revision_sha256": "52ea8a256db60d8cbb2ab6a417ae1ab4fade15eb6fcb81d6e1a573047654f053"
+  },
+  {
+    "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+    "box_id": "40004408-7538-4504-96be-18326d359f3b",
+    "clase_guardada": "ENVASE",
+    "nota_humana": "tapa roja",
+    "bbox_xyxy": [
+      779.2126765370077,
+      41.764173249680866,
+      914.4217357255285,
+      109.36931628199093
+    ],
+    "autor_original": "ana",
+    "revision_original": 2,
+    "fecha_original": "2026-11-17T05:04:46.913721+00:00",
+    "revision_sha256": "1b2b2db95947ebe1fc2e37e1b3d6a89c88073e833d9d539191affd8c6780a3c1"
+  },
+  {
+    "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+    "box_id": "50478c3f-aa0c-4659-af31-5028d57adc44",
+    "clase_guardada": "ENVASE",
+    "nota_humana": "tapa roja suelta",
+    "bbox_xyxy": [
+      1536.0851525648275,
+      830.3763695690784,
+      1680.8623476244895,
+      955.0873601996204
+    ],
+    "autor_original": "ana",
+    "revision_original": 2,
+    "fecha_original": "2026-11-17T05:05:55.819833+00:00",
+    "revision_sha256": "6044849c471f2d4c1f220336a8db2d180b80392aad0a1af9b632a7d253f3bff3"
+  },
+  {
+    "sample_id": "vid_8a2b94bcf49a24212a443df0_f000100",
+    "box_id": "ce00f4be-3086-4e9f-a0fc-68a324a97b27",
+    "clase_guardada": "ENVASE",
+    "nota_humana": "tapa amarilla",
+    "bbox_xyxy": [
+      1016.4117188616427,
+      350.9885941788447,
+      1260.0961268558056,
+      536.3827168540879
+    ],
+    "autor_original": "ana",
+    "revision_original": 2,
+    "fecha_original": "2026-11-17T05:07:40.879400+00:00",
+    "revision_sha256": "445aa35dd456530bd8a37a257d87ea0ce082aa63b768659cd3ee4162525ce0e5"
+  },
+  {
+    "sample_id": "vid_8a2b94bcf49a24212a443df0_f000250",
+    "box_id": "4bacdeaa-1c24-49d7-9e8a-24627c32c6b2",
+    "clase_guardada": "ENVASE",
+    "nota_humana": "tapa amarilla",
+    "bbox_xyxy": [
+      522.3536125020154,
+      276.44868129625564,
+      730.6798928703096,
+      498.15711564574366
+    ],
+    "autor_original": "ana",
+    "revision_original": 2,
+    "fecha_original": "2026-11-17T05:08:06.110320+00:00",
+    "revision_sha256": "b011d8490a24d2eaeee744a0876eadf2fbb3c98361d03fd3282d86c8400a409d"
+  },
+  {
+    "sample_id": "vid_8a2b94bcf49a24212a443df0_f000300",
+    "box_id": "828408df-22d5-4bb1-b712-427c230eea56",
+    "clase_guardada": "ENVASE",
+    "nota_humana": "tapa amarilla",
+    "bbox_xyxy": [
+      511.84171863218637,
+      280.27124560027437,
+      676.2092595687782,
+      505.80224425378117
+    ],
+    "autor_original": "ana",
+    "revision_original": 2,
+    "fecha_original": "2026-11-17T05:08:16.209840+00:00",
+    "revision_sha256": "1ed8a8de32a023b76e944f2b611cc29c5c5f476fcf131acb05126bc9d83876f5"
+  },
+  {
+    "sample_id": "vid_8a2b94bcf49a24212a443df0_f000350",
+    "box_id": "f7f8b8c8-d6be-458e-a044-966159612618",
+    "clase_guardada": "ENVASE",
+    "nota_humana": "tapa amarilla",
+    "bbox_xyxy": [
+      495.5960966819804,
+      289.8276538996246,
+      726.8573287423187,
+      512.491724403724
+    ],
+    "autor_original": "ana",
+    "revision_original": 3,
+    "fecha_original": "2026-11-17T05:08:41.771873+00:00",
+    "revision_sha256": "afdd4d7162b07e297ab3c82cdbaa741dd20fce71f32eaa217c0aca594beecf5f"
+  }
+]

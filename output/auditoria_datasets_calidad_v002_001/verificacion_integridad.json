@@ -1,0 +1,17 @@
+{
+  "archivos_protegidos_intactos": 26361,
+  "alterados": [],
+  "imagenes_canonicas_reverificadas": 8502,
+  "imagenes_publicas": 8477,
+  "imagenes_humanas": 25,
+  "archivos_anotaciones_publicas_verificados": 7910,
+  "cajas_publicas_verificadas": 29019,
+  "cajas_humanas_conservadas": 244,
+  "duplicados_exactos_canonicos": 0,
+  "grupos_propuestos_sin_cruces": 202,
+  "split_aprobado": false,
+  "roboflow_v4_imagenes_locales": 0,
+  "entrenamientos": 0,
+  "inferencias": 0,
+  "codigo_operativo_modificado": false
+}

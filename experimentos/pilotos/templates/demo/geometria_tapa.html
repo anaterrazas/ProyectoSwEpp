@@ -1,0 +1,29 @@
+{% extends 'demo/base.html' %}{% load static %}
+{% block titulo %}Geometría TAPA · revisión humana{% endblock %}
+{% block contenido %}
+<style>.edicion-grid{display:grid;grid-template-columns:minmax(0,2fr) minmax(270px,1fr);gap:20px}.edicion-grid>*{min-width:0}#visor{overflow:auto;background:#121b28;max-height:75vh}#canvas{display:block;width:100%;height:auto;touch-action:none}.geometria fieldset{min-width:0}.geometria label{display:block;margin:12px 0}.geometria input,.geometria select,.geometria textarea{max-width:100%;box-sizing:border-box}.coordenadas{display:grid;grid-template-columns:1fr 1fr;gap:10px}.coordenadas input{width:100%}#mensaje{padding:12px;background:#eef4ff;position:sticky;top:0;z-index:2}.geometria textarea{width:100%}@media(max-width:900px){.edicion-grid{grid-template-columns:1fr}}</style>
+<div class="hero"><div><p class="eyebrow">CALIDAD / TAPA / GEOMETRÍA OFICIAL v1</p><h1>Ajuste humano de cajas</h1><p class="intro">272 ROI v26 y 12 imágenes de reserva v4. La auditoría técnica y las decisiones humanas permanecen separadas.</p></div><span class="badge experimental">Entrenamiento bloqueado</span></div>
+<div class="nota"><strong>Convención confirmada</strong>Toda la tapa visible y su anillo de seguridad unido. Excluir cuello, rosca y cuerpo del envase. No extrapolar bordes ocultos ni incluir un anillo suelto. La caja rectangular puede contener espacios inevitables en una vista inclinada; no se extiende para abarcar la brida del cuello.</div>
+{{ datos|json_script:'geometria-datos' }}
+<section class="card geometria">
+<style>.geometria label{min-width:0;max-width:100%}.geometria .acciones>label{min-width:0;max-width:100%}#caso{width:100%}</style>
+<div class="acciones"><label>Cola <select id="filtro"><option value="TODOS">Todos los casos</option><option>REQUIERE AJUSTE HUMANO</option><option>CONSERVAR</option><option>NO EVALUABLE</option><option value="SIN_DECISION">Sin decisión humana</option></select></label><label>Caso <select id="caso" aria-label="Caso de geometría"></select></label></div>
+<p id="identidad" class="small doc"></p><p id="auditoria"></p><p id="progreso"></p><p id="mensaje" role="status" aria-live="polite"></p>
+<div class="edicion-grid"><section>
+<div class="acciones"><label>Vista <select id="vista"><option value="contexto">Contexto de la ROI fuente</option><option value="completa">Imagen completa</option></select></label><label>Zoom <select id="zoom"><option value="fit">Ajustar</option><option value="1">100 %</option><option value="2">200 %</option></select></label><label><input id="dibujar" type="checkbox" {% if not puede_revisar %}disabled{% endif %}> Dibujar caja manual</label></div>
+<div id="visor"><canvas id="canvas" aria-label="Dibujar rectángulo manual sobre imagen original"></canvas></div>
+<p class="small">Amarillo: original. Verde: caja de trabajo. La vista y el zoom no cambian coordenadas de referencia.</p><a id="original" target="_blank" rel="noopener">Abrir original sin superposiciones</a>
+</section><section><form id="formulario">{% csrf_token %}<fieldset {% if not puede_revisar %}disabled{% endif %}>
+<legend>Decisión humana explícita</legend>
+<label>Decisión <select id="decision" required><option value="">Seleccione</option><option>CONSERVAR</option><option value="AJUSTADA">Guardar ajuste manual</option><option value="NO_EVALUABLE">NO EVALUABLE</option><option>PENDIENTE</option></select></label>
+<div class="coordenadas"><label>x1 <input id="x1" type="number" step="any"></label><label>y1 <input id="y1" type="number" step="any"></label><label>x2 <input id="x2" type="number" step="any"></label><label>y2 <input id="y2" type="number" step="any"></label></div>
+<button type="button" id="restaurar">Restaurar caja original en el borrador</button>
+<label>Visibilidad <select id="visibilidad" required><option value="">Seleccione</option><option>TOTAL</option><option>PARCIAL</option><option>OCLUIDA</option><option>DUDOSA</option><option value="NO_EVALUABLE">NO EVALUABLE</option></select></label>
+<label>Autor real <input id="autor" required maxlength="120" autocomplete="off"></label><label>Justificación <textarea id="justificacion" required rows="3" maxlength="3000"></textarea></label>
+<label><input id="confirmar" type="checkbox" required> Confirmo la revisión conforme al protocolo TAPA v1.</label>
+<button class="boton" type="submit">Guardar nueva revisión</button>
+</fieldset></form>{% if not puede_revisar %}<p>Solo consulta: se requiere permiso de modificación de Calidad para guardar.</p>{% endif %}</section></div>
+<h2>Historial del caso</h2><div id="historial"></div><p><a href="{% url 'tapa_geometria_exportar' %}">Descargar copia experimental con decisiones persistidas</a></p><p class="small">No se cambian RAW, anotaciones anteriores ni particiones originales. El guardado no autoriza entrenamiento ni acredita un test independiente.</p>
+</section>
+<script src="{% static 'laboratorio/geometria_tapa.js' %}" defer></script>
+{% endblock %}

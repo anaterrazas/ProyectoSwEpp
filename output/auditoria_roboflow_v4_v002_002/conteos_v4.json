@@ -1,0 +1,38 @@
+{
+  "images": 262,
+  "boxes": 915,
+  "classes_images": {
+    "cap": 114,
+    "not-crumbled": 140,
+    "label": 228,
+    "no-cap": 144,
+    "crumbled": 120
+  },
+  "classes_boxes": {
+    "not-crumbled": 203,
+    "label": 266,
+    "cap": 180,
+    "no-cap": 146,
+    "crumbled": 120
+  },
+  "images_quarantined": 6,
+  "images_valid_geometry": 256,
+  "boxes_valid_image_subset": {
+    "not-crumbled": 191,
+    "label": 251,
+    "cap": 166,
+    "no-cap": 146,
+    "crumbled": 120
+  },
+  "duplicate_exact_within": [],
+  "duplicate_exact_existing": [],
+  "filename_first_digit_proxy": {
+    "1": 61,
+    "v": 155,
+    "0": 25,
+    "6": 4,
+    "5": 2,
+    "2": 9,
+    "8": 6
+  }
+}

@@ -8,7 +8,20 @@ db.sqlite3
 media/
 db_backup_20261114_132122_132137.sqlite3
 db_backup_20261114_140925.sqlite3
-datasets
+# Datos y resultados locales; conservar visible el código de investigación.
+datasets/**
+!datasets/calidad_botellas/
+!datasets/calidad_botellas/v002/
+!datasets/calidad_botellas/v002/tools/
+!datasets/calidad_botellas/v002/tools/*.py
+!datasets/calidad_botellas/v002/experiments/
+!datasets/calidad_botellas/v002/experiments/*/
+!datasets/calidad_botellas/v002/experiments/*/*.py
+!datasets/calidad_botellas/v002/experiments/*/*.md
+output/tests/
+output/experimental_pilotos/
+output/playwright/lab-profile/
+output/pilotos_*/*.sqlite3
 pruebas_ia/*.mp4
 Modelos/
 pruebas_ia/resultados_preformas/

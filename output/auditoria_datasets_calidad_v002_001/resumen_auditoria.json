@@ -1,0 +1,113 @@
+{
+  "source_statistics": {
+    "mendeley_kthmmbsh8t_v1": {
+      "images": 7907,
+      "bbox_instances": 28413,
+      "images_by_source_class": {
+        "tear_marg": 437,
+        "tear_unacc": 396,
+        "adhesion_unacc": 671,
+        "dent_unacc": 1164,
+        "scuff_marg": 1265,
+        "pob_marg": 524,
+        "scuff_unacc": 1311,
+        "adhesion_marg": 395,
+        "pob_unacc": 524,
+        "dent_marg": 1225
+      },
+      "boxes_by_source_class": {
+        "tear_marg": 711,
+        "tear_unacc": 553,
+        "adhesion_unacc": 1552,
+        "dent_unacc": 3706,
+        "scuff_marg": 4616,
+        "pob_marg": 2971,
+        "scuff_unacc": 6277,
+        "adhesion_marg": 749,
+        "pob_unacc": 2955,
+        "dent_marg": 4323
+      },
+      "raw_images_rechecked": 7907,
+      "all_imported_image_hashes_match": true
+    },
+    "roboflow_caps_v26": {
+      "images": 570,
+      "bbox_instances": 606,
+      "images_by_source_class": {
+        "No Cap": 162,
+        "Broken Cap": 54,
+        "Good Cap": 218,
+        "Loose Cap": 124,
+        "Broken Ring": 47
+      },
+      "boxes_by_source_class": {
+        "No Cap": 162,
+        "Broken Cap": 54,
+        "Good Cap": 218,
+        "Loose Cap": 124,
+        "Broken Ring": 48
+      },
+      "raw_images_rechecked": 570,
+      "all_imported_image_hashes_match": true
+    }
+  },
+  "experimental_25": {
+    "images": 25,
+    "boxes": {
+      "ENVASE": 101,
+      "TAPA": 143
+    },
+    "video_rights": "PENDIENTES_NO_MEZCLAR"
+  },
+  "canonical_images_public": 8477,
+  "canonical_images_with_human_frames": 8502,
+  "unique_sha256": 8502,
+  "exact_duplicate_groups": [],
+  "annotations_files_rehashed": 7910,
+  "roboflow_capture_days_filename_proxy": {
+    "20220705": {
+      "images": 82,
+      "No Cap": 82
+    },
+    "20220701": {
+      "images": 204,
+      "Broken Cap": 25,
+      "Loose Cap": 66,
+      "Good Cap": 112,
+      "Broken Ring": 20
+    },
+    "20220704": {
+      "images": 281,
+      "Good Cap": 106,
+      "Loose Cap": 55,
+      "No Cap": 80,
+      "Broken Ring": 28,
+      "Broken Cap": 29
+    },
+    "20220713": {
+      "images": 3,
+      "Loose Cap": 3
+    }
+  },
+  "proposal_counts": {
+    "train": 5816,
+    "test": 1390,
+    "validation": 1271
+  },
+  "proposal_counts_by_source": {
+    "mendeley_kthmmbsh8t_v1": {
+      "train": 5535,
+      "test": 1186,
+      "validation": 1186
+    },
+    "roboflow_caps_v26": {
+      "validation": 85,
+      "test": 204,
+      "train": 281
+    }
+  },
+  "origin_groups": 202,
+  "group_cross_partition_violations": 0,
+  "roboflow_v4_downloaded": false,
+  "training_approved": false
+}

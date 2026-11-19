@@ -1,0 +1,57 @@
+[
+  {
+    "nombre": "produccion.mp4",
+    "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+    "frames_cabecera": 434,
+    "fps_nominal": 50.0,
+    "ancho": 1280,
+    "alto": 720,
+    "duracion_nominal_s": 8.68,
+    "fecha_archivo_utc_no_captura": 1794630067.1629686,
+    "tags_exportados_ffmpeg_no_prueba_encoder_original": ";FFMETADATA1\nmajor_brand=mp42\nminor_version=0\ncompatible_brands=mp42mp41isomavc1\ncreation_time=2021-12-02T01:00:58.000000Z\nencoder=Lavf63.1.102\n"
+  },
+  {
+    "nombre": "prueba2.mp4",
+    "sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+    "frames_cabecera": 406,
+    "fps_nominal": 29.97002997002997,
+    "ancho": 1920,
+    "alto": 1080,
+    "duracion_nominal_s": 13.546866666666666,
+    "fecha_archivo_utc_no_captura": 1794838922.7203224,
+    "tags_exportados_ffmpeg_no_prueba_encoder_original": ";FFMETADATA1\nmajor_brand=mp42\nminor_version=0\ncompatible_brands=mp42mp41isomavc1\ncreation_time=2020-10-02T18:51:58.000000Z\nencoder=Lavf63.1.102\n"
+  },
+  {
+    "nombre": "tapas.mp4",
+    "sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+    "frames_cabecera": 450,
+    "fps_nominal": 50.0,
+    "ancho": 1280,
+    "alto": 720,
+    "duracion_nominal_s": 9.0,
+    "fecha_archivo_utc_no_captura": 1794839444.7543614,
+    "tags_exportados_ffmpeg_no_prueba_encoder_original": ";FFMETADATA1\nmajor_brand=mp42\nminor_version=0\ncompatible_brands=mp42mp41isomavc1\ncreation_time=2021-12-02T01:01:40.000000Z\nencoder=Lavf63.1.102\n"
+  },
+  {
+    "nombre": "botellasSinTapa.mp4",
+    "sha256": "5ca43d2cd97a8972211c98afc1bb8391d6ad9340cc3badd9c8a0783b870588a5",
+    "frames_cabecera": 399,
+    "fps_nominal": 25.0,
+    "ancho": 768,
+    "alto": 432,
+    "duracion_nominal_s": 15.96,
+    "fecha_archivo_utc_no_captura": 1794839302.6486142,
+    "tags_exportados_ffmpeg_no_prueba_encoder_original": ";FFMETADATA1\nmajor_brand=isom\nminor_version=512\ncompatible_brands=isomiso2avc1mp41\ncopyright='This video is subject to copyright.'\nencoder=Lavf63.1.102\n"
+  },
+  {
+    "nombre": "produccion_prueba_02.mp4",
+    "sha256": "8f35e32d5a6c862be820107fe9ca8dca67da8424c9b35a735df8108a18df4fe9",
+    "frames_cabecera": 1017,
+    "fps_nominal": 29.97002997002997,
+    "ancho": 3840,
+    "alto": 2160,
+    "duracion_nominal_s": 33.9339,
+    "fecha_archivo_utc_no_captura": 1794635691.14239,
+    "tags_exportados_ffmpeg_no_prueba_encoder_original": ";FFMETADATA1\nmajor_brand=mp42\nminor_version=0\ncompatible_brands=mp42mp41isomavc1\ncreation_time=2020-04-17T13:45:30.000000Z\nencoder=Lavf63.1.102\n"
+  }
+]

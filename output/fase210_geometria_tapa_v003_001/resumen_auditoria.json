@@ -1,0 +1,22 @@
+{
+  "v26": {
+    "REQUIERE AJUSTE HUMANO": 268,
+    "CONSERVAR": 4
+  },
+  "v26_total": 272,
+  "conservar_indices": [
+    54,
+    147,
+    224,
+    238
+  ],
+  "no_evaluables_v26": 0,
+  "reserva_v4_total": 12,
+  "reserva_v4_status": "REQUIERE_REVISION_MANUAL_LIMITE_SEGUN_NUEVA_CONVENCION",
+  "tipo": "AUDITORIA_TECNICA_PROVISIONAL_NO_NUEVAS_DECISIONES_HUMANAS",
+  "coordenadas_modificadas": 0,
+  "protocolo": "docs/PROTOCOLO_TAPA_GEOMETRIA_v1.md",
+  "protocolo_sha256": "0a351469054b5cc036a8588ac7553f102748e0443c9c19514283dcd6550fdfe7",
+  "entrenamiento_autorizado": false,
+  "estado": "NO_PREPARADO_AJUSTES_Y_TEST_PENDIENTES"
+}

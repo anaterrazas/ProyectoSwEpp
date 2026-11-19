@@ -1,0 +1,1109 @@
+{
+  "origen": "Atributos humanos existentes, agrupaci?n derivada; no nueva adjudicaci?n",
+  "prioridad": "NO_EVALUABLE > OCLUIDA > PARCIALMENTE_VISIBLE > TOTALMENTE_VISIBLE; desconocidos a DUDOSA",
+  "conteos": {
+    "TOTALMENTE_VISIBLE": 1,
+    "PARCIALMENTE_VISIBLE": 127,
+    "OCLUIDA": 8,
+    "NO_EVALUABLE": 0,
+    "DUDOSA": 0
+  },
+  "grupos": {
+    "TOTALMENTE_VISIBLE": [
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000000",
+        "box_id": "aca7f52f-5d91-4b8a-9ff5-455381246256",
+        "partial_original": false,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      }
+    ],
+    "PARCIALMENTE_VISIBLE": [
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000000",
+        "box_id": "07d84ec8-b8bd-4b42-8fae-7d0475462868",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000000",
+        "box_id": "8b32389e-008f-4c05-bb3b-9fe24de26c48",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000030",
+        "box_id": "500a26f6-449b-4fde-9b3e-babcf303326b",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000030",
+        "box_id": "345c85ed-1e08-4ff3-b3f1-dbae2f05ec90",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000030",
+        "box_id": "e70bbd18-0f26-4493-8490-fb7daa747bd8",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000030",
+        "box_id": "868fe60c-e2f4-4aff-9fc7-f25219fd9b93",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000060",
+        "box_id": "126c60f7-40c5-4b4b-81cc-f7ae81196789",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000060",
+        "box_id": "80472e13-c4f2-475c-a1fb-b9cd0532815b",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000060",
+        "box_id": "823843cb-1c22-45bf-8f82-f05927f4cd89",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000060",
+        "box_id": "c4829842-5e15-4024-a142-c2ecc3c82448",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000090",
+        "box_id": "88015e43-ea15-4354-9a09-7b6cdd1269a8",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000090",
+        "box_id": "d5f64e63-f51f-4943-a1b9-df91b5b96e90",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000090",
+        "box_id": "98459fff-27f7-4ae6-9632-5b9a2ab45c93",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000090",
+        "box_id": "ab7e9ee1-a93c-427b-81aa-d1df99ca24cd",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000090",
+        "box_id": "f8b37658-383d-43b4-9d63-6cfcd9dc5396",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+        "box_id": "e984349c-bb13-419d-81cf-88685ad1d4aa",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+        "box_id": "51ad9cc5-3394-430e-9f7a-aacfa247c7d1",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+        "box_id": "550c1390-1b44-45d1-a094-1882ea99d697",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+        "box_id": "18a977e0-b0ba-4a3c-9aa3-136921cb54e6",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+        "box_id": "a2e47c10-5b3b-4dc1-8842-8e7e330028a9",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+        "box_id": "13bacab5-e70b-456f-b1e5-e47b7be7134c",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+        "box_id": "7b522dee-3fff-4ac2-afaf-0823619d1329",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+        "box_id": "80622f70-866a-4366-960f-816677acaa0b",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+        "box_id": "9014c449-534f-44ef-a998-6aa1584dce29",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+        "box_id": "507a46e8-7f12-4fed-8562-f8b54d7a35a0",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+        "box_id": "f22fdbc6-b264-4f94-b26f-7d3841696038",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+        "box_id": "05fe6f8c-e27e-4c86-800c-5267a5dc76cc",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+        "box_id": "17d66e30-2f97-4011-9761-afcb60423555",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+        "box_id": "0a4f6f2f-4cf0-454f-b406-a4240a9766f1",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+        "box_id": "53a3372c-2845-484a-987e-85179bf3a66e",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+        "box_id": "b2f1a3ba-ce57-4442-aa3f-834edf0005ed",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+        "box_id": "1a1d9095-e7c9-4e95-bdc1-2f7eb577f6b3",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+        "box_id": "55770c91-c461-47c8-9714-d77f91981b6a",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+        "box_id": "469f7dd1-2e06-48ab-a0ab-4a805f1ef21f",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+        "box_id": "11cc4693-2a2a-4b39-bbd8-ae7bbee77d59",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+        "box_id": "46098f96-c1c6-43bd-acef-9c2a6827b34c",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+        "box_id": "fb9e6d1b-88ad-430d-bb2c-5687e39a0856",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+        "box_id": "8207f728-0690-4ccd-9441-00d344b5f717",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+        "box_id": "a29b0a9b-093d-473e-be1b-0c87fb0c1f30",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+        "box_id": "c2adc32e-9dd5-4380-ab8e-cc915ecd7c19",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+        "box_id": "6f6068e0-8d98-494b-b865-1b605f438b23",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+        "box_id": "76922072-844b-445b-a887-f75625a4d0a8",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+        "box_id": "8f8feede-55b7-4d4d-86e0-e60962de43fa",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+        "box_id": "8b18f7df-4cb5-48d1-af84-3e24d5c6168d",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+        "box_id": "e726fdcb-5001-41ba-a0b0-ce2f1bfc4f8a",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+        "box_id": "2acce4ae-67aa-422b-9eb5-71bea58ca24d",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+        "box_id": "3f1df3c9-e8e5-47d4-ab75-f846eeb7c7d4",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+        "box_id": "b9c62a69-dd4e-4b2e-8d3a-5d9224da6c1b",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+        "box_id": "5b49478a-6350-4b55-bb80-17a30078f39f",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+        "box_id": "7a775ad9-b373-41ce-8ba5-9aed83b8605e",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+        "box_id": "fd394b66-4ab3-4c56-a88c-4cea9bb23582",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+        "box_id": "e787fbb5-1a53-4c90-8c37-241db8172563",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+        "box_id": "cbaffa56-be3c-4d10-b8de-f42e52bc57d8",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+        "box_id": "53c02027-1efe-43fb-b181-59186d6f4e9f",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+        "box_id": "1a7986be-3ff2-478e-a2c1-81d10fdb4a03",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+        "box_id": "fe4a33bf-4c94-437a-8c35-8ccf6bb048d0",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+        "box_id": "4db404cb-0bcd-4c2d-8eb2-4d4bd97909ac",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+        "box_id": "98609d1c-d22f-4089-9e09-2a4c56df6a70",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+        "box_id": "6e17f0ac-cd0a-4147-981d-c77efea403b7",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+        "box_id": "64163a7b-cc37-44c3-8a10-d92b4f5c0a5c",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+        "box_id": "da2d0508-9823-4ce9-aeaf-c34e5e761472",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+        "box_id": "13e34dca-fdb5-4bbc-9481-829bf1f79e9b",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+        "box_id": "6091534c-32b9-4738-87bc-3ecf53f71623",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+        "box_id": "584ee0bb-19d7-411a-aa34-35f270d4623a",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+        "box_id": "cfcfdae5-f000-4ec1-82ab-504c721c8561",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+        "box_id": "25ed90d2-f60f-4333-8025-fcc257baf584",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+        "box_id": "006db1b8-4ba9-4a06-ac64-f698a68a6620",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+        "box_id": "4ac0be73-f95a-4224-a0ca-24435ba78683",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+        "box_id": "fdb485e4-010d-469a-9f43-9a1a7311c390",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+        "box_id": "67d83e7d-a114-48c2-9abb-2ea0145fd19d",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+        "box_id": "e6080993-cbfc-4044-bd09-1cdb837efea6",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+        "box_id": "dbb1d3cc-2cf3-4db5-8958-a78e4f7c89f2",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+        "box_id": "470f2d53-4391-4878-ab0e-5df01f42d81c",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+        "box_id": "61691fd6-ed1b-4995-b53c-13b57331a95c",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+        "box_id": "ae201e2f-324c-4209-ad29-282f545f660a",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+        "box_id": "faff551e-bf7d-4890-8e9e-2f1ad519d567",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+        "box_id": "bdc3228a-1929-43f4-9358-04c6c09cd08b",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+        "box_id": "bb580ab0-0663-428c-a18b-6dff02e43584",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+        "box_id": "406a6ebb-cfc8-4fef-af17-54157aa09fe5",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+        "box_id": "a5601f51-d74c-42d4-a777-725653b35fe6",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+        "box_id": "e1ccd715-24fd-4afb-a6da-86528a49819a",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+        "box_id": "85c2b6dc-d036-41ac-8c62-222f218538e2",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+        "box_id": "db409b7b-6e18-44c7-a04b-84ccc9a49259",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+        "box_id": "2b30dc30-85ee-4e96-aa2f-18976092acc7",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+        "box_id": "12b3b2bf-270b-4bdc-a640-42396135b3e6",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+        "box_id": "f4c0b07a-4593-4f08-b428-08319834bbd9",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+        "box_id": "6946c0c0-882a-4bb7-81fa-fff1bee8e834",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+        "box_id": "605f8cec-d3d8-41d3-bd42-4eb45886c661",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+        "box_id": "6e4d4ba9-2987-42cf-a6a0-541a21a525a2",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+        "box_id": "e02b4253-c973-4a66-9857-81a20434a501",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+        "box_id": "b08e7548-e05a-40eb-abb8-ce5c2c0d405a",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+        "box_id": "f60ddf8a-bd0c-425b-84f0-b2ac701e9740",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+        "box_id": "1f3595b0-4676-4b66-a257-f92599080829",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+        "box_id": "c9471d2e-6cc1-4b66-b943-1a25515ae19a",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+        "box_id": "5fff0a1b-716f-4a70-b875-d1b516d2b63b",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+        "box_id": "4b2f86c4-aff6-442b-afd6-c538731e737c",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+        "box_id": "be6a841c-cae9-4964-9ebc-a21a4d5a59bb",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+        "box_id": "6e9b5b30-3942-489f-83ba-1bde0e7361a4",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+        "box_id": "1f11dcf4-a593-4f87-9086-b63f2c49e48b",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+        "box_id": "1caaadb0-ce67-4c65-b64b-98c1f465a49e",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+        "box_id": "bd224d34-46d0-4168-b9fd-4a04b9657af6",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+        "box_id": "bafe254a-4294-4285-8e6d-31ff1795a751",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+        "box_id": "d13f929d-ac61-4494-a3b2-adf8227b30d4",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+        "box_id": "72cda2d4-cde3-4f87-a524-0460dd85df54",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+        "box_id": "3498dbba-9b31-4b47-ab71-78949b83dbef",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+        "box_id": "d8b392ba-e929-443f-9ffa-6e2178a5a532",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+        "box_id": "d90334dc-740b-4085-bb68-9ec4e242f1d8",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+        "box_id": "53ca3bc6-dec8-488f-9ca8-3a3a96b3ee87",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+        "box_id": "80152cd1-9e3b-4e64-8d3c-4c1642522d9d",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+        "box_id": "b2f1ec45-92a2-4f0e-8cec-f6dd4a61c5bf",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+        "box_id": "7e4bd965-2cfe-4703-b66b-8a7c10abf69e",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+        "box_id": "14f217c4-208f-49cd-9b2c-f9c789b19ec3",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+        "box_id": "d10c4626-ff49-47cf-a151-b7d557cac83d",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+        "box_id": "a4993f81-f0e0-4977-b9a2-644bf80ce49e",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+        "box_id": "7cfc557c-9adc-4187-bdc8-1085c506803d",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+        "box_id": "0ed0550b-cefc-4ac6-a145-3a435d67887e",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+        "box_id": "41f0ad10-3af3-49f7-9446-989f106f7f3a",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+        "box_id": "aae7d50c-daa6-42a2-8913-f2710f088c91",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+        "box_id": "8a5b0637-168f-49d3-84db-b5e22ae79fac",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000000",
+        "box_id": "691d5728-ffc7-43b1-90fc-769a9ad28d6d",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": true
+      },
+      {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000050",
+        "box_id": "e0bfc8f9-50e0-4aaf-9ef6-9f2c56d65764",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": true
+      },
+      {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000150",
+        "box_id": "0ebe1c50-bb74-41f6-9ec3-2bc76c8dee6e",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": true
+      },
+      {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000200",
+        "box_id": "98ca5ec3-502a-4163-8e8d-25bdfe5ce918",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": true
+      },
+      {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000250",
+        "box_id": "8e93d45f-0ec4-463f-81d1-708184e6dc33",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": true
+      },
+      {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000300",
+        "box_id": "1c5ccae1-f4c4-4c41-9c95-2d3b7c08f4dd",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": true
+      },
+      {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000400",
+        "box_id": "5432e4ab-2f70-4c19-8805-4259c731c209",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": true
+      },
+      {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000449",
+        "box_id": "55437cbb-a36e-4fc6-83ac-28e49ecd2392",
+        "partial_original": true,
+        "occluded_original": false,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": true
+      }
+    ],
+    "OCLUIDA": [
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000000",
+        "box_id": "8b14169c-ae53-4a6a-a743-4bb34dc3f54b",
+        "partial_original": true,
+        "occluded_original": true,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+        "box_id": "db1bff5f-e384-49e4-9838-49030c74d9a0",
+        "partial_original": true,
+        "occluded_original": true,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000000",
+        "box_id": "6baf55bb-fec2-4985-8602-7ba49d597f10",
+        "partial_original": true,
+        "occluded_original": true,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": true
+      },
+      {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000050",
+        "box_id": "0092627d-4983-4a9c-b74c-2742bd8f0165",
+        "partial_original": true,
+        "occluded_original": true,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000100",
+        "box_id": "36294aa7-566e-4d4c-a092-8406ac5cbd18",
+        "partial_original": true,
+        "occluded_original": true,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      },
+      {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000150",
+        "box_id": "522ff8bb-f098-42c4-9c59-fef0946f8dcc",
+        "partial_original": true,
+        "occluded_original": true,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": true
+      },
+      {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000400",
+        "box_id": "596314b3-e71a-420c-ae14-cbd648b53e13",
+        "partial_original": true,
+        "occluded_original": true,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": true
+      },
+      {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000449",
+        "box_id": "3e14ed52-ad24-41e7-92a8-abe86f68e8e0",
+        "partial_original": true,
+        "occluded_original": true,
+        "not_evaluable_original": false,
+        "aviso_tecnico_desenfoque": false
+      }
+    ],
+    "NO_EVALUABLE": [],
+    "DUDOSA": []
+  }
+}

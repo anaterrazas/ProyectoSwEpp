@@ -1,0 +1,96 @@
+{
+  "status": "DISENO_DE_COMBINACION_FIJADO; PARTICIONES_PROPUESTAS_NO_APROBADAS",
+  "no_training": true,
+  "original_202_groups_preserved": true,
+  "v4_components_candidate": 14,
+  "v4_group_assignments_conditional": {
+    "v4g01": "train",
+    "v4g02": "train",
+    "v4g03": "test",
+    "v4g04": "validation"
+  },
+  "v4_counts": {
+    "train": 171,
+    "test": 41,
+    "QUARANTINE_GEOMETRY": 6,
+    "validation": 22,
+    "REVIEW_SOURCE": 22
+  },
+  "v4_class_counts_per_proposed_partition": {
+    "train": {
+      "not-crumbled": 76,
+      "label": 187,
+      "cap": 74,
+      "no-cap": 114,
+      "crumbled": 112
+    },
+    "test": {
+      "not-crumbled": 73,
+      "cap": 43,
+      "label": 34,
+      "no-cap": 32
+    },
+    "QUARANTINE_GEOMETRY": {
+      "label": 15,
+      "cap": 14,
+      "not-crumbled": 12
+    },
+    "validation": {
+      "not-crumbled": 28,
+      "label": 22,
+      "cap": 29
+    },
+    "REVIEW_SOURCE": {
+      "crumbled": 8,
+      "cap": 20,
+      "label": 8,
+      "not-crumbled": 14
+    }
+  },
+  "raw_public_images": 8739,
+  "all_canonical_including_human": 8764,
+  "public_imported_generic_valid_geometry": 8733,
+  "human_reference_quarantined": 25,
+  "tasks": {
+    "ENVASE": {
+      "v4_source_classes_candidate": [
+        "crumbled",
+        "not-crumbled"
+      ],
+      "raw_source_boxes": 323,
+      "mapping_approved": false,
+      "scope": "bottle/body box from source; do not treat not-crumbled as global conformity"
+    },
+    "TAPA": {
+      "v4_raw_cap_boxes": 180,
+      "v4_positive_images": 114,
+      "v4_all_cap_geometry_valid": true,
+      "v4_small_cap_below16px_at640": 31,
+      "v26_candidate_good_broken_boxes": 272,
+      "v26_mapping_approved": false
+    },
+    "TAPA_DEFECTUOSA": {
+      "new_v4_defect_boxes": 0,
+      "v26_broken_loose_instances": 178,
+      "v26_broken_loose_positive_images": 171,
+      "no_cap_requires_context": true
+    },
+    "RAYADURA": {
+      "v4_support": false,
+      "mendeley_scuff_boxes_candidate": 10893,
+      "mapping_requires_protocol": true
+    },
+    "DEFORMACION": {
+      "mendeley_dent_boxes": 8029,
+      "v4_crumbled_boxes": 120,
+      "do_not_merge_patch_and_full_object_boxes": true
+    }
+  },
+  "approval_gates": [
+    "Revisar fuente/relaciones de los 14 grupos provisionales",
+    "Revisar geometr?a de tareas y exhaustividad TAPA",
+    "Resolver cuarentena/alertas sin editar RAW",
+    "Congelar particiones por tarea; no asumir todas las clases en todo split",
+    "Autorizar entrenamiento expresamente"
+  ]
+}

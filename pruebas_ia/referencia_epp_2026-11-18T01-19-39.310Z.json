@@ -1,0 +1,3644 @@
+{
+  "estado": "ANOTACION_EN_CURSO",
+  "author": null,
+  "reviewer": null,
+  "frames": [
+    {
+      "sample_id": "epp_corto_000000",
+      "video_id": "epp_corto",
+      "frame_index": 0,
+      "tiempo_nominal_s": 0,
+      "image": "epp_corto/originales/frame_000000.png",
+      "image_sha256": "2d9ca261faa93787b06d8ad3b987afe530ce5cbb068f40ff7bb60e5b26067469",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "e032a195-a297-4764-84e0-037f1d74cc54",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            505.9804517457001,
+            128.2347118925566,
+            1761.5615987397405,
+            1080
+          ]
+        },
+        {
+          "id": "de97b6bf-b223-4b72-bd3f-8d61c98b761a",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            78.36731669916911,
+            2.339286331084245,
+            482.1294953649298,
+            756.010614888953
+          ]
+        },
+        {
+          "id": "86965c44-1644-4bdd-9220-21b22eade84c",
+          "clase": "PERSONA",
+          "persona_id": "P3",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            412.28039408454015,
+            0,
+            810.9316590963039,
+            497.4145919461286
+          ]
+        },
+        {
+          "id": "c999cb8a-b3eb-40bb-9db1-a58976d5fec8",
+          "clase": "CHALECO",
+          "persona_id": "P3",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            432.72404870052804,
+            7.443155461136248,
+            756.4152987779052,
+            512.7261993362846
+          ]
+        },
+        {
+          "id": "89af9587-bbff-4d6f-ada2-688b3e5055a6",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            39.183697342761235,
+            7.443155461136248,
+            339.0239130530146,
+            689.6603551377082
+          ]
+        },
+        {
+          "id": "9e276f65-d32f-46f8-9fd8-9a52f0842b55",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            921.6680696086694,
+            58.481846761656286,
+            1298.172146101584,
+            451.47976977566054
+          ]
+        },
+        {
+          "id": "46374a83-51c7-45de-9b98-d1576f537738",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1008.5536017266179,
+            553.5571523767006,
+            1679.786980275789,
+            883.6073820796844
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P3",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        }
+      ],
+      "author": "ana",
+      "reviewer": "",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T01:13:29.713Z"
+    },
+    {
+      "sample_id": "epp_corto_000012",
+      "video_id": "epp_corto",
+      "frame_index": 12,
+      "tiempo_nominal_s": 0.48,
+      "image": "epp_corto/originales/frame_000012.png",
+      "image_sha256": "41c2e855ecafcc30074fb356bb7f6acb71c7b9c3a64f92030bd1347a6ff66102",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "5207bfe7-9a89-49fd-a3fd-1dd0ca142273",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            0,
+            0,
+            490.6477107837092,
+            645.426835657068
+          ]
+        },
+        {
+          "id": "a6dc4314-e63c-455b-bbbb-2d160ed1439d",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            584.3477684448693,
+            101.01410249190006,
+            1645.7142745733781,
+            1080
+          ]
+        },
+        {
+          "id": "dd535e7a-05fa-4982-ae8f-ab30f531cbc6",
+          "clase": "PERSONA",
+          "persona_id": "P3",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            356.06034389057345,
+            2.3392473916530157,
+            746.1934714699112,
+            466.7914161052478
+          ]
+        },
+        {
+          "id": "07b7467d-67dd-4cc9-9450-82d5ca2238d2",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            950.63001762979,
+            565.4661543872012,
+            1606.5304992442634,
+            851.2828256701133
+          ]
+        },
+        {
+          "id": "d20fde7f-a5e2-44fa-af58-ce5c71936cec",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            822.8571762798657,
+            140.14375284248834,
+            1224.9156650700586,
+            512.7261993362846
+          ]
+        },
+        {
+          "id": "1a3de12a-47ae-4f61-8f41-37123381e06a",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            0,
+            17.650854781809027,
+            378.2076103957759,
+            640.322966527016
+          ]
+        },
+        {
+          "id": "b0a0d0e0-7af2-49c4-843b-ebea0f2f4c85",
+          "clase": "CHALECO",
+          "persona_id": "P3",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            403.7621786657607,
+            10.845721901360507,
+            715.5279895459294,
+            519.5312932773019
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P2",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P3",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T01:12:15.250Z"
+    },
+    {
+      "sample_id": "epp_corto_000025",
+      "video_id": "epp_corto",
+      "frame_index": 25,
+      "tiempo_nominal_s": 1,
+      "image": "epp_corto/originales/frame_000025.png",
+      "image_sha256": "d1940b5fe90753670cfe65c753ff5dd5a2ae860e05266bd4e4e96cf69a4f6a9d",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "68e336e1-520e-49d6-bd41-5c276258becc",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            0,
+            2.339286331084245,
+            526.424106361688,
+            643.725494027809
+          ]
+        },
+        {
+          "id": "73856056-6d19-46ad-ade9-454242edc196",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            6.8145255432115075,
+            0.6379836412565004,
+            369.6893949769965,
+            643.725494027809
+          ]
+        },
+        {
+          "id": "de3c3763-509c-4780-bc31-1dc8128686bf",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            695.0843349299414,
+            89.10506154196831,
+            1618.4560164278253,
+            1070.749315080643
+          ]
+        },
+        {
+          "id": "29e84e98-bfa8-4cac-8aed-2b562249488c",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            860.3371057607058,
+            112.92314344183181,
+            1236.8411822536204,
+            497.4145919461286
+          ]
+        },
+        {
+          "id": "d4752c6a-a97f-41de-8355-f40f5aa940c3",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            979.591809678204,
+            545.0506778669932,
+            1587.7905345038434,
+            735.5951773081763
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P2",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T01:11:08.345Z"
+    },
+    {
+      "sample_id": "epp_corto_000038",
+      "video_id": "epp_corto",
+      "frame_index": 38,
+      "tiempo_nominal_s": 1.52,
+      "image": "epp_corto/originales/frame_000038.png",
+      "image_sha256": "9bad64f176980dec0d9ad7593090376e6edd73f6b133e73531d8e28f8a83371b",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "0030dfe8-4a08-443f-8a28-4d14edc6e53b",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            756.4152987779052,
+            58.481846761656286,
+            1681.4906701513569,
+            1080
+          ]
+        },
+        {
+          "id": "cee06aaa-1d9e-4bec-b9a3-56bb53642300",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            30.665481923981826,
+            12.54703432604606,
+            429.3167469357456,
+            725.38744878293
+          ]
+        },
+        {
+          "id": "d80ee50c-1f36-4e6c-8a98-87561d89c61e",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            860.3371057607058,
+            22.75472391186103,
+            1344.1703689875567,
+            335.7920045954298
+          ]
+        },
+        {
+          "id": "50b66be2-486c-4a87-8cc5-4c4803a98284",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1047.7373770557324,
+            453.1810335260571,
+            1681.4906701513569,
+            825.7634800198533
+          ]
+        },
+        {
+          "id": "88418783-2bb9-44c8-b95b-44a16bc2c0bf",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            15.332740961990913,
+            0,
+            303.24751747503586,
+            662.439677593047
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T01:10:00.831Z"
+    },
+    {
+      "sample_id": "epp_corto_000050",
+      "video_id": "epp_corto",
+      "frame_index": 50,
+      "tiempo_nominal_s": 2,
+      "image": "epp_corto/originales/frame_000050.png",
+      "image_sha256": "967006e5e092e3c693abc107d6b3ea514dcce95904eb6c186b70ab531bbb9e39",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "5916426d-d210-4c1e-94db-b9c393196bbf",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            747.8970053727724,
+            0,
+            1545.1995353962998,
+            1080
+          ]
+        },
+        {
+          "id": "22c6ae31-cd4e-4e1a-90b7-c700b2914474",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            0,
+            4.040589020911989,
+            386.72582581455526,
+            630.1152282669119
+          ]
+        },
+        {
+          "id": "5565866f-7f06-4c7c-af9d-3555d030590b",
+          "clase": "PERSONA",
+          "persona_id": "P3",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            356.06034389057345,
+            2.3392473916530157,
+            778.5624872967542,
+            541.6481114267689
+          ]
+        },
+        {
+          "id": "990aaa77-55b7-438c-a9fc-a97feade57d3",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1027.2937224397447,
+            395.3372093450885,
+            1666.157929189366,
+            939.7499425102563
+          ]
+        },
+        {
+          "id": "e841b8e0-f5ce-494c-a7dd-e8a943683f4b",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            872.2626229442675,
+            10.845721901360507,
+            1316.912110842004,
+            249.02626832397692
+          ]
+        },
+        {
+          "id": "33649187-dcc7-4b82-a111-651c28b5c970",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            25.554568269984856,
+            0.6379836412565004,
+            320.28394831259465,
+            638.6216638371882
+          ]
+        },
+        {
+          "id": "4d6e728e-c41b-4296-9045-a0148b383b4c",
+          "clase": "CHALECO",
+          "persona_id": "P3",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            347.54212847179406,
+            135.03988371243634,
+            718.9352133243584,
+            505.92106645583607
+          ]
+        },
+        {
+          "id": "6fb04028-5bac-42fe-8b8a-08150c01da1b",
+          "clase": "CASCO",
+          "persona_id": "P3",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            345.83851658257953,
+            7.443155461136248,
+            567.3114155936638,
+            162.26049311309288
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P3",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T01:08:41.945Z"
+    },
+    {
+      "sample_id": "epp_corto_000062",
+      "video_id": "epp_corto",
+      "frame_index": 62,
+      "tiempo_nominal_s": 2.48,
+      "image": "epp_corto/originales/frame_000062.png",
+      "image_sha256": "3f3842a676bf05d2c95f5b9e913830db296f07bd5c4871512d25088e4b016c83",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "a2909c22-793f-40c0-a4a9-72c3a695b8a2",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            875.6698467226967,
+            0.6379836412565004,
+            1577.5687071958496,
+            1080
+          ]
+        },
+        {
+          "id": "3579f043-a689-459d-bc57-2922a7b1d2d7",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            30.665481923981826,
+            5.741862506166311,
+            364.5784813229995,
+            674.3487574824101
+          ]
+        },
+        {
+          "id": "2c1aa286-b248-423c-8b43-3cd91a17002c",
+          "clase": "PERSONA",
+          "persona_id": "P3",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            466.7967544029389,
+            0,
+            810.9316590963039,
+            580.777820186504
+          ]
+        },
+        {
+          "id": "f43fa5d4-c3ca-4944-aa10-d787a3bd8f8c",
+          "clase": "CASCO",
+          "persona_id": "P3",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            482.1294953649298,
+            12.54706353061948,
+            741.0825578159142,
+            135.03992265186756
+          ]
+        },
+        {
+          "id": "ed5a5a5a-66bf-4eee-b17a-66b47b4083e2",
+          "clase": "CHALECO",
+          "persona_id": "P3",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            439.5385742437395,
+            95.91023336184806,
+            730.8607305079203,
+            575.6739315867364
+          ]
+        },
+        {
+          "id": "8715f1be-74b7-40c2-b0f3-bb4a7306d885",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            13.629129072776378,
+            12.547024591188253,
+            327.09847385580616,
+            647.1280994074644
+          ]
+        },
+        {
+          "id": "480be4cb-3367-4f05-a85d-632f48ca1e8a",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            930.1863630138022,
+            26.15732929151652,
+            1395.2795055275265,
+            260.9353092739087
+          ]
+        },
+        {
+          "id": "7b95ace0-4989-4f4f-95b8-cc28ab9e4929",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1054.5518246125905,
+            405.5449865446238,
+            1683.194204054218,
+            835.9713350982511
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P3",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T01:07:48.280Z"
+    },
+    {
+      "sample_id": "epp_corto_000075",
+      "video_id": "epp_corto",
+      "frame_index": 75,
+      "tiempo_nominal_s": 3,
+      "image": "epp_corto/originales/frame_000075.png",
+      "image_sha256": "9e901df7405a9195b0fc9303f29d48ba8271e51f1e1550ef5397ded1a25d0e3a",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "3f9f19e4-f272-41a4-adfc-ed8c0bb233f6",
+          "clase": "PERSONA",
+          "persona_id": "P3",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            335.61668927458555,
+            9.144458150963992,
+            734.2679542863493,
+            543.3494530560279
+          ]
+        },
+        {
+          "id": "34d26c17-a165-4e2f-92f1-a67d52ddca5d",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            3.407301764782435,
+            0.6379836412565004,
+            419.09491962775166,
+            693.0628826385013
+          ]
+        },
+        {
+          "id": "145626de-c252-4efa-9312-e37941b7e9e7",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            817.7462626258688,
+            21.053479631180128,
+            1640.6033609193812,
+            1080
+          ]
+        },
+        {
+          "id": "7f514797-bb3e-44fe-8612-c9b6ab34088a",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1037.5155497477385,
+            425.96042412540055,
+            1649.121498351807,
+            869.9971163187873
+          ]
+        },
+        {
+          "id": "989dff40-c1b7-44e8-9089-c2fc32a984d1",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1025.5900325641767,
+            0,
+            1446.3886420674962,
+            332.38947709463673
+          ]
+        },
+        {
+          "id": "ce1e78da-4bdb-4ad7-9042-cd745784485b",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            8.518215418779405,
+            2.3393252705154737,
+            301.5439055858213,
+            655.6345739171719
+          ]
+        },
+        {
+          "id": "48a2e6f8-b7da-4d1c-a3d6-4695a26ad6e8",
+          "clase": "CHALECO",
+          "persona_id": "P3",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            318.58025843702677,
+            133.3385810226086,
+            693.3806450543735,
+            594.3881443565479
+          ]
+        },
+        {
+          "id": "093c9275-4c6d-46e0-90da-f72879651a5c",
+          "clase": "CASCO",
+          "persona_id": "P3",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            262.3602082430601,
+            9.144380272101534,
+            553.6822865208874,
+            124.8321065129011
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P3",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T01:06:39.695Z"
+    },
+    {
+      "sample_id": "epp_corto_000088",
+      "video_id": "epp_corto",
+      "frame_index": 88,
+      "tiempo_nominal_s": 3.52,
+      "image": "epp_corto/originales/frame_000088.png",
+      "image_sha256": "1e0c45551164e4b8b063e2ee28569836cc4f1b8760321b3a40f16cb131deee9b",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "075bae80-8bf8-4cd6-91b0-addf77a518b6",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            802.4135216638779,
+            97.6115360516758,
+            1669.565152967795,
+            1080
+          ]
+        },
+        {
+          "id": "c5e1ea99-5b91-4a82-b479-bb13c15e7140",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            11.925439197208478,
+            4.040589020911989,
+            456.574927094945,
+            703.2706598380365
+          ]
+        },
+        {
+          "id": "750ec303-3c3c-4a06-9de1-d7addaeaa0ee",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            5.110913653996971,
+            5.741852771308504,
+            340.72760292858254,
+            703.2706208986052
+          ]
+        },
+        {
+          "id": "1bb43e81-aaea-4310-b0fe-185a47bc6c2f",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1073.2919453257173,
+            36.36506755162053,
+            1499.2013125103272,
+            397.038473095485
+          ]
+        },
+        {
+          "id": "2fe66200-f4af-47f5-b164-bf315a36439f",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1098.8465135957022,
+            422.55781874574507,
+            1640.6033609193812,
+            818.9584250182672
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T01:05:12.631Z"
+    },
+    {
+      "sample_id": "epp_corto_000100",
+      "video_id": "epp_corto",
+      "frame_index": 100,
+      "tiempo_nominal_s": 4,
+      "image": "epp_corto/originales/frame_000100.png",
+      "image_sha256": "132515650b9592a3e1eac763a07201eb86f84d4401d7174ec4124869b1c19dd8",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "3d95a020-edcb-47fe-bd06-28f355d36ccd",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            6.8145255432115075,
+            0,
+            548.5713728668904,
+            611.4010154971004
+          ]
+        },
+        {
+          "id": "ae4abdb1-966c-44da-9ce9-2373f97c5e26",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            799.006141912742,
+            126.53341893758666,
+            1618.4560164278253,
+            1080
+          ]
+        },
+        {
+          "id": "20656e85-c882-48c4-8caf-26aea69c3445",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1028.9972563426059,
+            160.55922936269636,
+            1400.3904191815234,
+            505.92106645583607
+          ]
+        },
+        {
+          "id": "165b30a0-9a13-4645-bcd9-5de3fa784320",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1011.9609814777536,
+            538.2455449865446,
+            1690.008807583783,
+            897.2176478405814
+          ]
+        },
+        {
+          "id": "4ad416c1-24c4-4777-9a08-d6c9257c4f1a",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            18.74004272677335,
+            0.6379836412565004,
+            412.28039408454015,
+            716.8809645383648
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P2",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T01:04:28.248Z"
+    },
+    {
+      "sample_id": "epp_corto_000112",
+      "video_id": "epp_corto",
+      "frame_index": 112,
+      "tiempo_nominal_s": 4.48,
+      "image": "epp_corto/originales/frame_000112.png",
+      "image_sha256": "c8e52967fb791a52b4ece2328bbb89aadc8718755092a735f499d500d085eeeb",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "b1c53226-3bdc-4af6-9102-254f9b85300a",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            770.0443498643281,
+            252.42887370363243,
+            1468.5358305863454,
+            1043.5286278011242
+          ]
+        },
+        {
+          "id": "93f6b01c-ca13-4f85-a022-066d34720cb5",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            0,
+            9.144458150963992,
+            485.5367971297123,
+            687.9590524478805
+          ]
+        },
+        {
+          "id": "d2867da4-c38e-4639-8f7e-ca279f8e9a5f",
+          "clase": "PERSONA",
+          "persona_id": "P3",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            410.5767042089722,
+            51.67667494177654,
+            775.1552635183251,
+            575.6739315867364
+          ]
+        },
+        {
+          "id": "41dc787d-df46-4c61-9267-13ecb70b3a7b",
+          "clase": "CHALECO",
+          "persona_id": "P3",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            434.4276605897426,
+            203.0914461535089,
+            698.4915587083705,
+            546.7520194962522
+          ]
+        },
+        {
+          "id": "639ac965-c877-44ed-a55d-f514ea79f692",
+          "clase": "CASCO",
+          "persona_id": "P3",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            407.16948043054316,
+            90.80636423179605,
+            599.6805094068602,
+            252.42891264306365
+          ]
+        },
+        {
+          "id": "10f61b12-e55e-4649-9772-6030fdf3a628",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            15.332740961990913,
+            7.443155461136248,
+            407.16948043054316,
+            698.1667907079844
+          ]
+        },
+        {
+          "id": "2cf72bbd-281a-4afd-b19d-349fc55a99cf",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            942.1117242246572,
+            568.8687987062879,
+            1599.7160516874053,
+            938.0487176992912
+          ]
+        },
+        {
+          "id": "fdf13055-035c-4ec2-bc9b-19019f788b5f",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            943.8154141002251,
+            237.11730525290764,
+            1354.3921962955508,
+            650.5307047871199
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P3",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T01:03:05.694Z"
+    },
+    {
+      "sample_id": "epp_corto_000121",
+      "video_id": "epp_corto",
+      "frame_index": 121,
+      "tiempo_nominal_s": 4.84,
+      "image": "epp_corto/originales/frame_000121.png",
+      "image_sha256": "32e49ce832ceb7e7c52c39c2296e20678272c78f616b19f0fd6ec6a05b7a5597",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "3a7ee88b-4aa1-409f-bb1a-4f99e85d37ed",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            751.3043851239081,
+            221.8056686581782,
+            1534.977708088306,
+            1052.0350731062583
+          ]
+        },
+        {
+          "id": "a693b156-5aa6-40da-92d4-b3688ddd1062",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            911.4462423006754,
+            601.193248032423,
+            1546.9032252718678,
+            936.3473468654587
+          ]
+        },
+        {
+          "id": "11be83af-6528-4122-8e41-9c4117dedbce",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            926.7789832626663,
+            240.51983275370068,
+            1277.7284914855961,
+            611.400937618238
+          ]
+        },
+        {
+          "id": "50b94c6e-47a8-4f33-bdac-d40d8f3f5504",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            3.407301764782435,
+            0.6379836412565004,
+            470.2040561677214,
+            674.3487477475522
+          ]
+        },
+        {
+          "id": "194813ee-f262-43b3-bacb-8217c04e4c0d",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            13.629129072776378,
+            5.741852771308504,
+            422.50222139253407,
+            667.5435369882413
+          ]
+        },
+        {
+          "id": "5bd222e0-5828-4678-a2b7-e191838e6f9e",
+          "clase": "PERSONA",
+          "persona_id": "P3",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            434.4276605897426,
+            32.962501111396264,
+            725.7498168539232,
+            582.4791034066161
+          ]
+        },
+        {
+          "id": "f18e95e1-1831-45e3-bbfa-201b21dcc1bc",
+          "clase": "CASCO",
+          "persona_id": "P3",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            432.72404870052804,
+            55.07928032143202,
+            626.938767552413,
+            230.31209449359667
+          ]
+        },
+        {
+          "id": "fe22c805-4146-41cc-89f7-a8ded1520f71",
+          "clase": "CHALECO",
+          "persona_id": "P3",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            480.4258834757153,
+            218.40309248309615,
+            725.7498168539232,
+            577.3751953371329
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P3",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T01:01:56.933Z"
+    },
+    {
+      "sample_id": "epp_largo_000000",
+      "video_id": "epp_largo",
+      "frame_index": 0,
+      "tiempo_nominal_s": 0,
+      "image": "epp_largo/originales/frame_000000.png",
+      "image_sha256": "f8bc0c21fbc6be04ab67da43965e43bcfc7c7bc6b9cb027bdbf335d976e3a244",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "49110a21-075b-4cb1-94d9-aa31d40e95a0",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            182.28927965467642,
+            5.741852771308504,
+            919.9645357058082,
+            659.037101417965
+          ]
+        },
+        {
+          "id": "f4113f74-b12d-46e6-82b2-37423079dd9e",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            1327.133938149998,
+            157.1566629224721,
+            1730.8961168157587,
+            640.322966527016
+          ]
+        },
+        {
+          "id": "97b78bac-1faf-4f6b-b96c-ec0f4ac29472",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1436.1668147595024,
+            277.94821935389245,
+            1659.3433256598012,
+            630.1151893274807
+          ]
+        },
+        {
+          "id": "718b6b70-4873-45a6-ae01-13f932858e87",
+          "clase": "CASCO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1332.244851803995,
+            153.7540575428166,
+            1465.1286068079162,
+            257.5327038942532
+          ]
+        },
+        {
+          "id": "e51c4d78-0ac0-4696-9991-0d6f9355b4c6",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            419.09491962775166,
+            0,
+            705.3061622379354,
+            131.63723939334963
+          ]
+        },
+        {
+          "id": "9831c5a9-5ee2-44c8-9d8b-b5fb5b9ee131",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            335.61668927458555,
+            228.61075286433768,
+            756.4152987779052,
+            628.4138866376529
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T00:59:35.290Z"
+    },
+    {
+      "sample_id": "epp_largo_000012",
+      "video_id": "epp_largo",
+      "frame_index": 12,
+      "tiempo_nominal_s": 0.48,
+      "image": "epp_largo/originales/frame_000012.png",
+      "image_sha256": "222790ab2eb9a082e89e7c4401d19187d4e4d45688b67c1a82d416c216e07b62",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "405d3ff8-7bd0-4e66-af0b-9fd4710baf2f",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            1374.8358509115387,
+            126.53344814216007,
+            1736.0070304697556,
+            577.3751953371329
+          ]
+        },
+        {
+          "id": "350aefc5-d667-4d9d-91fa-bf46e2b57ea8",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            303.24751747503586,
+            4.040589020911989,
+            943.8154141002251,
+            708.3745289680885
+          ]
+        },
+        {
+          "id": "77bf0841-d8b9-46ba-be51-1a106ff3ce6a",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            437.834962354525,
+            2.3392473916530157,
+            775.1552635183251,
+            160.55919042326514
+          ]
+        },
+        {
+          "id": "a054aeb3-6c27-4f0c-9ee6-1c44edc0394b",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            357.763955779788,
+            232.01335824399317,
+            799.006141912742,
+            653.9333101667754
+          ]
+        },
+        {
+          "id": "f2374c14-be2b-4141-a0d0-3ffee1b6ad4d",
+          "clase": "CASCO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1393.5758156519587,
+            131.63727833278085,
+            1528.1632605314478,
+            242.22113544352842
+          ]
+        },
+        {
+          "id": "69926540-a52c-411d-a884-2c57c9632333",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1463.4249169323482,
+            238.8185300638729,
+            1734.3033405941878,
+            551.8558886263041
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P2",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": null,
+      "author": "ANa",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T00:58:48.624Z"
+    },
+    {
+      "sample_id": "epp_largo_000025",
+      "video_id": "epp_largo",
+      "frame_index": 25,
+      "tiempo_nominal_s": 1,
+      "image": "epp_largo/originales/frame_000025.png",
+      "image_sha256": "75aaaeda9b5d0c49447718d7bdb99d3ae361a1d7ddf73d6b57a195cb29832575",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "c0b9ee25-1062-4019-899a-4a489ddbbe23",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            323.6911720910237,
+            5.741852771308504,
+            960.851844937784,
+            745.802876628849
+          ]
+        },
+        {
+          "id": "688e12bf-a37b-4299-a9c6-27b3b475aab3",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            1434.4631248839344,
+            141.84505553231608,
+            1730.8961168157587,
+            677.7513920666389
+          ]
+        },
+        {
+          "id": "775c8a3c-4a29-4260-81ad-681ad7707ab8",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1483.8685715483361,
+            283.05204954451324,
+            1718.9705996321968,
+            543.3493751771654
+          ]
+        },
+        {
+          "id": "d6c1748f-5c86-4309-9998-d3fff43d7be5",
+          "clase": "CASCO",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1454.9067794999223,
+            155.45532129321313,
+            1580.9759309742785,
+            216.70175085383715
+          ]
+        },
+        {
+          "id": "eab0939a-eae3-45e0-a259-9dc86dce8936",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            364.5784813229995,
+            235.41596362364868,
+            816.0425727503009,
+            665.8422342984135
+          ]
+        },
+        {
+          "id": "730ca442-da46-4a3c-a30d-0510117dcc59",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            487.2404090189268,
+            4.04055008148076,
+            827.9680899338626,
+            233.7146609338209
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T00:58:04.709Z"
+    },
+    {
+      "sample_id": "epp_largo_000038",
+      "video_id": "epp_largo",
+      "frame_index": 38,
+      "tiempo_nominal_s": 1.52,
+      "image": "epp_largo/originales/frame_000038.png",
+      "image_sha256": "ce5be946bcc45a5505e28b54406fee96cf0e3560cb8a9f67f72995ba60b7a077",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "5a7cd54e-4f78-427b-9b09-f2fb3f8ce6e7",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            1451.4995557214932,
+            197.98761596288813,
+            1741.1179441237527,
+            587.5829335972369
+          ]
+        },
+        {
+          "id": "81d26c1f-0de6-413a-8e44-ca84a9be4acd",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            342.43121481779707,
+            44.871542061328014,
+            960.851844937784,
+            766.2183531490571
+          ]
+        },
+        {
+          "id": "3595b9ef-ec17-4bcd-b07a-1cd326896f66",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            405.4657905549753,
+            249.02626832397692,
+            819.44979652873,
+            669.2448786175001
+          ]
+        },
+        {
+          "id": "0ea1c497-b7b6-418e-b054-92ce0cabca78",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            531.535020015685,
+            0.6379836412565004,
+            853.5226582038475,
+            240.5198716931319
+          ]
+        },
+        {
+          "id": "91f839ff-6caf-43ec-b56b-18b9e0cb7875",
+          "clase": "CASCO",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1475.35043411591,
+            189.48118039261186,
+            1591.1977582822726,
+            260.9353482133399
+          ]
+        },
+        {
+          "id": "27abc4ba-37e5-4b47-bd6a-0c87a2439b38",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1466.8322966834842,
+            291.55856299365195,
+            1713.8596859781999,
+            565.4661543872012
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P2",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T00:57:01.329Z"
+    },
+    {
+      "sample_id": "epp_largo_000050",
+      "video_id": "epp_largo",
+      "frame_index": 50,
+      "tiempo_nominal_s": 2,
+      "image": "epp_largo/originales/frame_000050.png",
+      "image_sha256": "83b19d8db07f3e30d2e371da8d7622518bbd4e8629d3bb67914b8cec16ca64b0",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "6a7063fa-86fe-4913-9086-fb22a2144f09",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            298.1366038210389,
+            7.443155461136248,
+            948.9263277542221,
+            764.5170504592293
+          ]
+        },
+        {
+          "id": "edd3fd60-eb8f-40a3-818b-b43383f27180",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            1410.6122464895175,
+            182.67600857273212,
+            1718.9705996321968,
+            670.946181307328
+          ]
+        },
+        {
+          "id": "ea2c7616-cda0-4474-b122-8ccbb88e0346",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1473.6467442403423,
+            281.35082473354794,
+            1718.9705996321968,
+            601.1932382975651
+          ]
+        },
+        {
+          "id": "43da2bc0-3e79-4c8d-b27e-f28aba1dcdcd",
+          "clase": "CASCO",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1482.165037645475,
+            199.68891865271587,
+            1618.4560164278253,
+            254.13013745402893
+          ]
+        },
+        {
+          "id": "65305938-a630-42db-9f3e-bab9a467b00f",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            470.2040561677214,
+            7.443155461136248,
+            797.3026080098808,
+            237.11726631347642
+          ]
+        },
+        {
+          "id": "04d1b103-da0b-4ee7-9318-9f1f6acbc245",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            364.5784813229995,
+            245.6237408231839,
+            845.0043647987147,
+            667.5435369882413
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T00:56:18.690Z"
+    },
+    {
+      "sample_id": "epp_largo_000062",
+      "video_id": "epp_largo",
+      "frame_index": 62,
+      "tiempo_nominal_s": 2.48,
+      "image": "epp_largo/originales/frame_000062.png",
+      "image_sha256": "5a6fdad443174a3f935dd133fbed212ebf0df18a29e73eef08ad0cff65250612",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "f018937c-cd5e-4c41-988c-deccf323897f",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            1420.8340737975113,
+            213.29918441361292,
+            1768.3762022693054,
+            589.2842362870647
+          ]
+        },
+        {
+          "id": "b5b82a15-3bad-4f0e-8805-4eb045ab5a1c",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            310.0621210046007,
+            4.040511142049531,
+            993.220860764627,
+            738.9976658695381
+          ]
+        },
+        {
+          "id": "d5d4cc6a-e1c2-459d-978f-b0a7e3496631",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            344.1348267070116,
+            240.5198716931319,
+            812.6353489718717,
+            693.0628826385013
+          ]
+        },
+        {
+          "id": "19f1b487-b673-46de-a413-e369a4128e4e",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            407.16948043054316,
+            14.248288341584766,
+            763.2297463347633,
+            192.8837078934049
+          ]
+        },
+        {
+          "id": "58aedb64-4488-4272-8d61-57a8df0cd6d3",
+          "clase": "CASCO",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1470.2395204619131,
+            215.00052604287188,
+            1623.5669300818224,
+            284.753352234341
+          ]
+        },
+        {
+          "id": "9fc4bdd0-91f7-409a-8736-4cd593fb5fae",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1441.2777284134993,
+            301.76630125375596,
+            1712.1561520753387,
+            594.3881054171167
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P2",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T00:55:43.738Z"
+    },
+    {
+      "sample_id": "epp_largo_000075",
+      "video_id": "epp_largo",
+      "frame_index": 75,
+      "tiempo_nominal_s": 3,
+      "image": "epp_largo/originales/frame_000075.png",
+      "image_sha256": "4a2c86636bf13fb0b447ab5b60b80e177df0a91645f417ed6817352f2f1182e1",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "e068a6b0-9beb-4e5e-ba3f-014d182e232d",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            335.61668927458555,
+            4.04055008148076,
+            988.10994711063,
+            888.7112512097364
+          ]
+        },
+        {
+          "id": "45e6a27f-5db4-4c7c-92cb-d8393ace08bd",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            1449.7958658459254,
+            380.02564089436373,
+            1759.8579088641727,
+            659.037101417965
+          ]
+        },
+        {
+          "id": "5f741aac-cb25-451e-9533-8d155c6fd120",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1466.8322966834842,
+            393.6359261249764,
+            1746.2288577777497,
+            611.401034966816
+          ]
+        },
+        {
+          "id": "e76e21da-c800-43fa-87ae-ad3bffeae533",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            483.83318524049776,
+            2.3392473916530157,
+            814.3388828747329,
+            182.67593069386965
+          ]
+        },
+        {
+          "id": "38a17c06-ac29-4e51-94a3-a873a18233c9",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            378.2076103957759,
+            201.3901824031124,
+            805.8207454423069,
+            691.3616188881048
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T00:54:58.759Z"
+    },
+    {
+      "sample_id": "epp_largo_000088",
+      "video_id": "epp_largo",
+      "frame_index": 88,
+      "tiempo_nominal_s": 3.52,
+      "image": "epp_largo/originales/frame_000088.png",
+      "image_sha256": "6ac24c4f26ab031bc5e755ce5372e7774162ca7e7ae61c5709ee8cf594cf2c75",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "baa09282-3194-4d53-be53-7619b0211e5a",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1494.0903988563302,
+            502.51850001561183,
+            1778.5980295772993,
+            599.4920134866
+          ]
+        },
+        {
+          "id": "be8a6a63-6470-4b0f-b62f-a87751a1bd0f",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            364.5784813229995,
+            0,
+            962.5553788406452,
+            698.1667907079844
+          ]
+        },
+        {
+          "id": "c149d7c1-2e46-460b-89b8-6e5130564570",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            487.2404090189268,
+            4.040511142049531,
+            799.006141912742,
+            119.7282373828491
+          ]
+        },
+        {
+          "id": "5854b104-abc5-4537-8301-703b4b89c236",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            410.5767042089722,
+            206.4940515331644,
+            804.117055566739,
+            687.9590135084493
+          ]
+        },
+        {
+          "id": "64bd5c71-8faa-4d2c-a771-f2522fe949c8",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1514.534053472318,
+            505.92106645583607,
+            1734.3033405941878,
+            575.6738926473051
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P2",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T00:54:07.813Z"
+    },
+    {
+      "sample_id": "epp_largo_000100",
+      "video_id": "epp_largo",
+      "frame_index": 100,
+      "tiempo_nominal_s": 4,
+      "image": "epp_largo/originales/frame_000100.png",
+      "image_sha256": "9cf1ee1641982748986d1cae209c4e1387c7d089c7043f4af04d467e11e6d93b",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "cb7fbb4d-e393-4e77-969a-4536e0cdaefc",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            306.65481923981827,
+            7.443194400567477,
+            942.1117242246572,
+            621.6087537572045
+          ]
+        },
+        {
+          "id": "f1350d32-75ef-4a2c-aabe-f320bb6caba4",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1429.3522112299374,
+            507.6223691456638,
+            1739.4142542481848,
+            613.1022792474969
+          ]
+        },
+        {
+          "id": "0a90a7a5-d541-46db-b8b0-bad064c3eee6",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            444.6494878977365,
+            0.6379836412565004,
+            770.0443498643281,
+            126.53344814216007
+          ]
+        },
+        {
+          "id": "4954ddd4-a027-4536-9c94-e78df18d1740",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            402.0585667765462,
+            218.40301460423368,
+            800.70983178831,
+            676.0500504373799
+          ]
+        },
+        {
+          "id": "a398f774-2ead-418f-bee3-0de74c0a93a1",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1487.275951299472,
+            504.21972482657713,
+            1715.5633758537679,
+            577.3752342765641
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": false
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T00:50:39.176Z"
+    },
+    {
+      "sample_id": "epp_largo_000112",
+      "video_id": "epp_largo",
+      "frame_index": 112,
+      "tiempo_nominal_s": 4.48,
+      "image": "epp_largo/originales/frame_000112.png",
+      "image_sha256": "80205d920efef85c7f9f2df54d0209daeb60ca0352248c11987e0b8fdaf88573",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "ca8da84f-61f4-460e-8d30-a5ce3d4d8987",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1456.61046937549,
+            499.11589463595635,
+            1776.8943397017315,
+            635.2190973969639
+          ]
+        },
+        {
+          "id": "22bbb32b-c20f-4b5c-97e2-43ae47676d09",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1490.683175077901,
+            511.0249355858881,
+            1693.416031362212,
+            597.7907107967721
+          ]
+        },
+        {
+          "id": "8b0d33ba-afbd-4cd2-b9c3-081fde47c211",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            422.50222139253407,
+            243.92239919392492,
+            814.3388828747329,
+            708.3744900286573
+          ]
+        },
+        {
+          "id": "9791e86e-77a4-45c3-bcea-b8d825e2d16e",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            550.2750627424583,
+            4.04055008148076,
+            821.1534864042978,
+            170.76696762280037
+          ]
+        },
+        {
+          "id": "49409d90-7ee4-4659-8943-a0e7c5607df2",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            287.9147765130449,
+            72.09215146198456,
+            899.5208810898203,
+            686.257788697484
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P2",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T00:53:02.162Z"
+    },
+    {
+      "sample_id": "epp_largo_000125",
+      "video_id": "epp_largo",
+      "frame_index": 125,
+      "tiempo_nominal_s": 5,
+      "image": "epp_largo/originales/frame_000125.png",
+      "image_sha256": "231375141ee5eac7f6c663817644e9dd68134deb1d74a15d37c03be941e263e8",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "9b3af1e5-def8-4333-91c9-41cd2a93f8b8",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            229.9911144298637,
+            26.15732929151652,
+            785.377090826319,
+            745.802876628849
+          ]
+        },
+        {
+          "id": "370ea0ae-46da-4ba1-ae68-a633ce23e031",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1506.0159160398919,
+            522.9339375963887,
+            1771.7834260477346,
+            631.8164530778772
+          ]
+        },
+        {
+          "id": "554ff707-4bb8-45b9-b4d1-a994857f0f86",
+          "clase": "PERSONA",
+          "persona_id": "P3",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1799.2012212882823,
+            241.74697014484187,
+            1869.5073235685752,
+            359.2284954182678
+          ]
+        },
+        {
+          "id": "b129dbc3-c2db-4c57-aa76-7dd17ee79654",
+          "clase": "CHALECO",
+          "persona_id": "P3",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1801.7576564580559,
+            286.44102867277564,
+            1863.115845539281,
+            360.5054685190659
+          ]
+        },
+        {
+          "id": "3f7c27a1-0355-4dd5-b7d7-ca3207bec3ec",
+          "clase": "CASCO",
+          "persona_id": "P3",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1833.7152026464714,
+            223.8693857037947,
+            1868.2291840046605,
+            280.0561631687851
+          ]
+        },
+        {
+          "id": "217d9757-2de3-4241-bbd6-4de820d6d5c8",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            405.4657905549753,
+            21.053460161464514,
+            688.2697314003766,
+            221.80569786275163
+          ]
+        },
+        {
+          "id": "d19002a7-5e6a-41c6-b0ab-f550b8b057e3",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            296.43299193182435,
+            271.1430475340127,
+            701.8987824867996,
+            761.1144840190051
+          ]
+        },
+        {
+          "id": "5c5d3d0c-820e-4119-ae2d-a4d972f1c25c",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1514.534053472318,
+            529.739080211695,
+            1720.6742895077648,
+            609.6997225421305
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P3",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-18T00:29:25.143Z"
+    },
+    {
+      "sample_id": "epp_largo_000138",
+      "video_id": "epp_largo",
+      "frame_index": 138,
+      "tiempo_nominal_s": 5.52,
+      "image": "epp_largo/originales/frame_000138.png",
+      "image_sha256": "00899a5552406e3fd5004440cf768ac09cccd77294d468f648c53d49eb7ceb27",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "2851ac93-ceea-45da-b058-0571fa47b8ef",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1555.4213627042939,
+            522.9339765358199,
+            1761.5615987397405,
+            623.310017507601
+          ]
+        },
+        {
+          "id": "704b7954-14c8-4503-a82e-cfa07108e743",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            269.17481177262493,
+            60.18307157262157,
+            700.1952485839385,
+            703.270581959174
+          ]
+        },
+        {
+          "id": "3cd97df5-d6c0-4164-bf78-e3d99a0db21c",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            453.1677033165159,
+            36.36506755162053,
+            713.8242996703615,
+            218.40305354366492
+          ]
+        },
+        {
+          "id": "d35e72eb-d1c9-4d40-b503-147adc251f6f",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            240.21294173785765,
+            255.83147908328792,
+            601.3841992824281,
+            720.2835699180202
+          ]
+        },
+        {
+          "id": "33415fd5-c541-474f-9ce3-60c6cac47bdf",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1552.0141389258647,
+            550.1545469970451,
+            1751.3397714317466,
+            601.1932382975651
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P2",
+          "casco_estado": "NO_EVALUABLE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": false,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-17T19:05:53.290Z"
+    },
+    {
+      "sample_id": "epp_largo_000150",
+      "video_id": "epp_largo",
+      "frame_index": 150,
+      "tiempo_nominal_s": 6,
+      "image": "epp_largo/originales/frame_000150.png",
+      "image_sha256": "1a28611fcdc96192cce224cb1067115f4ac424e91d83fb59ecbf4c480cb48464",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "d91aa656-7e24-474f-a00a-0d04fc0d762c",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            352.653042125791,
+            77.19605953146778,
+            831.3753137122918,
+            691.3616188881048
+          ]
+        },
+        {
+          "id": "0be0b3a0-6592-4b24-9170-c9e27642d457",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1373.1321610359707,
+            391.9346429048643,
+            1783.7089432312964,
+            597.790671857341
+          ]
+        },
+        {
+          "id": "c67dad5f-1402-4680-a77f-5ab0f919d1e9",
+          "clase": "CASCO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1366.3175575064058,
+            405.5449086657613,
+            1494.0903988563302,
+            516.1287657765089
+          ]
+        },
+        {
+          "id": "f4e808bc-ad3e-4e53-8930-13488d2aa973",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1478.7576578943392,
+            437.8694650753323,
+            1754.7469952101756,
+            579.0764590875294
+          ]
+        },
+        {
+          "id": "c9587e53-11c0-4f74-aa4e-98f805b72afe",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            294.7293800426098,
+            235.4160025630799,
+            618.4205521336335,
+            721.9848336684167
+          ]
+        },
+        {
+          "id": "3d8d1412-77ad-48c9-9a7f-b89b837fbd19",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            524.7204944724735,
+            36.36506755162053,
+            764.9334362103311,
+            211.5979206632164
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-17T19:02:08.940Z"
+    },
+    {
+      "sample_id": "epp_largo_000162",
+      "video_id": "epp_largo",
+      "frame_index": 162,
+      "tiempo_nominal_s": 6.48,
+      "image": "epp_largo/originales/frame_000162.png",
+      "image_sha256": "48fc25d0220894a61e32c737aab7a4d2d4946dcba817937798779605590e7668",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "4a57aa12-5b37-4901-9504-2635f8e34251",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1333.9485416795628,
+            174.16953406302463,
+            1701.9343247673448,
+            589.2842752264959
+          ]
+        },
+        {
+          "id": "93b33df7-1f7c-40c7-adb7-ffbbc33b469c",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            364.5784813229995,
+            75.4947179022088,
+            753.0079190267693,
+            710.0758316579162
+          ]
+        },
+        {
+          "id": "7ec8b213-9192-435b-b3d9-eb3caa1ec5b9",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            540.0532354344645,
+            43.170200432069045,
+            809.227969220736,
+            266.0391784039607
+          ]
+        },
+        {
+          "id": "efedf6b1-1a38-41e8-bea4-796a34d1981e",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            330.50577562058857,
+            243.9223602544937,
+            710.4170758919323,
+            776.426091409161
+          ]
+        },
+        {
+          "id": "3524f8f8-257f-4088-92e5-c129389d21e5",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1400.3904191815234,
+            345.9997428555338,
+            1713.8596859781999,
+            633.5177557677049
+          ]
+        },
+        {
+          "id": "e0b7958e-c49e-41f5-bed2-66d69edd35ad",
+          "clase": "CASCO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1354.3921962955508,
+            170.76692868336914,
+            1499.2013125103272,
+            277.9481804144612
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P2",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-17T19:01:30.670Z"
+    },
+    {
+      "sample_id": "epp_largo_000175",
+      "video_id": "epp_largo",
+      "frame_index": 175,
+      "tiempo_nominal_s": 7,
+      "image": "epp_largo/originales/frame_000175.png",
+      "image_sha256": "a271ee7d4c0c1690078ee47bd4a7a6b6a91f40705950d98305ec0b5c17b4b28e",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "099a1750-9883-4348-86f1-29180f38eaea",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            386.72582581455526,
+            29.559934671172005,
+            838.1899172418566,
+            790.0364350489206
+          ]
+        },
+        {
+          "id": "c8df08d6-7594-44c0-b810-7e1df7808861",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1327.133938149998,
+            150.35145216316113,
+            1722.3779793833326,
+            587.5829335972369
+          ]
+        },
+        {
+          "id": "06956718-e95f-4206-90e6-c7e816df1ad1",
+          "clase": "CASCO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1357.7994200739797,
+            119.7282373828491,
+            1533.2741741854447,
+            223.50688373428568
+          ]
+        },
+        {
+          "id": "ded5c07d-e475-4cb5-b9a5-8718a34b22c0",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1436.1668147595024,
+            279.6494441648577,
+            1715.5633758537679,
+            597.790671857341
+          ]
+        },
+        {
+          "id": "0626d72c-2283-4f42-bef8-38f4f16f436b",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            291.32207827782736,
+            269.44170590475375,
+            693.3806450543735,
+            723.686058479382
+          ]
+        },
+        {
+          "id": "9ce5c361-1e6b-4cc0-a388-f3d1078bff64",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            553.6822865208874,
+            26.15732929151652,
+            810.9316590963039,
+            218.40301460423368
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-17T19:00:53.862Z"
+    },
+    {
+      "sample_id": "epp_largo_000188",
+      "video_id": "epp_largo",
+      "frame_index": 188,
+      "tiempo_nominal_s": 7.52,
+      "image": "epp_largo/originales/frame_000188.png",
+      "image_sha256": "4083a7f67005ff58fdcd28b0a6fa022bada62bc0eececbfb012c72ab5bf0f821",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "87fc73d2-2157-403c-9444-a55e76bacc84",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "PARCIAL",
+          "bbox_xyxy": [
+            1342.466679111989,
+            124.83214545233233,
+            1659.3433256598012,
+            536.5442812361481
+          ]
+        },
+        {
+          "id": "5de77e88-c5e4-4e12-9e85-ee0a9a75157f",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            495.7586244377062,
+            55.07920244256957,
+            851.8189683282797,
+            750.906745758901
+          ]
+        },
+        {
+          "id": "a6f1aca0-2b20-44a3-8566-152231f3ad31",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            599.6805094068602,
+            44.87150312189679,
+            851.8189683282797,
+            221.8056589233204
+          ]
+        },
+        {
+          "id": "f55959ed-3ba7-4f16-8df7-3f05e96949e4",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            427.61313504653106,
+            243.92239919392492,
+            758.1188326807662,
+            708.3744900286573
+          ]
+        },
+        {
+          "id": "865060d2-7ce6-47e6-b40d-807f80f9f72c",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1398.6867293059556,
+            276.2469556034959,
+            1649.121498351807,
+            599.4919745471686
+          ]
+        },
+        {
+          "id": "bd8fa55a-45ee-48c0-8fd1-7240258fa93c",
+          "clase": "CASCO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1349.2812826415538,
+            114.62440719222832,
+            1526.4595706558798,
+            216.7017897932684
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P2",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-17T19:00:18.310Z"
+    },
+    {
+      "sample_id": "epp_largo_000200",
+      "video_id": "epp_largo",
+      "frame_index": 200,
+      "tiempo_nominal_s": 8,
+      "image": "epp_largo/originales/frame_000200.png",
+      "image_sha256": "43723fc7cf2a60923f1710d354722674e08e96e9fe9fa25ee59265de465b9715",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "e410f258-9a93-4417-a993-1bcfcccf99ce",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            402.0585667765462,
+            58.48180782222506,
+            749.6006952483402,
+            745.802876628849
+          ]
+        },
+        {
+          "id": "5536e63a-8ca9-4751-8557-893353543255",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1347.5775927659859,
+            146.94884678350564,
+            1628.6778437358194,
+            560.3622463177179
+          ]
+        },
+        {
+          "id": "f2d872f8-8b9b-4656-b703-e192b4fe6e6b",
+          "clase": "CASCO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1356.095730198412,
+            114.62440719222832,
+            1521.3486570018829,
+            213.29918441361292
+          ]
+        },
+        {
+          "id": "dfec5066-4d4c-4d9f-add5-d00f1a6bfdf3",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1371.4284711604028,
+            286.4546938635999,
+            1606.5304992442634,
+            555.2584161270971
+          ]
+        },
+        {
+          "id": "d97eb9c7-28e0-4692-a119-73e66d0c19ae",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            383.31852404977286,
+            276.2469556034959,
+            667.8260767843886,
+            762.8158645876953
+          ]
+        },
+        {
+          "id": "728b3fe6-29cd-47d9-b8b7-181f2ec48b5a",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            519.6095808184765,
+            43.17023937150027,
+            766.637126085899,
+            194.58504952266387
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-17T18:59:49.890Z"
+    },
+    {
+      "sample_id": "epp_largo_000212",
+      "video_id": "epp_largo",
+      "frame_index": 212,
+      "tiempo_nominal_s": 8.48,
+      "image": "epp_largo/originales/frame_000212.png",
+      "image_sha256": "9ba9a8ffc028883023ec8fa693df821272580b43a05b8e813634faedfbe95d46",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "007a6ca8-087c-46c1-9eb6-1487b25100f9",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1298.172146101584,
+            73.79341521238106,
+            1604.8269653414022,
+            599.4920134866
+          ]
+        },
+        {
+          "id": "ccc871c6-661d-4a77-9b84-7456e7cbc972",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            296.43299193182435,
+            55.07920244256957,
+            708.7133860163644,
+            732.192610867952
+          ]
+        },
+        {
+          "id": "306200f9-572d-4996-97ae-44de6a4e3d09",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            417.3913077385371,
+            49.975381986806596,
+            669.5297666599566,
+            243.92240892878274
+          ]
+        },
+        {
+          "id": "4c413ca5-166c-48b4-a6bc-0112bacf604c",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            260.65659635384554,
+            283.05209821880226,
+            609.9023367148541,
+            720.2835796528781
+          ]
+        },
+        {
+          "id": "69e411de-6646-423f-927f-aace178551de",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1344.1703689875567,
+            274.54561397423697,
+            1598.0123618118375,
+            587.5829725366682
+          ]
+        },
+        {
+          "id": "17cab1e5-3c8c-4b0d-86a0-47ca85c01711",
+          "clase": "CASCO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1296.468456226016,
+            46.57284475115576,
+            1517.9414332234537,
+            194.58504952266387
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P2",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-17T18:59:18.360Z"
+    },
+    {
+      "sample_id": "epp_largo_000225",
+      "video_id": "epp_largo",
+      "frame_index": 225,
+      "tiempo_nominal_s": 9,
+      "image": "epp_largo/originales/frame_000225.png",
+      "image_sha256": "65810c4874af8095b3d665e5181e5170d34b5f27f0365e2ec74383c0fa374082",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "33a8485c-9979-48a9-9b44-dce96e6293f8",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            381.6149121605583,
+            66.98828233193255,
+            763.2297463347633,
+            713.4783202192781
+          ]
+        },
+        {
+          "id": "4461ce1d-162f-4533-98b5-11fa95209844",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            1240.2484060320494,
+            48.274147440983505,
+            1550.3104490502967,
+            597.790671857341
+          ]
+        },
+        {
+          "id": "d63316a7-ad1d-4050-b160-4d2aabc465f5",
+          "clase": "CASCO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1255.5811469940404,
+            22.75476285129226,
+            1470.2395204619131,
+            179.27344213250785
+          ]
+        },
+        {
+          "id": "9ac88c14-3785-44c5-a895-a626f680c18c",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1291.3575425720192,
+            264.33787571413296,
+            1552.0141389258647,
+            592.6868416667202
+          ]
+        },
+        {
+          "id": "6500d654-6e19-4ba5-a9b8-fc5e4eac38a0",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            342.43121481779707,
+            308.5714341342045,
+            654.1970256979657,
+            730.4913081781242
+          ]
+        },
+        {
+          "id": "023f9569-b92f-4098-8a51-bf092889fc9f",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            488.9440988944947,
+            87.40379779157179,
+            712.1206097947935,
+            262.6366119637364
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": null,
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-17T18:58:49.590Z"
+    },
+    {
+      "sample_id": "epp_largo_000238",
+      "video_id": "epp_largo",
+      "frame_index": 238,
+      "tiempo_nominal_s": 9.52,
+      "image": "epp_largo/originales/frame_000238.png",
+      "image_sha256": "e88fc7d5ca2cb0a86e8b1a92a86bab969f547631038108dafb27b4d63d6ecd16",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "1842a4b0-c276-4a70-9aa2-36eaf06fd054",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            1197.6574069245057,
+            72.09219040141578,
+            1470.2395204619131,
+            582.4791034066161
+          ]
+        },
+        {
+          "id": "53b4b3a6-b447-4349-9cef-6d8db55f6261",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            478.72227158650077,
+            116.32570988205607,
+            829.6716238367238,
+            745.802876628849
+          ]
+        },
+        {
+          "id": "dafff571-ccaa-46f5-8e06-620523446de7",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            545.1641490884614,
+            121.42954007267684,
+            781.9698670478899,
+            271.14308647344393
+          ]
+        },
+        {
+          "id": "c58acad2-8147-4a81-9e8e-4f0a1f6f7048",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            454.8713152057304,
+            300.06495962449696,
+            732.5642644107814,
+            732.1926498073832
+          ]
+        },
+        {
+          "id": "f3c48fdc-e8b5-41f3-a951-a5114df0f93e",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1248.7665434644755,
+            269.44174484418494,
+            1531.5704843098767,
+            575.6738926473051
+          ]
+        },
+        {
+          "id": "19636d8d-9fb3-4d50-a000-748c11d73f2e",
+          "clase": "CASCO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1223.2119751944906,
+            36.36506755162053,
+            1415.7231601435144,
+            191.18244414300838
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P2",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-17T18:58:14.116Z"
+    },
+    {
+      "sample_id": "epp_largo_000250",
+      "video_id": "epp_largo",
+      "frame_index": 250,
+      "tiempo_nominal_s": 10,
+      "image": "epp_largo/originales/frame_000250.png",
+      "image_sha256": "61f49bb2d472684fca23246b0e49dfecc0d0597f61f9247197651d6470d128c3",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "aa0f3e98-faa5-44da-b76b-97c2d65ae957",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            458.27861697051287,
+            163.96179580292062,
+            810.9316590963039,
+            738.9977437484005
+          ]
+        },
+        {
+          "id": "bacd975e-752d-4c0c-b615-420618661037",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            1153.3628739141009,
+            72.09215146198456,
+            1441.2777284134993,
+            592.6868027272889
+          ]
+        },
+        {
+          "id": "9eb660e4-4a93-474f-ba57-8b2613a94d52",
+          "clase": "CASCO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1194.2501831460768,
+            44.87146418246556,
+            1402.0939530843846,
+            184.37727232312864
+          ]
+        },
+        {
+          "id": "da3c0b96-9cf5-4892-b27f-3d6c75baf7b4",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1219.8047514160617,
+            249.02626832397692,
+            1477.054123991478,
+            558.6610215067526
+          ]
+        },
+        {
+          "id": "9741ebea-c79f-4f46-b16f-14475f2ddf13",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            439.5385742437395,
+            308.5714341342045,
+            710.4170758919323,
+            764.5170504592293
+          ]
+        },
+        {
+          "id": "07281f21-4a79-442b-bff4-8a4542fc4dea",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            606.495112936425,
+            152.05275485298887,
+            843.3008308958537,
+            332.389516034068
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P2",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": null,
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-17T18:56:54.448Z"
+    },
+    {
+      "sample_id": "epp_largo_000251",
+      "video_id": "epp_largo",
+      "frame_index": 251,
+      "tiempo_nominal_s": 10.04,
+      "image": "epp_largo/originales/frame_000251.png",
+      "image_sha256": "b30133ae33f9dddcbd45e4fa3f8d9e2614ba13d6b6ac68166cbcf1503464fb3c",
+      "width": 1920,
+      "height": 1080,
+      "status": "ANNOTATED",
+      "exhaustive": true,
+      "objects": [
+        {
+          "id": "29e37948-6fd3-46b1-a6ba-6e6bef06b139",
+          "clase": "PERSONA",
+          "persona_id": "P2",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            1158.473787568098,
+            89.10506154196831,
+            1432.7594350083664,
+            539.9468087369412
+          ]
+        },
+        {
+          "id": "f168bb16-5ada-4451-a268-84769b754161",
+          "clase": "PERSONA",
+          "persona_id": "P1",
+          "visibilidad": "OCLUIDO",
+          "bbox_xyxy": [
+            475.3149698217183,
+            146.94892466236809,
+            863.7444855118415,
+            693.062999456795
+          ]
+        },
+        {
+          "id": "9f43afab-97be-46d5-ae46-a64ba7278709",
+          "clase": "CASCO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            608.1987248256396,
+            162.26051258280847,
+            826.2644000582948,
+            352.80497308456034
+          ]
+        },
+        {
+          "id": "e3d88755-4d7b-4781-8f90-e013082e8078",
+          "clase": "CHALECO",
+          "persona_id": "P1",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            425.9094451709631,
+            315.3765767495108,
+            696.7878688328026,
+            754.3093219339831
+          ]
+        },
+        {
+          "id": "81daaec5-1e89-44f0-a0dc-16a69ec3a5a2",
+          "clase": "CHALECO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1204.4720104540706,
+            267.74048109378845,
+            1497.497778607466,
+            575.6738926473051
+          ]
+        },
+        {
+          "id": "f85e5308-ed7b-44f9-bb1f-ccfeb664447c",
+          "clase": "CASCO",
+          "persona_id": "P2",
+          "visibilidad": "VISIBLE",
+          "bbox_xyxy": [
+            1184.0283558380827,
+            39.76763399184478,
+            1395.2795055275265,
+            167.36436224314488
+          ]
+        }
+      ],
+      "personas": [
+        {
+          "id": "P2",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        },
+        {
+          "id": "P1",
+          "casco_estado": "PRESENTE",
+          "chaleco_estado": "PRESENTE",
+          "casco_region_visible": true,
+          "chaleco_region_visible": true
+        }
+      ],
+      "reviewer": "",
+      "author": "Ana",
+      "empty_confirmed": false,
+      "recorded_at_utc": "2026-11-17T18:55:32.292Z"
+    }
+  ],
+  "videos": [
+    {
+      "video_id": "epp_corto",
+      "path": "media\\videos\\trabajadores.mp4",
+      "video_sha256": "931a1db66e4578c8767b4c1133310ebdf8378749ee82b6ca5e310d3507fcfd51",
+      "frames": 122,
+      "fps_nominal": 25,
+      "tiempo_exhaustivamente_revisado_s": null,
+      "sesion_independiente_confirmada": false
+    },
+    {
+      "video_id": "epp_largo",
+      "path": "pruebas_ia\\trabajadores.mp4",
+      "video_sha256": "c17250e01d6f3595985115b1c8ed82d149485a5f6ac7afa8e4429b050e1eb6e1",
+      "frames": 252,
+      "fps_nominal": 25,
+      "tiempo_exhaustivamente_revisado_s": null,
+      "sesion_independiente_confirmada": false
+    }
+  ],
+  "eventos": [],
+  "eventos_exhaustivos": false,
+  "nota": "Listas vacías pendientes no son negativos ni ausencia de personas/EPP. No contiene predicciones."
+}

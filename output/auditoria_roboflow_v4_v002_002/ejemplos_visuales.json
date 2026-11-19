@@ -1,0 +1,77 @@
+[
+  {
+    "class": "cap",
+    "image_id": 0,
+    "file_name": "100003_jpg.rf.f52e6e997c347d3ed2feb567faf4a5ef.jpg"
+  },
+  {
+    "class": "cap",
+    "image_id": 2,
+    "file_name": "100002_jpg.rf.fb8afbc2239e3d3e61640072a459e43d.jpg"
+  },
+  {
+    "class": "cap",
+    "image_id": 3,
+    "file_name": "vlcsnap-2023-07-10-21h49m49s278_png.rf.fb7b409f245aabc96ca3b12eec8235d2.jpg"
+  },
+  {
+    "class": "no-cap",
+    "image_id": 1,
+    "file_name": "vlcsnap-2023-06-22-12h50m14s593_png.rf.f60b1b74cadda4dc86abc4a44f90d28e.jpg"
+  },
+  {
+    "class": "no-cap",
+    "image_id": 6,
+    "file_name": "vlcsnap-2023-06-22-12h12m10s291_png.rf.fce99f4d596a45202f311666f40a67f5.jpg"
+  },
+  {
+    "class": "no-cap",
+    "image_id": 7,
+    "file_name": "vlcsnap-2023-07-10-21h47m41s099_png.rf.ff974319ae63fb8a980e6bb1f9566d12.jpg"
+  },
+  {
+    "class": "crumbled",
+    "image_id": 1,
+    "file_name": "vlcsnap-2023-06-22-12h50m14s593_png.rf.f60b1b74cadda4dc86abc4a44f90d28e.jpg"
+  },
+  {
+    "class": "crumbled",
+    "image_id": 6,
+    "file_name": "vlcsnap-2023-06-22-12h12m10s291_png.rf.fce99f4d596a45202f311666f40a67f5.jpg"
+  },
+  {
+    "class": "crumbled",
+    "image_id": 10,
+    "file_name": "vlcsnap-2023-06-22-12h11m36s193_png.rf.f667d337076359d8256f6d4fcc7bd3b6.jpg"
+  },
+  {
+    "class": "not-crumbled",
+    "image_id": 0,
+    "file_name": "100003_jpg.rf.f52e6e997c347d3ed2feb567faf4a5ef.jpg"
+  },
+  {
+    "class": "not-crumbled",
+    "image_id": 2,
+    "file_name": "100002_jpg.rf.fb8afbc2239e3d3e61640072a459e43d.jpg"
+  },
+  {
+    "class": "not-crumbled",
+    "image_id": 3,
+    "file_name": "vlcsnap-2023-07-10-21h49m49s278_png.rf.fb7b409f245aabc96ca3b12eec8235d2.jpg"
+  },
+  {
+    "class": "label",
+    "image_id": 0,
+    "file_name": "100003_jpg.rf.f52e6e997c347d3ed2feb567faf4a5ef.jpg"
+  },
+  {
+    "class": "label",
+    "image_id": 1,
+    "file_name": "vlcsnap-2023-06-22-12h50m14s593_png.rf.f60b1b74cadda4dc86abc4a44f90d28e.jpg"
+  },
+  {
+    "class": "label",
+    "image_id": 2,
+    "file_name": "100002_jpg.rf.fb8afbc2239e3d3e61640072a459e43d.jpg"
+  }
+]

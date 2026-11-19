@@ -1,0 +1,6 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><title>Calidad · laboratorio</title></head>
+<body><a href="/monitoreo/">Monitoreo EPP</a><h1>Calidad de envases · laboratorio aislado</h1>
+<p>Videos fuente en modo lectura. RAYADURA y DEFORMACION: NO DISPONIBLE.</p>
+<p>Detección de ENVASE/TAPA, clasificación de defectos y seguimiento se evalúan por separado. Las cajas humanas no certifican colocación correcta ni defecto.</p>
+{% for nombre,url in videos %}<section><h2>{{ nombre }}</h2><video controls preload="metadata" width="640" src="{{ url }}"></video></section>{% endfor %}
+</body></html>

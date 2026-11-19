@@ -1,18 +1,24 @@
 
 from pathlib import Path
 import subprocess
+import json
+import uuid
+import hashlib
+import math
+from collections import Counter
 
 import cv2
 import imageio_ffmpeg
 
 from django.conf import settings
 from django.contrib import messages
-from django.contrib.auth.decorators import login_required
+from django.contrib.auth.decorators import login_required, permission_required
 from django.shortcuts import render, redirect, get_object_or_404
 
 from ultralytics import YOLO
 from administracion.models import Camara
 from seguridad.models import DeteccionEPP
+from seguridad.piloto import equipos_piloto, estados, Persistencia
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -23,6 +29,18 @@ def lista_camaras(request):
         activa=True
     ).select_related("area")
 
+    for camara in camaras:
+        carpeta = Path(settings.MEDIA_ROOT) / "resultados_ia" / f"camara_{camara.pk}"
+        reportes = []
+        if carpeta.is_dir():
+            for ruta in carpeta.glob("*/reporte.json"):
+                try:
+                    ejecucion = uuid.UUID(ruta.parent.name)
+                except ValueError:
+                    continue
+                reportes.append((ruta.stat().st_mtime, str(ejecucion)))
+        camara.reportes_piloto = [ejecucion for _, ejecucion in sorted(reportes, reverse=True)[:10]]
+
     return render(
         request,
         "monitoreo/camaras.html",
@@ -31,6 +49,7 @@ def lista_camaras(request):
 
 
 @login_required(login_url="/admin/login/")
+@permission_required("seguridad.add_deteccionepp", raise_exception=True)
 def analizar_camara(request, camara_id):
 
     if request.method != "POST":
@@ -42,27 +61,43 @@ def analizar_camara(request, camara_id):
         activa=True
     )
 
+    if camara.tipo_monitoreo != "EPP" or camara.tipo_fuente != "VIDEO":
+        messages.error(request, "Este piloto requiere una cámara EPP con archivo de video.")
+        return redirect("lista_camaras")
+
+    try:
+        obligatorios = equipos_piloto(camara.area.equipos_obligatorios.values_list("nombre", flat=True))
+    except ValueError as error:
+        messages.error(request, str(error))
+        return redirect("lista_camaras")
+
     if not camara.archivo_video:
         messages.error(request, "La cámara no tiene video.")
         return redirect("lista_camaras")
 
-    ruta_modelo = BASE_DIR / "modelos" / "best.pt"
+    ruta_modelo = BASE_DIR / "Modelos" / "best.pt"
 
-    if not ruta_modelo.exists():
+    if not ruta_modelo.exists() or not (BASE_DIR / "yolo11n.pt").exists():
         messages.error(request, "No se encontró el modelo de IA.")
         return redirect("lista_camaras")
 
     proceso = None
+    resultados = None
 
     try:
         print("Iniciando análisis con YOLO...")
 
         modelo = YOLO(str(ruta_modelo))
+        modelo_personas = YOLO(str(BASE_DIR / "yolo11n.pt"))
+        persistencia = Persistencia()
+        cobertura = Counter()
+        ejecucion = uuid.uuid4().hex
 
         carpeta_salida = (
             Path(settings.MEDIA_ROOT)
             / "resultados_ia"
             / f"camara_{camara.id}"
+            / ejecucion
         )
 
         carpeta_salida.mkdir(
@@ -84,7 +119,7 @@ def analizar_camara(request, camara_id):
 
         captura.release()
 
-        if fps <= 0:
+        if not math.isfinite(fps) or fps <= 0:
             fps = 25
 
         if ancho <= 0 or alto <= 0:
@@ -133,9 +168,7 @@ def analizar_camara(request, camara_id):
         detecciones_guardadas = 0
         ultimo_segundo = -1
 
-        # Enviar fotogramas procesados a FFmpeg
-        
-        # Enviar fotogramas procesados a FFmpeg
+        # Cada ejecución conserva su evidencia y sus IDs temporales.
         for resultado in resultados:
 
             # Calcular el segundo actual del video
@@ -183,8 +216,36 @@ def analizar_camara(request, camara_id):
 
                 ultimo_segundo = segundo_actual
 
-            # Dibujar las detecciones sobre el video
+            # Ausencia de detección nunca prueba ausencia de EPP.
+            personas_resultado = modelo_personas.track(
+                resultado.orig_img, classes=[0], conf=.30, tracker="bytetrack.yaml",
+                persist=True, device="cpu", verbose=False,
+            )[0]
+            personas = {}
+            if personas_resultado.boxes is not None and personas_resultado.boxes.id is not None:
+                for caja in personas_resultado.boxes:
+                    personas[int(caja.id.item())] = caja.xyxy[0].tolist()
+            observaciones = estados(personas, [
+                (modelo.names[int(caja.cls[0])], float(caja.conf[0]), caja.xyxy[0].tolist())
+                for caja in resultado.boxes
+            ], obligatorios)
+            cobertura.update(observaciones.values())
+            nuevos = persistencia.observar(fotogramas / fps, observaciones)
             imagen = resultado.plot()
+            for track, (x1, y1, x2, y2) in personas.items():
+                cv2.rectangle(imagen, (int(x1), int(y1)), (int(x2), int(y2)), (0, 255, 255), 2)
+                texto = f"ID {track}: " + ", ".join(
+                    f"{e}: {observaciones[track, e]}" for e in obligatorios)
+                cv2.putText(imagen, texto, (max(0, int(x1)), max(20, int(y1))),
+                            cv2.FONT_HERSHEY_SIMPLEX, .45, (0, 255, 255), 1)
+            for evento in nuevos:
+                nombre = f"evidencia_{len(persistencia.eventos)}_{evento['track_id']}_{evento['equipo']}.jpg"
+                evidencia = carpeta_salida / nombre
+                if not cv2.imwrite(str(evidencia), imagen):
+                    raise ValueError("No se pudo guardar la evidencia del evento.")
+                evento["evidencia"] = nombre
+                evento["persona_xyxy"] = personas[evento["track_id"]]
+                evento["evidencia_sha256"] = hashlib.sha256(evidencia.read_bytes()).hexdigest()
 
             imagen = cv2.resize(
                 imagen,
@@ -207,10 +268,28 @@ def analizar_camara(request, camara_id):
         print(f"Fotogramas procesados: {fotogramas}")
         print(f"Detecciones guardadas: {detecciones_guardadas}")
 
+        with open(camara.archivo_video.path, "rb") as fuente:
+            video_hash = hashlib.file_digest(fuente, "sha256").hexdigest()
+        reporte = {
+            "version": 1, "ejecucion": ejecucion, "camara_id": camara.id,
+            "modo": "PRUEBA_VIDEO", "validado_en_planta": False,
+            "area": camara.area.nombre, "obligatorios": obligatorios,
+            "video_sha256": video_hash, "fotogramas": fotogramas,
+            "observaciones_por_estado": dict(cobertura), "eventos": persistencia.eventos,
+            "umbral_segundos": persistencia.segundos,
+            "nota": "Prueba con video de referencia, sin validación en planta. Candidatos de revisión humana. IDs temporales; no identifican trabajadores. Las observaciones repetidas no son personas únicas.",
+        }
+        for clave, ruta in (("epp", ruta_modelo), ("personas", BASE_DIR / "yolo11n.pt")):
+            with ruta.open("rb") as pesos:
+                reporte[f"modelo_{clave}_sha256"] = hashlib.file_digest(pesos, "sha256").hexdigest()
+        (carpeta_salida / "reporte.json").write_text(
+            json.dumps(reporte, ensure_ascii=False, indent=2), encoding="utf-8")
+        request.session[f"piloto_{camara.id}"] = str(uuid.UUID(ejecucion))
+
         # Dirección del video para Django
         url_video = (
             settings.MEDIA_URL.rstrip("/")
-            + f"/resultados_ia/camara_{camara.id}/resultado_epp.mp4"
+            + f"/resultados_ia/camara_{camara.id}/{ejecucion}/resultado_epp.mp4"
         )
 
         request.session[f"resultado_{camara.id}"] = (
@@ -238,5 +317,9 @@ def analizar_camara(request, camara_id):
             request,
             f"No se pudo procesar el video: {error}"
         )
+
+    finally:
+        if resultados is not None and hasattr(resultados, "close"):
+            resultados.close()
 
     return redirect("lista_camaras")

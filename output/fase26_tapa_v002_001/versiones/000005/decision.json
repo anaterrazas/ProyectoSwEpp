@@ -1,0 +1,30 @@
+{
+  "autor": "Ana",
+  "justificacion": "La botella ubicada sobre la cinta transportadora presenta la región de la boquilla y posible tapa con visibilidad insuficiente. No es posible confirmar de manera segura la presencia o ausencia de tapa. Se mantiene como NO EVALUABLE.",
+  "decisiones": [
+    {
+      "annotation_id": 134,
+      "clase": "NO_EVALUABLE",
+      "visibilidad": "DUDOSA",
+      "justificacion": "La caja original delimita únicamente la región de la boquilla o cuello de la botella. No se distingue con suficiente claridad una tapa independiente. No corresponde considerarla como TAPA ni como una caja válida del envase completo.",
+      "clase_original": "cap",
+      "bbox_original": [
+        977,
+        328,
+        40.37,
+        32.13
+      ]
+    }
+  ],
+  "nuevas_cajas": [],
+  "exhaustividad": "NO_EVALUABLE",
+  "image_id": 42,
+  "imagen_sha256": "af95c755f57aad8b4568bce204aa2af279aafa1bfc3ec4dce3b83a211cd55768",
+  "revision_global": 5,
+  "hash_decision_anterior": "09fdea918390838a9c604709256deebabd32e2d75667a7e720e413234cff8a39",
+  "cuenta_usuario": "piloto",
+  "fecha_utc": "2026-11-18T21:50:02.203080+00:00",
+  "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+  "tipo": "REVISION_HUMANA_DECLARADA",
+  "segunda_revision_independiente": "NO_ACREDITADA"
+}

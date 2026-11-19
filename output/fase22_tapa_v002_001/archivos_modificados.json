@@ -1,0 +1,30 @@
+[
+  {
+    "archivo": "experimentos/pilotos/adjudicacion_tapa.py",
+    "sha256": "9d541ef9b25d33164d78a0a7b2797519e52b61586f7a689384a6303020c29e75"
+  },
+  {
+    "archivo": "experimentos/pilotos/test_adjudicacion_tapa.py",
+    "sha256": "ec0f4ac5f1ada2fc7be5c8ab2fb4759e919d2384344a04ce986a8f0e2d9a4197"
+  },
+  {
+    "archivo": "experimentos/pilotos/templates/demo/adjudicacion_tapa.html",
+    "sha256": "f2152bef4d20fdd594c6b942a0224716744d6b2a36e6c7b4d3220ce664fafb7a"
+  },
+  {
+    "archivo": "experimentos/pilotos/urls.py",
+    "sha256": "5ad75ff6d5f83b38c0880ccac2da82055d9578dbb140b8ee18e39fb139fd27fd"
+  },
+  {
+    "archivo": "experimentos/pilotos/portal.py",
+    "sha256": "7c4fcc9c79de7b49df1ac890836abe14e56b8269680b995890657c8f97b2fb0e"
+  },
+  {
+    "archivo": "scripts/laboratorio_pilotos.py",
+    "sha256": "08057dc5f44397c836a9cfe38c2ba07bad9de910ec48566c7f2edf2e482efc14"
+  },
+  {
+    "archivo": "docs/FASE22_ADJUDICACION_Y_CAPTURA_TAPA.md",
+    "sha256": "37a512feed469c30f963c871d48c7dfaf452941fb94e955e58b7541ec0b75b5c"
+  }
+]

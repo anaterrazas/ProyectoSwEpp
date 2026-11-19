@@ -1,0 +1,5171 @@
+{
+  "resumen": {
+    "frames": 25,
+    "partial:False": 1,
+    "occluded:False": 128,
+    "not_evaluable:False": 136,
+    "tapas": 136,
+    "sin_enlace": 77,
+    "pequenas_640": 0,
+    "partial:True": 135,
+    "occluded:True": 8,
+    "con_enlace": 59
+  },
+  "por_video": {
+    "vid_557eef7acddd10c7439ddd8f": {
+      "frames": 15,
+      "TAPA": 122,
+      "sin_enlace": 63,
+      "con_enlace": 59
+    },
+    "vid_8a2b94bcf49a24212a443df0": {
+      "frames": 10,
+      "TAPA": 14,
+      "sin_enlace": 14
+    }
+  },
+  "videos_metadata": [
+    {
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "original_filename": "prueba2.mp4",
+      "session_id": null,
+      "license": null,
+      "rights_holder": null,
+      "capture_date": null,
+      "source_status": "USER_SUPPLIED_REFERENCE_RIGHTS_UNCONFIRMED"
+    },
+    {
+      "video_id": "vid_8a2b94bcf49a24212a443df0",
+      "original_filename": "tapas.mp4",
+      "session_id": null,
+      "license": null,
+      "rights_holder": null,
+      "capture_date": null,
+      "source_status": "USER_SUPPLIED_REFERENCE_RIGHTS_UNCONFIRMED"
+    }
+  ],
+  "conflictos": [
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+      "box_id": "011cc367-0a4f-4dae-b3e3-414a0f0e6e95",
+      "clase_guardada": "ENVASE",
+      "nota_humana": "tapa roja",
+      "bbox_xyxy": [
+        633.9881009178334,
+        0,
+        786.7242450891142,
+        98.10179315964241
+      ]
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+      "box_id": "40004408-7538-4504-96be-18326d359f3b",
+      "clase_guardada": "ENVASE",
+      "nota_humana": "tapa roja",
+      "bbox_xyxy": [
+        779.2126765370077,
+        41.764173249680866,
+        914.4217357255285,
+        109.36931628199093
+      ]
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "box_id": "50478c3f-aa0c-4659-af31-5028d57adc44",
+      "clase_guardada": "ENVASE",
+      "nota_humana": "tapa roja suelta",
+      "bbox_xyxy": [
+        1536.0851525648275,
+        830.3763695690784,
+        1680.8623476244895,
+        955.0873601996204
+      ]
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000100",
+      "box_id": "ce00f4be-3086-4e9f-a0fc-68a324a97b27",
+      "clase_guardada": "ENVASE",
+      "nota_humana": "tapa amarilla",
+      "bbox_xyxy": [
+        1016.4117188616427,
+        350.9885941788447,
+        1260.0961268558056,
+        536.3827168540879
+      ]
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000250",
+      "box_id": "4bacdeaa-1c24-49d7-9e8a-24627c32c6b2",
+      "clase_guardada": "ENVASE",
+      "nota_humana": "tapa amarilla",
+      "bbox_xyxy": [
+        522.3536125020154,
+        276.44868129625564,
+        730.6798928703096,
+        498.15711564574366
+      ]
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000300",
+      "box_id": "828408df-22d5-4bb1-b712-427c230eea56",
+      "clase_guardada": "ENVASE",
+      "nota_humana": "tapa amarilla",
+      "bbox_xyxy": [
+        511.84171863218637,
+        280.27124560027437,
+        676.2092595687782,
+        505.80224425378117
+      ]
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000350",
+      "box_id": "f7f8b8c8-d6be-458e-a044-966159612618",
+      "clase_guardada": "ENVASE",
+      "nota_humana": "tapa amarilla",
+      "bbox_xyxy": [
+        495.5960966819804,
+        289.8276538996246,
+        726.8573287423187,
+        512.491724403724
+      ]
+    }
+  ],
+  "duplicados_imagen_exactos": [],
+  "duplicados_crop_pixeles": [],
+  "parejas_dhash_candidatas": [],
+  "solapamientos_caja_iou080": [],
+  "cajas_tapa": [
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000000",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 0,
+      "pts_seconds": 0.0,
+      "image_sha256": "d1ebfd7592fe4c3501675f4e3c7386ad29bb8b783a072a4cab53bc384e4d87f1",
+      "box": {
+        "box_id": "aca7f52f-5d91-4b8a-9ff5-455381246256",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1719.4164962438203,
+          468.6781311522239,
+          1899.6952418285146,
+          635.1870763189849
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": false,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "Tapa roja separada del envase; no se conoce a qué botella pertenece."
+      },
+      "medidas": {
+        "ancho_px": 180.2787455846942,
+        "alto_px": 166.50894516676095,
+        "min_lado_entrada640": 55.50298172225365,
+        "pequena_640_menor16": false,
+        "aspecto": 1.0826970611347193,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 361.2429990528791,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "26af9fb0a06d9316660b85419387578313320e32b1c9f3852d4705ad9bef2ef1"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000000",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 0,
+      "pts_seconds": 0.0,
+      "image_sha256": "d1ebfd7592fe4c3501675f4e3c7386ad29bb8b783a072a4cab53bc384e4d87f1",
+      "box": {
+        "box_id": "8b14169c-ae53-4a6a-a743-4bb34dc3f54b",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          512.5503424360195,
+          4.205790063905919,
+          804.2513988427579,
+          153.18745793715163
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "dd69dd9f-e4bd-4d97-9e03-f6f46b428f11",
+        "partial": true,
+        "occluded": true,
+        "not_evaluable": false,
+        "notes": "tapa amarilla perteneciente al envase 428f11"
+      },
+      "medidas": {
+        "ancho_px": 291.7010564067384,
+        "alto_px": 148.98166787324573,
+        "min_lado_entrada640": 49.66055595774857,
+        "pequena_640_menor16": false,
+        "aspecto": 1.9579661079839634,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 360.60520629322025,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "16abd2d042801f7d209edd1c5f17ee8dfc4bb382c2d4fd0c955fa8b91f886b58"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000000",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 0,
+      "pts_seconds": 0.0,
+      "image_sha256": "d1ebfd7592fe4c3501675f4e3c7386ad29bb8b783a072a4cab53bc384e4d87f1",
+      "box": {
+        "box_id": "07d84ec8-b8bd-4b42-8fae-7d0475462868",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          992.0417129795587,
+          0,
+          1320.0489132910907,
+          75.11684373949124
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "3971f86e-7640-40ee-b3c9-d1ae87d4dca8",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa casi no vista color amarilla"
+      },
+      "medidas": {
+        "ancho_px": 328.00720031153196,
+        "alto_px": 75.11684373949124,
+        "min_lado_entrada640": 25.038947913163746,
+        "pequena_640_menor16": false,
+        "aspecto": 4.366626497900742,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 247.90883567091913,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "49dacf2b8801c468d26f76bccd42774d422bd216ff4da5d35302dbf6b6d371ab"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000000",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 0,
+      "pts_seconds": 0.0,
+      "image_sha256": "d1ebfd7592fe4c3501675f4e3c7386ad29bb8b783a072a4cab53bc384e4d87f1",
+      "box": {
+        "box_id": "8b32389e-008f-4c05-bb3b-9fe24de26c48",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1426.4635346686919,
+          0,
+          1689.3699469518594,
+          108.91939591366095
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "1c85bf35-0072-4a59-8f4d-9ed6aab679b1",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca que tapa al envase al que va asocioado"
+      },
+      "medidas": {
+        "ancho_px": 262.9064122831676,
+        "alto_px": 108.91939591366095,
+        "min_lado_entrada640": 36.30646530455365,
+        "pequena_640_menor16": false,
+        "aspecto": 2.41377038568567,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 411.82665629401384,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "c0d4986333574803f9f3618256c73bd492c5814507075bae5883a534f5c4ef19"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000030",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 30,
+      "pts_seconds": 1.001,
+      "image_sha256": "4cc9f3621373bd2f0a45cc7163ca994b996d17fdc7bafda0ecd93db3c948939a",
+      "box": {
+        "box_id": "500a26f6-449b-4fde-9b3e-babcf303326b",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          471.2364403158991,
+          2.9538220367967023,
+          734.1429901408342,
+          175.72250418184868
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "791c6d5f-3909-4f31-bd4d-7a35338baa62",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla en un envase plastico"
+      },
+      "medidas": {
+        "ancho_px": 262.9065498249351,
+        "alto_px": 172.76868214505197,
+        "min_lado_entrada640": 57.58956071501732,
+        "pequena_640_menor16": false,
+        "aspecto": 1.5217257350160591,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 279.76643790077037,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "50430fb735a881d07b8bbedfd3463fc8b6e8a20f220c5806802b11f9cf26b95e"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000030",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 30,
+      "pts_seconds": 1.001,
+      "image_sha256": "4cc9f3621373bd2f0a45cc7163ca994b996d17fdc7bafda0ecd93db3c948939a",
+      "box": {
+        "box_id": "345c85ed-1e08-4ff3-b3f1-dbae2f05ec90",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1014.5765561776456,
+          1.7018883954392012,
+          1242.4289360370606,
+          89.33820609151233
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "27176d9b-2fe6-4be3-bd27-8201c51b15d3",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla "
+      },
+      "medidas": {
+        "ancho_px": 227.852379859415,
+        "alto_px": 87.63631769607314,
+        "min_lado_entrada640": 29.212105898691043,
+        "pequena_640_menor16": false,
+        "aspecto": 2.5999766517988325,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 192.29508843239586,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "9c0faa303d9a0576ed6075b9cc4f638993847a970011772de8fa86cf43c277ed"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000030",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 30,
+      "pts_seconds": 1.001,
+      "image_sha256": "4cc9f3621373bd2f0a45cc7163ca994b996d17fdc7bafda0ecd93db3c948939a",
+      "box": {
+        "box_id": "e70bbd18-0f26-4493-8490-fb7daa747bd8",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1427.7154398370817,
+          2.953804843920844,
+          1663.0793882486032,
+          111.87320075758178
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "c91d392e-093b-4a51-8305-c9d6c47fe892",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca "
+      },
+      "medidas": {
+        "ancho_px": 235.3639484115215,
+        "alto_px": 108.91939591366094,
+        "min_lado_entrada640": 36.30646530455364,
+        "pequena_640_menor16": false,
+        "aspecto": 2.1609002367043204,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 290.7700137365851,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "ac1f9767d0769952a8dd7c3445ef496871e3fdc49ec2b93e5cb0a27ce8b124b9"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000030",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 30,
+      "pts_seconds": 1.001,
+      "image_sha256": "4cc9f3621373bd2f0a45cc7163ca994b996d17fdc7bafda0ecd93db3c948939a",
+      "box": {
+        "box_id": "868fe60c-e2f4-4aff-9fc7-f25219fd9b93",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1723.1722117489896,
+          506.2365272326557,
+          1870.9007352467113,
+          625.171478241556
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja suelta"
+      },
+      "medidas": {
+        "ancho_px": 147.72852349772165,
+        "alto_px": 118.93495100890027,
+        "min_lado_entrada640": 39.64498366963342,
+        "pequena_640_menor16": false,
+        "aspecto": 1.2420951305278352,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 233.73992025492552,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "70a862c292e58285764904d0b1830231c778b73edecec6fb3120867defc55d4a"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000060",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 60,
+      "pts_seconds": 2.002,
+      "image_sha256": "db4900518dd6955d8d4af8f8f0c220b70be38ef5ee89ec28fc1abcabd6a5bbfe",
+      "box": {
+        "box_id": "126c60f7-40c5-4b4b-81cc-f7ae81196789",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          456.21323444080247,
+          59.29142045566343,
+          726.631352817844,
+          223.29649833970944
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "084ccbdc-89b2-4d31-af6c-fafbab8edf18",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla que tapa al envase de plastico"
+      },
+      "medidas": {
+        "ancho_px": 270.41811837704154,
+        "alto_px": 164.00507788404602,
+        "min_lado_entrada640": 54.668359294682006,
+        "pequena_640_menor16": false,
+        "aspecto": 1.648839913165561,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 259.1097081291206,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "d3b11f76c4d3fcc6b85a9e8f566c9a4771a639c721c3470faa668fee1a50f11f"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000060",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 60,
+      "pts_seconds": 2.002,
+      "image_sha256": "db4900518dd6955d8d4af8f8f0c220b70be38ef5ee89ec28fc1abcabd6a5bbfe",
+      "box": {
+        "box_id": "80472e13-c4f2-475c-a1fb-b9cd0532815b",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1005.8130136862655,
+          1.7018712025633431,
+          1204.8708181929935,
+          96.84984232540906
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "a9568300-998e-4076-a1e7-f30e42b46cd1",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla que tapa al envase de plastico"
+      },
+      "medidas": {
+        "ancho_px": 199.05780450672796,
+        "alto_px": 95.14797112284572,
+        "min_lado_entrada640": 31.715990374281905,
+        "pequena_640_menor16": false,
+        "aspecto": 2.0920866956766115,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 186.0786090467665,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "134203a064ae36f20113d3a7f4d4a7595a48874d5f41998da8116125f002f269"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000060",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 60,
+      "pts_seconds": 2.002,
+      "image_sha256": "db4900518dd6955d8d4af8f8f0c220b70be38ef5ee89ec28fc1abcabd6a5bbfe",
+      "box": {
+        "box_id": "823843cb-1c22-45bf-8f82-f05927f4cd89",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1427.7154398370817,
+          1.7018712025633431,
+          1615.5057539738825,
+          120.63683940433944
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "0dc62863-7a8e-4558-afad-4f69bb4089cc",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca que tapa el envase de plastico con asa roja"
+      },
+      "medidas": {
+        "ancho_px": 187.79031413680082,
+        "alto_px": 118.9349682017761,
+        "min_lado_entrada640": 39.64498940059203,
+        "pequena_640_menor16": false,
+        "aspecto": 1.5789327308534689,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 534.2485753478346,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "6f8fbc748842d56246c5696d6958fd652b8488f51687bf3dfd6175bcfb5cad50"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000060",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 60,
+      "pts_seconds": 2.002,
+      "image_sha256": "db4900518dd6955d8d4af8f8f0c220b70be38ef5ee89ec28fc1abcabd6a5bbfe",
+      "box": {
+        "box_id": "c4829842-5e15-4024-a142-c2ecc3c82448",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1725.676159627537,
+          536.2832784827528,
+          1869.6486925365539,
+          648.958509706238
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja suelta"
+      },
+      "medidas": {
+        "ancho_px": 143.972532909017,
+        "alto_px": 112.67523122348518,
+        "min_lado_entrada640": 37.55841040782839,
+        "pequena_640_menor16": false,
+        "aspecto": 1.2777655865063664,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 231.61006176429257,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "3cc8ef520243936c03dd59a4c492791aa6779c8f5893e45a5f470de093e88563"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000090",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 90,
+      "pts_seconds": 3.003,
+      "image_sha256": "182459a6daf65791499d70120daa0133563a681d17f308e88e4f0dee1081580e",
+      "box": {
+        "box_id": "88015e43-ea15-4354-9a09-7b6cdd1269a8",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          451.20547622547565,
+          106.86543180640007,
+          670.294244822627,
+          259.60296937522173
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "bb0fb394-b51e-4c72-9120-3cdce3462f38",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla que tapa al envase de plastico"
+      },
+      "medidas": {
+        "ancho_px": 219.08876859715133,
+        "alto_px": 152.73753756882166,
+        "min_lado_entrada640": 50.91251252294055,
+        "pequena_640_menor16": false,
+        "aspecto": 1.4344133870721374,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 299.23723684728657,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "27a53e2817dbcdbca87ff17abeba784fdfde66c4e86df581abe7d151b12d4e91"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000090",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 90,
+      "pts_seconds": 3.003,
+      "image_sha256": "182459a6daf65791499d70120daa0133563a681d17f308e88e4f0dee1081580e",
+      "box": {
+        "box_id": "d5f64e63-f51f-4943-a1b9-df91b5b96e90",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          638.9958591331603,
+          0.4499375612058421,
+          834.2978105929511,
+          73.06287963223038
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "31ec6f5c-6e84-4de1-8e76-52ec963d16b6",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja "
+      },
+      "medidas": {
+        "ancho_px": 195.30195145979087,
+        "alto_px": 72.61294207102453,
+        "min_lado_entrada640": 24.204314023674844,
+        "pequena_640_menor16": false,
+        "aspecto": 2.689630056151163,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 222.16987474816494,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "1cbf57aea9e328a9b7e55c4ae27a4cc78c69f70c43219615e587e3011e02d9f7"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000090",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 90,
+      "pts_seconds": 3.003,
+      "image_sha256": "182459a6daf65791499d70120daa0133563a681d17f308e88e4f0dee1081580e",
+      "box": {
+        "box_id": "98459fff-27f7-4ae6-9632-5b9a2ab45c93",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          949.4759056910485,
+          17.97716327609358,
+          1166.0607951805364,
+          175.72252137472452
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "ba895105-2487-4675-aff0-7573c1eaac0d",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla que tapa al envase relacionado"
+      },
+      "medidas": {
+        "ancho_px": 216.58488948948786,
+        "alto_px": 157.74535809863093,
+        "min_lado_entrada640": 52.58178603287698,
+        "pequena_640_menor16": false,
+        "aspecto": 1.3730032509360262,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 216.4912352866931,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "0956990dd2733e339d6a000e981dd18b9dd8bf1dfbf67c768b586063b4452509"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000090",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 90,
+      "pts_seconds": 3.003,
+      "image_sha256": "182459a6daf65791499d70120daa0133563a681d17f308e88e4f0dee1081580e",
+      "box": {
+        "box_id": "ab7e9ee1-a93c-427b-81aa-d1df99ca24cd",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1378.8899003939712,
+          26.740801922851237,
+          1581.7034891767523,
+          171.96665167914858
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "081c4463-543b-49c2-9fa7-7bb9ef52786b",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca "
+      },
+      "medidas": {
+        "ancho_px": 202.81358878278115,
+        "alto_px": 145.22584975629735,
+        "min_lado_entrada640": 48.40861658543245,
+        "pequena_640_menor16": false,
+        "aspecto": 1.3965391775852678,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 497.737954741594,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "aee9475a2347eafb13fbdcd7868bfecbab58533020817b5f6eab4e2bde5fd4eb"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000090",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 90,
+      "pts_seconds": 3.003,
+      "image_sha256": "182459a6daf65791499d70120daa0133563a681d17f308e88e4f0dee1081580e",
+      "box": {
+        "box_id": "f8b37658-383d-43b4-9d63-6cfcd9dc5396",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1708.1490746447769,
+          576.3455676352136,
+          1847.1138493384672,
+          697.7844203125804
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja suelta"
+      },
+      "medidas": {
+        "ancho_px": 138.9647746936903,
+        "alto_px": 121.43885267736687,
+        "min_lado_entrada640": 40.47961755912229,
+        "pequena_640_menor16": false,
+        "aspecto": 1.1443189031346128,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 241.759264814566,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "01d6996a76824f2bb676ae1c62799cb1add5de64f1b9edfac75907761327a588"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 120,
+      "pts_seconds": 4.004,
+      "image_sha256": "f401be6645a2e351444207ade508a8cfc299279632ea8abcfbf26bc1cba7a884",
+      "box": {
+        "box_id": "e984349c-bb13-419d-81cf-88685ad1d4aa",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          432.42645168888396,
+          148.1796889859699,
+          612.7052316590202,
+          297.1613912449673
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "0c854440-b096-46d3-8429-a34c0892c365",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 180.27877997013627,
+        "alto_px": 148.98170225899742,
+        "min_lado_entrada640": 49.6605674196658,
+        "pequena_640_menor16": false,
+        "aspecto": 1.2100732991809318,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 275.614253545374,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "c35be2f111c22aeac6f50e2cc7000cb6213b186ff613e33da5ba1dccd33bcbd2"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 120,
+      "pts_seconds": 4.004,
+      "image_sha256": "f401be6645a2e351444207ade508a8cfc299279632ea8abcfbf26bc1cba7a884",
+      "box": {
+        "box_id": "51ad9cc5-3394-430e-9f7a-aacfa247c7d1",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          945.7201214149953,
+          76.81869774917874,
+          1127.2507721680795,
+          203.26535376347914
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "24fbefe9-a208-426f-840b-848194c24b77",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 181.53065075308416,
+        "alto_px": 126.4466560143004,
+        "min_lado_entrada640": 42.14888533810013,
+        "pequena_640_menor16": false,
+        "aspecto": 1.4356303003580742,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 227.06583637530412,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "522568585fefa7d332653fd03e913021c6e6d5f977aa0e31bca17e66f447f513"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 120,
+      "pts_seconds": 4.004,
+      "image_sha256": "f401be6645a2e351444207ade508a8cfc299279632ea8abcfbf26bc1cba7a884",
+      "box": {
+        "box_id": "550c1390-1b44-45d1-a094-1882ea99d697",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1153.5414684131033,
+          4.205755678154204,
+          1332.568308829408,
+          89.33817170576062
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 179.0268404163046,
+        "alto_px": 85.13241602760641,
+        "min_lado_entrada640": 28.377472009202137,
+        "pequena_640_menor16": false,
+        "aspecto": 2.102922115569356,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 295.1214126254432,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "29f084a7cbf90a886cfe85c72245ba8c7d3de92fb6d888aa4677c3afeb477ac6"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 120,
+      "pts_seconds": 4.004,
+      "image_sha256": "f401be6645a2e351444207ade508a8cfc299279632ea8abcfbf26bc1cba7a884",
+      "box": {
+        "box_id": "18a977e0-b0ba-4a3c-9aa3-136921cb54e6",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1372.6302370102546,
+          78.0706485834121,
+          1542.8934661642954,
+          213.2809260515943
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "60a1ac5d-66a2-40bc-9b38-348e61e68604",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 170.2632291540408,
+        "alto_px": 135.2102774681822,
+        "min_lado_entrada640": 45.070092489394064,
+        "pequena_640_menor16": false,
+        "aspecto": 1.259247686952697,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 565.1154017116763,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "13fb3c6ccbada51ac3121e64d4ec1fe3d90a7a613bbb988477d480aac311f1a1"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 120,
+      "pts_seconds": 4.004,
+      "image_sha256": "f401be6645a2e351444207ade508a8cfc299279632ea8abcfbf26bc1cba7a884",
+      "box": {
+        "box_id": "a2e47c10-5b3b-4dc1-8842-8e7e330028a9",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1691.8738948304067,
+          616.4078567876742,
+          1819.5712479250535,
+          716.5636484403292
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja suelta"
+      },
+      "medidas": {
+        "ancho_px": 127.69735309464681,
+        "alto_px": 100.15579165265501,
+        "min_lado_entrada640": 33.38526388421833,
+        "pequena_640_menor16": false,
+        "aspecto": 1.2749872073050676,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 221.3949586627694,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "13d4d037292cf40d9f8f216971fb77a3581e7439ce4cbff1c84641882ab52c13"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 120,
+      "pts_seconds": 4.004,
+      "image_sha256": "f401be6645a2e351444207ade508a8cfc299279632ea8abcfbf26bc1cba7a884",
+      "box": {
+        "box_id": "13bacab5-e70b-456f-b1e5-e47b7be7134c",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1650.5599239394026,
+          0.44992036832998794,
+          1805.8000159892304,
+          79.32259941764546
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "98979473-7dda-4b1c-86da-43d3e0f7211b",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 155.2400920498278,
+        "alto_px": 78.87267904931548,
+        "min_lado_entrada640": 26.290893016438492,
+        "pequena_640_menor16": false,
+        "aspecto": 1.9682365797764176,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 158.4131072215545,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "0bb63dfcfa41d26267974cfab55ffd55ea832fb3fb4e4dfc02033cfe39e366ec"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 150,
+      "pts_seconds": 5.005,
+      "image_sha256": "0be3f7c01874d54df26891a8bd49bd96ece147c54e7a2bb281977981ff017f41",
+      "box": {
+        "box_id": "7b522dee-3fff-4ac2-afaf-0823619d1329",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          388.6087048465421,
+          195.75364875807898,
+          628.9803427025066,
+          329.71200977777954
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "3e996050-3c13-4f6c-9e42-1ed018454a12",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 240.37163785596454,
+        "alto_px": 133.95836101970056,
+        "min_lado_entrada640": 44.652787006566854,
+        "pequena_640_menor16": false,
+        "aspecto": 1.7943757748768987,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 274.4803748211339,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "72a6c8cee6dce708babc3b72e94b9656951cbd0d8ddc1663cfee91a795e94f4c"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 150,
+      "pts_seconds": 5.005,
+      "image_sha256": "0be3f7c01874d54df26891a8bd49bd96ece147c54e7a2bb281977981ff017f41",
+      "box": {
+        "box_id": "80622f70-866a-4366-960f-816677acaa0b",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          596.43005184465,
+          33.00053890114217,
+          790.4800981360512,
+          131.90436252668795
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "938c4c67-aec3-413e-9ba8-7e2d264bf38d",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 194.05004629140115,
+        "alto_px": 98.90382362554578,
+        "min_lado_entrada640": 32.967941208515256,
+        "pequena_640_menor16": false,
+        "aspecto": 1.9620075258776966,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 171.76741535249693,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "7e315142984618fe9a22ea4558e381a4cef45831dc29c907b86d38431a4ea8dd"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 150,
+      "pts_seconds": 5.005,
+      "image_sha256": "0be3f7c01874d54df26891a8bd49bd96ece147c54e7a2bb281977981ff017f41",
+      "box": {
+        "box_id": "9014c449-534f-44ef-a998-6aa1584dce29",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          926.9410624929617,
+          111.87321795045764,
+          1113.4795402322566,
+          240.82374124747304
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "1d7d8d76-ac69-4e51-ac73-5513441ac4fa",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 186.53847773929488,
+        "alto_px": 128.9505232970154,
+        "min_lado_entrada640": 42.983507765671796,
+        "pequena_640_menor16": false,
+        "aspecto": 1.4465895365902124,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 215.885433365321,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "84d06b508817d30dcd27317394c3f31441066a6e420ac509db56ab774e7e1b8f"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 150,
+      "pts_seconds": 5.005,
+      "image_sha256": "0be3f7c01874d54df26891a8bd49bd96ece147c54e7a2bb281977981ff017f41",
+      "box": {
+        "box_id": "507a46e8-7f12-4fed-8562-f8b54d7a35a0",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1152.2895632447135,
+          26.740801922851237,
+          1322.5527923987543,
+          138.1640995049789
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 170.2632291540408,
+        "alto_px": 111.42329758212767,
+        "min_lado_entrada640": 37.14109919404255,
+        "pequena_640_menor16": false,
+        "aspecto": 1.5280756614526105,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 261.19242065599366,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "e099fa8349479a0c8dfe874912436106d31dfff664642f073f3fc9d549fa31b7"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 150,
+      "pts_seconds": 5.005,
+      "image_sha256": "0be3f7c01874d54df26891a8bd49bd96ece147c54e7a2bb281977981ff017f41",
+      "box": {
+        "box_id": "f22fdbc6-b264-4f94-b26f-7d3841696038",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1351.3472989805575,
+          124.39267471416366,
+          1536.6338027805787,
+          260.8549202094551
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "b5d664e3-add2-4738-89bc-ada09b02af13",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 185.28650380002114,
+        "alto_px": 136.46224549529143,
+        "min_lado_entrada640": 45.48741516509714,
+        "pequena_640_menor16": false,
+        "aspecto": 1.357785833931733,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 512.9025253900651,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "ad7d12517a64ce7122dd27f43ca55beb0a6f33819a1503cfe207c92927826fc1"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 150,
+      "pts_seconds": 5.005,
+      "image_sha256": "0be3f7c01874d54df26891a8bd49bd96ece147c54e7a2bb281977981ff017f41",
+      "box": {
+        "box_id": "05fe6f8c-e27e-4c86-800c-5267a5dc76cc",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1650.5599239394026,
+          641.4468047008379,
+          1819.5712479250535,
+          764.1376425981899
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja suelta"
+      },
+      "medidas": {
+        "ancho_px": 169.01132398565096,
+        "alto_px": 122.69083789735203,
+        "min_lado_entrada640": 40.896945965784006,
+        "pequena_640_menor16": false,
+        "aspecto": 1.3775382651396715,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 214.20721260653372,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "e720a3ad1ccea26e510febe7fb0ae53ab1c49ded2121bc7e212acd592c9d26e3"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 150,
+      "pts_seconds": 5.005,
+      "image_sha256": "0be3f7c01874d54df26891a8bd49bd96ece147c54e7a2bb281977981ff017f41",
+      "box": {
+        "box_id": "17d66e30-2f97-4011-9761-afcb60423555",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1837.098470449581,
+          668.9896542824683,
+          1920,
+          830.4907961122959
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla suelta"
+      },
+      "medidas": {
+        "ancho_px": 82.9015295504189,
+        "alto_px": 161.5011418298276,
+        "min_lado_entrada640": 27.633843183472965,
+        "pequena_640_menor16": false,
+        "aspecto": 0.513318535157922,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 229.93942573712366,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "1bbda59062d39113edc53ed78857cbd4c2396dfa40ce422cca65dd8dff862254"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 150,
+      "pts_seconds": 5.005,
+      "image_sha256": "0be3f7c01874d54df26891a8bd49bd96ece147c54e7a2bb281977981ff017f41",
+      "box": {
+        "box_id": "0a4f6f2f-4cf0-454f-b406-a4240a9766f1",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1650.5599239394026,
+          4.205764274592132,
+          1804.5481108208407,
+          104.36153013793334
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "020d0f2b-1c01-4d97-b1e6-c59f9549bf48",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 153.9881868814382,
+        "alto_px": 100.15576586334122,
+        "min_lado_entrada640": 33.3852552877804,
+        "pequena_640_menor16": false,
+        "aspecto": 1.5374869889323126,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 219.82667443694945,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "c9889e79563db99e1351e9a02ba51c0e34829964d55f657860d691c154806a9e"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 180,
+      "pts_seconds": 6.006,
+      "image_sha256": "da3502cbc54bc9fc506715e56ff4fc4c533a94cb64fa4493a834ff6eb5f378a9",
+      "box": {
+        "box_id": "53a3372c-2845-484a-987e-85179bf3a66e",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          407.3877293831338,
+          249.58739708710655,
+          592.6741987977131,
+          383.54572372105537
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "4701eb9f-2bfd-4c38-bdc4-c1e6c27139e3",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 185.2864694145793,
+        "alto_px": 133.95832663394881,
+        "min_lado_entrada640": 44.6527755446496,
+        "pequena_640_menor16": false,
+        "aspecto": 1.383165004150048,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 340.74906259372335,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "4a86ee541fc9e1cf6f4311b643db5d114ef0d0d4907a76f96b81de9cdf51a8e8"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 180,
+      "pts_seconds": 6.006,
+      "image_sha256": "da3502cbc54bc9fc506715e56ff4fc4c533a94cb64fa4493a834ff6eb5f378a9",
+      "box": {
+        "box_id": "b2f1a3ba-ce57-4442-aa3f-834edf0005ed",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          590.1703884609334,
+          74.31479608071201,
+          764.1894018910274,
+          183.2342091872488
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "49891aa7-a6f8-4173-a176-da2dc4624963",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 174.019013430094,
+        "alto_px": 108.9194131065368,
+        "min_lado_entrada640": 36.30647103551226,
+        "pequena_640_menor16": false,
+        "aspecto": 1.5976859263819359,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 251.5902848804183,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "1b473790adfb0d7bd1b7a4177ad03fbf3a3205f64fc0946b25603b478d47c1f8"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 180,
+      "pts_seconds": 6.006,
+      "image_sha256": "da3502cbc54bc9fc506715e56ff4fc4c533a94cb64fa4493a834ff6eb5f378a9",
+      "box": {
+        "box_id": "1a1d9095-e7c9-4e95-bdc1-2f7eb577f6b3",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          800.4955457958209,
+          2.9538392296725604,
+          970.7588437207455,
+          58.03950400718178
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 170.2632979249246,
+        "alto_px": 55.08566477750922,
+        "min_lado_entrada640": 18.36188825916974,
+        "pequena_640_menor16": false,
+        "aspecto": 3.0908821489695613,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 182.08786391319546,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "26603316bf5e201aa27959a55a16da3f8d2f4a16776c8ae1c48cec101e9c74a7"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 180,
+      "pts_seconds": 6.006,
+      "image_sha256": "da3502cbc54bc9fc506715e56ff4fc4c533a94cb64fa4493a834ff6eb5f378a9",
+      "box": {
+        "box_id": "db1bff5f-e384-49e4-9838-49030c74d9a0",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          924.4371833852983,
+          166.9588784297479,
+          1088.4408179265063,
+          269.6185373651179
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "87f516fd-5bf8-4841-aa79-5a9eec6c51b7",
+        "partial": true,
+        "occluded": true,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 164.00363454120793,
+        "alto_px": 102.65965893537,
+        "min_lado_entrada640": 34.21988631179,
+        "pequena_640_menor16": false,
+        "aspecto": 1.5975470427430252,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 289.48866149390625,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "537753f62989cbaac18fb389a7c15ebba4d8331bfb7d585ce3ffa1b476dd6012"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 180,
+      "pts_seconds": 6.006,
+      "image_sha256": "da3502cbc54bc9fc506715e56ff4fc4c533a94cb64fa4493a834ff6eb5f378a9",
+      "box": {
+        "box_id": "55770c91-c461-47c8-9714-d77f91981b6a",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1129.7547200466267,
+          75.56674691494538,
+          1292.506380648561,
+          176.97445501608203
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 162.7516606019342,
+        "alto_px": 101.40770810113665,
+        "min_lado_entrada640": 33.80256936704555,
+        "pequena_640_menor16": false,
+        "aspecto": 1.6049239613976638,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 379.8946446052701,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "ed6eb95595e65819fffaafaa235054f482d278d4efb7e5c2d07c17bb8b01327a"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 180,
+      "pts_seconds": 6.006,
+      "image_sha256": "da3502cbc54bc9fc506715e56ff4fc4c533a94cb64fa4493a834ff6eb5f378a9",
+      "box": {
+        "box_id": "469f7dd1-2e06-48ab-a0ab-4a805f1ef21f",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1337.5760670447346,
+          175.72250418184868,
+          1504.0834431518383,
+          293.40553874226725
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "4f1cb4c5-ef04-4b74-8397-1a7c8db6c2cc",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 166.5073761071037,
+        "alto_px": 117.68303456041858,
+        "min_lado_entrada640": 39.22767818680619,
+        "pequena_640_menor16": false,
+        "aspecto": 1.4148800354193678,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 804.864759766952,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "2b26fc29eb5ad504e9ac1515ccacac5079a9e34d7756e902272f1c91258fed21"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 180,
+      "pts_seconds": 6.006,
+      "image_sha256": "da3502cbc54bc9fc506715e56ff4fc4c533a94cb64fa4493a834ff6eb5f378a9",
+      "box": {
+        "box_id": "11cc4693-2a2a-4b39-bbd8-ae7bbee77d59",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1641.7964502189063,
+          686.5169272777647,
+          1789.5248361748602,
+          809.2076964036133
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja suelta"
+      },
+      "medidas": {
+        "ancho_px": 147.72838595595385,
+        "alto_px": 122.69076912584865,
+        "min_lado_entrada640": 40.89692304194955,
+        "pequena_640_menor16": false,
+        "aspecto": 1.2040709093968036,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 313.6582809475869,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "c69e4db11f8ffa37d819b969ac690ce417815e14dfccd0e1b9f0da7cea1cbfdc"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 180,
+      "pts_seconds": 6.006,
+      "image_sha256": "da3502cbc54bc9fc506715e56ff4fc4c533a94cb64fa4493a834ff6eb5f378a9",
+      "box": {
+        "box_id": "46098f96-c1c6-43bd-acef-9c2a6827b34c",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1820.823290635211,
+          717.8155949763435,
+          1920,
+          869.3011989038077
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla suelta"
+      },
+      "medidas": {
+        "ancho_px": 99.17670936478908,
+        "alto_px": 151.48560392746424,
+        "min_lado_entrada640": 33.05890312159636,
+        "pequena_640_menor16": false,
+        "aspecto": 0.6546939563463589,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 267.5262991627152,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "d34c00063083791167986e2473f25dca4121ff97ab0b6dc18bc637e496b70785"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 180,
+      "pts_seconds": 6.006,
+      "image_sha256": "da3502cbc54bc9fc506715e56ff4fc4c533a94cb64fa4493a834ff6eb5f378a9",
+      "box": {
+        "box_id": "fb9e6d1b-88ad-430d-bb2c-5687e39a0856",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1604.238332374839,
+          39.26027587943311,
+          1769.4939408553207,
+          178.2264402360671
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "9728c5b1-629d-4ba8-8e50-714e0e3a9fcc",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla "
+      },
+      "medidas": {
+        "ancho_px": 165.25560848048167,
+        "alto_px": 138.966164356634,
+        "min_lado_entrada640": 46.322054785544665,
+        "pequena_640_menor16": false,
+        "aspecto": 1.1891787417862385,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 277.5260008839143,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "e8900730baeb65a5b1bf60875135432a07f0ad7b2908fc95bf28d66859b513fe"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 210,
+      "pts_seconds": 7.007,
+      "image_sha256": "0c5b81e5b95d6cc8726719709c71c1aa34589e472d447a80271939d1139fa3ad",
+      "box": {
+        "box_id": "8207f728-0690-4ccd-9441-00d344b5f717",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          383.60094663121527,
+          295.90944041073396,
+          560.1239079398564,
+          404.8288191315191
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "c1879581-5331-4e15-87ee-c5ad300ad0ce",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 176.52296130864113,
+        "alto_px": 108.91937872078512,
+        "min_lado_entrada640": 36.306459573595035,
+        "pequena_640_menor16": false,
+        "aspecto": 1.620675433351101,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 290.7295340558261,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "fae28055fdb9a3367e976704e7b03252960f8511d7c66c446fcbdbcf73e1bbad"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 210,
+      "pts_seconds": 7.007,
+      "image_sha256": "0c5b81e5b95d6cc8726719709c71c1aa34589e472d447a80271939d1139fa3ad",
+      "box": {
+        "box_id": "a29b0a9b-093d-473e-be1b-0c87fb0c1f30",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          593.9261727369866,
+          110.62125851978635,
+          734.1429901408342,
+          219.54066302988522
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "e12447d0-b888-4ac8-b62f-fb2dd1bbef64",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 140.21681740384759,
+        "alto_px": 108.91940451009887,
+        "min_lado_entrada640": 36.30646817003296,
+        "pequena_640_menor16": false,
+        "aspecto": 1.2873446933952606,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 299.10844074867083,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "239ff65d635acef3045942406de1582754fa1fb54b080f18184e1895cf2f12b8"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 210,
+      "pts_seconds": 7.007,
+      "image_sha256": "0c5b81e5b95d6cc8726719709c71c1aa34589e472d447a80271939d1139fa3ad",
+      "box": {
+        "box_id": "c2adc32e-9dd5-4380-ab8e-cc915ecd7c19",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          796.7397615197677,
+          9.21355901508764,
+          939.4604580312787,
+          85.58231920306054
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 142.72069651151094,
+        "alto_px": 76.3687601879729,
+        "min_lado_entrada640": 25.456253395990963,
+        "pequena_640_menor16": false,
+        "aspecto": 1.8688361073326372,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 211.44131969008527,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "dcfcc66ad3a81a15393626bdae3b5201673469a3dd5ac292f46ce85293608295"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 210,
+      "pts_seconds": 7.007,
+      "image_sha256": "0c5b81e5b95d6cc8726719709c71c1aa34589e472d447a80271939d1139fa3ad",
+      "box": {
+        "box_id": "6f6068e0-8d98-494b-b865-1b605f438b23",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          898.1465559111583,
+          202.01340292924579,
+          1072.165638112136,
+          304.67306186461576
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "9d39ae74-4fed-4bff-b72b-5cf920417fee",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 174.01908220097778,
+        "alto_px": 102.65965893536998,
+        "min_lado_entrada640": 34.21988631178999,
+        "pequena_640_menor16": false,
+        "aspecto": 1.6951067635100228,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 257.27924824398235,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "c5e6d70536a3a63ce2906ea65a932bd62a993ca93532e579bc1368acf7024199"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 210,
+      "pts_seconds": 7.007,
+      "image_sha256": "0c5b81e5b95d6cc8726719709c71c1aa34589e472d447a80271939d1139fa3ad",
+      "box": {
+        "box_id": "76922072-844b-445b-a887-f75625a4d0a8",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1122.2430827236365,
+          121.88879023857281,
+          1281.2389590495177,
+          212.02897521736094
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 158.99587632588123,
+        "alto_px": 90.14018497878813,
+        "min_lado_entrada640": 30.04672832626271,
+        "pequena_640_menor16": false,
+        "aspecto": 1.7638734196440387,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 408.90061986335513,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "51a5bb98a4e9edd22a01b2df9cc020da63a2a601b0910b47086883f5b8a684d9"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 210,
+      "pts_seconds": 7.007,
+      "image_sha256": "0c5b81e5b95d6cc8726719709c71c1aa34589e472d447a80271939d1139fa3ad",
+      "box": {
+        "box_id": "8f8feede-55b7-4d4d-86e0-e60962de43fa",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1321.3008872303644,
+          209.525099338208,
+          1486.5563581690783,
+          330.963952015575
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "c7530b30-3e58-4cf8-84dc-ce7e61cb7040",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 165.25547093871387,
+        "alto_px": 121.43885267736698,
+        "min_lado_entrada640": 40.479617559122325,
+        "pequena_640_menor16": false,
+        "aspecto": 1.3608121889767586,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 661.7864037827111,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "b8a8195fe8822b38dfdb6451b68a7a18990d377cf8acc3dd9948ff0aea7b7dcb"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 210,
+      "pts_seconds": 7.007,
+      "image_sha256": "0c5b81e5b95d6cc8726719709c71c1aa34589e472d447a80271939d1139fa3ad",
+      "box": {
+        "box_id": "8b18f7df-4cb5-48d1-af84-3e24d5c6168d",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1248.6885994207773,
+          0.449920368329984,
+          1385.1495637776877,
+          51.779749836014986
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 136.46096435691038,
+        "alto_px": 51.329829467685,
+        "min_lado_entrada640": 17.109943155895,
+        "pequena_640_menor16": false,
+        "aspecto": 2.6585119368615904,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 207.84945265340062,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "f2af22f3f5b762f127fd050d1756c97c1a30f4202af6543009a16cd5cbbdb0f8"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 210,
+      "pts_seconds": 7.007,
+      "image_sha256": "0c5b81e5b95d6cc8726719709c71c1aa34589e472d447a80271939d1139fa3ad",
+      "box": {
+        "box_id": "e726fdcb-5001-41ba-a0b0-ce2f1bfc4f8a",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1604.238332374839,
+          84.33036836882718,
+          1750.7148131624033,
+          185.73807646996383
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "55c361ed-40ef-41a5-8549-d497758bf835",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 146.47648078756424,
+        "alto_px": 101.40770810113665,
+        "min_lado_entrada640": 33.80256936704555,
+        "pequena_640_menor16": false,
+        "aspecto": 1.4444314296254412,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 222.74118659068267,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "4530298fad41de6ecc3ddcf093b524afa6c6c0061c1f46bddd75d4cd27146625"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 210,
+      "pts_seconds": 7.007,
+      "image_sha256": "0c5b81e5b95d6cc8726719709c71c1aa34589e472d447a80271939d1139fa3ad",
+      "box": {
+        "box_id": "2acce4ae-67aa-422b-9eb5-71bea58ca24d",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1634.2847441250324,
+          731.5870240653777,
+          1788.2729310064706,
+          834.246648614996
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja suelta"
+      },
+      "medidas": {
+        "ancho_px": 153.9881868814382,
+        "alto_px": 102.65962454961834,
+        "min_lado_entrada640": 34.21987484987278,
+        "pequena_640_menor16": false,
+        "aspecto": 1.4999878243954738,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 304.515220334926,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "acd5ad86be1fb82d16d5c763d26114302dbfdd277cc0feebf6c18ba8299b8a9a"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 210,
+      "pts_seconds": 7.007,
+      "image_sha256": "0c5b81e5b95d6cc8726719709c71c1aa34589e472d447a80271939d1139fa3ad",
+      "box": {
+        "box_id": "3f1df3c9-e8e5-47d4-ab75-f846eeb7c7d4",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1813.311584541337,
+          757.8778884270231,
+          1920,
+          899.3478856806204
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla suelta"
+      },
+      "medidas": {
+        "ancho_px": 106.68841545866303,
+        "alto_px": 141.46999725359728,
+        "min_lado_entrada640": 35.56280515288768,
+        "pequena_640_menor16": false,
+        "aspecto": 0.7541416380139936,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 227.47667878231698,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "735547fda9bc8e18cca9500dcf135938c2c7ec54a07fafd7ee183bdcd0ce6b31"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 240,
+      "pts_seconds": 8.008,
+      "image_sha256": "ea5a8437fb60c902f08e5297e690c659d5a8b6f28b268362d53405a2bd9ca009",
+      "box": {
+        "box_id": "b9c62a69-dd4e-4b2e-8d3a-5d9224da6c1b",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          371.0815854783402,
+          332.21587706049456,
+          565.1316661551832,
+          441.1352901670313
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "c420b89a-037f-4c99-8d7c-a080b01b4350",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 194.05008067684304,
+        "alto_px": 108.91941310653675,
+        "min_lado_entrada640": 36.306471035512246,
+        "pequena_640_menor16": false,
+        "aspecto": 1.781593153527534,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 302.3950587184377,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "336a37e270edeb11f47ad398b38458a2e4ca41bde57fadd5fec0fdca30990510"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 240,
+      "pts_seconds": 8.008,
+      "image_sha256": "ea5a8437fb60c902f08e5297e690c659d5a8b6f28b268362d53405a2bd9ca009",
+      "box": {
+        "box_id": "5b49478a-6350-4b55-bb80-17a30078f39f",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          575.1471138149531,
+          151.93550710291828,
+          709.104267835084,
+          244.57959375017313
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "182eac59-31bb-4748-a1dd-1d96bf2c5e55",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 133.95715402013093,
+        "alto_px": 92.64408664725485,
+        "min_lado_entrada640": 30.881362215751615,
+        "pequena_640_menor16": false,
+        "aspecto": 1.4459331282543355,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 287.606553493285,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "6d148141774eed7f21d81c25d39e82fe6a53e467f52fae21dc3ab9ff9789756c"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 240,
+      "pts_seconds": 8.008,
+      "image_sha256": "ea5a8437fb60c902f08e5297e690c659d5a8b6f28b268362d53405a2bd9ca009",
+      "box": {
+        "box_id": "7a775ad9-b373-41ce-8ba5-9aed83b8605e",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          891.8868925274418,
+          239.57180975522502,
+          1045.8750106379962,
+          343.48340233195256
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 153.9881181105544,
+        "alto_px": 103.91159257672754,
+        "min_lado_entrada640": 34.63719752557584,
+        "pequena_640_menor16": false,
+        "aspecto": 1.4819147151156473,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 256.22914806147224,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "e79336806c72134b2e90967d5bb9b9992be73e121c9f013adad161db3753664a"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 240,
+      "pts_seconds": 8.008,
+      "image_sha256": "ea5a8437fb60c902f08e5297e690c659d5a8b6f28b268362d53405a2bd9ca009",
+      "box": {
+        "box_id": "fd394b66-4ab3-4c56-a88c-4cea9bb23582",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1092.1966022025595,
+          153.18745793715163,
+          1263.7118740667577,
+          257.099067706755
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 171.5152718641982,
+        "alto_px": 103.91160976960339,
+        "min_lado_entrada640": 34.63720325653446,
+        "pequena_640_menor16": false,
+        "aspecto": 1.650588151261328,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 386.82922978223195,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "f11fcb7c185b09b5f0c6b146c3330f2f72b0fc5a7befd541699a283d55846f7d"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 240,
+      "pts_seconds": 8.008,
+      "image_sha256": "ea5a8437fb60c902f08e5297e690c659d5a8b6f28b268362d53405a2bd9ca009",
+      "box": {
+        "box_id": "e787fbb5-1a53-4c90-8c37-241db8172563",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1232.413419606407,
+          11.7174434906785,
+          1380.141805562361,
+          94.34594065694233
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 147.72838595595408,
+        "alto_px": 82.62849716626383,
+        "min_lado_entrada640": 27.542832388754608,
+        "pequena_640_menor16": false,
+        "aspecto": 1.7878624327233887,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 197.18528993658333,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "a53cafc47d10ad866654e7a04a38a1c499b471b018b0502e3429cd9945566c21"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 240,
+      "pts_seconds": 8.008,
+      "image_sha256": "ea5a8437fb60c902f08e5297e690c659d5a8b6f28b268362d53405a2bd9ca009",
+      "box": {
+        "box_id": "cbaffa56-be3c-4d10-b8de-f42e52bc57d8",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1300.0179492006673,
+          247.0834868222019,
+          1467.7773680179287,
+          373.5301428365023
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "4953d043-2576-449a-b5a4-0c9129a8040e",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 167.75941881726135,
+        "alto_px": 126.4466560143004,
+        "min_lado_entrada640": 42.14888533810013,
+        "pequena_640_menor16": false,
+        "aspecto": 1.326720880608252,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 693.3939164170846,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "949c5a6bb2cd72ec376123c4e24234d9f10d09c0ecfae3b28141d3fae0e167fb"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 240,
+      "pts_seconds": 8.008,
+      "image_sha256": "ea5a8437fb60c902f08e5297e690c659d5a8b6f28b268362d53405a2bd9ca009",
+      "box": {
+        "box_id": "53c02027-1efe-43fb-b181-59186d6f4e9f",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1570.436067577709,
+          118.13292054299687,
+          1739.44739156336,
+          228.30428448376702
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "0f78e9da-b6cd-4fc7-a834-91fc97cad13c",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 169.01132398565096,
+        "alto_px": 110.17136394077015,
+        "min_lado_entrada640": 36.723787980256716,
+        "pequena_640_menor16": false,
+        "aspecto": 1.5340767141315788,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 234.82546304183165,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "79891d47549a0daef953fdc863488d02609c69da4fc9d7a9bbdcc6339c268980"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 240,
+      "pts_seconds": 8.008,
+      "image_sha256": "ea5a8437fb60c902f08e5297e690c659d5a8b6f28b268362d53405a2bd9ca009",
+      "box": {
+        "box_id": "1a7986be-3ff2-478e-a2c1-81d10fdb4a03",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1625.5212704045362,
+          762.8857261497083,
+          1759.478424424667,
+          874.3089721532084
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja suelta"
+      },
+      "medidas": {
+        "ancho_px": 133.95715402013093,
+        "alto_px": 111.42324600350014,
+        "min_lado_entrada640": 37.14108200116671,
+        "pequena_640_menor16": false,
+        "aspecto": 1.2022370450051592,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 310.61981763317607,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "88b3f652743c861f833ef799d22bc3d3c4c42f5706601c5c993bd66401f94a7b"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 240,
+      "pts_seconds": 8.008,
+      "image_sha256": "ea5a8437fb60c902f08e5297e690c659d5a8b6f28b268362d53405a2bd9ca009",
+      "box": {
+        "box_id": "fe4a33bf-4c94-437a-8c35-8ccf6bb048d0",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1798.288447437124,
+          789.1765776166968,
+          1920,
+          935.6543782072275
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla suelta"
+      },
+      "medidas": {
+        "ancho_px": 121.71155256287602,
+        "alto_px": 146.4778005905307,
+        "min_lado_entrada640": 40.570517520958674,
+        "pequena_640_menor16": false,
+        "aspecto": 0.8309214916676204,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 278.1857217869186,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "309f60ff305670101ddc41c6f1394da4f97a725b888078ba358de8321d2179ab"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 270,
+      "pts_seconds": 9.009,
+      "image_sha256": "37ba6180f3732baaebe0099642eec52d34911d182dbc526ec0188ab6a676e095",
+      "box": {
+        "box_id": "4db404cb-0bcd-4c2d-8eb2-4d4bd97909ac",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          341.03513934270507,
+          364.7665299790584,
+          532.5813065264429,
+          483.7014809879587
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "ad0383b1-418d-435e-ba0a-090bead71ab5",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 191.5461671837378,
+        "alto_px": 118.93495100890027,
+        "min_lado_entrada640": 39.64498366963342,
+        "pequena_640_menor16": false,
+        "aspecto": 1.6105120114725888,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 346.8317807722681,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "57ef0b6727945336403a50f9bd0b0e11e8725d4284c8167979ef092b3c25e45c"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 270,
+      "pts_seconds": 9.009,
+      "image_sha256": "37ba6180f3732baaebe0099642eec52d34911d182dbc526ec0188ab6a676e095",
+      "box": {
+        "box_id": "98609d1c-d22f-4089-9e09-2a4c56df6a70",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          532.678840815755,
+          169.551412606663,
+          724.7594401780385,
+          297.1293412293991
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "ad5d213e-767c-4bbd-9cd3-0fbb831d5f20",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 192.08059936228346,
+        "alto_px": 127.57792862273607,
+        "min_lado_entrada640": 42.52597620757869,
+        "pequena_640_menor16": false,
+        "aspecto": 1.5055942782257414,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 335.75805497909937,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "fad7f74fce5e2baac5165dadc4dbd42c51d1cbddfa7729f5d0d2a57fb0f8ddf1"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 270,
+      "pts_seconds": 9.009,
+      "image_sha256": "37ba6180f3732baaebe0099642eec52d34911d182dbc526ec0188ab6a676e095",
+      "box": {
+        "box_id": "6e17f0ac-cd0a-4147-981d-c77efea403b7",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          756.295062731721,
+          62.04194842554785,
+          905.372583379568,
+          140.8822264645848
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 149.077520647847,
+        "alto_px": 78.84027803903695,
+        "min_lado_entrada640": 26.28009267967898,
+        "pequena_640_menor16": false,
+        "aspecto": 1.8908801992559285,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 198.23507984831488,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "e2ee1d048f5eccaef983e292fee1d408fc64247dba45a737066e18210809ecd3"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 270,
+      "pts_seconds": 9.009,
+      "image_sha256": "37ba6180f3732baaebe0099642eec52d34911d182dbc526ec0188ab6a676e095",
+      "box": {
+        "box_id": "64163a7b-cc37-44c3-8a10-d92b4f5c0a5c",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          855.2022559809535,
+          268.4601403231409,
+          1020.0476174335442,
+          383.13695133026357
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 164.84536145259074,
+        "alto_px": 114.6768110071227,
+        "min_lado_entrada640": 38.22560366904089,
+        "pequena_640_menor16": false,
+        "aspecto": 1.4374777254867335,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 323.7084257881993,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "09ad9af85f590b1036aa9e8d076325b2d1cbe4709627a00aa31e7c383d1dadda"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 270,
+      "pts_seconds": 9.009,
+      "image_sha256": "37ba6180f3732baaebe0099642eec52d34911d182dbc526ec0188ab6a676e095",
+      "box": {
+        "box_id": "da2d0508-9823-4ce9-aeaf-c34e5e761472",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1057.3170271234083,
+          166.68452075253134,
+          1266.5988697826272,
+          295.69587407882454
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 209.2818426592189,
+        "alto_px": 129.0113533262932,
+        "min_lado_entrada640": 43.00378444209773,
+        "pequena_640_menor16": false,
+        "aspecto": 1.6221970955525675,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 450.7782892712904,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "f94a38ced81725587ed507917ca6e213c48234f03d742b5704ef6514a0336cf8"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 270,
+      "pts_seconds": 9.009,
+      "image_sha256": "37ba6180f3732baaebe0099642eec52d34911d182dbc526ec0188ab6a676e095",
+      "box": {
+        "box_id": "13e34dca-fdb5-4bbc-9481-829bf1f79e9b",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1268.0323903864287,
+          272.76050301889205,
+          1441.4782258479752,
+          393.1711309536829
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 173.4458354615465,
+        "alto_px": 120.41062793479085,
+        "min_lado_entrada640": 40.13687597826362,
+        "pequena_640_menor16": false,
+        "aspecto": 1.4404528772616085,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 767.5155982567652,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "a759b991372246f85e4d07500cb7dbabc3ec4163f7bcd9e5f4d212e21a3815b1"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 270,
+      "pts_seconds": 9.009,
+      "image_sha256": "37ba6180f3732baaebe0099642eec52d34911d182dbc526ec0188ab6a676e095",
+      "box": {
+        "box_id": "6091534c-32b9-4738-87bc-3ecf53f71623",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1511.7167196395185,
+          159.5172495929461,
+          1712.3979111223673,
+          252.69209947951344
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "e545fd5b-e682-42d9-906a-4f7e17eb5301",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 200.68119148284882,
+        "alto_px": 93.17484988656736,
+        "min_lado_entrada640": 31.05828329552245,
+        "pequena_640_menor16": false,
+        "aspecto": 2.153812876834913,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 240.1802060387923,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "37d3ea6db8bdb7e38b4592d75c28e1d4b1a3185ca1a0e42e113bcf3f4f9f6cdf"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 270,
+      "pts_seconds": 9.009,
+      "image_sha256": "37ba6180f3732baaebe0099642eec52d34911d182dbc526ec0188ab6a676e095",
+      "box": {
+        "box_id": "584ee0bb-19d7-411a-aa34-35f270d4623a",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1610.6238538329462,
+          778.7718105215451,
+          1743.9335927318546,
+          892.0151672967509
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja suelta"
+      },
+      "medidas": {
+        "ancho_px": 133.30973889890834,
+        "alto_px": 113.24335677520571,
+        "min_lado_entrada640": 37.74778559173524,
+        "pequena_640_menor16": false,
+        "aspecto": 1.1771969914626912,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 336.1065595926358,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "be449013da9a09d747bf8161a0c7dc0c668558c9ff60ae211d008f196ef01b2b"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 270,
+      "pts_seconds": 9.009,
+      "image_sha256": "37ba6180f3732baaebe0099642eec52d34911d182dbc526ec0188ab6a676e095",
+      "box": {
+        "box_id": "cfcfdae5-f000-4ec1-82ab-504c721c8561",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1774.0357537375403,
+          820.3421604172992,
+          1893.0111133797016,
+          962.2546608875656
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla suelta"
+      },
+      "medidas": {
+        "ancho_px": 118.97535964216127,
+        "alto_px": 141.91250047026642,
+        "min_lado_entrada640": 39.65845321405375,
+        "pequena_640_menor16": false,
+        "aspecto": 0.8383712445901764,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 264.5541682967382,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "a008cdbda70fad06fee0f773a535b139d8222c1a3a35916f8ee3cff5f2493275"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 300,
+      "pts_seconds": 10.01,
+      "image_sha256": "7a851416a012ef974b8c2ea355839cf0c56a6d6f32e2979ae7e5b66ae1cad54e",
+      "box": {
+        "box_id": "25ed90d2-f60f-4333-8025-fcc257baf584",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          297.59507415532823,
+          383.1369624033985,
+          489.675703045514,
+          515.0152241935258
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "a33418ad-6e8e-4fbf-b7a3-ef7a5ad8865f",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 192.08062889018578,
+        "alto_px": 131.87826179012728,
+        "min_lado_entrada640": 43.959420596709094,
+        "pequena_640_menor16": false,
+        "aspecto": 1.4564995495305002,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 356.16795483023503,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "30e42a124a2e84d5239348da025197ca305670cfc38608065ec4c844f79c3adc"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 300,
+      "pts_seconds": 10.01,
+      "image_sha256": "7a851416a012ef974b8c2ea355839cf0c56a6d6f32e2979ae7e5b66ae1cad54e",
+      "box": {
+        "box_id": "006db1b8-4ba9-4a06-ac64-f698a68a6620",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          498.2763542218841,
+          199.65405667170324,
+          660.2547925784817,
+          310.03047545471486
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 161.97843835659756,
+        "alto_px": 110.37641878301162,
+        "min_lado_entrada640": 36.7921395943372,
+        "pequena_640_menor16": false,
+        "aspecto": 1.4675094566623879,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 303.9030981422265,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "d7eaf4d82b3d27cce13417d3912c9f61b969c672262b706cb06b88e3c9fca719"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 300,
+      "pts_seconds": 10.01,
+      "image_sha256": "7a851416a012ef974b8c2ea355839cf0c56a6d6f32e2979ae7e5b66ae1cad54e",
+      "box": {
+        "box_id": "4ac0be73-f95a-4224-a0ca-24435ba78683",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          713.2919840172847,
+          87.8442131851345,
+          863.8029071573236,
+          181.01912212842169
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 150.51092314003893,
+        "alto_px": 93.17490894328718,
+        "min_lado_entrada640": 31.058302981095725,
+        "pequena_640_menor16": false,
+        "aspecto": 1.6153589506768447,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 206.52134319326274,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "4b23bceddb73354257188b840a27de6db68a4e735e1f9b0864c94a6158208a7b"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 300,
+      "pts_seconds": 10.01,
+      "image_sha256": "7a851416a012ef974b8c2ea355839cf0c56a6d6f32e2979ae7e5b66ae1cad54e",
+      "box": {
+        "box_id": "fdb485e4-010d-469a-9f43-9a1a7311c390",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          815.0660413067056,
+          295.69587407882454,
+          994.2457820160433,
+          398.904992173891
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "e50f058a-6355-4a66-944f-01061f8b1ed9",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 179.1797407093377,
+        "alto_px": 103.20911809506646,
+        "min_lado_entrada640": 34.40303936502215,
+        "pequena_640_menor16": false,
+        "aspecto": 1.7360844082040725,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 279.3315133957923,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "07524bd41bd3e337ed4cffdcf0d993be6a4f88fe720f0ede757b1227cb691a0e"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 300,
+      "pts_seconds": 10.01,
+      "image_sha256": "7a851416a012ef974b8c2ea355839cf0c56a6d6f32e2979ae7e5b66ae1cad54e",
+      "box": {
+        "box_id": "67d83e7d-a114-48c2-9abb-2ea0145fd19d",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1034.3819966902913,
+          195.3536939759521,
+          1179.1591917499534,
+          307.1635965192407
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 144.77719505966206,
+        "alto_px": 111.80990254328859,
+        "min_lado_entrada640": 37.269967514429524,
+        "pequena_640_menor16": false,
+        "aspecto": 1.2948512767338276,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 471.5846676022886,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "2d73276c994da6f18fd05cfca14eb9c1219bfd5a8a2b4f1abfc53aff5f9dc0d6"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 300,
+      "pts_seconds": 10.01,
+      "image_sha256": "7a851416a012ef974b8c2ea355839cf0c56a6d6f32e2979ae7e5b66ae1cad54e",
+      "box": {
+        "box_id": "e6080993-cbfc-4044-bd09-1cdb837efea6",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1163.3914100010145,
+          57.7415857297967,
+          1313.9023331410533,
+          143.74913492841887
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 150.5109231400388,
+        "alto_px": 86.00754919862217,
+        "min_lado_entrada640": 28.66918306620739,
+        "pequena_640_menor16": false,
+        "aspecto": 1.7499733981775867,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 154.9844868404776,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "7fa84a03ee930f3ba387338515b90c07d17724a52b98f14facf5afc18214a3c6"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 300,
+      "pts_seconds": 10.01,
+      "image_sha256": "7a851416a012ef974b8c2ea355839cf0c56a6d6f32e2979ae7e5b66ae1cad54e",
+      "box": {
+        "box_id": "dbb1d3cc-2cf3-4db5-8958-a78e4f7c89f2",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1229.3295782043726,
+          304.29666590913666,
+          1388.4411525207815,
+          424.7072643155676
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 159.1115743164089,
+        "alto_px": 120.41059840643095,
+        "min_lado_entrada640": 40.13686613547698,
+        "pequena_640_menor16": false,
+        "aspecto": 1.3214083844957538,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 705.0890546853656,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "1b7fe3545f5fc7c4f3b75a77c4917ef3cb7e4e3554a89e95d9815e1d71f1b419"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 300,
+      "pts_seconds": 10.01,
+      "image_sha256": "7a851416a012ef974b8c2ea355839cf0c56a6d6f32e2979ae7e5b66ae1cad54e",
+      "box": {
+        "box_id": "470f2d53-4391-4878-ab0e-5df01f42d81c",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1510.2831990357172,
+          163.81761228869723,
+          1666.5279683677425,
+          275.627455775266
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 156.24476933202527,
+        "alto_px": 111.80984348656878,
+        "min_lado_entrada640": 37.26994782885626,
+        "pequena_640_menor16": false,
+        "aspecto": 1.39741515111587,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 216.59154648740312,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "fc20bc4ab392a885dfe0d5d089d61376b8b1078764174b5512ade6d0196b1d3e"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 300,
+      "pts_seconds": 10.01,
+      "image_sha256": "7a851416a012ef974b8c2ea355839cf0c56a6d6f32e2979ae7e5b66ae1cad54e",
+      "box": {
+        "box_id": "61691fd6-ed1b-4995-b53c-13b57331a95c",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1577.6547697312672,
+          795.9733498896295,
+          1702.3638574538054,
+          919.2508862882545
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja suelta"
+      },
+      "medidas": {
+        "ancho_px": 124.70908772253824,
+        "alto_px": 123.27753639862499,
+        "min_lado_entrada640": 41.092512132874994,
+        "pequena_640_menor16": false,
+        "aspecto": 1.0116124264463255,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 291.59319536407156,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "162f8a439dcd65c172bedcfb0411be74f79d2a5c5197b3454ec9ed6a02435fad"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 300,
+      "pts_seconds": 10.01,
+      "image_sha256": "7a851416a012ef974b8c2ea355839cf0c56a6d6f32e2979ae7e5b66ae1cad54e",
+      "box": {
+        "box_id": "ae201e2f-324c-4209-ad29-282f545f660a",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1732.4660184594911,
+          827.5095201619641,
+          1851.4413781016524,
+          985.1900171833182
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla suelta"
+      },
+      "medidas": {
+        "ancho_px": 118.97535964216127,
+        "alto_px": 157.68049702135409,
+        "min_lado_entrada640": 39.65845321405375,
+        "pequena_640_menor16": false,
+        "aspecto": 0.7545344027299006,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 317.18661537375453,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "9df88e43afdd4b9531188d9b567b528c825cef388f9d8ed6427f2969cea448be"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 300,
+      "pts_seconds": 10.01,
+      "image_sha256": "7a851416a012ef974b8c2ea355839cf0c56a6d6f32e2979ae7e5b66ae1cad54e",
+      "box": {
+        "box_id": "faff551e-bf7d-4890-8e9e-2f1ad519d567",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1868.6426804543926,
+          912.0835856003093,
+          1920,
+          1072.631109198937
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla suelta"
+      },
+      "medidas": {
+        "ancho_px": 51.357319545607425,
+        "alto_px": 160.54752359862778,
+        "min_lado_entrada640": 17.119106515202475,
+        "pequena_640_menor16": false,
+        "aspecto": 0.3198885812402925,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 281.86980319582784,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "0e931d1d258a7f5640564b61b35e5ef0261edd105fbca903b15f1ceff6ae33d3"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 330,
+      "pts_seconds": 11.011,
+      "image_sha256": "a8d4a87d0e29313128e5106a10b28d36035c0e1c0515f1e0a89ce83889e4770a",
+      "box": {
+        "box_id": "bdc3228a-1929-43f4-9358-04c6c09cd08b",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          277.52693729030193,
+          421.84038168904846,
+          471.04099820058195,
+          532.2167118869803
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "259e5d8d-d7c3-4ea4-a200-3ce59a54e349",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 193.51406091028002,
+        "alto_px": 110.37633019793185,
+        "min_lado_entrada640": 36.79211006597728,
+        "pequena_640_menor16": false,
+        "aspecto": 1.7532206457966288,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 296.43515959391647,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "d413170d5e6316c5bf5745d9165a68e1839e548ab73f5c0f839894127b0e7a39"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 330,
+      "pts_seconds": 11.011,
+      "image_sha256": "a8d4a87d0e29313128e5106a10b28d36035c0e1c0515f1e0a89ce83889e4770a",
+      "box": {
+        "box_id": "bb580ab0-0663-428c-a18b-6dff02e43584",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          482.5085134171405,
+          238.3574981036231,
+          641.6200877335496,
+          341.5665571419697
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "df21b949-85bc-4ff5-bc3d-75c211d7fbd9",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 159.11157431640908,
+        "alto_px": 103.20905903834662,
+        "min_lado_entrada640": 34.403019679448875,
+        "pequena_640_menor16": false,
+        "aspecto": 1.541643493303163,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 253.36008136094674,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "95e75adc8a8259010b3ef541f0394daffc87d5dd770d60cc5f00937a47a20e94"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 330,
+      "pts_seconds": 11.011,
+      "image_sha256": "a8d4a87d0e29313128e5106a10b28d36035c0e1c0515f1e0a89ce83889e4770a",
+      "box": {
+        "box_id": "406a6ebb-cfc8-4fef-af17-54157aa09fe5",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          683.189763955794,
+          133.7149257766396,
+          856.6357175289501,
+          215.42214180787056
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 173.4459535731561,
+        "alto_px": 81.70721603123096,
+        "min_lado_entrada640": 27.235738677076984,
+        "pequena_640_menor16": false,
+        "aspecto": 2.1227739971811035,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 226.99426506603274,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "82281c0bc42b45f949a93f926d188d8c9b36c935bccc6e249d18badcb42c24ac"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 330,
+      "pts_seconds": 11.011,
+      "image_sha256": "a8d4a87d0e29313128e5106a10b28d36035c0e1c0515f1e0a89ce83889e4770a",
+      "box": {
+        "box_id": "a5601f51-d74c-42d4-a777-725653b35fe6",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          786.3972827932116,
+          325.7985310625223,
+          964.143502898748,
+          433.30802661751983
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "f51419ad-4793-420b-9d1b-ffe9eaa1b629",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 177.7462201055364,
+        "alto_px": 107.50949555499756,
+        "min_lado_entrada640": 35.83649851833252,
+        "pequena_640_menor16": false,
+        "aspecto": 1.653307172431188,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 279.1544840201519,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "61827f27a94afeedc2949a56a311ae0b4c84f45e10308e0adc91b2190ea0cf71"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 330,
+      "pts_seconds": 11.011,
+      "image_sha256": "a8d4a87d0e29313128e5106a10b28d36035c0e1c0515f1e0a89ce83889e4770a",
+      "box": {
+        "box_id": "e1ccd715-24fd-4afb-a6da-86528a49819a",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1005.7132381767972,
+          225.45639525218968,
+          1149.0570307442674,
+          335.8327549784815
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 143.34379256747025,
+        "alto_px": 110.37635972629181,
+        "min_lado_entrada640": 36.79211990876394,
+        "pequena_640_menor16": false,
+        "aspecto": 1.29868200874653,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 450.6358769348775,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "2eee45d53d66187a2f18bf39691af1cc2275df026bfaf2eec3188b3864118da1"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 330,
+      "pts_seconds": 11.011,
+      "image_sha256": "a8d4a87d0e29313128e5106a10b28d36035c0e1c0515f1e0a89ce83889e4770a",
+      "box": {
+        "box_id": "85c2b6dc-d036-41ac-8c62-222f218538e2",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1146.1901076482743,
+          97.87843710109372,
+          1289.5339002157443,
+          185.31947005999288
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 143.34379256747002,
+        "alto_px": 87.44103295889916,
+        "min_lado_entrada640": 29.14701098629972,
+        "pequena_640_menor16": false,
+        "aspecto": 1.639319524448521,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 160.3800587746025,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "f03e7aadeab60fa4e5aaa46bf6e1ffe8b188f40992bc2c217972750f1c3f3c95"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 330,
+      "pts_seconds": 11.011,
+      "image_sha256": "a8d4a87d0e29313128e5106a10b28d36035c0e1c0515f1e0a89ce83889e4770a",
+      "box": {
+        "box_id": "db409b7b-6e18-44c7-a04b-84ccc9a49259",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1213.5616783438243,
+          322.93162259868814,
+          1365.5060039760551,
+          459.1102766129265
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "80e5e159-655d-4799-91eb-ddcf78a6fe2f",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 151.94432563223086,
+        "alto_px": 136.17865401423836,
+        "min_lado_entrada640": 45.39288467141279,
+        "pequena_640_menor16": false,
+        "aspecto": 1.115771974191668,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 669.0895414868028,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "7f652e2eca179826ac97d7925bbe9e191fdb8a62d35e9e63f242bf382293a9c6"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 330,
+      "pts_seconds": 11.011,
+      "image_sha256": "a8d4a87d0e29313128e5106a10b28d36035c0e1c0515f1e0a89ce83889e4770a",
+      "box": {
+        "box_id": "2b30dc30-85ee-4e96-aa2f-18976092acc7",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1467.2801793770855,
+          208.25481159156547,
+          1634.9922867582552,
+          330.0989232866333
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "e3215e24-d68c-4942-b336-646cf7dcf4d6",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 167.71210738116974,
+        "alto_px": 121.84411169506782,
+        "min_lado_entrada640": 40.61470389835594,
+        "pequena_640_menor16": false,
+        "aspecto": 1.3764481930886663,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 180.67039699841754,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "736e05efea9356422a08119c79dad6f042e9800bc610c37e5b13b86d67d10f4a"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 330,
+      "pts_seconds": 11.011,
+      "image_sha256": "a8d4a87d0e29313128e5106a10b28d36035c0e1c0515f1e0a89ce83889e4770a",
+      "box": {
+        "box_id": "12b3b2bf-270b-4bdc-a640-42396135b3e6",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1706.6641830419903,
+          861.912539841413,
+          1839.9739219408987,
+          1000.9580727911256
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla suelta"
+      },
+      "medidas": {
+        "ancho_px": 133.30973889890834,
+        "alto_px": 139.04553294971254,
+        "min_lado_entrada640": 44.43657963296944,
+        "pequena_640_menor16": false,
+        "aspecto": 0.9587488074652595,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 301.7140970870973,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "ce4d70bf31e38548bb58124a28afce0bc27c423ca5b2c016423f03c6c24ace98"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 330,
+      "pts_seconds": 11.011,
+      "image_sha256": "a8d4a87d0e29313128e5106a10b28d36035c0e1c0515f1e0a89ce83889e4770a",
+      "box": {
+        "box_id": "f4c0b07a-4593-4f08-b428-08319834bbd9",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1841.4073244330905,
+          940.7527588237301,
+          1920,
+          1080
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla suelta"
+      },
+      "medidas": {
+        "ancho_px": 78.59267556690952,
+        "alto_px": 139.24724117626988,
+        "min_lado_entrada640": 26.197558522303172,
+        "pequena_640_menor16": false,
+        "aspecto": 0.5644110066598796,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 232.4356832123973,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "59f11e782ce95d18c1b3875cfcdb1a6c547aa61f075e2c15126456761933074a"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 360,
+      "pts_seconds": 12.012,
+      "image_sha256": "34d53246646c280acf9f6fb135c847455720d6531218dd60244a6ab74e06c03e",
+      "box": {
+        "box_id": "6946c0c0-882a-4bb7-81fa-fff1bee8e834",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          247.42474675671363,
+          464.8441378331346,
+          450.972890863458,
+          568.053285456561
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "4936b70b-29ce-4e69-b44b-c6ff93881e67",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 203.5481441067444,
+        "alto_px": 103.20914762342636,
+        "min_lado_entrada640": 34.403049207808785,
+        "pequena_640_menor16": false,
+        "aspecto": 1.972190922934656,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 340.66632888449504,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "e4010da3b9752b0de84f6dbd29d5ad4cfbdb50a312da373d7b8c0034c2586b77"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 360,
+      "pts_seconds": 12.012,
+      "image_sha256": "34d53246646c280acf9f6fb135c847455720d6531218dd60244a6ab74e06c03e",
+      "box": {
+        "box_id": "605f8cec-d3d8-41d3-bd42-4eb45886c661",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          461.00694453202,
+          274.1940015433489,
+          620.1185188484291,
+          351.6008253504688
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "472ddd33-609e-486c-abb7-fc4a58c60ea6",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 159.11157431640908,
+        "alto_px": 77.4068238071199,
+        "min_lado_entrada640": 25.802274602373302,
+        "pequena_640_menor16": false,
+        "aspecto": 2.055523873617121,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 278.50953185995024,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "773236bd332099d136c94629f4e4982e4a99f0754d45f4509ff51991ba6e739d"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 360,
+      "pts_seconds": 12.012,
+      "image_sha256": "34d53246646c280acf9f6fb135c847455720d6531218dd60244a6ab74e06c03e",
+      "box": {
+        "box_id": "6e4d4ba9-2987-42cf-a6a0-541a21a525a2",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          767.7625779482795,
+          361.63504926642804,
+          951.2426442458024,
+          463.41068360121756
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "3a83e6a6-8aa5-4328-b346-c26eb92f6691",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 183.48006629752285,
+        "alto_px": 101.77563433478952,
+        "min_lado_entrada640": 33.925211444929836,
+        "pequena_640_menor16": false,
+        "aspecto": 1.8027897099021537,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 320.552105053519,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "7c6a2ec8e06ba1507092836d2eac152d6a9f844b2c2a0da0307b9463c4e40ba5"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 360,
+      "pts_seconds": 12.012,
+      "image_sha256": "34d53246646c280acf9f6fb135c847455720d6531218dd60244a6ab74e06c03e",
+      "box": {
+        "box_id": "e02b4253-c973-4a66-9857-81a20434a501",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          696.0907407203491,
+          156.65026730821222,
+          827.966959015456,
+          229.75675794794086
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 131.87621829510692,
+        "alto_px": 73.10649063972863,
+        "min_lado_entrada640": 24.368830213242877,
+        "pequena_640_menor16": false,
+        "aspecto": 1.8038920640439107,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 209.8826497929692,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "167c26bc71ba973376e639bf4a43a1afc8b95d89b7b151550a4d6861f29efc70"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 360,
+      "pts_seconds": 12.012,
+      "image_sha256": "34d53246646c280acf9f6fb135c847455720d6531218dd60244a6ab74e06c03e",
+      "box": {
+        "box_id": "b08e7548-e05a-40eb-abb8-ce5c2c0d405a",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          992.812261412242,
+          268.46015877836584,
+          1159.0910844128293,
+          373.1027015769894
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 166.2788230005873,
+        "alto_px": 104.64254279862354,
+        "min_lado_entrada640": 34.88084759954118,
+        "pequena_640_menor16": false,
+        "aspecto": 1.5890174163731667,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 531.1324957194148,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "afd88ced5d508d766ef9d3a2c94b3ae437b2811d65bbc4a4cf9570cbb1e7a7b6"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 360,
+      "pts_seconds": 12.012,
+      "image_sha256": "34d53246646c280acf9f6fb135c847455720d6531218dd60244a6ab74e06c03e",
+      "box": {
+        "box_id": "f60ddf8a-bd0c-425b-84f0-b2ac701e9740",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1176.29226865396,
+          358.76811496527904,
+          1362.6393171032807,
+          499.2471612036284
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "12c9c476-042f-4cce-8052-4cbe72bb6bb5",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 186.3470484493207,
+        "alto_px": 140.47904623834938,
+        "min_lado_entrada640": 46.82634874611646,
+        "pequena_640_menor16": false,
+        "aspecto": 1.3265113441413003,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 664.9890093375927,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "538c9c8dedb6a9959506878ed738bc9c5a292faef136fb79753504bf516bf592"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 360,
+      "pts_seconds": 12.012,
+      "image_sha256": "34d53246646c280acf9f6fb135c847455720d6531218dd60244a6ab74e06c03e",
+      "box": {
+        "box_id": "1f3595b0-4676-4b66-a257-f92599080829",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1133.289130883719,
+          116.51340486378021,
+          1250.8310880336883,
+          218.28905396274965
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 117.54195714996922,
+        "alto_px": 101.77564909896944,
+        "min_lado_entrada640": 33.92521636632314,
+        "pequena_640_menor16": false,
+        "aspecto": 1.154912380226317,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 199.20838215665134,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "4a7cc91bde8b3ed9648fae823643144f6fcdfe34ff0afa210658f07f20c2ce65"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 360,
+      "pts_seconds": 12.012,
+      "image_sha256": "34d53246646c280acf9f6fb135c847455720d6531218dd60244a6ab74e06c03e",
+      "box": {
+        "box_id": "c9471d2e-6cc1-4b66-b943-1a25515ae19a",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1450.0788770243453,
+          225.45635095964982,
+          1591.9891489880142,
+          354.4677338143029
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "8d564e2a-ff17-45d0-a985-cd2f9e5b889e",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 141.91027196366895,
+        "alto_px": 129.01138285465308,
+        "min_lado_entrada640": 43.00379428488436,
+        "pequena_640_menor16": false,
+        "aspecto": 1.0999825660620042,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 197.92456541272804,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "d1e77fa84910afa4a8c9d3d1b9e94017255e8efc9531da286c72fc93b553aa38"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 360,
+      "pts_seconds": 12.012,
+      "image_sha256": "34d53246646c280acf9f6fb135c847455720d6531218dd60244a6ab74e06c03e",
+      "box": {
+        "box_id": "5fff0a1b-716f-4a70-b875-d1b516d2b63b",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1533.2182294688344,
+          863.3459350166103,
+          1667.9613708599343,
+          965.1216284081196
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja suelta"
+      },
+      "medidas": {
+        "ancho_px": 134.74314139109993,
+        "alto_px": 101.77569339150932,
+        "min_lado_entrada640": 33.92523113050311,
+        "pequena_640_menor16": false,
+        "aspecto": 1.3239226076581163,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 293.96022729362096,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "d74b4ec070528783573c4783741739fabdf985022abcd2dd1b990d163ef1901d"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 360,
+      "pts_seconds": 12.012,
+      "image_sha256": "34d53246646c280acf9f6fb135c847455720d6531218dd60244a6ab74e06c03e",
+      "box": {
+        "box_id": "4b2f86c4-aff6-442b-afd6-c538731e737c",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1692.3298037852433,
+          896.315515228322,
+          1814.1719684117882,
+          1032.4941840067404
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla suelta"
+      },
+      "medidas": {
+        "ancho_px": 121.8421646265449,
+        "alto_px": 136.17866877841834,
+        "min_lado_entrada640": 40.61405487551497,
+        "pequena_640_menor16": false,
+        "aspecto": 0.8947228352246493,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 270.4634855852294,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "41e7547e94a56778240cf626bbd188a3e3c5c63628546de2a64caef278cce951"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 360,
+      "pts_seconds": 12.012,
+      "image_sha256": "34d53246646c280acf9f6fb135c847455720d6531218dd60244a6ab74e06c03e",
+      "box": {
+        "box_id": "be6a841c-cae9-4964-9ebc-a21a4d5a59bb",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1814.1719684117882,
+          965.1215988797596,
+          1920,
+          1080
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla suelta"
+      },
+      "medidas": {
+        "ancho_px": 105.82803158821184,
+        "alto_px": 114.87840112024037,
+        "min_lado_entrada640": 35.27601052940395,
+        "pequena_640_menor16": false,
+        "aspecto": 0.9212178316918275,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 224.0146343006311,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "0ecaac2ce27c501843f0ab52769e3703d5f3c934f65facc3d6dba41d45dd8b83"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 390,
+      "pts_seconds": 13.013,
+      "image_sha256": "b79df0aef61b5b9fa565bd33b2a55d2d402e165f35e6751f0e41dba62e411f0a",
+      "box": {
+        "box_id": "6e9b5b30-3942-489f-83ba-1bde0e7361a4",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          256.02539793308375,
+          480.6121491484021,
+          481.0750518691439,
+          586.6881757073027
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "e3dd22a5-e429-401f-9279-44c33098a98f",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 225.04965393606017,
+        "alto_px": 106.07602655890054,
+        "min_lado_entrada640": 35.35867551963351,
+        "pequena_640_menor16": false,
+        "aspecto": 2.121588272455676,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 280.10494047390915,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "244873de51c283b7e9d143f10f829af8c68d6091b81d788d2977622a6ac792ac"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 390,
+      "pts_seconds": 13.013,
+      "image_sha256": "b79df0aef61b5b9fa565bd33b2a55d2d402e165f35e6751f0e41dba62e411f0a",
+      "box": {
+        "box_id": "1f11dcf4-a593-4f87-9086-b63f2c49e48b",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          458.1400804918315,
+          288.52856600878937,
+          634.4529571609808,
+          396.0380615637869
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "2beebcbe-a430-4e72-93b6-d28b363b6efc",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 176.31287666914926,
+        "alto_px": 107.50949555499756,
+        "min_lado_entrada640": 35.83649851833252,
+        "pequena_640_menor16": false,
+        "aspecto": 1.6399749227634934,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 286.98268618125195,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "fed316c30be92e1642739e01f08b279266ee43eba51cc4f1c941fa412f3d33d6"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 390,
+      "pts_seconds": 13.013,
+      "image_sha256": "b79df0aef61b5b9fa565bd33b2a55d2d402e165f35e6751f0e41dba62e411f0a",
+      "box": {
+        "box_id": "1caaadb0-ce67-4c65-b64b-98c1f465a49e",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          680.3228999156056,
+          178.15215460786774,
+          826.5335565232642,
+          261.29282487101574
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 146.21065660765862,
+        "alto_px": 83.140670263148,
+        "min_lado_entrada640": 27.713556754382665,
+        "pequena_640_menor16": false,
+        "aspecto": 1.7585936719644937,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 277.85856697060484,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "5fb21c40345f7a8ef0ec1500a93820aaf4351f9b8b71a6f868cf632dad688a3a"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 390,
+      "pts_seconds": 13.013,
+      "image_sha256": "b79df0aef61b5b9fa565bd33b2a55d2d402e165f35e6751f0e41dba62e411f0a",
+      "box": {
+        "box_id": "bd224d34-46d0-4168-b9fd-4a04b9657af6",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          777.7966316168415,
+          387.4372844976548,
+          959.843177310563,
+          483.4790723764162
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "d907ea04-4681-4ba6-ae22-95d288a6907f",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 182.04654569372144,
+        "alto_px": 96.0417878787614,
+        "min_lado_entrada640": 32.013929292920466,
+        "pequena_640_menor16": false,
+        "aspecto": 1.8954930943552235,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 269.7643039823664,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "8b514b38b61235803e86132ccf241ce1865b35b4db0e2a41db1014f7d7002273"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 390,
+      "pts_seconds": 13.013,
+      "image_sha256": "b79df0aef61b5b9fa565bd33b2a55d2d402e165f35e6751f0e41dba62e411f0a",
+      "box": {
+        "box_id": "bafe254a-4294-4285-8e6d-31ff1795a751",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1440.0448233557834,
+          249.82516148731943,
+          1612.057256325138,
+          367.36888095827624
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "d40e03bd-0538-43bc-835a-e9af1ea077c1",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "apa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 172.01243296935468,
+        "alto_px": 117.5437194709568,
+        "min_lado_entrada640": 39.18123982365226,
+        "pequena_640_menor16": false,
+        "aspecto": 1.4633911002948672,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 230.94193241071875,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "7f8ee67708d9f09738e7161f31f2a822bf865be1e3765eb226bd076b8547143c"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 390,
+      "pts_seconds": 13.013,
+      "image_sha256": "b79df0aef61b5b9fa565bd33b2a55d2d402e165f35e6751f0e41dba62e411f0a",
+      "box": {
+        "box_id": "d13f929d-ac61-4494-a3b2-adf8227b30d4",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1110.3542185622114,
+          148.04949762417004,
+          1249.397567429887,
+          232.62365164759498
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 139.0433488676756,
+        "alto_px": 84.57415402342494,
+        "min_lado_entrada640": 28.19138467447498,
+        "pequena_640_menor16": false,
+        "aspecto": 1.6440406702639208,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 209.36286349127886,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "6f77186d931fb899ecca1c7545a190dd13b00d57f71bc9a6eac42a5fc77f6d20"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 390,
+      "pts_seconds": 13.013,
+      "image_sha256": "b79df0aef61b5b9fa565bd33b2a55d2d402e165f35e6751f0e41dba62e411f0a",
+      "box": {
+        "box_id": "72cda2d4-cde3-4f87-a524-0460dd85df54",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          992.812261412242,
+          284.2281811667683,
+          1143.3233026638904,
+          390.30420772566885
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 150.5110412516484,
+        "alto_px": 106.07602655890054,
+        "min_lado_entrada640": 35.35867551963351,
+        "pequena_640_menor16": false,
+        "aspecto": 1.4188978050386774,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 519.4901435554618,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "c89ab3d4f98df112396e5e32385981d9614e35f9659f0d7eba735e66fa95d662"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 390,
+      "pts_seconds": 13.013,
+      "image_sha256": "b79df0aef61b5b9fa565bd33b2a55d2d402e165f35e6751f0e41dba62e411f0a",
+      "box": {
+        "box_id": "3498dbba-9b31-4b47-ab71-78949b83dbef",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1167.69161747759,
+          383.13691441981365,
+          1344.0044941467393,
+          513.5818105631037
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "09e10330-7fff-437b-8c67-534f4730be5d",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 176.31287666914932,
+        "alto_px": 130.44489614329,
+        "min_lado_entrada640": 43.481632047763334,
+        "pequena_640_menor16": false,
+        "aspecto": 1.351627253207934,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 711.5576864924382,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "39210a28c6772618a21d5f77b769594c7248e38580b9858889cdfd681ec8bdee"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 390,
+      "pts_seconds": 13.013,
+      "image_sha256": "b79df0aef61b5b9fa565bd33b2a55d2d402e165f35e6751f0e41dba62e411f0a",
+      "box": {
+        "box_id": "d8b392ba-e929-443f-9ffa-6e2178a5a532",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1541.8188806452044,
+          880.5475334414144,
+          1652.1935891109954,
+          998.0911347989315
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja suelta"
+      },
+      "medidas": {
+        "ancho_px": 110.37470846579095,
+        "alto_px": 117.5436013575171,
+        "min_lado_entrada640": 36.79156948859698,
+        "pequena_640_menor16": false,
+        "aspecto": 0.9390107772015469,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 300.1573489633699,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "0a5299b71f4c62fcac03d35d34ed513226e414d97dabbf2efcd5806ded0c24b8"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 390,
+      "pts_seconds": 13.013,
+      "image_sha256": "b79df0aef61b5b9fa565bd33b2a55d2d402e165f35e6751f0e41dba62e411f0a",
+      "box": {
+        "box_id": "d90334dc-740b-4085-bb68-9ec4e242f1d8",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1677.9954245284964,
+          907.7831933761983,
+          1817.0388915077815,
+          1062.5968114620782
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla suelta"
+      },
+      "medidas": {
+        "ancho_px": 139.04346697928509,
+        "alto_px": 154.81361808587997,
+        "min_lado_entrada640": 46.34782232642836,
+        "pequena_640_menor16": false,
+        "aspecto": 0.898134600162586,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 314.29123039646714,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "e21befa77a87e8997d80dff03f53fa0854afb77e9377504a4585d4a7c8640c63"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 390,
+      "pts_seconds": 13.013,
+      "image_sha256": "b79df0aef61b5b9fa565bd33b2a55d2d402e165f35e6751f0e41dba62e411f0a",
+      "box": {
+        "box_id": "53ca3bc6-dec8-488f-9ca8-3a3a96b3ee87",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1822.7726195881582,
+          986.6234418868753,
+          1920,
+          1080
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla suelta"
+      },
+      "medidas": {
+        "ancho_px": 97.22738041184175,
+        "alto_px": 93.3765581131247,
+        "min_lado_entrada640": 31.125519371041566,
+        "pequena_640_menor16": false,
+        "aspecto": 1.0412397112994014,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 251.5429866535541,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "a1369bd02103133837bb47bbce338f565ea8d4dcb07262f6c637ec42af0b534a"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 405,
+      "pts_seconds": 13.5135,
+      "image_sha256": "2b1383b2fe34909394513c6bbabccd765a759ddd179b0d7da007faac1dd9871b",
+      "box": {
+        "box_id": "80152cd1-9e3b-4e64-8d3c-4c1642522d9d",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          257.458829953178,
+          467.7110462969687,
+          442.37226921499024,
+          595.2889749197047
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 184.91343926181224,
+        "alto_px": 127.57792862273607,
+        "min_lado_entrada640": 42.52597620757869,
+        "pequena_640_menor16": false,
+        "aspecto": 1.4494155945157605,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 278.9832955377018,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "6b38d9b8d56e91a2d0cb0e258c1e217218834e22594bb2bd7c98745bf70b4318"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 405,
+      "pts_seconds": 13.5135,
+      "image_sha256": "2b1383b2fe34909394513c6bbabccd765a759ddd179b0d7da007faac1dd9871b",
+      "box": {
+        "box_id": "b2f1ec45-92a2-4f0e-8cec-f6dd4a61c5bf",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          453.83975490364645,
+          281.36130223129413,
+          627.2857084768026,
+          410.3726555575873
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "b2646f8e-2602-45c3-ad0f-de3a574bb080",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 173.44595357315615,
+        "alto_px": 129.01135332629315,
+        "min_lado_entrada640": 43.00378444209771,
+        "pequena_640_menor16": false,
+        "aspecto": 1.3444239526305861,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 289.51098976645335,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "b2f03e46c1c53da4aa933e8ad39ab0e19fe051203af7878abbc8445605c6f0d0"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 405,
+      "pts_seconds": 13.5135,
+      "image_sha256": "2b1383b2fe34909394513c6bbabccd765a759ddd179b0d7da007faac1dd9871b",
+      "box": {
+        "box_id": "7e4bd965-2cfe-4703-b66b-8a7c10abf69e",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          687.490089543979,
+          183.88600475494087,
+          812.1991772665172,
+          275.6274299379511
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja"
+      },
+      "medidas": {
+        "ancho_px": 124.70908772253813,
+        "alto_px": 91.74142518301022,
+        "min_lado_entrada640": 30.580475061003405,
+        "pequena_640_menor16": false,
+        "aspecto": 1.359354157336911,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 268.34311016750496,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "871511aa1377f2a1891bc138a862e29cae87b2e207f1f8f449ac8101c28018c2"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 405,
+      "pts_seconds": 13.5135,
+      "image_sha256": "2b1383b2fe34909394513c6bbabccd765a759ddd179b0d7da007faac1dd9871b",
+      "box": {
+        "box_id": "14f217c4-208f-49cd-9b2c-f9c789b19ec3",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          754.8616602395291,
+          381.70345649685163,
+          955.5429698339874,
+          506.41447665575356
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "432a0f33-3bd3-497c-912a-0df33f8d02b0",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 200.6813095944583,
+        "alto_px": 124.71102015890193,
+        "min_lado_entrada640": 41.57034005296731,
+        "pequena_640_menor16": false,
+        "aspecto": 1.609170619715547,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 282.7841924681006,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "05bd55c9d2b61153d0a271c56fed5808948a49387dc1ae0f3e70e87521b55973"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 405,
+      "pts_seconds": 13.5135,
+      "image_sha256": "2b1383b2fe34909394513c6bbabccd765a759ddd179b0d7da007faac1dd9871b",
+      "box": {
+        "box_id": "d10c4626-ff49-47cf-a151-b7d557cac83d",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1424.2770416068445,
+          277.06091369822803,
+          1643.5929379346253,
+          367.3688551209613
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 219.31589632778082,
+        "alto_px": 90.30794142273328,
+        "min_lado_entrada640": 30.102647140911092,
+        "pequena_640_menor16": false,
+        "aspecto": 2.4285338905153284,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 239.3272540546367,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "6ff68c87d62aaf67cc7b1234a49a755c026678941c33632eb7f6b5f552192110"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 405,
+      "pts_seconds": 13.5135,
+      "image_sha256": "2b1383b2fe34909394513c6bbabccd765a759ddd179b0d7da007faac1dd9871b",
+      "box": {
+        "box_id": "a4993f81-f0e0-4977-b9a2-644bf80ce49e",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1120.3882722307733,
+          145.18258916033594,
+          1240.7970343651264,
+          246.95822349512542
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 120.40876213435308,
+        "alto_px": 101.77563433478949,
+        "min_lado_entrada640": 33.92521144492983,
+        "pequena_640_menor16": false,
+        "aspecto": 1.183080438862903,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 204.79802326426287,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "e2870a6cea759c3199074168c13b4d17220b274f4fba752399146f31d83730e5"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 405,
+      "pts_seconds": 13.5135,
+      "image_sha256": "2b1383b2fe34909394513c6bbabccd765a759ddd179b0d7da007faac1dd9871b",
+      "box": {
+        "box_id": "7cfc557c-9adc-4187-bdc8-1085c506803d",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1176.29226865396,
+          381.70346756998657,
+          1346.8714172427324,
+          512.1483046565568
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": "0ab750c3-42db-46aa-9cfb-4782c9577cea",
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 170.57914858877234,
+        "alto_px": 130.4448370865702,
+        "min_lado_entrada640": 43.48161236219006,
+        "pequena_640_menor16": false,
+        "aspecto": 1.307672671441698,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 709.7001583591025,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "db78461bea53b1c97b85056721d53d0720b8b5b815afba457347f7819de25c05"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 405,
+      "pts_seconds": 13.5135,
+      "image_sha256": "2b1383b2fe34909394513c6bbabccd765a759ddd179b0d7da007faac1dd9871b",
+      "box": {
+        "box_id": "0ed0550b-cefc-4ac6-a145-3a435d67887e",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          988.511935824057,
+          287.09510439478237,
+          1141.8897820600891,
+          387.4372844976548
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa blanca"
+      },
+      "medidas": {
+        "ancho_px": 153.37784623603216,
+        "alto_px": 100.34218010287242,
+        "min_lado_entrada640": 33.44739336762414,
+        "pequena_640_menor16": false,
+        "aspecto": 1.5285480749848839,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 517.5898560538836,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "4baba6e9555b580e0ef572d4f3e3725fcf02d7912609bea37f3631df07572052"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 405,
+      "pts_seconds": 13.5135,
+      "image_sha256": "2b1383b2fe34909394513c6bbabccd765a759ddd179b0d7da007faac1dd9871b",
+      "box": {
+        "box_id": "41f0ad10-3af3-49f7-9446-989f106f7f3a",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1527.4845013884574,
+          897.7489546960592,
+          1656.4939146991806,
+          1012.4257657031818
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa roja suelta"
+      },
+      "medidas": {
+        "ancho_px": 129.00941331072318,
+        "alto_px": 114.67681100712264,
+        "min_lado_entrada640": 38.22560366904088,
+        "pequena_640_menor16": false,
+        "aspecto": 1.1249825677722267,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 310.83967733537844,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "14e02b79d984ac753fabf37b061f76f6a53bd6e56abe71a5468b5e2a4f0181c9"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 405,
+      "pts_seconds": 13.5135,
+      "image_sha256": "2b1383b2fe34909394513c6bbabccd765a759ddd179b0d7da007faac1dd9871b",
+      "box": {
+        "box_id": "aae7d50c-daa6-42a2-8913-f2710f088c91",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1680.8623476244895,
+          913.5170988889463,
+          1808.4382403314114,
+          1058.296478294687
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla suelta"
+      },
+      "medidas": {
+        "ancho_px": 127.57589270692188,
+        "alto_px": 144.77937940574066,
+        "min_lado_entrada640": 42.525297568973954,
+        "pequena_640_menor16": false,
+        "aspecto": 0.8811744685642945,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 314.93110862204617,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "cec6a34e7699aeb478fde1991952ae7711f2e109b5bf135344a8f5aaa85971c2"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+      "video_id": "vid_557eef7acddd10c7439ddd8f",
+      "frame_index": 405,
+      "pts_seconds": 13.5135,
+      "image_sha256": "2b1383b2fe34909394513c6bbabccd765a759ddd179b0d7da007faac1dd9871b",
+      "box": {
+        "box_id": "8a5b0637-168f-49d3-84db-b5e22ae79fac",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          1811.3051634274045,
+          1006.6919487755137,
+          1920,
+          1080
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla suelta"
+      },
+      "medidas": {
+        "ancho_px": 108.69483657259548,
+        "alto_px": 73.30805122448635,
+        "min_lado_entrada640": 24.436017074828783,
+        "pequena_640_menor16": false,
+        "aspecto": 1.4827134913155247,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 244.73734561181928,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "d0056a57cf9b0f6c8ac6251a205a3180ba7de11314a054514d8a55eab52adf7f"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000000",
+      "video_id": "vid_8a2b94bcf49a24212a443df0",
+      "frame_index": 0,
+      "pts_seconds": 0.0,
+      "image_sha256": "86ffa48a5587589268d9f2fe3ce5d09fa6a88b7e4ac10ff5d803dede64ef946e",
+      "box": {
+        "box_id": "6baf55bb-fec2-4985-8602-7ba49d597f10",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          518.531087744561,
+          217.19902316904484,
+          740.236145708141,
+          424.5728758282158
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": true,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 221.70505796357997,
+        "alto_px": 207.37385265917095,
+        "min_lado_entrada640": 103.68692632958548,
+        "pequena_640_menor16": false,
+        "aspecto": 1.069108063146047,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 21.908359826531992,
+        "aviso_posible_desENFOQUE_no_etiqueta": true
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "b9e219eb66c88b430260f4f5a4553f55b86736b563ee900e3c58d9b3c0d7200c"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000000",
+      "video_id": "vid_8a2b94bcf49a24212a443df0",
+      "frame_index": 0,
+      "pts_seconds": 0.0,
+      "image_sha256": "86ffa48a5587589268d9f2fe3ce5d09fa6a88b7e4ac10ff5d803dede64ef946e",
+      "box": {
+        "box_id": "691d5728-ffc7-43b1-90fc-769a9ad28d6d",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          825.2868195871617,
+          280.27127266793764,
+          1049.858643164589,
+          468.5323333353748
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 224.57182357742727,
+        "alto_px": 188.26106066743716,
+        "min_lado_entrada640": 94.13053033371858,
+        "pequena_640_menor16": false,
+        "aspecto": 1.1928745263691731,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 8.681555793476258,
+        "aviso_posible_desENFOQUE_no_etiqueta": true
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "2e589caafca602d4a2f5b071236701438612213cae9369442b9d937044fa6be6"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000050",
+      "video_id": "vid_8a2b94bcf49a24212a443df0",
+      "frame_index": 50,
+      "pts_seconds": 1.0,
+      "image_sha256": "7c13a39feaa61fc357c67726f05f4a326cf3b05b5b64830ed00af14e9488e40a",
+      "box": {
+        "box_id": "e0bfc8f9-50e0-4aaf-9ef6-9f2c56d65764",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          558.6673417893454,
+          282.1825671234303,
+          775.5942733340096,
+          452.2864325825985
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 216.92693154466417,
+        "alto_px": 170.10386545916816,
+        "min_lado_entrada640": 85.05193272958408,
+        "pequena_640_menor16": false,
+        "aspecto": 1.275261623003714,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 22.30092110132732,
+        "aviso_posible_desENFOQUE_no_etiqueta": true
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "f6e49ee5454c7dd6b327323f895fd3cf690af9c0258ba2ac5d4143de2bd24848"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000050",
+      "video_id": "vid_8a2b94bcf49a24212a443df0",
+      "frame_index": 50,
+      "pts_seconds": 1.0,
+      "image_sha256": "7c13a39feaa61fc357c67726f05f4a326cf3b05b5b64830ed00af14e9488e40a",
+      "box": {
+        "box_id": "0092627d-4983-4a9c-b74c-2742bd8f0165",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          499.4186214394348,
+          230.57799577241377,
+          581.6023722224625,
+          386.3472795412649
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": true,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 82.18375078302768,
+        "alto_px": 155.76928376885115,
+        "min_lado_entrada640": 41.09187539151384,
+        "pequena_640_menor16": false,
+        "aspecto": 0.5275992082301773,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 151.6670315888876,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "de5c315d03366c33ff034e0c2a6d7fe38688580a613a502cffc71efb7fc2af34"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000100",
+      "video_id": "vid_8a2b94bcf49a24212a443df0",
+      "frame_index": 100,
+      "pts_seconds": 2.0,
+      "image_sha256": "af0aded9706d6821042db301ddeabbc7eb076756281ba64dddbf1b0f17718adf",
+      "box": {
+        "box_id": "36294aa7-566e-4d4c-a092-8406ac5cbd18",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          487.951086537608,
+          264.0253792972513,
+          694.3660848419067,
+          465.6653756576075
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": true,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 206.41499830429876,
+        "alto_px": 201.63999636035624,
+        "min_lado_entrada640": 100.81999818017812,
+        "pequena_640_menor16": false,
+        "aspecto": 1.023680827366258,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 58.48426575671822,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "6f6178d84fa2272645873624912a9f92ad13be3574976af9d57b724cf808f093"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000150",
+      "video_id": "vid_8a2b94bcf49a24212a443df0",
+      "frame_index": 150,
+      "pts_seconds": 3.0,
+      "image_sha256": "6749a8108b9100d6895120e297c7e573d2eb72e5ecd2d845bade7c96ad57ec7e",
+      "box": {
+        "box_id": "522ff8bb-f098-42c4-9c59-fef0946f8dcc",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          525.2204962274722,
+          295.5615003556527,
+          710.6117855331856,
+          500.0684642365629
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": true,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 185.39128930571349,
+        "alto_px": 204.50696388091018,
+        "min_lado_entrada640": 92.69564465285674,
+        "pequena_640_menor16": false,
+        "aspecto": 0.9065280017245366,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 30.789806786883442,
+        "aviso_posible_desENFOQUE_no_etiqueta": true
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "41a0fde6d2fc4d3a47535f2d30ffe3ecdd41c58828b855fc74106cb4d4a145c5"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000150",
+      "video_id": "vid_8a2b94bcf49a24212a443df0",
+      "frame_index": 150,
+      "pts_seconds": 3.0,
+      "image_sha256": "6749a8108b9100d6895120e297c7e573d2eb72e5ecd2d845bade7c96ad57ec7e",
+      "box": {
+        "box_id": "0ebe1c50-bb74-41f6-9ec3-2bc76c8dee6e",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          746.9255148205156,
+          355.7668401603631,
+          955.2517164477367,
+          530.6489060781613
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 208.32620162722117,
+        "alto_px": 174.88206591779823,
+        "min_lado_entrada640": 87.44103295889911,
+        "pequena_640_menor16": false,
+        "aspecto": 1.1912382240792092,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 10.565254528119786,
+        "aviso_posible_desENFOQUE_no_etiqueta": true
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "8b4d0528c0233bbd89ab9003d16514fa4c4b9a2f135678c3bc8b17142a05a79a"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000200",
+      "video_id": "vid_8a2b94bcf49a24212a443df0",
+      "frame_index": 200,
+      "pts_seconds": 4.0,
+      "image_sha256": "6f68a2ed3688f1f38eb52773fac32355cf731f078c8f83857f93017e64d9bc25",
+      "box": {
+        "box_id": "98ca5ec3-502a-4163-8e8d-25bdfe5ce918",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          515.6642433896408,
+          305.1178877390813,
+          727.8130091448529,
+          487.6451413216369
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 212.14876575521214,
+        "alto_px": 182.5272535825556,
+        "min_lado_entrada640": 91.2636267912778,
+        "pequena_640_menor16": false,
+        "aspecto": 1.1622854208961126,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 16.551949842493176,
+        "aviso_posible_desENFOQUE_no_etiqueta": true
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "7a17f916da75000119d97084d0807c7013bfdf7c21c2539f1e92c3f27c6f0552"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000250",
+      "video_id": "vid_8a2b94bcf49a24212a443df0",
+      "frame_index": 250,
+      "pts_seconds": 5.0,
+      "image_sha256": "836ffc5d61286b644ce4bfe9bd18011ba4bc2640b5d99a09f8a011d30f31f65a",
+      "box": {
+        "box_id": "8e93d45f-0ec4-463f-81d1-708184e6dc33",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          981.0535912357741,
+          368.1901138613558,
+          1235.2498537292295,
+          557.4068008406177
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 254.19626249345538,
+        "alto_px": 189.2166869792619,
+        "min_lado_entrada640": 94.60834348963095,
+        "pequena_640_menor16": false,
+        "aspecto": 1.3434135569729915,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 6.524053001136362,
+        "aviso_posible_desENFOQUE_no_etiqueta": true
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "db0724ada8758268f8411fc02c2b251357d22950b4f971d2ee7bb32b91398ac3"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000300",
+      "video_id": "vid_8a2b94bcf49a24212a443df0",
+      "frame_index": 300,
+      "pts_seconds": 6.0,
+      "image_sha256": "3a56746980ac464b76b6f70224c9879c97b934b230842041a8ad104c9743e3b3",
+      "box": {
+        "box_id": "1c5ccae1-f4c4-4c41-9c95-2d3b7c08f4dd",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          671.431093779326,
+          328.05325756866546,
+          889.3136269854515,
+          528.7375980888371
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 217.88253320612546,
+        "alto_px": 200.68434052017165,
+        "min_lado_entrada640": 100.34217026008582,
+        "pequena_640_menor16": false,
+        "aspecto": 1.0856977312797615,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 17.47154290755763,
+        "aviso_posible_desENFOQUE_no_etiqueta": true
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "1de178634dc9b36e91e1ca0adf5f27cf527b76a680ef9bcdbf3af387e78cf422"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000400",
+      "video_id": "vid_8a2b94bcf49a24212a443df0",
+      "frame_index": 400,
+      "pts_seconds": 8.0,
+      "image_sha256": "e3a65774f2d43bf39466dbf5dd19d65ecb5c5b2c4a982329e2030053e6655e9a",
+      "box": {
+        "box_id": "596314b3-e71a-420c-ae14-cbd648b53e13",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          481.26171742523337,
+          269.75921591049274,
+          693.4104831804455,
+          488.60072211057343
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": true,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 212.14876575521208,
+        "alto_px": 218.8415062000807,
+        "min_lado_entrada640": 106.07438287760604,
+        "pequena_640_menor16": false,
+        "aspecto": 0.9694174082372216,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 19.959624323886647,
+        "aviso_posible_desENFOQUE_no_etiqueta": true
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "84db477c32d6e1c9d115fe059df7140e991e4f55ff5c37de8cc90d6d7824bf2e"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000400",
+      "video_id": "vid_8a2b94bcf49a24212a443df0",
+      "frame_index": 400,
+      "pts_seconds": 8.0,
+      "image_sha256": "e3a65774f2d43bf39466dbf5dd19d65ecb5c5b2c4a982329e2030053e6655e9a",
+      "box": {
+        "box_id": "5432e4ab-2f70-4c19-8805-4259c731c209",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          839.6211594733724,
+          349.077321869622,
+          1093.8173432257547,
+          559.3181026782004
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 254.19618375238235,
+        "alto_px": 210.2407808085784,
+        "min_lado_entrada640": 105.1203904042892,
+        "pequena_640_menor16": false,
+        "aspecto": 1.2090717261168509,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 6.939623466053772,
+        "aviso_posible_desENFOQUE_no_etiqueta": true
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "16f32d3f41fdda3c7ac2599d3a7d0171391b79b9963d415a75de8d54cdc85044"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000449",
+      "video_id": "vid_8a2b94bcf49a24212a443df0",
+      "frame_index": 449,
+      "pts_seconds": 8.98,
+      "image_sha256": "19659185936f63a6583e2e749346b1a75df9f1f59a64945c35be952e624d8c0d",
+      "box": {
+        "box_id": "3e14ed52-ad24-41e7-92a8-abe86f68e8e0",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          465.0160954750274,
+          253.51336191095297,
+          588.2917413348371,
+          462.7984475082001
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": true,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 123.27564585980969,
+        "alto_px": 209.28508559724716,
+        "min_lado_entrada640": 61.63782292990484,
+        "pequena_640_menor16": false,
+        "aspecto": 0.5890321592100646,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 65.38911986993895,
+        "aviso_posible_desENFOQUE_no_etiqueta": false
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "57f2b2c231b278a559088750799074aa9b5c0aa99beae65f98681437ccfb829b"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000449",
+      "video_id": "vid_8a2b94bcf49a24212a443df0",
+      "frame_index": 449,
+      "pts_seconds": 8.98,
+      "image_sha256": "19659185936f63a6583e2e749346b1a75df9f1f59a64945c35be952e624d8c0d",
+      "box": {
+        "box_id": "55437cbb-a36e-4fc6-83ac-28e49ecd2392",
+        "class_name": "TAPA",
+        "bbox_xyxy": [
+          578.7354884970058,
+          322.3194234161206,
+          802.3518285245812,
+          532.5601845391258
+        ],
+        "physical_id": null,
+        "parent_envase_box_id": null,
+        "partial": true,
+        "occluded": false,
+        "not_evaluable": false,
+        "notes": "tapa amarilla"
+      },
+      "medidas": {
+        "ancho_px": 223.61634002757535,
+        "alto_px": 210.24076112300514,
+        "min_lado_entrada640": 105.12038056150257,
+        "pequena_640_menor16": false,
+        "aspecto": 1.0636202933870877,
+        "aspecto_extremo_aviso": false,
+        "laplaciano_roi_nativa": 13.47436995331098,
+        "aviso_posible_desENFOQUE_no_etiqueta": true
+      },
+      "condicion_colocacion": "NO_ANOTADA_ESTRUCTURADAMENTE",
+      "ausencia_tapa": "NO_EVALUADA",
+      "sesion": null,
+      "crop_sha256_pixels": "1a4ea937436648f818b80844fc8752589621c4177b4c159d07710c58b5293f1b"
+    }
+  ]
+}

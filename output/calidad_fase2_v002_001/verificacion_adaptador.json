@@ -1,0 +1,13 @@
+{
+  "frames": 399,
+  "observaciones_preservadas": 1087,
+  "ids_temporales": 39,
+  "inferencia_nueva": false,
+  "referencias_humanas_modificadas": false,
+  "asociaciones_nuevas": 0,
+  "predicciones_defectos_nuevas": 0,
+  "fuente_jsonl": "datasets/calidad_botellas/v002/experiments/individual_v001/runs/piloto_tapa_20261117/frames.jsonl",
+  "fuente_jsonl_sha256": "d8fc5ee124fac033cbea399da153dcc746fda3a432b10eb4f35afae089a60dfc",
+  "evaluacion_ia": false,
+  "alcance": "Adaptaci?n estructural de observaciones hist?ricas, no evaluaci?n ni inferencia nueva"
+}

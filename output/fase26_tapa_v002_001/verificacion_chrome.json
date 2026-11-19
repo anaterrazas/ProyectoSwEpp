@@ -1,0 +1,88 @@
+{
+  "method": "Chrome/CDP: CLI Playwright no disponible en caché local",
+  "images": [
+    {
+      "id": 9,
+      "loaded": true,
+      "width": 1080,
+      "height": 1920,
+      "originalBoxes": 1
+    },
+    {
+      "id": 38,
+      "loaded": true,
+      "width": 640,
+      "height": 640,
+      "originalBoxes": 1
+    },
+    {
+      "id": 60,
+      "loaded": true,
+      "width": 640,
+      "height": 640,
+      "originalBoxes": 2
+    },
+    {
+      "id": 165,
+      "loaded": true,
+      "width": 640,
+      "height": 640,
+      "originalBoxes": 1
+    },
+    {
+      "id": 42,
+      "loaded": true,
+      "width": 1280,
+      "height": 720,
+      "originalBoxes": 1
+    },
+    {
+      "id": 95,
+      "loaded": true,
+      "width": 1280,
+      "height": 720,
+      "originalBoxes": 1
+    },
+    {
+      "id": 223,
+      "loaded": true,
+      "width": 1080,
+      "height": 1920,
+      "originalBoxes": 1
+    },
+    {
+      "id": 24,
+      "loaded": true,
+      "width": 640,
+      "height": 640,
+      "originalBoxes": 1
+    }
+  ],
+  "resources": {
+    "js": 200,
+    "original": 200,
+    "context": 200,
+    "csrfMissing": 403,
+    "unknown": 404
+  },
+  "draw": {
+    "added": 1,
+    "classUnselected": true,
+    "dirty": true,
+    "version": 0
+  },
+  "mobile": {
+    "viewport": 393,
+    "content": 393
+  },
+  "checks": {
+    "conflictButtons": 7,
+    "imagesInSelector": 262,
+    "rawTemplate": false,
+    "absolutePath": false,
+    "newHumanVersions": 0
+  },
+  "humanDecisionsSubmitted": 0,
+  "errors": [],
+  "ok": true
+}

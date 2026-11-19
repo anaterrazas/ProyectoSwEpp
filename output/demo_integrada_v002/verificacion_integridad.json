@@ -1,0 +1,13 @@
+{
+  "archivos_protegidos": 817,
+  "alterados": [],
+  "pesos_verificados": {
+    "Modelos\\best.pt": "2b33d4d016f9751c5a25f4a72ce050e0a7e4e140b11c1669978d7154003a4f61",
+    "yolo11n.pt": "0ebbc80d4a7680d14987a577cd21342b65ecfd94632bd9a8da63ae6417644ee1",
+    "datasets\\calidad_botellas\\v002\\experiments\\individual_v001\\weights\\yolo11s.pt": "85a76fe86dd8afe384648546b56a7a78580c7cb7b404fc595f97969322d502d5",
+    "datasets\\calidad_botellas\\v002\\experiments\\day1_v001\\artifacts\\cap_model.pt": "548886556125f43ef232d21274643907b65d6c4bb7c5353f6c51eca6c13c96b1"
+  },
+  "inferencias_nuevas": 0,
+  "entrenamientos": 0,
+  "sqlite_operativo_sin_cambios": true
+}

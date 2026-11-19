@@ -1,0 +1,167 @@
+{
+  "enlaces": [
+    {
+      "url": "/demo/epp/",
+      "status": 200
+    },
+    {
+      "url": "/demo/calidad/",
+      "status": 200
+    },
+    {
+      "url": "/demo/historial/",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/docs/GUION_DEMO_INTEGRADA.md",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/docs/INFORME_DEMO_INTEGRADA.md",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/docs/CIERRE_EPP_V002_Y_PLAN_INTEGRACION.md",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/docs/MONITOREO_LABORATORIO.md",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/docs/PILOTOS.md",
+      "status": 200
+    },
+    {
+      "url": "/monitoreo/",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/epp_corto_base_vs_candidata.mp4",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/epp_largo_base_vs_candidata.mp4",
+      "status": 200
+    },
+    {
+      "url": "/media/videos/trabajadores.mp4",
+      "status": 200
+    },
+    {
+      "url": "/media/fuentes/epp_largo.mp4",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/index.html",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/auditoria_errores_epp33_v002_001/index.html",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/INFORME_VIDEOS_EPP.md",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/plan.json",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/seguridad_epp_v002_001/modelos_y_parametros.json",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/errores_33.json",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/comparacion_temporal.json",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/datasets/calidad_botellas/v002/experiments/individual_v001/runs/piloto_tapa_20261117/processed.mp4",
+      "status": 200
+    },
+    {
+      "url": "/media/fuentes/produccion.mp4",
+      "status": 200
+    },
+    {
+      "url": "/media/fuentes/prueba2.mp4",
+      "status": 200
+    },
+    {
+      "url": "/media/fuentes/tapas.mp4",
+      "status": 200
+    },
+    {
+      "url": "/media/fuentes/botellasSinTapa.mp4",
+      "status": 200
+    },
+    {
+      "url": "/media/fuentes/produccion_prueba_02.mp4",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/evaluacion_deteccion_v002_001/index.html",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/evaluacion_deteccion_v002_001/INFORME.md",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/evaluacion_deteccion_v002_001/predicciones.json",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/evaluacion_deteccion_v002_001/conflictos_semanticos.json",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/evaluacion_deteccion_v002_001/errores.csv",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/datasets/calidad_botellas/v002/experiments/individual_v001/runs/piloto_tapa_20261117/report.json",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/datasets/calidad_botellas/v002/experiments/individual_v001/runs/piloto_tapa_20261117/reference_domain_profile.json",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/datasets/calidad_botellas/v002/experiments/individual_v001/runs/piloto_tapa_20261117/screenshots/frame_000000.jpg",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/datasets/calidad_botellas/v002/experiments/individual_v001/runs/piloto_tapa_20261117/screenshots/frame_000199.jpg",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/datasets/calidad_botellas/v002/experiments/individual_v001/runs/piloto_tapa_20261117/screenshots/frame_000398.jpg",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/seguridad_epp_v002_001/INFORME_EPP.md",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/evaluacion_epp33_v002_001/metricas.json",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/evaluacion_epp33_v002_001/index.html",
+      "status": 200
+    },
+    {
+      "url": "/artefactos/output/experimental_pilotos/auditoria_errores_epp33_v002_001/plan_previo.json",
+      "status": 200
+    }
+  ],
+  "ok": true,
+  "errores_sin_trazas": true,
+  "documentos": 5
+}

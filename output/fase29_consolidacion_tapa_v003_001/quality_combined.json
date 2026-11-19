@@ -1,0 +1,4576 @@
+[
+  {
+    "sample_id": "roboflow_caps_v26:011729425c94bb79c672445d6ca4c8a6fbd15097605dac59d456ec00d3e6d467",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 87.47451916553172,
+      "gray_mean": 55.16035291883681,
+      "gray_std": 57.499504725893985,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "011729425c94bb79c672445d6ca4c8a6fbd15097605dac59d456ec00d3e6d467",
+      "flags": []
+    },
+    "min_side_640": 226.74166666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:01e7f66c1b85a63b4ffa04dea5c6dedece5d4936dc3aab57fddc4aa5993c84c5",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 91.20406616764305,
+      "gray_mean": 53.64044189453125,
+      "gray_std": 57.39026113803452,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "01e7f66c1b85a63b4ffa04dea5c6dedece5d4936dc3aab57fddc4aa5993c84c5",
+      "flags": []
+    },
+    "min_side_640": 212.07666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:0312ad28530badb3c3236f17528371ccbfe9bb0c2af87b39bf39a3c6b236eda1",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 88.97097991995605,
+      "gray_mean": 56.55851915147569,
+      "gray_std": 60.31613307628625,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "0312ad28530badb3c3236f17528371ccbfe9bb0c2af87b39bf39a3c6b236eda1",
+      "flags": []
+    },
+    "min_side_640": 210.90833333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:04cacf755dac14bca4841faf27b654d667680f06a608afdc489f8714cbebc9a5",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 62.46653034786383,
+      "gray_mean": 49.87718370225694,
+      "gray_std": 52.967287971775185,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "04cacf755dac14bca4841faf27b654d667680f06a608afdc489f8714cbebc9a5",
+      "flags": []
+    },
+    "min_side_640": 199.24166666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:06e19972e45bc716ec6419fa5094fb0a1419188675c4f625372dcd7a88096560",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 97.63677116382269,
+      "gray_mean": 53.899441189236114,
+      "gray_std": 56.25151937292346,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "06e19972e45bc716ec6419fa5094fb0a1419188675c4f625372dcd7a88096560",
+      "flags": []
+    },
+    "min_side_640": 232.57000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:070809794a6339263ca009ee51d963360115e972fb06b64cdbc8ac27db92a399",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 76.36285625103815,
+      "gray_mean": 51.888332790798614,
+      "gray_std": 56.09460398170288,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "070809794a6339263ca009ee51d963360115e972fb06b64cdbc8ac27db92a399",
+      "flags": []
+    },
+    "min_side_640": 223.735
+  },
+  {
+    "sample_id": "roboflow_caps_v26:0838391a11de08d52af57b1ad71ec13fcc65985b5bd8de4f8a7d5aa37f8debf0",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 87.09417084737876,
+      "gray_mean": 55.392781575520836,
+      "gray_std": 58.70584664323656,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "0838391a11de08d52af57b1ad71ec13fcc65985b5bd8de4f8a7d5aa37f8debf0",
+      "flags": []
+    },
+    "min_side_640": 207.5716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:084c5efab7372ed5a15e6fe0fc4555399d626ff4e6c83380d512f2111ea44588",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 64.94127470015742,
+      "gray_mean": 41.05626763237847,
+      "gray_std": 46.76676350404437,
+      "dark_fraction": 0.002780490451388889,
+      "bright_fraction": 0.0,
+      "actual_sha256": "084c5efab7372ed5a15e6fe0fc4555399d626ff4e6c83380d512f2111ea44588",
+      "flags": []
+    },
+    "min_side_640": 206.5716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:0a8f8f7d020e875daad8d4e4a4e921cf8bd6bd2a27dd980f9d4da979e6e40ac9",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 70.54454460404355,
+      "gray_mean": 50.70201280381944,
+      "gray_std": 54.88089579013934,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "0a8f8f7d020e875daad8d4e4a4e921cf8bd6bd2a27dd980f9d4da979e6e40ac9",
+      "flags": []
+    },
+    "min_side_640": 211.56333333333336
+  },
+  {
+    "sample_id": "roboflow_caps_v26:0b4ac7a67bc2f48496710d0faac8ae46fd3c6b6a462e52af6769042278e71aa7",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 89.71943249594834,
+      "gray_mean": 65.46923828125,
+      "gray_std": 59.1799062303922,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.00016276041666666666,
+      "actual_sha256": "0b4ac7a67bc2f48496710d0faac8ae46fd3c6b6a462e52af6769042278e71aa7",
+      "flags": []
+    },
+    "min_side_640": 249.74166666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:0bca9ed4219b8d0e34dff7d792ade8ba2175125116013c322bf94ef31cb45498",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 73.636793134941,
+      "gray_mean": 50.49702284071181,
+      "gray_std": 55.929065688731775,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "0bca9ed4219b8d0e34dff7d792ade8ba2175125116013c322bf94ef31cb45498",
+      "flags": []
+    },
+    "min_side_640": 217.73833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:0c8fa94206f9cc5ef33226a7393ae50d0e9f59df8c974bb212c9c6167fe5c516",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 58.95749575851692,
+      "gray_mean": 47.133565266927086,
+      "gray_std": 53.176967563337335,
+      "dark_fraction": 1.3563368055555555e-05,
+      "bright_fraction": 0.0,
+      "actual_sha256": "0c8fa94206f9cc5ef33226a7393ae50d0e9f59df8c974bb212c9c6167fe5c516",
+      "flags": []
+    },
+    "min_side_640": 199.23166666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:0cd560cc421c40a0d7f57dbe85cc64a83f1df6f0bfe929867d7ea8eed4cca344",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 71.37562740511365,
+      "gray_mean": 48.75677490234375,
+      "gray_std": 52.51900786263218,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "0cd560cc421c40a0d7f57dbe85cc64a83f1df6f0bfe929867d7ea8eed4cca344",
+      "flags": []
+    },
+    "min_side_640": 221.90500000000003
+  },
+  {
+    "sample_id": "roboflow_caps_v26:0e34efb0159b60734093c7a1b0a66e50f164580aba82680e1d57ee77ab48ee5e",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 66.36777819964438,
+      "gray_mean": 43.461398654513886,
+      "gray_std": 48.867705366373286,
+      "dark_fraction": 0.00043402777777777775,
+      "bright_fraction": 0.0,
+      "actual_sha256": "0e34efb0159b60734093c7a1b0a66e50f164580aba82680e1d57ee77ab48ee5e",
+      "flags": []
+    },
+    "min_side_640": 203.73666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:10a151aa5bed24c6ccdb19fca57fbbd225a66db31285ca803625db7cd8d18f69",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 88.20003148582246,
+      "gray_mean": 56.07843017578125,
+      "gray_std": 59.31248124596188,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "10a151aa5bed24c6ccdb19fca57fbbd225a66db31285ca803625db7cd8d18f69",
+      "flags": []
+    },
+    "min_side_640": 210.23833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:110a76b8382d304a187c3905299f7f2927652d6b0248ff60ff519b6187ce2215",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 86.15645670334315,
+      "gray_mean": 53.23480224609375,
+      "gray_std": 57.412100538186884,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "110a76b8382d304a187c3905299f7f2927652d6b0248ff60ff519b6187ce2215",
+      "flags": []
+    },
+    "min_side_640": 201.0716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:13431c1a8e5f228f18325a797d2bc4717274d1733dada42c7532d66142528b10",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 109.68107399510014,
+      "gray_mean": 58.02081298828125,
+      "gray_std": 59.864985326419756,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "13431c1a8e5f228f18325a797d2bc4717274d1733dada42c7532d66142528b10",
+      "flags": []
+    },
+    "min_side_640": 276.0866666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:141d9b42fb020f28b0a860aa4d92dd31fd9e0a5c3f3421408f9f3dda611722c7",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 98.261389253868,
+      "gray_mean": 55.319729275173614,
+      "gray_std": 58.76729981117771,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "141d9b42fb020f28b0a860aa4d92dd31fd9e0a5c3f3421408f9f3dda611722c7",
+      "flags": []
+    },
+    "min_side_640": 210.0716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:178eb6ff65000c6909e8c5579cff5569f61bafea2fa6a0316799089e82ad4b76",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 81.73658117817507,
+      "gray_mean": 53.55127631293403,
+      "gray_std": 56.07617107302429,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "178eb6ff65000c6909e8c5579cff5569f61bafea2fa6a0316799089e82ad4b76",
+      "flags": []
+    },
+    "min_side_640": 186.225
+  },
+  {
+    "sample_id": "roboflow_caps_v26:1a2ded5153e51f364e6d6ce1a41c6a6967fde320a09d04fdccbafb5bb47c002c",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 73.98525033500275,
+      "gray_mean": 56.018344455295136,
+      "gray_std": 58.31956365211026,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "1a2ded5153e51f364e6d6ce1a41c6a6967fde320a09d04fdccbafb5bb47c002c",
+      "flags": []
+    },
+    "min_side_640": 224.23666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:1d2192fe59c1859ab901090e3df72bc3c4f1116f5895ae4262845890eed87c41",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 76.25239797801149,
+      "gray_mean": 50.933553059895836,
+      "gray_std": 54.832634853742015,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "1d2192fe59c1859ab901090e3df72bc3c4f1116f5895ae4262845890eed87c41",
+      "flags": []
+    },
+    "min_side_640": 209.23000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:1e7ca890880f5e47859d84f230801cce8f01a574278026bf9981d769dafdd149",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 48.156987027575575,
+      "gray_mean": 43.96967230902778,
+      "gray_std": 51.32832611728142,
+      "dark_fraction": 5.425347222222222e-05,
+      "bright_fraction": 0.0,
+      "actual_sha256": "1e7ca890880f5e47859d84f230801cce8f01a574278026bf9981d769dafdd149",
+      "flags": [
+        "possible_blur"
+      ]
+    },
+    "min_side_640": 218.745
+  },
+  {
+    "sample_id": "roboflow_caps_v26:1ec68ca491261a87d87908714e8c6a07ffbc38236b47a5e5b8e7afe7dd94cf30",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 79.39469118687657,
+      "gray_mean": 55.724521213107636,
+      "gray_std": 58.16067493121131,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "1ec68ca491261a87d87908714e8c6a07ffbc38236b47a5e5b8e7afe7dd94cf30",
+      "flags": []
+    },
+    "min_side_640": 223.56833333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:1f0ac9dfd1fa7b57fa9229debcdd08faab8ec9a8e91ee258275f95ee8a45244e",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 64.16298595401976,
+      "gray_mean": 41.397542317708336,
+      "gray_std": 46.93843566941427,
+      "dark_fraction": 0.0023328993055555555,
+      "bright_fraction": 0.0,
+      "actual_sha256": "1f0ac9dfd1fa7b57fa9229debcdd08faab8ec9a8e91ee258275f95ee8a45244e",
+      "flags": []
+    },
+    "min_side_640": 209.40500000000003
+  },
+  {
+    "sample_id": "roboflow_caps_v26:1f0b99de631e7575388e8c8259590c74921f9936cb607aede523d41f0638e9dc",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 85.73083235580981,
+      "gray_mean": 50.72978379991319,
+      "gray_std": 54.662860907564486,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "1f0b99de631e7575388e8c8259590c74921f9936cb607aede523d41f0638e9dc",
+      "flags": []
+    },
+    "min_side_640": 214.56666666666666
+  },
+  {
+    "sample_id": "roboflow_caps_v26:20377bc96db8853f56d136c325bc24939394683af4e4541fa52d2d85a0e7736f",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 67.31204875144694,
+      "gray_mean": 47.70916069878472,
+      "gray_std": 52.361663929427735,
+      "dark_fraction": 2.0345052083333332e-05,
+      "bright_fraction": 0.0,
+      "actual_sha256": "20377bc96db8853f56d136c325bc24939394683af4e4541fa52d2d85a0e7736f",
+      "flags": []
+    },
+    "min_side_640": 208.89666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:2105face3bdb5a5b693eea9c7aae353a761342d60aa8d70503ed8aba7de3a757",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 75.35619909008159,
+      "gray_mean": 50.72770860460069,
+      "gray_std": 55.16554910521226,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "2105face3bdb5a5b693eea9c7aae353a761342d60aa8d70503ed8aba7de3a757",
+      "flags": []
+    },
+    "min_side_640": 204.23666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:221a03c689a4685a7b54edc6d64ca68a3b9ce904adadac65f76a247edf39e326",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 108.21293334823882,
+      "gray_mean": 60.80767822265625,
+      "gray_std": 61.94619806287957,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "221a03c689a4685a7b54edc6d64ca68a3b9ce904adadac65f76a247edf39e326",
+      "flags": []
+    },
+    "min_side_640": 265.0883333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:22a1fd7a58e7f99d8469e06e9f245d4d62b6fa6cc44b260cb6cea5407f48921f",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 81.7080437404414,
+      "gray_mean": 56.98554823133681,
+      "gray_std": 56.8343755276062,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "22a1fd7a58e7f99d8469e06e9f245d4d62b6fa6cc44b260cb6cea5407f48921f",
+      "flags": []
+    },
+    "min_side_640": 257.24666666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:22ecf91a0c64468e2ea4bd5e0a7504495cd891500efe4c09b8eabdf1d7f7ed9c",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 65.78160033991308,
+      "gray_mean": 56.05316162109375,
+      "gray_std": 57.783183742494366,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "22ecf91a0c64468e2ea4bd5e0a7504495cd891500efe4c09b8eabdf1d7f7ed9c",
+      "flags": []
+    },
+    "min_side_640": 220.57000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:242884a79f4cc2e1df3a4b32f060f34de2b549651e7fb22bca802ba04933d84b",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 86.91555130771465,
+      "gray_mean": 57.491923014322914,
+      "gray_std": 60.46324019702009,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "242884a79f4cc2e1df3a4b32f060f34de2b549651e7fb22bca802ba04933d84b",
+      "flags": []
+    },
+    "min_side_640": 215.075
+  },
+  {
+    "sample_id": "roboflow_caps_v26:250c708ee522ab7cc8f9fc84aea6408b69e664b910827d775bd1778a529d9b3a",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 109.8823294263839,
+      "gray_mean": 52.396694607204864,
+      "gray_std": 56.85918263609169,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "250c708ee522ab7cc8f9fc84aea6408b69e664b910827d775bd1778a529d9b3a",
+      "flags": []
+    },
+    "min_side_640": 209.07333333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:2592c0115b6020030dab947483f4a9bf657c4940e180a0cdbd120672a5543aac",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 57.520056333070926,
+      "gray_mean": 43.482584635416664,
+      "gray_std": 48.832420733075736,
+      "dark_fraction": 6.781684027777777e-06,
+      "bright_fraction": 0.0,
+      "actual_sha256": "2592c0115b6020030dab947483f4a9bf657c4940e180a0cdbd120672a5543aac",
+      "flags": []
+    },
+    "min_side_640": 204.40833333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:262f0b998641ada09644c949e74c84824c2fde95242ecdcaa19ed0820332fbe3",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 57.95629583570508,
+      "gray_mean": 44.41630723741319,
+      "gray_std": 51.34444668168506,
+      "dark_fraction": 0.0006578233506944445,
+      "bright_fraction": 0.0,
+      "actual_sha256": "262f0b998641ada09644c949e74c84824c2fde95242ecdcaa19ed0820332fbe3",
+      "flags": []
+    },
+    "min_side_640": 215.9066666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:2665c2745f753a11229f5f49378fc031cdfce548abaf0882f58734a1ae1b5eaf",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 79.09077161877059,
+      "gray_mean": 52.07903374565972,
+      "gray_std": 56.918737293041154,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "2665c2745f753a11229f5f49378fc031cdfce548abaf0882f58734a1ae1b5eaf",
+      "flags": []
+    },
+    "min_side_640": 205.0716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:27ad65495ad39de7b745a4b311edc005ad86f49614b7e52f726cc1381fe9d504",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 72.80125818608536,
+      "gray_mean": 51.626749674479164,
+      "gray_std": 56.4568748999979,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "27ad65495ad39de7b745a4b311edc005ad86f49614b7e52f726cc1381fe9d504",
+      "flags": []
+    },
+    "min_side_640": 205.575
+  },
+  {
+    "sample_id": "roboflow_caps_v26:27f35b1bf04b84bfe2a67b55d2b34c57e97f599f1d0b04accfd51bad544b4ba8",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 68.87646372450723,
+      "gray_mean": 47.95414903428819,
+      "gray_std": 52.80353341925425,
+      "dark_fraction": 8.816189236111111e-05,
+      "bright_fraction": 0.0,
+      "actual_sha256": "27f35b1bf04b84bfe2a67b55d2b34c57e97f599f1d0b04accfd51bad544b4ba8",
+      "flags": []
+    },
+    "min_side_640": 213.89666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:2a23649efcea3e19b4987b020f555df8e2daac4d59e40e94a5f7e29d907337bb",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 91.61183100110955,
+      "gray_mean": 55.87651909722222,
+      "gray_std": 59.20228360899266,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "2a23649efcea3e19b4987b020f555df8e2daac4d59e40e94a5f7e29d907337bb",
+      "flags": []
+    },
+    "min_side_640": 206.0716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:2b16f33f8a2cbff8bf1a3b4f20838722c5605f287126660ebc6edff6c3acbb55",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 94.89911872350875,
+      "gray_mean": 54.112101236979164,
+      "gray_std": 58.65881208184723,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "2b16f33f8a2cbff8bf1a3b4f20838722c5605f287126660ebc6edff6c3acbb55",
+      "flags": []
+    },
+    "min_side_640": 217.25
+  },
+  {
+    "sample_id": "roboflow_caps_v26:2c167f9bd64f47861e418ba04b8ba1e576a835c857c0e76f2c4db2c3bfdf8517",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 88.73668304375477,
+      "gray_mean": 56.40820990668403,
+      "gray_std": 59.251641867083215,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "2c167f9bd64f47861e418ba04b8ba1e576a835c857c0e76f2c4db2c3bfdf8517",
+      "flags": []
+    },
+    "min_side_640": 222.07833333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:2df355a20b02ce5adac23cad3080cccc4409760595ac7d8747cf8775b95e5a62",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 56.94898889420761,
+      "gray_mean": 44.669921875,
+      "gray_std": 49.26571436844776,
+      "dark_fraction": 0.00029161241319444444,
+      "bright_fraction": 0.0,
+      "actual_sha256": "2df355a20b02ce5adac23cad3080cccc4409760595ac7d8747cf8775b95e5a62",
+      "flags": []
+    },
+    "min_side_640": 216.73833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:2e2bdb6dd74c992b4541252fc6be7c2912bd3a0bc5bee9ffd2703e744cb65b52",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 89.24213102055185,
+      "gray_mean": 53.89721001519097,
+      "gray_std": 57.90305226605531,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "2e2bdb6dd74c992b4541252fc6be7c2912bd3a0bc5bee9ffd2703e744cb65b52",
+      "flags": []
+    },
+    "min_side_640": 211.57333333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:2ff9c69ddfe97bd5ae242dbcade2d38379d2fe43ef61e760f9227262f8ad9154",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 81.95426665628214,
+      "gray_mean": 52.466044108072914,
+      "gray_std": 57.44774679251862,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "2ff9c69ddfe97bd5ae242dbcade2d38379d2fe43ef61e760f9227262f8ad9154",
+      "flags": []
+    },
+    "min_side_640": 208.4066666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:304a3f585a6b63da87cf9e53dcc8f7353f1b79ffd6df4a4eb0ff81dab27258e8",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 70.33782621206325,
+      "gray_mean": 47.010586208767364,
+      "gray_std": 51.5239548739745,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "304a3f585a6b63da87cf9e53dcc8f7353f1b79ffd6df4a4eb0ff81dab27258e8",
+      "flags": []
+    },
+    "min_side_640": 212.07333333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:31551141da28077cbe26903cbd5520fb59bfca69de34cdc7bf98ef7a7112fa75",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 65.30470659096301,
+      "gray_mean": 45.269978841145836,
+      "gray_std": 50.203966581475164,
+      "dark_fraction": 0.00010850694444444444,
+      "bright_fraction": 0.0,
+      "actual_sha256": "31551141da28077cbe26903cbd5520fb59bfca69de34cdc7bf98ef7a7112fa75",
+      "flags": []
+    },
+    "min_side_640": 213.57333333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:31f084de398ab026379ebe9b7bc7d368613bc192b3dfab3d187759c4fc2d5959",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 85.86469362823317,
+      "gray_mean": 55.446512858072914,
+      "gray_std": 58.92495144961987,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "31f084de398ab026379ebe9b7bc7d368613bc192b3dfab3d187759c4fc2d5959",
+      "flags": []
+    },
+    "min_side_640": 209.23833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:3513325039decbc6411a72aef23bc0abc927e463d39701e5d4c3817aa8dc20d6",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 87.4886199940502,
+      "gray_mean": 53.690775553385414,
+      "gray_std": 57.88417193547915,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "3513325039decbc6411a72aef23bc0abc927e463d39701e5d4c3817aa8dc20d6",
+      "flags": []
+    },
+    "min_side_640": 200.57000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:36c31861df5095ca2b94b7e2878cb396bfe518b6baef51c6cc06a58e0e762754",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 54.45217976263828,
+      "gray_mean": 47.61387803819444,
+      "gray_std": 53.317269370322414,
+      "dark_fraction": 2.0345052083333332e-05,
+      "bright_fraction": 0.0,
+      "actual_sha256": "36c31861df5095ca2b94b7e2878cb396bfe518b6baef51c6cc06a58e0e762754",
+      "flags": []
+    },
+    "min_side_640": 201.73333333333332
+  },
+  {
+    "sample_id": "roboflow_caps_v26:37d81fdc1bb3330a36ceccc30f86897e8ec885324b4caba590158183d2e0f06f",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 76.09980354333918,
+      "gray_mean": 55.25384521484375,
+      "gray_std": 57.40686650277326,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "37d81fdc1bb3330a36ceccc30f86897e8ec885324b4caba590158183d2e0f06f",
+      "flags": []
+    },
+    "min_side_640": 206.075
+  },
+  {
+    "sample_id": "roboflow_caps_v26:3918a918e760d386544ccc453a4d40e06fdf40fcc64b971a14b115bc195be9f2",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 74.18901106342673,
+      "gray_mean": 50.461324055989586,
+      "gray_std": 55.23574640215923,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "3918a918e760d386544ccc453a4d40e06fdf40fcc64b971a14b115bc195be9f2",
+      "flags": []
+    },
+    "min_side_640": 217.23833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:3a7f6413015f6f976d9f7815d228d1782ce8b32ad9f0003854d589a3b183b460",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 67.13465231141926,
+      "gray_mean": 55.14147271050347,
+      "gray_std": 58.468931622004376,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "3a7f6413015f6f976d9f7815d228d1782ce8b32ad9f0003854d589a3b183b460",
+      "flags": []
+    },
+    "min_side_640": 201.06833333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:3af32acfa18aa138b9cf7a5098d3c49cae978e99418c439dd9f99289bee9d29c",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 68.4290835150506,
+      "gray_mean": 51.139492458767364,
+      "gray_std": 56.2560676089225,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "3af32acfa18aa138b9cf7a5098d3c49cae978e99418c439dd9f99289bee9d29c",
+      "flags": []
+    },
+    "min_side_640": 202.23833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:3b3054aec53786c0c02b96564cabe44bd3853d285c22efbb4634cb1314b8a8f0",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 75.16260719004973,
+      "gray_mean": 51.919765896267364,
+      "gray_std": 55.364898119984424,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "3b3054aec53786c0c02b96564cabe44bd3853d285c22efbb4634cb1314b8a8f0",
+      "flags": []
+    },
+    "min_side_640": 209.89666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:3b91805f77341a84930629f3fe506063ecb98b7c3fc7fff884c8af43af923bab",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 76.33208828276875,
+      "gray_mean": 49.98418511284722,
+      "gray_std": 54.23328267448532,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "3b91805f77341a84930629f3fe506063ecb98b7c3fc7fff884c8af43af923bab",
+      "flags": []
+    },
+    "min_side_640": 203.06333333333336
+  },
+  {
+    "sample_id": "roboflow_caps_v26:3c8958532b9f8fc286e5e4bf7210ffa892243bc8a9048958b8020d9fb58fba62",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 96.08401806445585,
+      "gray_mean": 52.85692003038194,
+      "gray_std": 57.455554612921205,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "3c8958532b9f8fc286e5e4bf7210ffa892243bc8a9048958b8020d9fb58fba62",
+      "flags": []
+    },
+    "min_side_640": 177.73000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:3e09e74e6ee6dc6714c21a7edb426e6a6806392562918091e9d1f5f4ef14d2dd",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 75.11535213887691,
+      "gray_mean": 54.816813151041664,
+      "gray_std": 57.74553611464508,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "3e09e74e6ee6dc6714c21a7edb426e6a6806392562918091e9d1f5f4ef14d2dd",
+      "flags": []
+    },
+    "min_side_640": 228.73666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:3ef78db762f188b92b43b84b9c71baca10bfed58211eecf0ba72572c630f4cb1",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 93.11445704723398,
+      "gray_mean": 55.57518853081597,
+      "gray_std": 59.54282570458922,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "3ef78db762f188b92b43b84b9c71baca10bfed58211eecf0ba72572c630f4cb1",
+      "flags": []
+    },
+    "min_side_640": 201.73833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:42aa99188b4460c7d56a0082096161a89a3d5b4712ac540251e7e809ff71193e",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 75.55352445438874,
+      "gray_mean": 46.82525634765625,
+      "gray_std": 50.68475463174317,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "42aa99188b4460c7d56a0082096161a89a3d5b4712ac540251e7e809ff71193e",
+      "flags": []
+    },
+    "min_side_640": 206.07333333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:4461b4701e52ba045c082a39aa035753b2391a17786bf23f307fdfc9a76091db",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 69.49012183145058,
+      "gray_mean": 48.58546278211806,
+      "gray_std": 52.04079323911794,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "4461b4701e52ba045c082a39aa035753b2391a17786bf23f307fdfc9a76091db",
+      "flags": []
+    },
+    "min_side_640": 221.57333333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:45b8c939caaba6b950221aaba3dec7310903a8096a1f14aefb9d95f2bade804c",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 71.2518016613192,
+      "gray_mean": 51.77415635850694,
+      "gray_std": 55.54306476196827,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "45b8c939caaba6b950221aaba3dec7310903a8096a1f14aefb9d95f2bade804c",
+      "flags": []
+    },
+    "min_side_640": 207.56333333333336
+  },
+  {
+    "sample_id": "roboflow_caps_v26:475ba36b39dcfd37697c44bf8293b70e6e48861cab5ad6d30e0503e23d7ffdff",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 85.9184561945314,
+      "gray_mean": 52.682535807291664,
+      "gray_std": 57.224023210289616,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "475ba36b39dcfd37697c44bf8293b70e6e48861cab5ad6d30e0503e23d7ffdff",
+      "flags": []
+    },
+    "min_side_640": 211.24166666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:4761abe139f98b8bc4b0c628bc35799eebc5b92e03070831e19f745c1aca1304",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 83.81052821359516,
+      "gray_mean": 50.217183430989586,
+      "gray_std": 53.49915194689935,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "4761abe139f98b8bc4b0c628bc35799eebc5b92e03070831e19f745c1aca1304",
+      "flags": []
+    },
+    "min_side_640": 201.23666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:47e141c62e5a0429f5ad022ebf6897571762b53d89d4794ebbab60f49c900a21",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 87.96936365515914,
+      "gray_mean": 49.489590115017364,
+      "gray_std": 53.98338533352945,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "47e141c62e5a0429f5ad022ebf6897571762b53d89d4794ebbab60f49c900a21",
+      "flags": []
+    },
+    "min_side_640": 230.25999999999996
+  },
+  {
+    "sample_id": "roboflow_caps_v26:49885a26bb66d8846bb7851d6ad82eced69ceb9d2579a6e2f063e455d4f4750a",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 78.05525677715553,
+      "gray_mean": 56.89154052734375,
+      "gray_std": 59.26591979073062,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "49885a26bb66d8846bb7851d6ad82eced69ceb9d2579a6e2f063e455d4f4750a",
+      "flags": []
+    },
+    "min_side_640": 222.0883333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:499f39f36bc125dfd7495aae84c6e9f8a456600fc60a6cf01320ca6e82d0585b",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 102.44528970080944,
+      "gray_mean": 53.556240505642364,
+      "gray_std": 57.648927262739136,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "499f39f36bc125dfd7495aae84c6e9f8a456600fc60a6cf01320ca6e82d0585b",
+      "flags": []
+    },
+    "min_side_640": 206.73833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:49b18ad3953db6858da3cec22e991ac898aa0c77df56c2ba3a16ee002a191997",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 56.70547808426214,
+      "gray_mean": 45.718905978732636,
+      "gray_std": 49.291892985257164,
+      "dark_fraction": 0.0001220703125,
+      "bright_fraction": 0.0,
+      "actual_sha256": "49b18ad3953db6858da3cec22e991ac898aa0c77df56c2ba3a16ee002a191997",
+      "flags": []
+    },
+    "min_side_640": 206.9
+  },
+  {
+    "sample_id": "roboflow_caps_v26:4a25483a4df4f127e1649ff459e7406bf9f986880844678623c613a92650966f",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 59.802351861042375,
+      "gray_mean": 38.83160400390625,
+      "gray_std": 44.31354829316425,
+      "dark_fraction": 0.007676866319444444,
+      "bright_fraction": 0.0,
+      "actual_sha256": "4a25483a4df4f127e1649ff459e7406bf9f986880844678623c613a92650966f",
+      "flags": []
+    },
+    "min_side_640": 211.90833333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:4a8a2441a2c7c123ac2b882e4edbedcd4428640a73bdc645606ffe5c4a974348",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 64.58867803432139,
+      "gray_mean": 55.320346408420136,
+      "gray_std": 56.18407250004517,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "4a8a2441a2c7c123ac2b882e4edbedcd4428640a73bdc645606ffe5c4a974348",
+      "flags": []
+    },
+    "min_side_640": 248.08333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:4ab2d6a70dd203c6843ae8577dca97aeadd6dd1bb2df5fdf4063b4fb4442b8b2",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 67.5013577705824,
+      "gray_mean": 42.350850423177086,
+      "gray_std": 47.68956512496468,
+      "dark_fraction": 0.0015462239583333333,
+      "bright_fraction": 0.0,
+      "actual_sha256": "4ab2d6a70dd203c6843ae8577dca97aeadd6dd1bb2df5fdf4063b4fb4442b8b2",
+      "flags": []
+    },
+    "min_side_640": 214.0716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:4ae67d18c76d2f89c16c352c6512f02cd75bd8fd11bda1dc73d28dedd2766beb",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 72.71093651965076,
+      "gray_mean": 49.709330240885414,
+      "gray_std": 55.940859165233796,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "4ae67d18c76d2f89c16c352c6512f02cd75bd8fd11bda1dc73d28dedd2766beb",
+      "flags": []
+    },
+    "min_side_640": 202.73833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:4b07fdb7c607d013193fe53b14d70a4dc8fe6e418d0810d62fc7563f1a4509ad",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 84.03026999956295,
+      "gray_mean": 53.27995469835069,
+      "gray_std": 57.52275943827986,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "4b07fdb7c607d013193fe53b14d70a4dc8fe6e418d0810d62fc7563f1a4509ad",
+      "flags": []
+    },
+    "min_side_640": 202.235
+  },
+  {
+    "sample_id": "roboflow_caps_v26:4c4f670421244045a63753c35094e1a92ab2f896ef146f73e0fddaf9a22778fe",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 54.43930930115374,
+      "gray_mean": 44.989773220486114,
+      "gray_std": 48.792164437049145,
+      "dark_fraction": 0.00012885199652777778,
+      "bright_fraction": 0.0,
+      "actual_sha256": "4c4f670421244045a63753c35094e1a92ab2f896ef146f73e0fddaf9a22778fe",
+      "flags": []
+    },
+    "min_side_640": 196.23000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:4cdd11d8707c8d086d851c686f9ad3abd8308d6c96de1f3c7ac487aaad07f09e",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 86.64860463027418,
+      "gray_mean": 56.65546332465278,
+      "gray_std": 55.1403642727078,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "4cdd11d8707c8d086d851c686f9ad3abd8308d6c96de1f3c7ac487aaad07f09e",
+      "flags": []
+    },
+    "min_side_640": 292.1066666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:4de1cbbbde307e279059e65546fd70ed56a8df3fcc7081dfb0b0b8560a9a88dd",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 61.336581689156134,
+      "gray_mean": 42.09129503038194,
+      "gray_std": 49.64232016485773,
+      "dark_fraction": 0.005940755208333333,
+      "bright_fraction": 0.0,
+      "actual_sha256": "4de1cbbbde307e279059e65546fd70ed56a8df3fcc7081dfb0b0b8560a9a88dd",
+      "flags": []
+    },
+    "min_side_640": 225.74333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:4eabb0a8654560180b9ff7e23ff8ab1f1d3281e0cbf5fc5c1c4024dc33d3d93e",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 69.94731955395804,
+      "gray_mean": 47.354777018229164,
+      "gray_std": 52.10504327447127,
+      "dark_fraction": 9.494357638888889e-05,
+      "bright_fraction": 0.0,
+      "actual_sha256": "4eabb0a8654560180b9ff7e23ff8ab1f1d3281e0cbf5fc5c1c4024dc33d3d93e",
+      "flags": []
+    },
+    "min_side_640": 208.9
+  },
+  {
+    "sample_id": "roboflow_caps_v26:4ec3fb665d23a082c3f87c7c012b7f85cb7c95451adf7a05616b3c41f7acbf21",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 98.33012550365594,
+      "gray_mean": 58.623141818576386,
+      "gray_std": 56.23695257575262,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "4ec3fb665d23a082c3f87c7c012b7f85cb7c95451adf7a05616b3c41f7acbf21",
+      "flags": []
+    },
+    "min_side_640": 316.11
+  },
+  {
+    "sample_id": "roboflow_caps_v26:4f9542c384237fcd5fe3d6209d0bc81bb8c36b02f2dbc18a08cbc7b1db9a1758",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 91.19698683416217,
+      "gray_mean": 55.85936143663194,
+      "gray_std": 59.769187520766785,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "4f9542c384237fcd5fe3d6209d0bc81bb8c36b02f2dbc18a08cbc7b1db9a1758",
+      "flags": []
+    },
+    "min_side_640": 213.24333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:501f3a6cef342dbf05fc91d01ff408c19997bf8dd43bd0b560de8141cd145c25",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 86.8112041519288,
+      "gray_mean": 52.80708143446181,
+      "gray_std": 57.06830756217359,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "501f3a6cef342dbf05fc91d01ff408c19997bf8dd43bd0b560de8141cd145c25",
+      "flags": []
+    },
+    "min_side_640": 199.23333333333332
+  },
+  {
+    "sample_id": "roboflow_caps_v26:5034b6da7874c8690f96928931eedca6ef85f7685e924be4455706f2ae9250e8",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 75.20921919407485,
+      "gray_mean": 49.8499755859375,
+      "gray_std": 52.7535782396725,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "5034b6da7874c8690f96928931eedca6ef85f7685e924be4455706f2ae9250e8",
+      "flags": []
+    },
+    "min_side_640": 194.57000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:5133b65e09f081fcde18e4eadec14d7f56cbc1c24ddfa4926f846643f25cf2fd",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 78.87926471228769,
+      "gray_mean": 48.636067708333336,
+      "gray_std": 53.71090207937594,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "5133b65e09f081fcde18e4eadec14d7f56cbc1c24ddfa4926f846643f25cf2fd",
+      "flags": []
+    },
+    "min_side_640": 204.4
+  },
+  {
+    "sample_id": "roboflow_caps_v26:519d39b7f1b0b008a422ab84c68e9ff5d7001c9ef03b18b37136f537428d9da5",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 70.13155100076102,
+      "gray_mean": 51.35883924696181,
+      "gray_std": 54.16929942388118,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "519d39b7f1b0b008a422ab84c68e9ff5d7001c9ef03b18b37136f537428d9da5",
+      "flags": []
+    },
+    "min_side_640": 197.23833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:528288c2e7f29aaef32a212e483810434ed648891785bd08a6c897358e0978f2",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 97.5960473826178,
+      "gray_mean": 54.80803765190972,
+      "gray_std": 57.14745962757108,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "528288c2e7f29aaef32a212e483810434ed648891785bd08a6c897358e0978f2",
+      "flags": []
+    },
+    "min_side_640": 190.90333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:53602fd61fdcbffad34422706f942591e7085d837416002231af95bbf874c605",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 97.85156928168402,
+      "gray_mean": 55.571200900607636,
+      "gray_std": 58.07942032328552,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "53602fd61fdcbffad34422706f942591e7085d837416002231af95bbf874c605",
+      "flags": []
+    },
+    "min_side_640": 217.07333333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:538b33c21925e626188174ba55af9c59a10fbdbfce6a4ff56072b3ac7a25d795",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 75.4954972759717,
+      "gray_mean": 51.27684868706597,
+      "gray_std": 56.26886867692269,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "538b33c21925e626188174ba55af9c59a10fbdbfce6a4ff56072b3ac7a25d795",
+      "flags": []
+    },
+    "min_side_640": 204.90333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:5516b0c43b13db9eac051cc30251ed7d9f5f46843145b45568b7b082added7c9",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 61.80017889208264,
+      "gray_mean": 49.671169704861114,
+      "gray_std": 54.75458259633122,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "5516b0c43b13db9eac051cc30251ed7d9f5f46843145b45568b7b082added7c9",
+      "flags": []
+    },
+    "min_side_640": 211.9066666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:55eff659639aa37270e3b6c15cdca933be0981ad8baa5621e9aace5198f3c04c",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 78.48060453600354,
+      "gray_mean": 52.41649712456597,
+      "gray_std": 54.703196273556365,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "55eff659639aa37270e3b6c15cdca933be0981ad8baa5621e9aace5198f3c04c",
+      "flags": []
+    },
+    "min_side_640": 199.0716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:56325d6b2f2a4727a833194268542908f23f1c4c416321cdda2041d0adf40885",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 68.41909439457052,
+      "gray_mean": 50.91401502821181,
+      "gray_std": 54.62317712719337,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "56325d6b2f2a4727a833194268542908f23f1c4c416321cdda2041d0adf40885",
+      "flags": []
+    },
+    "min_side_640": 200.89499999999998
+  },
+  {
+    "sample_id": "roboflow_caps_v26:563be377eca3343aeaacabe471a927478c0551cec090c6994b899efeb96092e1",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 74.66345159635868,
+      "gray_mean": 51.43426513671875,
+      "gray_std": 52.76638886999127,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "563be377eca3343aeaacabe471a927478c0551cec090c6994b899efeb96092e1",
+      "flags": []
+    },
+    "min_side_640": 205.06333333333336
+  },
+  {
+    "sample_id": "roboflow_caps_v26:564e3da6ce637d56b32b92a9b144ecd4df6f639fbefe12936e508b1db973b7d9",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 75.9770346995857,
+      "gray_mean": 52.96770562065972,
+      "gray_std": 53.649618356951066,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "564e3da6ce637d56b32b92a9b144ecd4df6f639fbefe12936e508b1db973b7d9",
+      "flags": []
+    },
+    "min_side_640": 220.90333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:573c67faf855df6790b18c406bed28684d9943805ba0e7c36774d97863690e11",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 86.20236849743459,
+      "gray_mean": 53.525112575954864,
+      "gray_std": 56.73541571328921,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "573c67faf855df6790b18c406bed28684d9943805ba0e7c36774d97863690e11",
+      "flags": []
+    },
+    "min_side_640": 226.5716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:57ca52dbea29d52d1c920cef2ca88d05374767293743e3b7688da09871f17403",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 74.46848964691162,
+      "gray_mean": 54.62278917100694,
+      "gray_std": 56.6926736896085,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "57ca52dbea29d52d1c920cef2ca88d05374767293743e3b7688da09871f17403",
+      "flags": []
+    },
+    "min_side_640": 203.0716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:584ca33320c5c79ec5c8b3db2c424a27ddd40abc83cd5f0900cfa632ef53eae8",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 77.92226638598943,
+      "gray_mean": 53.71980116102431,
+      "gray_std": 58.37087287406126,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "584ca33320c5c79ec5c8b3db2c424a27ddd40abc83cd5f0900cfa632ef53eae8",
+      "flags": []
+    },
+    "min_side_640": 209.4066666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:5941c586aed2ec395a9f66417ce9cf1e05c1d8a2f9e973487f0d0150d73399b1",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 61.00935870556183,
+      "gray_mean": 46.964328342013886,
+      "gray_std": 53.019387743209194,
+      "dark_fraction": 6.781684027777777e-06,
+      "bright_fraction": 0.0,
+      "actual_sha256": "5941c586aed2ec395a9f66417ce9cf1e05c1d8a2f9e973487f0d0150d73399b1",
+      "flags": []
+    },
+    "min_side_640": 204.73333333333332
+  },
+  {
+    "sample_id": "roboflow_caps_v26:59e31228fdaf7944752abfafa2945e0a3c581f7d6e114712f70f1c9cd4b4dabc",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 85.42337125535181,
+      "gray_mean": 52.64678276909722,
+      "gray_std": 57.52488039193902,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "59e31228fdaf7944752abfafa2945e0a3c581f7d6e114712f70f1c9cd4b4dabc",
+      "flags": []
+    },
+    "min_side_640": 209.9066666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:5bdc56710f40229eb0cd6cb2b15601fcc3838faad8feec4ddd199ee391fdd0c0",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 57.87016514477172,
+      "gray_mean": 36.649074978298614,
+      "gray_std": 42.305286400698385,
+      "dark_fraction": 0.025139702690972224,
+      "bright_fraction": 0.0,
+      "actual_sha256": "5bdc56710f40229eb0cd6cb2b15601fcc3838faad8feec4ddd199ee391fdd0c0",
+      "flags": []
+    },
+    "min_side_640": 220.07333333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:5ee7ab9379c5de7155cd37aa23a263a32c9e4af8d5d04441c6a534244264e1b6",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 72.61566711019402,
+      "gray_mean": 48.306423611111114,
+      "gray_std": 52.42022738626447,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "5ee7ab9379c5de7155cd37aa23a263a32c9e4af8d5d04441c6a534244264e1b6",
+      "flags": []
+    },
+    "min_side_640": 214.4066666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:60109cd55152aebd7f9631272e7ec1de58e8fdfb918948ee8c2f14adc853e730",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 77.41332314701543,
+      "gray_mean": 49.17426893446181,
+      "gray_std": 53.9777744102536,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "60109cd55152aebd7f9631272e7ec1de58e8fdfb918948ee8c2f14adc853e730",
+      "flags": []
+    },
+    "min_side_640": 204.90333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:60793b5b51686a884c36418ba89d4f79db3fa4111c9b81e4ee8573fde0ffee4d",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 64.85667180555102,
+      "gray_mean": 45.524637858072914,
+      "gray_std": 49.20351068162674,
+      "dark_fraction": 8.138020833333333e-05,
+      "bright_fraction": 0.0,
+      "actual_sha256": "60793b5b51686a884c36418ba89d4f79db3fa4111c9b81e4ee8573fde0ffee4d",
+      "flags": []
+    },
+    "min_side_640": 200.73000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:607eb74bdb95392194f5ffb032fda90a50d2f62c20f78ca429a38f440f11e9e5",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 87.98052868021675,
+      "gray_mean": 54.673970540364586,
+      "gray_std": 58.48164189080314,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "607eb74bdb95392194f5ffb032fda90a50d2f62c20f78ca429a38f440f11e9e5",
+      "flags": []
+    },
+    "min_side_640": 203.735
+  },
+  {
+    "sample_id": "roboflow_caps_v26:622e554396a3dfee1557e072ea57b6a561fbbcd0231ce6bb4ca3140328c7e7fd",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 85.38656647553967,
+      "gray_mean": 55.156819661458336,
+      "gray_std": 57.39055124608077,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "622e554396a3dfee1557e072ea57b6a561fbbcd0231ce6bb4ca3140328c7e7fd",
+      "flags": []
+    },
+    "min_side_640": 218.08333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:62b1cc84700f0462945fb63fe0a345dcd9a92a0ee6719b5e56957b2dcdab7150",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 58.762959600552726,
+      "gray_mean": 44.365193684895836,
+      "gray_std": 51.32546344359802,
+      "dark_fraction": 0.001010470920138889,
+      "bright_fraction": 0.0,
+      "actual_sha256": "62b1cc84700f0462945fb63fe0a345dcd9a92a0ee6719b5e56957b2dcdab7150",
+      "flags": []
+    },
+    "min_side_640": 226.745
+  },
+  {
+    "sample_id": "roboflow_caps_v26:631289fcb8e5f1221fbc4a864ce0bd59aa8366513c69530b4701f1d50e36b104",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 67.82256742300075,
+      "gray_mean": 51.30201551649306,
+      "gray_std": 56.31660071716864,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "631289fcb8e5f1221fbc4a864ce0bd59aa8366513c69530b4701f1d50e36b104",
+      "flags": []
+    },
+    "min_side_640": 200.57000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:64b2e7870dd5e467182eb85e85312c1b03d8a38e90daa84e37d2403b30199b07",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 76.33810942684426,
+      "gray_mean": 49.96784803602431,
+      "gray_std": 55.47444516485828,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "64b2e7870dd5e467182eb85e85312c1b03d8a38e90daa84e37d2403b30199b07",
+      "flags": []
+    },
+    "min_side_640": 223.57333333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:662d5c70abbefd900dacf63edf0dffe9e5f72a8ea0475882a3a47fe5a60a6f16",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 95.25899105583443,
+      "gray_mean": 54.636678059895836,
+      "gray_std": 58.762701984509434,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "662d5c70abbefd900dacf63edf0dffe9e5f72a8ea0475882a3a47fe5a60a6f16",
+      "flags": []
+    },
+    "min_side_640": 200.5716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:66831134988dc6e53b08aca3cdafeab596b727a389581362d151f824cada762e",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 69.5368516643842,
+      "gray_mean": 47.72509765625,
+      "gray_std": 53.08925092616257,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "66831134988dc6e53b08aca3cdafeab596b727a389581362d151f824cada762e",
+      "flags": []
+    },
+    "min_side_640": 205.235
+  },
+  {
+    "sample_id": "roboflow_caps_v26:66ae2e39869289ce89dca1133fba035ecc4fe44b8790cfb648a7155b5ca5ae43",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 63.40139476292663,
+      "gray_mean": 54.003933376736114,
+      "gray_std": 57.61838703545605,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "66ae2e39869289ce89dca1133fba035ecc4fe44b8790cfb648a7155b5ca5ae43",
+      "flags": []
+    },
+    "min_side_640": 201.0716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:6962e6ac061f823748d8ac35a98a47afa0130cca02bfeac2966995c3a3ee452a",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 97.30382385624596,
+      "gray_mean": 54.7900390625,
+      "gray_std": 59.106814468017426,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "6962e6ac061f823748d8ac35a98a47afa0130cca02bfeac2966995c3a3ee452a",
+      "flags": []
+    },
+    "min_side_640": 204.23833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:69a4fbdd05d2f594aa5fbb404e5a9c534230c8586ecada2ececd91b0bb60163d",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 89.09248573231844,
+      "gray_mean": 55.99268934461806,
+      "gray_std": 58.01747213805881,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "69a4fbdd05d2f594aa5fbb404e5a9c534230c8586ecada2ececd91b0bb60163d",
+      "flags": []
+    },
+    "min_side_640": 225.575
+  },
+  {
+    "sample_id": "roboflow_caps_v26:6a63276867e79ec15ce275a1126c1e136dff3a3eb0daf8865402968a9d689c47",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 79.48540011374855,
+      "gray_mean": 51.497660319010414,
+      "gray_std": 56.4494994477982,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "6a63276867e79ec15ce275a1126c1e136dff3a3eb0daf8865402968a9d689c47",
+      "flags": []
+    },
+    "min_side_640": 254.10166666666663
+  },
+  {
+    "sample_id": "roboflow_caps_v26:6aa653ad0f244da58edf547ba9bb2ba5a9dd1c88d2fee1fbf2ea3c0a64855e81",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 64.35519152217441,
+      "gray_mean": 52.081807454427086,
+      "gray_std": 56.531147680478625,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "6aa653ad0f244da58edf547ba9bb2ba5a9dd1c88d2fee1fbf2ea3c0a64855e81",
+      "flags": []
+    },
+    "min_side_640": 175.73166666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:6b3754069c5305b15fa46caaf0d915f8e1dfea7eabbcc4aa4e20a044923943a6",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 67.65019156420489,
+      "gray_mean": 47.357645670572914,
+      "gray_std": 51.76698181621511,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "6b3754069c5305b15fa46caaf0d915f8e1dfea7eabbcc4aa4e20a044923943a6",
+      "flags": []
+    },
+    "min_side_640": 210.90500000000003
+  },
+  {
+    "sample_id": "roboflow_caps_v26:6bb0f83a49220b9f3ffa7ed98e672efe55c942ef3d819aa8f7a1960475f4dd06",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 91.23287952608533,
+      "gray_mean": 54.951816134982636,
+      "gray_std": 59.06817944277309,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "6bb0f83a49220b9f3ffa7ed98e672efe55c942ef3d819aa8f7a1960475f4dd06",
+      "flags": []
+    },
+    "min_side_640": 208.91
+  },
+  {
+    "sample_id": "roboflow_caps_v26:6cf08db001e881dda9eb7fa8715a0df9c636cdb953c3d80af47b8bc70d6a5dd8",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 70.89610383866562,
+      "gray_mean": 45.44415283203125,
+      "gray_std": 52.30364913567758,
+      "dark_fraction": 3.390842013888889e-05,
+      "bright_fraction": 0.0,
+      "actual_sha256": "6cf08db001e881dda9eb7fa8715a0df9c636cdb953c3d80af47b8bc70d6a5dd8",
+      "flags": []
+    },
+    "min_side_640": 208.91
+  },
+  {
+    "sample_id": "roboflow_caps_v26:6d78f1ce18a6930d7594fea06b450c20acc85506a1fdae4978be3aac396c1cfb",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 92.17257254648909,
+      "gray_mean": 49.096761067708336,
+      "gray_std": 51.30083010664491,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "6d78f1ce18a6930d7594fea06b450c20acc85506a1fdae4978be3aac396c1cfb",
+      "flags": []
+    },
+    "min_side_640": 206.56500000000003
+  },
+  {
+    "sample_id": "roboflow_caps_v26:7085db4fbff2d075d6f063292b072f7e1a43cfb62a4231fa6de4c879c3691a70",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 97.50167270924574,
+      "gray_mean": 55.89671495225694,
+      "gray_std": 58.724585464634686,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "7085db4fbff2d075d6f063292b072f7e1a43cfb62a4231fa6de4c879c3691a70",
+      "flags": []
+    },
+    "min_side_640": 203.23666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:71b5a0ff2f6956b821a192724989229c79fee3f6e77553188189d1b38b29aa28",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 89.53816237047683,
+      "gray_mean": 53.639851888020836,
+      "gray_std": 57.79841243843476,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "71b5a0ff2f6956b821a192724989229c79fee3f6e77553188189d1b38b29aa28",
+      "flags": []
+    },
+    "min_side_640": 200.07000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:725dcb802ab68c8a447ee99b684acc772119bcfe02e5702188c1bbb79c20aad6",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 64.82029199485243,
+      "gray_mean": 45.115749782986114,
+      "gray_std": 49.44808209314962,
+      "dark_fraction": 0.00016276041666666666,
+      "bright_fraction": 0.0,
+      "actual_sha256": "725dcb802ab68c8a447ee99b684acc772119bcfe02e5702188c1bbb79c20aad6",
+      "flags": []
+    },
+    "min_side_640": 212.06666666666666
+  },
+  {
+    "sample_id": "roboflow_caps_v26:732feb54b89171926fca96f4edb74189ccfd1f7050a0b16d0cadbe972fcbf087",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 90.80038677316942,
+      "gray_mean": 55.58790418836806,
+      "gray_std": 58.84991057768996,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "732feb54b89171926fca96f4edb74189ccfd1f7050a0b16d0cadbe972fcbf087",
+      "flags": []
+    },
+    "min_side_640": 206.5716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:73e00eeb6bc30d3dce5ff8589e3b80d311fb64bb227695d1a458d1ff39920cf9",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 81.55776581646484,
+      "gray_mean": 55.101704915364586,
+      "gray_std": 57.93862519153739,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "73e00eeb6bc30d3dce5ff8589e3b80d311fb64bb227695d1a458d1ff39920cf9",
+      "flags": []
+    },
+    "min_side_640": 202.57000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:75f281a5cda33ab6234d33a7c668226ab396810b678b3a99335aad34899e4719",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 70.94038837853775,
+      "gray_mean": 48.298685709635414,
+      "gray_std": 54.03882085606569,
+      "dark_fraction": 6.781684027777777e-06,
+      "bright_fraction": 0.0,
+      "actual_sha256": "75f281a5cda33ab6234d33a7c668226ab396810b678b3a99335aad34899e4719",
+      "flags": []
+    },
+    "min_side_640": 212.89833333333337
+  },
+  {
+    "sample_id": "roboflow_caps_v26:76ae315560971724323bde0476f0f372973320bfdadc6e4096f0c4e79708c9f5",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 101.90620380400875,
+      "gray_mean": 62.508449978298614,
+      "gray_std": 59.38678882141106,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.00017632378472222222,
+      "actual_sha256": "76ae315560971724323bde0476f0f372973320bfdadc6e4096f0c4e79708c9f5",
+      "flags": []
+    },
+    "min_side_640": 282.935
+  },
+  {
+    "sample_id": "roboflow_caps_v26:77d1ba851d5f5c21ed9d162961480456694e70df47482c061adb4bd8db7fc183",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 94.00153865301867,
+      "gray_mean": 52.44255235460069,
+      "gray_std": 55.76512355891097,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "77d1ba851d5f5c21ed9d162961480456694e70df47482c061adb4bd8db7fc183",
+      "flags": []
+    },
+    "min_side_640": 177.55999999999997
+  },
+  {
+    "sample_id": "roboflow_caps_v26:78d6817fc12012735262707d16da9caf587799597b49bdde110cb9a5231b1584",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 74.2694897092419,
+      "gray_mean": 52.24901665581597,
+      "gray_std": 53.10404134657964,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "78d6817fc12012735262707d16da9caf587799597b49bdde110cb9a5231b1584",
+      "flags": []
+    },
+    "min_side_640": 210.56333333333336
+  },
+  {
+    "sample_id": "roboflow_caps_v26:790a380ff67436361d98ae295a23a108922da4d6a50453701e9f09015a7d3ceb",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 70.66768953825037,
+      "gray_mean": 50.60658094618056,
+      "gray_std": 55.356992816985276,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "790a380ff67436361d98ae295a23a108922da4d6a50453701e9f09015a7d3ceb",
+      "flags": []
+    },
+    "min_side_640": 204.4066666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:7a455a72b3700cfb3c2a96364393787ae48a1e8af3034fcbdf1f38e2e56bdc7c",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 87.97942059551491,
+      "gray_mean": 56.478291829427086,
+      "gray_std": 59.22312656248452,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "7a455a72b3700cfb3c2a96364393787ae48a1e8af3034fcbdf1f38e2e56bdc7c",
+      "flags": []
+    },
+    "min_side_640": 205.23833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:7a542aa66ce6087136435729ec73a7a4c08c7f392a1663b8ad6767f40db0ae9a",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 85.00447096422683,
+      "gray_mean": 53.20825873480903,
+      "gray_std": 55.403843919942645,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "7a542aa66ce6087136435729ec73a7a4c08c7f392a1663b8ad6767f40db0ae9a",
+      "flags": []
+    },
+    "min_side_640": 204.9066666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:7c3d588e0b5f57f67dcab74cd8bd70330fb555d52cdc6ba106bc2092c9fc341e",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 76.14669827988118,
+      "gray_mean": 49.99835883246528,
+      "gray_std": 55.347404290486736,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "7c3d588e0b5f57f67dcab74cd8bd70330fb555d52cdc6ba106bc2092c9fc341e",
+      "flags": []
+    },
+    "min_side_640": 220.23833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:7d8fe575b51a8b5699ebd87ef4a0d23076b7e175c32c9203578a193931ddecc7",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 63.78306929693546,
+      "gray_mean": 43.68400743272569,
+      "gray_std": 50.830725452759026,
+      "dark_fraction": 0.00091552734375,
+      "bright_fraction": 0.0,
+      "actual_sha256": "7d8fe575b51a8b5699ebd87ef4a0d23076b7e175c32c9203578a193931ddecc7",
+      "flags": []
+    },
+    "min_side_640": 215.24000000000004
+  },
+  {
+    "sample_id": "roboflow_caps_v26:7db94452b184ccc76a373343e6af9525d1acee6f6353d7a40efe7dc1f97eeb90",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 80.12817172191025,
+      "gray_mean": 53.593288845486114,
+      "gray_std": 57.26855207950044,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "7db94452b184ccc76a373343e6af9525d1acee6f6353d7a40efe7dc1f97eeb90",
+      "flags": []
+    },
+    "min_side_640": 215.4066666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:7e0c64e7c12447b80463ed664977eb5dd15e6e89e01e4f4b9e877b764c7b2ecc",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 76.30847054053052,
+      "gray_mean": 46.54456244574653,
+      "gray_std": 49.90512477506859,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "7e0c64e7c12447b80463ed664977eb5dd15e6e89e01e4f4b9e877b764c7b2ecc",
+      "flags": []
+    },
+    "min_side_640": 200.06500000000003
+  },
+  {
+    "sample_id": "roboflow_caps_v26:7eb0a5158e6266ae0c123f34571430674a4dc65d997d366506ec2d5e3528f24f",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 84.35513025296876,
+      "gray_mean": 53.96879747178819,
+      "gray_std": 57.76703316272613,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "7eb0a5158e6266ae0c123f34571430674a4dc65d997d366506ec2d5e3528f24f",
+      "flags": []
+    },
+    "min_side_640": 202.5716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:801b4a3e5ccc78dce1702de50eac7940d767614db180ecff0703c868e1fde2b9",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 86.95015599325667,
+      "gray_mean": 55.310689290364586,
+      "gray_std": 57.91283144710542,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "801b4a3e5ccc78dce1702de50eac7940d767614db180ecff0703c868e1fde2b9",
+      "flags": []
+    },
+    "min_side_640": 218.25333333333336
+  },
+  {
+    "sample_id": "roboflow_caps_v26:804a5c38c5aaa7ddc8caad3942149a165a010808437f882150764128a851d0eb",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 53.858187960207836,
+      "gray_mean": 37.84651014539931,
+      "gray_std": 43.16790188933549,
+      "dark_fraction": 0.015753851996527776,
+      "bright_fraction": 0.0,
+      "actual_sha256": "804a5c38c5aaa7ddc8caad3942149a165a010808437f882150764128a851d0eb",
+      "flags": []
+    },
+    "min_side_640": 212.57333333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:806b085cda0099a373295027c545ef9726a9dbad4f7694fb7f1cbb5d23a5ab3b",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 64.46541629855831,
+      "gray_mean": 46.545498318142364,
+      "gray_std": 53.07543163098509,
+      "dark_fraction": 6.781684027777777e-06,
+      "bright_fraction": 0.0,
+      "actual_sha256": "806b085cda0099a373295027c545ef9726a9dbad4f7694fb7f1cbb5d23a5ab3b",
+      "flags": []
+    },
+    "min_side_640": 208.40333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:84bbc5d0b7357daadc7a351e9d7064353b6e0168ba6d846dc505925dab685647",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 83.79183999697368,
+      "gray_mean": 50.988498263888886,
+      "gray_std": 55.55321403782403,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "84bbc5d0b7357daadc7a351e9d7064353b6e0168ba6d846dc505925dab685647",
+      "flags": []
+    },
+    "min_side_640": 207.73833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:84c54d54c4ff052407cdc049e104493e586e7a99405d6084d548a4331e55326c",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 81.52815965365296,
+      "gray_mean": 53.940185546875,
+      "gray_std": 56.29177969748968,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "84c54d54c4ff052407cdc049e104493e586e7a99405d6084d548a4331e55326c",
+      "flags": []
+    },
+    "min_side_640": 208.74166666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:857c9433781c36a2cca311683d2d6e75a35ec67d256a65e5da827f989c4a9b64",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 63.69547525747323,
+      "gray_mean": 48.39417860243056,
+      "gray_std": 51.93336983185506,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "857c9433781c36a2cca311683d2d6e75a35ec67d256a65e5da827f989c4a9b64",
+      "flags": []
+    },
+    "min_side_640": 206.24333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:85a3c874fda15baada06e58d6022dbe0301a4dad283bdc543f7ab591eebfe96d",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 75.60055678255029,
+      "gray_mean": 53.993204752604164,
+      "gray_std": 57.44452307467502,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "85a3c874fda15baada06e58d6022dbe0301a4dad283bdc543f7ab591eebfe96d",
+      "flags": []
+    },
+    "min_side_640": 202.23666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:861cfe6e3440ad756e87a7f48d4e4135ed1c0ecebc34ecdbdeb7fe9e11e17fdb",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 79.86892278529244,
+      "gray_mean": 55.71330430772569,
+      "gray_std": 58.35378471823781,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "861cfe6e3440ad756e87a7f48d4e4135ed1c0ecebc34ecdbdeb7fe9e11e17fdb",
+      "flags": []
+    },
+    "min_side_640": 233.40500000000003
+  },
+  {
+    "sample_id": "roboflow_caps_v26:86afc7def326592fb681acdc19781951e0f0039a1e84c9d7c3d3086793815095",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 106.74391601588806,
+      "gray_mean": 56.92566596137153,
+      "gray_std": 55.470589282922816,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "86afc7def326592fb681acdc19781951e0f0039a1e84c9d7c3d3086793815095",
+      "flags": []
+    },
+    "min_side_640": 288.2583333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:881727aae103b00cf618602ec5140159c1c6bb15fcb6f3da6fa43462ceccde91",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 57.07352979752568,
+      "gray_mean": 37.16840955946181,
+      "gray_std": 42.67232053850429,
+      "dark_fraction": 0.019422743055555556,
+      "bright_fraction": 0.0,
+      "actual_sha256": "881727aae103b00cf618602ec5140159c1c6bb15fcb6f3da6fa43462ceccde91",
+      "flags": []
+    },
+    "min_side_640": 210.57666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:890c04b7085f2eaae9462015b33607f6ef9fb3ee606c595dcda44b4ffdbcf78d",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 71.21313179845427,
+      "gray_mean": 50.19426133897569,
+      "gray_std": 55.06542002697358,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "890c04b7085f2eaae9462015b33607f6ef9fb3ee606c595dcda44b4ffdbcf78d",
+      "flags": []
+    },
+    "min_side_640": 226.90833333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:8be311a22002ac946471014467f9539f42087ad8fb97efa0dd4cf9a46fd134c0",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 76.30288977681855,
+      "gray_mean": 49.392483181423614,
+      "gray_std": 52.39249385095081,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "8be311a22002ac946471014467f9539f42087ad8fb97efa0dd4cf9a46fd134c0",
+      "flags": []
+    },
+    "min_side_640": 191.73833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:8d67b318a7497cb396d03ab1db0a724d66a6155cc4dd630b1731282ba15c4f21",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 93.16884442317634,
+      "gray_mean": 54.807373046875,
+      "gray_std": 57.55238255389926,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "8d67b318a7497cb396d03ab1db0a724d66a6155cc4dd630b1731282ba15c4f21",
+      "flags": []
+    },
+    "min_side_640": 227.40333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:909a69edeca939b278fbbcc7b411e71f8a68f041fb6892686aa48ff354e85371",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 82.36321709479815,
+      "gray_mean": 50.170857747395836,
+      "gray_std": 55.34740868972531,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "909a69edeca939b278fbbcc7b411e71f8a68f041fb6892686aa48ff354e85371",
+      "flags": []
+    },
+    "min_side_640": 221.0716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:9272e487df4359a5a6ead971d45f206fce57f47940e9b171dc58b28aa0f4f1f4",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 61.402343605771485,
+      "gray_mean": 47.686604817708336,
+      "gray_std": 53.45923956891804,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "9272e487df4359a5a6ead971d45f206fce57f47940e9b171dc58b28aa0f4f1f4",
+      "flags": []
+    },
+    "min_side_640": 208.23666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:9295ac9d0c3320fe8ccf70d578819e2aae2c02727948f2bb5e53473917265fa7",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 88.01925994727164,
+      "gray_mean": 54.26707628038194,
+      "gray_std": 57.25550492293362,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "9295ac9d0c3320fe8ccf70d578819e2aae2c02727948f2bb5e53473917265fa7",
+      "flags": []
+    },
+    "min_side_640": 224.90333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:9463064f81bb1d4988841801563ec54fece06239f1888bd9bb2a3a66eeb4c748",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 41.52427042482628,
+      "gray_mean": 49.737691243489586,
+      "gray_std": 53.21006192791706,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "9463064f81bb1d4988841801563ec54fece06239f1888bd9bb2a3a66eeb4c748",
+      "flags": [
+        "possible_blur"
+      ]
+    },
+    "min_side_640": 169.56666666666666
+  },
+  {
+    "sample_id": "roboflow_caps_v26:947717c6194ec22d937dcb4db7d53f10a97073b60a7181d4cbc159d7a22de270",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 38.800382495984245,
+      "gray_mean": 49.56843397352431,
+      "gray_std": 52.97558462804126,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "947717c6194ec22d937dcb4db7d53f10a97073b60a7181d4cbc159d7a22de270",
+      "flags": [
+        "possible_blur"
+      ]
+    },
+    "min_side_640": 187.91333333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:9495465b38d7311e47c51066ee37895a7fdcf963387d543f5572513adac6e734",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 85.50086070721348,
+      "gray_mean": 49.59251573350694,
+      "gray_std": 55.5250511353008,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "9495465b38d7311e47c51066ee37895a7fdcf963387d543f5572513adac6e734",
+      "flags": []
+    },
+    "min_side_640": 214.90500000000003
+  },
+  {
+    "sample_id": "roboflow_caps_v26:94edca1b071f3b3b2bc7f09b834218ce21922fb4a99a0ee98d0d79a03ec5b441",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 80.31643088654053,
+      "gray_mean": 53.94066026475694,
+      "gray_std": 56.06374586708526,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "94edca1b071f3b3b2bc7f09b834218ce21922fb4a99a0ee98d0d79a03ec5b441",
+      "flags": []
+    },
+    "min_side_640": 206.41
+  },
+  {
+    "sample_id": "roboflow_caps_v26:95b42a73a0cc65726b29ab69fc916ead290ebc8945e6ad11fd296643bc26bd29",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 78.98532093233533,
+      "gray_mean": 51.024081759982636,
+      "gray_std": 53.619115735433624,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "95b42a73a0cc65726b29ab69fc916ead290ebc8945e6ad11fd296643bc26bd29",
+      "flags": []
+    },
+    "min_side_640": 196.57000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:9685e9524ddb25bbd61bcdfe65d2c27b91684d43685d3e43d6ed76c1a04b5aa8",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 78.99038667034036,
+      "gray_mean": 53.906087239583336,
+      "gray_std": 54.52602098905292,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "9685e9524ddb25bbd61bcdfe65d2c27b91684d43685d3e43d6ed76c1a04b5aa8",
+      "flags": []
+    },
+    "min_side_640": 232.57833333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:9727cd98c702c0309872076d6fab9f88e9b7026380c271945959f4f313adc853",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 96.73139758863383,
+      "gray_mean": 54.218709309895836,
+      "gray_std": 58.29698427024442,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "9727cd98c702c0309872076d6fab9f88e9b7026380c271945959f4f313adc853",
+      "flags": []
+    },
+    "min_side_640": 213.575
+  },
+  {
+    "sample_id": "roboflow_caps_v26:985cf81d0732be00033234e9623f6797a051e19613d6e67fb9168b12eacd3145",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 77.10762325849062,
+      "gray_mean": 49.416219075520836,
+      "gray_std": 55.03133767862211,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "985cf81d0732be00033234e9623f6797a051e19613d6e67fb9168b12eacd3145",
+      "flags": []
+    },
+    "min_side_640": 223.90500000000003
+  },
+  {
+    "sample_id": "roboflow_caps_v26:991dcf12c6e256609a90917296a70e0d16afe2644ab5d9578a67c7f522c2bf2f",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 91.29809393632559,
+      "gray_mean": 54.31390380859375,
+      "gray_std": 57.89191976678553,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "991dcf12c6e256609a90917296a70e0d16afe2644ab5d9578a67c7f522c2bf2f",
+      "flags": []
+    },
+    "min_side_640": 202.73833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:993901e3dc01d76245f59043883b460e79e255102ce77adc56a8ae3fb871bea6",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 96.73283569827491,
+      "gray_mean": 55.608052571614586,
+      "gray_std": 57.62301332354563,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "993901e3dc01d76245f59043883b460e79e255102ce77adc56a8ae3fb871bea6",
+      "flags": []
+    },
+    "min_side_640": 202.74000000000004
+  },
+  {
+    "sample_id": "roboflow_caps_v26:997b08e651c01c73fa6ad61469d890ba0b7af93fdbf2dc20df59b2a2e7c6dbfd",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 63.497805293649435,
+      "gray_mean": 49.148525661892364,
+      "gray_std": 53.79838872712767,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "997b08e651c01c73fa6ad61469d890ba0b7af93fdbf2dc20df59b2a2e7c6dbfd",
+      "flags": []
+    },
+    "min_side_640": 197.73000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:9b0e4c568782711e400e9c2c68045fedb5197880566bded1b8a304c936982c5b",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 66.44587617376705,
+      "gray_mean": 42.42511664496528,
+      "gray_std": 49.631831581926484,
+      "dark_fraction": 0.005364312065972222,
+      "bright_fraction": 0.0,
+      "actual_sha256": "9b0e4c568782711e400e9c2c68045fedb5197880566bded1b8a304c936982c5b",
+      "flags": []
+    },
+    "min_side_640": 224.575
+  },
+  {
+    "sample_id": "roboflow_caps_v26:9b2cc2b01889739451d8254e8d5e892a89c1036fd8d57366b7f9ca4b3c138067",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 83.97086442823027,
+      "gray_mean": 57.063144259982636,
+      "gray_std": 56.25935198250361,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "9b2cc2b01889739451d8254e8d5e892a89c1036fd8d57366b7f9ca4b3c138067",
+      "flags": []
+    },
+    "min_side_640": 241.58333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:9b3386d67842a65c7a9d63defc9efef22b90f0097b36708a7cf64a9574ffe751",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 95.21300725289332,
+      "gray_mean": 49.622890896267364,
+      "gray_std": 54.755174836481174,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "9b3386d67842a65c7a9d63defc9efef22b90f0097b36708a7cf64a9574ffe751",
+      "flags": []
+    },
+    "min_side_640": 219.73833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:9b60a8d07320c7a2b50065c0ef01b9a60f5024221a49f4027d87a28c689c4b5f",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 68.85530598792765,
+      "gray_mean": 48.422587076822914,
+      "gray_std": 53.49887044672311,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "9b60a8d07320c7a2b50065c0ef01b9a60f5024221a49f4027d87a28c689c4b5f",
+      "flags": []
+    },
+    "min_side_640": 196.89666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:9b7f94439e0b994f9673f1dd4cd391677b2c6f524dd7a837e817c83e7c63098c",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 82.5424924750387,
+      "gray_mean": 52.270528157552086,
+      "gray_std": 57.64016046023689,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "9b7f94439e0b994f9673f1dd4cd391677b2c6f524dd7a837e817c83e7c63098c",
+      "flags": []
+    },
+    "min_side_640": 214.9116666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:9c8e4319ab8650a01dea83bab13509441519ec100926e41077f8f347ce11bad6",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 76.14068582157294,
+      "gray_mean": 52.25129530164931,
+      "gray_std": 56.771725149041984,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "9c8e4319ab8650a01dea83bab13509441519ec100926e41077f8f347ce11bad6",
+      "flags": []
+    },
+    "min_side_640": 203.07999999999998
+  },
+  {
+    "sample_id": "roboflow_caps_v26:9c93ea4b15ecb798c474e6e622b8a4a748cff311b6fd6551471689a8964da9d2",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 88.24275483572741,
+      "gray_mean": 56.3258056640625,
+      "gray_std": 59.96138609610327,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "9c93ea4b15ecb798c474e6e622b8a4a748cff311b6fd6551471689a8964da9d2",
+      "flags": []
+    },
+    "min_side_640": 207.57000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:9d2fc3cf0cb2595bf11b80fae7372972fdd33730902fc29501a14b4bfae6617f",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 89.10193340530918,
+      "gray_mean": 57.07386610243056,
+      "gray_std": 60.849318957434804,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "9d2fc3cf0cb2595bf11b80fae7372972fdd33730902fc29501a14b4bfae6617f",
+      "flags": []
+    },
+    "min_side_640": 213.57666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:9d7ebb1913d54d6520029d7bfaa4eb914b7a5e34a6ce032f3098518f68fa697b",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 69.11697377388676,
+      "gray_mean": 62.14671495225694,
+      "gray_std": 58.64032500593578,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "9d7ebb1913d54d6520029d7bfaa4eb914b7a5e34a6ce032f3098518f68fa697b",
+      "flags": []
+    },
+    "min_side_640": 258.4116666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:9f1b63488d4d051d288fd7e7ebdca2f6cbb5f31057b9aba5ff68c05aa4f6eeb5",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 60.843545819322266,
+      "gray_mean": 45.61267768012153,
+      "gray_std": 48.98474976184786,
+      "dark_fraction": 0.00016276041666666666,
+      "bright_fraction": 0.0,
+      "actual_sha256": "9f1b63488d4d051d288fd7e7ebdca2f6cbb5f31057b9aba5ff68c05aa4f6eeb5",
+      "flags": []
+    },
+    "min_side_640": 207.06666666666666
+  },
+  {
+    "sample_id": "roboflow_caps_v26:a023c34de76c9991e23b03526c5e4f494fbb64f2fbcafee713d0ae67ed09fbb0",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 90.5078192812701,
+      "gray_mean": 55.32244194878472,
+      "gray_std": 59.32486216761927,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "a023c34de76c9991e23b03526c5e4f494fbb64f2fbcafee713d0ae67ed09fbb0",
+      "flags": []
+    },
+    "min_side_640": 204.40500000000003
+  },
+  {
+    "sample_id": "roboflow_caps_v26:a30eb2a6df94b038babe960b53d42c52a80dc3fa8b37303eb1d779bec4b99de5",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 76.52688445937302,
+      "gray_mean": 48.74315728081597,
+      "gray_std": 52.258604930196206,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "a30eb2a6df94b038babe960b53d42c52a80dc3fa8b37303eb1d779bec4b99de5",
+      "flags": []
+    },
+    "min_side_640": 219.90500000000003
+  },
+  {
+    "sample_id": "roboflow_caps_v26:a3d4b952b38e2e3143c954a9ddd239f98625f39212167a6d83b63c673c4f21b0",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 77.45505048150633,
+      "gray_mean": 52.284952799479164,
+      "gray_std": 52.82662769548368,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "a3d4b952b38e2e3143c954a9ddd239f98625f39212167a6d83b63c673c4f21b0",
+      "flags": []
+    },
+    "min_side_640": 208.06333333333336
+  },
+  {
+    "sample_id": "roboflow_caps_v26:a4ffadaf0a92bb83f5caba3ea082e25e0aa32b8f9b24315d84fa05c8f5478f0d",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 47.758706303106415,
+      "gray_mean": 44.39056396484375,
+      "gray_std": 49.08567755450781,
+      "dark_fraction": 6.781684027777777e-06,
+      "bright_fraction": 0.0,
+      "actual_sha256": "a4ffadaf0a92bb83f5caba3ea082e25e0aa32b8f9b24315d84fa05c8f5478f0d",
+      "flags": [
+        "possible_blur"
+      ]
+    },
+    "min_side_640": 197.075
+  },
+  {
+    "sample_id": "roboflow_caps_v26:a8203bf6f81599477dc5ee7bb6953e9daeb4effce0e57bde208d85326aa473f4",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 89.57215371543978,
+      "gray_mean": 54.521213107638886,
+      "gray_std": 58.82468966179208,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "a8203bf6f81599477dc5ee7bb6953e9daeb4effce0e57bde208d85326aa473f4",
+      "flags": []
+    },
+    "min_side_640": 207.24166666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:a96c8eda0433e45be5ea4268c1400ce0376f7a2470b58dfb66f3b576b83b9be6",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 85.47271111713331,
+      "gray_mean": 55.39503309461806,
+      "gray_std": 57.68845218009307,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "a96c8eda0433e45be5ea4268c1400ce0376f7a2470b58dfb66f3b576b83b9be6",
+      "flags": []
+    },
+    "min_side_640": 221.75166666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:aa59d173229ec3e4b3d8c3be61037d614cc89b10b7fd3bf5ce15190cfd5b221b",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 84.18400361802843,
+      "gray_mean": 54.258456759982636,
+      "gray_std": 58.48147408226434,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "aa59d173229ec3e4b3d8c3be61037d614cc89b10b7fd3bf5ce15190cfd5b221b",
+      "flags": []
+    },
+    "min_side_640": 203.5716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:aab1969cbe84e4f61e09e259e09a8403f4683264b9ea9d44418d1ff5be2beb81",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 95.3484234675581,
+      "gray_mean": 55.19377983940972,
+      "gray_std": 59.37448538558903,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "aab1969cbe84e4f61e09e259e09a8403f4683264b9ea9d44418d1ff5be2beb81",
+      "flags": []
+    },
+    "min_side_640": 210.24000000000004
+  },
+  {
+    "sample_id": "roboflow_caps_v26:ac1286e2268cea95eb7570a7fc2e475f96e99a78e1743f5af3ffcf699597253e",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 57.69718306741596,
+      "gray_mean": 40.59217664930556,
+      "gray_std": 45.45399238594148,
+      "dark_fraction": 0.007297092013888889,
+      "bright_fraction": 0.0,
+      "actual_sha256": "ac1286e2268cea95eb7570a7fc2e475f96e99a78e1743f5af3ffcf699597253e",
+      "flags": []
+    },
+    "min_side_640": 226.23666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:ad857b8667b3fc7d66ea8a18da458bcf7caf408a56cf86e2c8bf5d8df3394e57",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 72.46866035167082,
+      "gray_mean": 49.79363335503472,
+      "gray_std": 55.80643678517445,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "ad857b8667b3fc7d66ea8a18da458bcf7caf408a56cf86e2c8bf5d8df3394e57",
+      "flags": []
+    },
+    "min_side_640": 201.23666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:addde03872c4158974b027eb0611dc5af3c33058a46d7580ecbd53eb974d7aa7",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 59.07967706516753,
+      "gray_mean": 49.471354166666664,
+      "gray_std": 54.75442154138023,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "addde03872c4158974b027eb0611dc5af3c33058a46d7580ecbd53eb974d7aa7",
+      "flags": []
+    },
+    "min_side_640": 208.73666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:aee3c2936ee185d5b7ebc5f6a57b75ef59bfec43ec3617386fa58ad11846d735",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 93.01561636022396,
+      "gray_mean": 53.431118435329864,
+      "gray_std": 56.32109622324049,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "aee3c2936ee185d5b7ebc5f6a57b75ef59bfec43ec3617386fa58ad11846d735",
+      "flags": []
+    },
+    "min_side_640": 224.40500000000003
+  },
+  {
+    "sample_id": "roboflow_caps_v26:afcf598c60f436b85a1a15e608af7dd245b03697467a16b21d2bddfd2f7d3b94",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 69.47366606963821,
+      "gray_mean": 49.26532660590278,
+      "gray_std": 52.35006150808076,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "afcf598c60f436b85a1a15e608af7dd245b03697467a16b21d2bddfd2f7d3b94",
+      "flags": []
+    },
+    "min_side_640": 204.07333333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:b060f80cdf05ab65b90bbf3dd592823c3ed7499a4722e070c7e134bfbb00a75d",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 78.10699307752981,
+      "gray_mean": 52.764933268229164,
+      "gray_std": 57.99471180610143,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "b060f80cdf05ab65b90bbf3dd592823c3ed7499a4722e070c7e134bfbb00a75d",
+      "flags": []
+    },
+    "min_side_640": 207.41333333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:b0d2e939cd1f8cda8efececd7a7f1df6edf7f2c10e8faed3102ef6df629d6d1f",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 94.13970694111453,
+      "gray_mean": 51.64842393663194,
+      "gray_std": 55.56182049055621,
+      "dark_fraction": 6.781684027777777e-06,
+      "bright_fraction": 0.0,
+      "actual_sha256": "b0d2e939cd1f8cda8efececd7a7f1df6edf7f2c10e8faed3102ef6df629d6d1f",
+      "flags": []
+    },
+    "min_side_640": 218.23000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:b4e039cd14c0b345db107ce872df21b8a6c2103c47b3bf9fe856499c549c61f0",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 75.94151351996409,
+      "gray_mean": 51.14470757378472,
+      "gray_std": 56.466667506758206,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "b4e039cd14c0b345db107ce872df21b8a6c2103c47b3bf9fe856499c549c61f0",
+      "flags": []
+    },
+    "min_side_640": 200.90833333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:b5c9674a4aa6f3d2aec7a596f083e1c9eb0fcbf3b1f7a4513f6d15671c6bd4f1",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 107.31622727711995,
+      "gray_mean": 57.54991997612847,
+      "gray_std": 59.494457826008805,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "b5c9674a4aa6f3d2aec7a596f083e1c9eb0fcbf3b1f7a4513f6d15671c6bd4f1",
+      "flags": []
+    },
+    "min_side_640": 255.41833333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:b60027eb929292a034e8a8c021f7859214524b47f4d6d226b3678725875a31c0",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 78.22716887626383,
+      "gray_mean": 53.92572699652778,
+      "gray_std": 58.554922468794295,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "b60027eb929292a034e8a8c021f7859214524b47f4d6d226b3678725875a31c0",
+      "flags": []
+    },
+    "min_side_640": 213.90833333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:b667af3962b066e455ee079f9a974774e75248072d35bf4840ff1431be477987",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 92.61161511579967,
+      "gray_mean": 55.986294216579864,
+      "gray_std": 57.47541316151482,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "b667af3962b066e455ee079f9a974774e75248072d35bf4840ff1431be477987",
+      "flags": []
+    },
+    "min_side_640": 251.07333333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:b672d6edc671c5b69a3b9a681d4e4c083560766836ec994e4db1bdeb0f12cf46",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 75.64760850903428,
+      "gray_mean": 52.776346842447914,
+      "gray_std": 56.5032824283192,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "b672d6edc671c5b69a3b9a681d4e4c083560766836ec994e4db1bdeb0f12cf46",
+      "flags": []
+    },
+    "min_side_640": 215.90500000000003
+  },
+  {
+    "sample_id": "roboflow_caps_v26:b88a89c4a410dc550982ee2f9c3024a8ed365a6e769f4fbd6517fa15adde44d7",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 67.4088186153935,
+      "gray_mean": 48.09349907769097,
+      "gray_std": 51.713670834130376,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "b88a89c4a410dc550982ee2f9c3024a8ed365a6e769f4fbd6517fa15adde44d7",
+      "flags": []
+    },
+    "min_side_640": 197.57333333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:b9b8cccde8cf68bbc9bbca34bf5ff31adc83ece88f5b79cf18043e111ce0efab",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 74.76650566152401,
+      "gray_mean": 50.80201551649306,
+      "gray_std": 53.721657708012835,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "b9b8cccde8cf68bbc9bbca34bf5ff31adc83ece88f5b79cf18043e111ce0efab",
+      "flags": []
+    },
+    "min_side_640": 203.23833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:b9c9822802a683434e1508276ee6ea393df8b02cb7fa2b7bd07af81bf586d4f9",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 68.07274427306321,
+      "gray_mean": 52.632303873697914,
+      "gray_std": 53.36332958262824,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "b9c9822802a683434e1508276ee6ea393df8b02cb7fa2b7bd07af81bf586d4f9",
+      "flags": []
+    },
+    "min_side_640": 218.4
+  },
+  {
+    "sample_id": "roboflow_caps_v26:bb15004a462f7138d9044d902a4bbda01eec2e73f743fca3346415080b566695",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 70.10612147342827,
+      "gray_mean": 54.06086561414931,
+      "gray_std": 57.03947457409719,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "bb15004a462f7138d9044d902a4bbda01eec2e73f743fca3346415080b566695",
+      "flags": []
+    },
+    "min_side_640": 218.73333333333332
+  },
+  {
+    "sample_id": "roboflow_caps_v26:bb392da0505694669c312401a48d62932ffc4556cc5a2478173c42c31055ea33",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 93.56774419546127,
+      "gray_mean": 54.85279676649306,
+      "gray_std": 59.198938689390644,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "bb392da0505694669c312401a48d62932ffc4556cc5a2478173c42c31055ea33",
+      "flags": []
+    },
+    "min_side_640": 205.40333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:bc1019ab83db41838587067949e7ca87d8fd553977471f269bf78b2bcdf4293b",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 82.29889248900207,
+      "gray_mean": 50.84004041883681,
+      "gray_std": 54.669974252354834,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "bc1019ab83db41838587067949e7ca87d8fd553977471f269bf78b2bcdf4293b",
+      "flags": []
+    },
+    "min_side_640": 206.89833333333337
+  },
+  {
+    "sample_id": "roboflow_caps_v26:bc1a4038e1617fef2b797d06ed8ddfd2ec4df6216d0a0c8de53e945fce83ac58",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 85.30064202123033,
+      "gray_mean": 56.09858534071181,
+      "gray_std": 56.13668635057069,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "bc1a4038e1617fef2b797d06ed8ddfd2ec4df6216d0a0c8de53e945fce83ac58",
+      "flags": []
+    },
+    "min_side_640": 236.24333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:bc9e54e27aee2acf601f1a594fd091448a708774ae854e219ab6d24291a8178d",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 89.89073015418317,
+      "gray_mean": 53.700412326388886,
+      "gray_std": 56.206467373927495,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "bc9e54e27aee2acf601f1a594fd091448a708774ae854e219ab6d24291a8178d",
+      "flags": []
+    },
+    "min_side_640": 228.575
+  },
+  {
+    "sample_id": "roboflow_caps_v26:bd2f18ec6d1a3043daf9cb127f65e6c88cb2bdc4beb0c05bc1d45d3417ad79f7",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 90.83721565827727,
+      "gray_mean": 66.60263400607639,
+      "gray_std": 62.42476856391374,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "bd2f18ec6d1a3043daf9cb127f65e6c88cb2bdc4beb0c05bc1d45d3417ad79f7",
+      "flags": []
+    },
+    "min_side_640": 284.9383333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:bee68f745922910196f95d995fed4c6245d0cff68108b020574ad25356e14e91",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 82.17310615748536,
+      "gray_mean": 49.623263888888886,
+      "gray_std": 54.27903406152863,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "bee68f745922910196f95d995fed4c6245d0cff68108b020574ad25356e14e91",
+      "flags": []
+    },
+    "min_side_640": 209.56833333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:beeec8a0acea016f51aec30611678ce371a9bf766338a825891ae8976eee2b53",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 64.96811949305328,
+      "gray_mean": 43.861294216579864,
+      "gray_std": 48.94432354754116,
+      "dark_fraction": 1.3563368055555555e-05,
+      "bright_fraction": 0.0,
+      "actual_sha256": "beeec8a0acea016f51aec30611678ce371a9bf766338a825891ae8976eee2b53",
+      "flags": []
+    },
+    "min_side_640": 205.57666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:bf544e4a7d6c3f6a79efc5b018b95eef890dfc91d3460acdc56405052025b367",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 61.87362770901786,
+      "gray_mean": 48.85858832465278,
+      "gray_std": 54.91185423562,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "bf544e4a7d6c3f6a79efc5b018b95eef890dfc91d3460acdc56405052025b367",
+      "flags": []
+    },
+    "min_side_640": 206.24000000000004
+  },
+  {
+    "sample_id": "roboflow_caps_v26:c0747ab7c533aca3216d6a542448b0ed897b500a4842f65f40df0b8f35c8e69a",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 85.70075362879369,
+      "gray_mean": 50.911288791232636,
+      "gray_std": 56.55393033372362,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "c0747ab7c533aca3216d6a542448b0ed897b500a4842f65f40df0b8f35c8e69a",
+      "flags": []
+    },
+    "min_side_640": 214.24000000000004
+  },
+  {
+    "sample_id": "roboflow_caps_v26:c084db8a1d130dfc0e0b8f5a42814fa581b81e883054e3b3fcccee8f677b9889",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 83.3151088617742,
+      "gray_mean": 46.85864935980903,
+      "gray_std": 53.00674650353652,
+      "dark_fraction": 2.0345052083333332e-05,
+      "bright_fraction": 0.0,
+      "actual_sha256": "c084db8a1d130dfc0e0b8f5a42814fa581b81e883054e3b3fcccee8f677b9889",
+      "flags": []
+    },
+    "min_side_640": 211.57833333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:c1977e7ec003325415c7bba8dd220eef94581dab3d5012a6fd7d3551c217088d",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 77.19507145766676,
+      "gray_mean": 51.623921712239586,
+      "gray_std": 55.43852178950339,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "c1977e7ec003325415c7bba8dd220eef94581dab3d5012a6fd7d3551c217088d",
+      "flags": []
+    },
+    "min_side_640": 213.06666666666666
+  },
+  {
+    "sample_id": "roboflow_caps_v26:c1ae3b241cbd3b8535785b72a5691eb375d89ea4ae73de5fa860cff66ac38733",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 93.31170061557198,
+      "gray_mean": 56.949788411458336,
+      "gray_std": 60.30748655903409,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "c1ae3b241cbd3b8535785b72a5691eb375d89ea4ae73de5fa860cff66ac38733",
+      "flags": []
+    },
+    "min_side_640": 207.57000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:c4277bd4359a4d607b8a96f4098109c362c7b39f5352c2c5e0cb81bbdfbede59",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 55.9612976172824,
+      "gray_mean": 48.97697618272569,
+      "gray_std": 55.20510154370832,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "c4277bd4359a4d607b8a96f4098109c362c7b39f5352c2c5e0cb81bbdfbede59",
+      "flags": []
+    },
+    "min_side_640": 201.40333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:c437f09b32a1066cc8a6add87c3cdf0f2865188d1c0bb45bd8786c9119deac3f",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 81.58975426572157,
+      "gray_mean": 51.39210340711806,
+      "gray_std": 53.68304454810398,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "c437f09b32a1066cc8a6add87c3cdf0f2865188d1c0bb45bd8786c9119deac3f",
+      "flags": []
+    },
+    "min_side_640": 201.57333333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:c47e405df780b49e2d199c1f07640907cfbd410fcc589eeceaad389b2965809f",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 73.61376935349386,
+      "gray_mean": 50.61103651258681,
+      "gray_std": 54.80129715244694,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "c47e405df780b49e2d199c1f07640907cfbd410fcc589eeceaad389b2965809f",
+      "flags": []
+    },
+    "min_side_640": 210.23166666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:c50f54f26cdda2adad76cb233ac0d7522e033cbf003a9037fc7369fef945ff83",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 71.92109505625234,
+      "gray_mean": 51.011210123697914,
+      "gray_std": 56.416774159942385,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "c50f54f26cdda2adad76cb233ac0d7522e033cbf003a9037fc7369fef945ff83",
+      "flags": []
+    },
+    "min_side_640": 222.23666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:c681ad9c32fbaf759c97741c5bb22c25f9ff718d4d5a2c7d4f092bd405cf7370",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 87.89646803817632,
+      "gray_mean": 46.855502658420136,
+      "gray_std": 53.183582780246795,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "c681ad9c32fbaf759c97741c5bb22c25f9ff718d4d5a2c7d4f092bd405cf7370",
+      "flags": []
+    },
+    "min_side_640": 210.24666666666664
+  },
+  {
+    "sample_id": "roboflow_caps_v26:c6e1ee34c1c1ca936f95edb1451f899a7f4b5ce4fb770917646a602697dabfdf",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 74.46266166806036,
+      "gray_mean": 43.432895236545136,
+      "gray_std": 50.87468567536355,
+      "dark_fraction": 0.004163953993055556,
+      "bright_fraction": 0.0,
+      "actual_sha256": "c6e1ee34c1c1ca936f95edb1451f899a7f4b5ce4fb770917646a602697dabfdf",
+      "flags": []
+    },
+    "min_side_640": 222.23833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:c865d85cf1973e6a0bd5657aa3e4256c38d4350b0c169dd9748d8fe4848d10d4",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 86.21740658618049,
+      "gray_mean": 49.519612630208336,
+      "gray_std": 52.5836199869377,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "c865d85cf1973e6a0bd5657aa3e4256c38d4350b0c169dd9748d8fe4848d10d4",
+      "flags": []
+    },
+    "min_side_640": 193.5716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:c91e850f8ab6b9244cfb695da1406b3eedc3d66ce88813b1598cdfa99b452f96",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 93.26341348329996,
+      "gray_mean": 52.347805447048614,
+      "gray_std": 55.37466691267389,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "c91e850f8ab6b9244cfb695da1406b3eedc3d66ce88813b1598cdfa99b452f96",
+      "flags": []
+    },
+    "min_side_640": 213.4066666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:ca141e482d9ba69a88b8e11c1f1fbe88e4f8ce9b8fdfa148637b8db523c78b05",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 88.68244929648475,
+      "gray_mean": 53.110575358072914,
+      "gray_std": 55.98159754512492,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "ca141e482d9ba69a88b8e11c1f1fbe88e4f8ce9b8fdfa148637b8db523c78b05",
+      "flags": []
+    },
+    "min_side_640": 219.9116666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:ca4248814b45498b3cddd6b772c71b8ebf9fb8caf89280b593acf003a55b2980",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 98.46158255397538,
+      "gray_mean": 57.221835666232636,
+      "gray_std": 60.210966758067364,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "ca4248814b45498b3cddd6b772c71b8ebf9fb8caf89280b593acf003a55b2980",
+      "flags": []
+    },
+    "min_side_640": 207.5716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:cacd0f4373b1f7d40d69ee325bf22cf3f77909aa5fe0c824ad3030e6a7fa120d",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 91.9959731867284,
+      "gray_mean": 53.95026312934028,
+      "gray_std": 58.54581576513225,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "cacd0f4373b1f7d40d69ee325bf22cf3f77909aa5fe0c824ad3030e6a7fa120d",
+      "flags": []
+    },
+    "min_side_640": 206.9066666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:cd13405694bd7dcc47fdb557067d23c6cf198b08818770c61b26fb8fe7b99e5b",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 57.46953415705098,
+      "gray_mean": 50.44683159722222,
+      "gray_std": 55.74991029678204,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "cd13405694bd7dcc47fdb557067d23c6cf198b08818770c61b26fb8fe7b99e5b",
+      "flags": []
+    },
+    "min_side_640": 198.235
+  },
+  {
+    "sample_id": "roboflow_caps_v26:cd7e425db78ca0f5582079920409746ebf1ec622c46695faaf8818d7d346bcce",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 74.95257292296967,
+      "gray_mean": 47.697652180989586,
+      "gray_std": 53.72713091920872,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "cd7e425db78ca0f5582079920409746ebf1ec622c46695faaf8818d7d346bcce",
+      "flags": []
+    },
+    "min_side_640": 210.40833333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:ce2bb49ac64fdbe539cd2f68e378c94fe526b1ea2a237dbb6213019b1c5dbf33",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 67.13175286187067,
+      "gray_mean": 47.64177788628472,
+      "gray_std": 52.25472684654473,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "ce2bb49ac64fdbe539cd2f68e378c94fe526b1ea2a237dbb6213019b1c5dbf33",
+      "flags": []
+    },
+    "min_side_640": 210.9066666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:cfdcf1cd9d7cbfe015f0b3354b23a3acb8eee4d9af77432df92cbfdc3fb5f5ec",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 86.74348892105951,
+      "gray_mean": 53.76001654730903,
+      "gray_std": 56.427843179627864,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "cfdcf1cd9d7cbfe015f0b3354b23a3acb8eee4d9af77432df92cbfdc3fb5f5ec",
+      "flags": []
+    },
+    "min_side_640": 213.74000000000004
+  },
+  {
+    "sample_id": "roboflow_caps_v26:d0191de8b90e216885e21250d5d0353bb1ae7ec547fc4f57d68e9d97d681a612",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 89.40843435675826,
+      "gray_mean": 56.10869683159722,
+      "gray_std": 59.457845723434325,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "d0191de8b90e216885e21250d5d0353bb1ae7ec547fc4f57d68e9d97d681a612",
+      "flags": []
+    },
+    "min_side_640": 211.24000000000004
+  },
+  {
+    "sample_id": "roboflow_caps_v26:d075676c74f55c514a5b165897a049d92b99059e8a2ead4f0a083579cf66b0c9",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 97.91877591094853,
+      "gray_mean": 56.67278374565972,
+      "gray_std": 59.793469356611,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "d075676c74f55c514a5b165897a049d92b99059e8a2ead4f0a083579cf66b0c9",
+      "flags": []
+    },
+    "min_side_640": 203.90500000000003
+  },
+  {
+    "sample_id": "roboflow_caps_v26:d0f07db73eeb91a5ac0bb85ed075a11a9fe46183a91dc33c4ee819bb1320d544",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 70.1149055014054,
+      "gray_mean": 47.543863932291664,
+      "gray_std": 53.430082197151194,
+      "dark_fraction": 6.781684027777777e-06,
+      "bright_fraction": 0.0,
+      "actual_sha256": "d0f07db73eeb91a5ac0bb85ed075a11a9fe46183a91dc33c4ee819bb1320d544",
+      "flags": []
+    },
+    "min_side_640": 211.74000000000004
+  },
+  {
+    "sample_id": "roboflow_caps_v26:d12a08d64d50b3fb3df0eb93e0aa6f1ffccecc48e245f8ea8eafb1721624efa4",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 65.60810535148156,
+      "gray_mean": 48.521321614583336,
+      "gray_std": 50.99103920961942,
+      "dark_fraction": 1.3563368055555555e-05,
+      "bright_fraction": 0.0,
+      "actual_sha256": "d12a08d64d50b3fb3df0eb93e0aa6f1ffccecc48e245f8ea8eafb1721624efa4",
+      "flags": []
+    },
+    "min_side_640": 207.06500000000003
+  },
+  {
+    "sample_id": "roboflow_caps_v26:d2370d1dd5fe7c16816f54254798596160ba5a2261d416bf06095ea8de3b38ac",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 98.17558426432954,
+      "gray_mean": 56.80976698133681,
+      "gray_std": 59.77373530968376,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "d2370d1dd5fe7c16816f54254798596160ba5a2261d416bf06095ea8de3b38ac",
+      "flags": []
+    },
+    "min_side_640": 210.23833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:d3ce753b121d900b85e0d3a46a1ef90e7d89000aae9fa490bebdbc1fc9ccbb97",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 87.89810463082459,
+      "gray_mean": 53.73686387803819,
+      "gray_std": 58.41275628383885,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "d3ce753b121d900b85e0d3a46a1ef90e7d89000aae9fa490bebdbc1fc9ccbb97",
+      "flags": []
+    },
+    "min_side_640": 177.39499999999998
+  },
+  {
+    "sample_id": "roboflow_caps_v26:d47463e75fecd7984678e72c25fbd77bbf16c2be61d7c77b2e36b5c6c7004367",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 93.77250159154704,
+      "gray_mean": 48.59870741102431,
+      "gray_std": 54.00345812826637,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "d47463e75fecd7984678e72c25fbd77bbf16c2be61d7c77b2e36b5c6c7004367",
+      "flags": []
+    },
+    "min_side_640": 239.9283333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:d5120c59eb2af779736395b351875c2cac1a804b55dbb09c71d2b3132dbe92c0",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 91.62617734552902,
+      "gray_mean": 53.88726128472222,
+      "gray_std": 58.052780621966306,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "d5120c59eb2af779736395b351875c2cac1a804b55dbb09c71d2b3132dbe92c0",
+      "flags": []
+    },
+    "min_side_640": 216.24333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:d5be476ef80bb0e0aab115258efe01ddd949f1e8bb378e784eaf3dc688b51bcd",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 73.36539625955953,
+      "gray_mean": 46.88988579644097,
+      "gray_std": 51.30058327674729,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "d5be476ef80bb0e0aab115258efe01ddd949f1e8bb378e784eaf3dc688b51bcd",
+      "flags": []
+    },
+    "min_side_640": 222.24166666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:d5ed5b01aa8ac36890b6a7632007a5813d2d68cf1dc795ee7ec0fa19e7abd825",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 68.88347752723429,
+      "gray_mean": 51.17320421006944,
+      "gray_std": 53.83122423223853,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "d5ed5b01aa8ac36890b6a7632007a5813d2d68cf1dc795ee7ec0fa19e7abd825",
+      "flags": []
+    },
+    "min_side_640": 203.91
+  },
+  {
+    "sample_id": "roboflow_caps_v26:d78c37ac2a7943306f2a0f67518e62ad37a47c3a7106c790c9b8d7a53cff56f5",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 52.7624808019602,
+      "gray_mean": 37.36927625868056,
+      "gray_std": 42.88490258017695,
+      "dark_fraction": 0.017645941840277776,
+      "bright_fraction": 0.0,
+      "actual_sha256": "d78c37ac2a7943306f2a0f67518e62ad37a47c3a7106c790c9b8d7a53cff56f5",
+      "flags": []
+    },
+    "min_side_640": 214.24166666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:db41994bce1d9cb78a5e9f1262792a9393a97b402e6d909f13ef48f03b72736d",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 70.3464096000441,
+      "gray_mean": 49.63389756944444,
+      "gray_std": 52.590153631082856,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "db41994bce1d9cb78a5e9f1262792a9393a97b402e6d909f13ef48f03b72736d",
+      "flags": []
+    },
+    "min_side_640": 208.4116666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:dba1882ec5685ca128a22d757de1c0b6dc3fa3e9dfd224dd63e10b9bfc80ada8",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 77.13575517395397,
+      "gray_mean": 53.315768771701386,
+      "gray_std": 55.851183911291336,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "dba1882ec5685ca128a22d757de1c0b6dc3fa3e9dfd224dd63e10b9bfc80ada8",
+      "flags": []
+    },
+    "min_side_640": 184.23000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:dc69c33e05e511431771c610c10707683f5650ede440bab54d14f5d1c57d67a0",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 84.93031397420499,
+      "gray_mean": 53.969645182291664,
+      "gray_std": 58.022533621892265,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "dc69c33e05e511431771c610c10707683f5650ede440bab54d14f5d1c57d67a0",
+      "flags": []
+    },
+    "min_side_640": 206.23666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:ddc4e1545eaeaa4894727b2d6f200d181e4c4fb4770ec41cb23f7bb95aa83607",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 62.835976269096136,
+      "gray_mean": 44.137654622395836,
+      "gray_std": 49.05997081669326,
+      "dark_fraction": 0.0005967881944444445,
+      "bright_fraction": 0.0,
+      "actual_sha256": "ddc4e1545eaeaa4894727b2d6f200d181e4c4fb4770ec41cb23f7bb95aa83607",
+      "flags": []
+    },
+    "min_side_640": 220.23833333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:df1f4b6226bc06b8e920d58e35542a9f3fc2e6b250526061a8d1afe98fd1c8f8",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 59.275952762981625,
+      "gray_mean": 45.8800048828125,
+      "gray_std": 49.42602455991903,
+      "dark_fraction": 8.816189236111111e-05,
+      "bright_fraction": 0.0,
+      "actual_sha256": "df1f4b6226bc06b8e920d58e35542a9f3fc2e6b250526061a8d1afe98fd1c8f8",
+      "flags": []
+    },
+    "min_side_640": 202.23000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:df48a1a8beabd054e2c586737d2923fbae5d5be12b964150e2e9839afdab8140",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 68.63009332433158,
+      "gray_mean": 49.164028591579864,
+      "gray_std": 52.17687587044549,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "df48a1a8beabd054e2c586737d2923fbae5d5be12b964150e2e9839afdab8140",
+      "flags": []
+    },
+    "min_side_640": 213.24000000000004
+  },
+  {
+    "sample_id": "roboflow_caps_v26:e2f49898fd2173a39db0d22f0e73a71ae00c66929477f437656494ee2d8f0e6b",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 86.14116662294592,
+      "gray_mean": 56.43199327256944,
+      "gray_std": 60.620558325248744,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "e2f49898fd2173a39db0d22f0e73a71ae00c66929477f437656494ee2d8f0e6b",
+      "flags": []
+    },
+    "min_side_640": 219.57666666666668
+  },
+  {
+    "sample_id": "roboflow_caps_v26:e348c9b3c12b425432edf785b0ad36b53d42d404247f7881ef31e5a292602d9f",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 66.56252821944194,
+      "gray_mean": 41.95716688368056,
+      "gray_std": 47.615383168265886,
+      "dark_fraction": 0.0016072591145833333,
+      "bright_fraction": 0.0,
+      "actual_sha256": "e348c9b3c12b425432edf785b0ad36b53d42d404247f7881ef31e5a292602d9f",
+      "flags": []
+    },
+    "min_side_640": 212.90333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:e367749793c1540bcada61552f5d7fdf5d7361dedae219743c4b30a256e34ae0",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 37.6097447220466,
+      "gray_mean": 49.454508463541664,
+      "gray_std": 52.791304844188645,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "e367749793c1540bcada61552f5d7fdf5d7361dedae219743c4b30a256e34ae0",
+      "flags": [
+        "possible_blur"
+      ]
+    },
+    "min_side_640": 167.06833333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:e394b99c4b91a4ea09a041d154083bb0d49cf0641409c335a23765aaf9fcf0a2",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 53.06169838209947,
+      "gray_mean": 44.10027398003472,
+      "gray_std": 51.638026634819255,
+      "dark_fraction": 6.781684027777778e-05,
+      "bright_fraction": 0.0,
+      "actual_sha256": "e394b99c4b91a4ea09a041d154083bb0d49cf0641409c335a23765aaf9fcf0a2",
+      "flags": []
+    },
+    "min_side_640": 216.41
+  },
+  {
+    "sample_id": "roboflow_caps_v26:e7b728685f88ede81449097872e3fd72361841cb06b7ee2a79719c48a6d7e438",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 95.34891486977352,
+      "gray_mean": 54.50537109375,
+      "gray_std": 58.07673974629146,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "e7b728685f88ede81449097872e3fd72361841cb06b7ee2a79719c48a6d7e438",
+      "flags": []
+    },
+    "min_side_640": 208.24333333333334
+  },
+  {
+    "sample_id": "roboflow_caps_v26:e81052190cc5f1fa24e130f4ea6fac4644ea5bcd39e088bd706bcedf25c44cbf",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 76.39607544574473,
+      "gray_mean": 51.61448838975694,
+      "gray_std": 57.01382636759621,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "e81052190cc5f1fa24e130f4ea6fac4644ea5bcd39e088bd706bcedf25c44cbf",
+      "flags": []
+    },
+    "min_side_640": 211.07333333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:e86b61225ca85eb1c960f9741e0475ddaf46d07b8ccdb0e3e48292633ec5c1e2",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 44.806813871373,
+      "gray_mean": 43.211079915364586,
+      "gray_std": 50.872381178653875,
+      "dark_fraction": 0.00016954210069444444,
+      "bright_fraction": 0.0,
+      "actual_sha256": "e86b61225ca85eb1c960f9741e0475ddaf46d07b8ccdb0e3e48292633ec5c1e2",
+      "flags": [
+        "possible_blur"
+      ]
+    },
+    "min_side_640": 213.575
+  },
+  {
+    "sample_id": "roboflow_caps_v26:e88646a2239ad322db1410b9bc117555a82dbe957a3f19e8f937a73389492518",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 77.21425325556854,
+      "gray_mean": 52.014750162760414,
+      "gray_std": 56.8501472499358,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "e88646a2239ad322db1410b9bc117555a82dbe957a3f19e8f937a73389492518",
+      "flags": []
+    },
+    "min_side_640": 202.57000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:ea1b3e069c15b02c57e9da63df3d9941a7f612a5098c36d9f7caeea3a0a3f17b",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 93.78937760763513,
+      "gray_mean": 50.162753634982636,
+      "gray_std": 55.047480090009046,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "ea1b3e069c15b02c57e9da63df3d9941a7f612a5098c36d9f7caeea3a0a3f17b",
+      "flags": []
+    },
+    "min_side_640": 225.90500000000003
+  },
+  {
+    "sample_id": "roboflow_caps_v26:ebe3017bbcb10251f9b4068f1a5d48a336b342f42fa775ab5c2c296d6a868c9c",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 60.41805960937047,
+      "gray_mean": 50.26555040147569,
+      "gray_std": 55.13505878587946,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "ebe3017bbcb10251f9b4068f1a5d48a336b342f42fa775ab5c2c296d6a868c9c",
+      "flags": []
+    },
+    "min_side_640": 224.245
+  },
+  {
+    "sample_id": "roboflow_caps_v26:ec20e5b0aecdf5ff11e87fc6d7850d4e4c763aa585d5d7628169c2ef98320063",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 75.67175503125713,
+      "gray_mean": 54.458536783854164,
+      "gray_std": 57.53591569746957,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "ec20e5b0aecdf5ff11e87fc6d7850d4e4c763aa585d5d7628169c2ef98320063",
+      "flags": []
+    },
+    "min_side_640": 220.235
+  },
+  {
+    "sample_id": "roboflow_caps_v26:ecaea830be124dbb614dd21459a7433d8d3680edc5691ffb4610553c92ce826c",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 112.06904892108322,
+      "gray_mean": 54.965494791666664,
+      "gray_std": 58.7844925686363,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "ecaea830be124dbb614dd21459a7433d8d3680edc5691ffb4610553c92ce826c",
+      "flags": []
+    },
+    "min_side_640": 209.575
+  },
+  {
+    "sample_id": "roboflow_caps_v26:ef266d92ba269f3d23b177e39593d0b438e39407e04be6c827cc7d25c8d728c9",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 74.21788488489427,
+      "gray_mean": 48.86614990234375,
+      "gray_std": 54.342137484301524,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "ef266d92ba269f3d23b177e39593d0b438e39407e04be6c827cc7d25c8d728c9",
+      "flags": []
+    },
+    "min_side_640": 212.74000000000004
+  },
+  {
+    "sample_id": "roboflow_caps_v26:ef5b11a8b95f5681795fde541915cd0acd0f99fd3b7e3356dc37ce728629b9a6",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 73.39222089886482,
+      "gray_mean": 52.306233723958336,
+      "gray_std": 56.626373788439004,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "ef5b11a8b95f5681795fde541915cd0acd0f99fd3b7e3356dc37ce728629b9a6",
+      "flags": []
+    },
+    "min_side_640": 210.9066666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:f1f06ae446ccb7d57f2b711fcd3fd910e80cf5bb98c9da8bcb0313e7bb69f5b7",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 78.57489792045986,
+      "gray_mean": 55.34947374131944,
+      "gray_std": 58.77526023373579,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "f1f06ae446ccb7d57f2b711fcd3fd910e80cf5bb98c9da8bcb0313e7bb69f5b7",
+      "flags": []
+    },
+    "min_side_640": 206.5716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:f28edad646ead5cfc78779ec740ec1601d3449cba9af0f9b7a43df636ef8c6eb",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 66.05589004725586,
+      "gray_mean": 50.11383056640625,
+      "gray_std": 53.94500483621879,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "f28edad646ead5cfc78779ec740ec1601d3449cba9af0f9b7a43df636ef8c6eb",
+      "flags": []
+    },
+    "min_side_640": 199.73000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:f357e1941017bf4580b9a5b7fc754deb58ed348eb44b2024fb3bc6d956cb5956",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 75.09626033860776,
+      "gray_mean": 51.298055013020836,
+      "gray_std": 52.69818951934876,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "f357e1941017bf4580b9a5b7fc754deb58ed348eb44b2024fb3bc6d956cb5956",
+      "flags": []
+    },
+    "min_side_640": 204.56333333333336
+  },
+  {
+    "sample_id": "roboflow_caps_v26:f39d479f06defd45a0945d4e0ebcb00477b8d44ccd15dda76521f3a844bcc02d",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 60.07151981521353,
+      "gray_mean": 45.608920627170136,
+      "gray_std": 49.747416528827266,
+      "dark_fraction": 0.00021023220486111112,
+      "bright_fraction": 0.0,
+      "actual_sha256": "f39d479f06defd45a0945d4e0ebcb00477b8d44ccd15dda76521f3a844bcc02d",
+      "flags": []
+    },
+    "min_side_640": 212.9
+  },
+  {
+    "sample_id": "roboflow_caps_v26:f4441cd03d0eb489beefd9cebd413a69590916b8e8f6131b191cdab79de30282",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 68.92624750839155,
+      "gray_mean": 45.31117078993056,
+      "gray_std": 49.32955163702565,
+      "dark_fraction": 0.0002780490451388889,
+      "bright_fraction": 0.0,
+      "actual_sha256": "f4441cd03d0eb489beefd9cebd413a69590916b8e8f6131b191cdab79de30282",
+      "flags": []
+    },
+    "min_side_640": 210.40166666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:f46204b659acad3aea6571618c523c07a958d90a21de4dbf1f452dc8693e8594",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 89.67711361023932,
+      "gray_mean": 56.518758138020836,
+      "gray_std": 60.08453156961074,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "f46204b659acad3aea6571618c523c07a958d90a21de4dbf1f452dc8693e8594",
+      "flags": []
+    },
+    "min_side_640": 212.07000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:f4bf930cc036594825827ed074feebeadd620c393ad9a1d0b63cfd153aaa90e4",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 79.71060450168119,
+      "gray_mean": 52.09320068359375,
+      "gray_std": 56.15518256066909,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "f4bf930cc036594825827ed074feebeadd620c393ad9a1d0b63cfd153aaa90e4",
+      "flags": []
+    },
+    "min_side_640": 207.57000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:f53bcf461272ef78130efa2a0c09c7b650bee30c45329cb39381036b4c7f41d9",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 83.99616780086063,
+      "gray_mean": 54.11186387803819,
+      "gray_std": 58.53777325041773,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "f53bcf461272ef78130efa2a0c09c7b650bee30c45329cb39381036b4c7f41d9",
+      "flags": []
+    },
+    "min_side_640": 177.23000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:f557a37dc5b79873c057441f59973647ccf8bd3e883ab3ac51f3b637f4a305d4",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 73.05929266298075,
+      "gray_mean": 46.21168348524306,
+      "gray_std": 51.230776805323785,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "f557a37dc5b79873c057441f59973647ccf8bd3e883ab3ac51f3b637f4a305d4",
+      "flags": []
+    },
+    "min_side_640": 215.575
+  },
+  {
+    "sample_id": "roboflow_caps_v26:f6387a69869a65cf389d9ca276e00bacc629bc12afa5f8cfff6bd00843c3198d",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 67.36620336656034,
+      "gray_mean": 47.84510633680556,
+      "gray_std": 53.388696941188805,
+      "dark_fraction": 1.3563368055555555e-05,
+      "bright_fraction": 0.0,
+      "actual_sha256": "f6387a69869a65cf389d9ca276e00bacc629bc12afa5f8cfff6bd00843c3198d",
+      "flags": []
+    },
+    "min_side_640": 202.39833333333337
+  },
+  {
+    "sample_id": "roboflow_caps_v26:f6b5f48290db6669ec9d34b841a3b1c7460b566868e9d12dbbaee5d1ec491384",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 77.24716165036331,
+      "gray_mean": 54.23626030815972,
+      "gray_std": 57.180223830062296,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "f6b5f48290db6669ec9d34b841a3b1c7460b566868e9d12dbbaee5d1ec491384",
+      "flags": []
+    },
+    "min_side_640": 227.06833333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:f7c3719fd622a6d9bb3f96101be534c9f899530c0250f61a1541a71b6d0523b9",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 54.630185784933005,
+      "gray_mean": 47.165934244791664,
+      "gray_std": 51.18505528419597,
+      "dark_fraction": 5.425347222222222e-05,
+      "bright_fraction": 0.0,
+      "actual_sha256": "f7c3719fd622a6d9bb3f96101be534c9f899530c0250f61a1541a71b6d0523b9",
+      "flags": []
+    },
+    "min_side_640": 225.5716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:f9360e51ae19e50d99e3d55caf65cbc81f0c848b66b0d0e4257a773cd234c553",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 83.04825107877453,
+      "gray_mean": 54.620992024739586,
+      "gray_std": 58.57169928722082,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "f9360e51ae19e50d99e3d55caf65cbc81f0c848b66b0d0e4257a773cd234c553",
+      "flags": []
+    },
+    "min_side_640": 207.9066666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:faac9010dc3463d0e4336e472b89dda242d3862daa61ca9045c8b0132c1bc2cc",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 66.82067326851832,
+      "gray_mean": 47.614162868923614,
+      "gray_std": 51.2362075851386,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "faac9010dc3463d0e4336e472b89dda242d3862daa61ca9045c8b0132c1bc2cc",
+      "flags": []
+    },
+    "min_side_640": 210.0716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:fab4f5cc0cedea7774ae1b2b0d0a436fa8484af22df3f8d4d3677310cd61dfd8",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 95.85359700060923,
+      "gray_mean": 56.328152126736114,
+      "gray_std": 59.239477976844505,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "fab4f5cc0cedea7774ae1b2b0d0a436fa8484af22df3f8d4d3677310cd61dfd8",
+      "flags": []
+    },
+    "min_side_640": 210.90500000000003
+  },
+  {
+    "sample_id": "roboflow_caps_v26:fb006ed45bd8e8ebd55353968d863ac1d45d9657840165a7429b70258aabe036",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 72.15681242901418,
+      "gray_mean": 51.742146809895836,
+      "gray_std": 56.02320029469276,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "fb006ed45bd8e8ebd55353968d863ac1d45d9657840165a7429b70258aabe036",
+      "flags": []
+    },
+    "min_side_640": 219.57333333333335
+  },
+  {
+    "sample_id": "roboflow_caps_v26:fb65c7634f2a31245b3d9694a7a2ece7d4b4ea1602f8248dda05e94c28991a69",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 80.12646877393126,
+      "gray_mean": 52.23692491319444,
+      "gray_std": 56.837832382456334,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "fb65c7634f2a31245b3d9694a7a2ece7d4b4ea1602f8248dda05e94c28991a69",
+      "flags": []
+    },
+    "min_side_640": 196.90166666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:fb71f02767ce486caef4bc0039a92ce34c4378f7c91650b0c31c9bc7f242dbc8",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 65.30785196315911,
+      "gray_mean": 48.867919921875,
+      "gray_std": 52.39137354748749,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "fb71f02767ce486caef4bc0039a92ce34c4378f7c91650b0c31c9bc7f242dbc8",
+      "flags": []
+    },
+    "min_side_640": 222.90833333333333
+  },
+  {
+    "sample_id": "roboflow_caps_v26:fd1a448da2c7da3d358c94799f589ad1f9a83b3604471c5e6cbd92d301b4fa6a",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 79.4141476713121,
+      "gray_mean": 52.25011528862847,
+      "gray_std": 56.7358479079969,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "fd1a448da2c7da3d358c94799f589ad1f9a83b3604471c5e6cbd92d301b4fa6a",
+      "flags": []
+    },
+    "min_side_640": 205.90500000000003
+  },
+  {
+    "sample_id": "roboflow_caps_v26:fdf44ee065c9ce3aaf8e260a6a8d0e9c1db9176f2fba7ff6e64b2ed991a63386",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 57.018402972155144,
+      "gray_mean": 49.362528483072914,
+      "gray_std": 54.77989066377356,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "fdf44ee065c9ce3aaf8e260a6a8d0e9c1db9176f2fba7ff6e64b2ed991a63386",
+      "flags": []
+    },
+    "min_side_640": 203.5716666666667
+  },
+  {
+    "sample_id": "roboflow_caps_v26:ffea04422941343af5881245430802f78686b14b13bbbc4ef5c1e2c6c11421ba",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 82.7090346266826,
+      "gray_mean": 54.535434299045136,
+      "gray_std": 58.65611997973543,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "ffea04422941343af5881245430802f78686b14b13bbbc4ef5c1e2c6c11421ba",
+      "flags": []
+    },
+    "min_side_640": 174.73000000000002
+  },
+  {
+    "sample_id": "roboflow_caps_v26:fff239e4a13857b9bbbe1dde9be80df822968172eadb2c3c25234aa17dc91e70",
+    "metrics": {
+      "width": 3840,
+      "height": 2160,
+      "aspect_ratio": 1.7777777777777777,
+      "laplacian_512": 75.92796441208985,
+      "gray_mean": 49.390625,
+      "gray_std": 52.198554192499685,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.0,
+      "actual_sha256": "fff239e4a13857b9bbbe1dde9be80df822968172eadb2c3c25234aa17dc91e70",
+      "flags": []
+    },
+    "min_side_640": 202.07333333333335
+  },
+  {
+    "sample_id": "roboflow_bottle_v4:image:11",
+    "metrics": {
+      "width": 640,
+      "height": 640,
+      "aspect_ratio": 1.0,
+      "laplacian_512": 38.949180603027344,
+      "gray_mean": 220.86516189575195,
+      "gray_std": 48.59741491018312,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.6147994995117188,
+      "actual_sha256": "52cf858fab400f2fb06f62afcf8d28f703258cd1f2424c4305675f6499e3961d",
+      "flags": [
+        "possible_blur",
+        "bright_background_or_overexposure"
+      ]
+    },
+    "min_side_640": 80.59
+  },
+  {
+    "sample_id": "roboflow_bottle_v4:image:40",
+    "metrics": {
+      "width": 640,
+      "height": 640,
+      "aspect_ratio": 1.0,
+      "laplacian_512": 230.10707473113143,
+      "gray_mean": 242.05651473999023,
+      "gray_std": 32.23050826543502,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.8343238830566406,
+      "actual_sha256": "1eaf6afcd8b2ecade66e5bc7bb8647f92ad760e0c68825cdb6939dbc6077f391",
+      "flags": [
+        "bright_background_or_overexposure"
+      ]
+    },
+    "min_side_640": 31.05
+  },
+  {
+    "sample_id": "roboflow_bottle_v4:image:65",
+    "metrics": {
+      "width": 640,
+      "height": 640,
+      "aspect_ratio": 1.0,
+      "laplacian_512": 1294.5337999686017,
+      "gray_mean": 66.19842147827148,
+      "gray_std": 68.24562550891625,
+      "dark_fraction": 0.25490570068359375,
+      "bright_fraction": 0.002033233642578125,
+      "actual_sha256": "511d1e5f76cbb1da9c4f1aa45df668a6ee7d05535675c9702320c7bd3573a57b",
+      "flags": []
+    },
+    "min_side_640": 58.06
+  },
+  {
+    "sample_id": "roboflow_bottle_v4:image:75",
+    "metrics": {
+      "width": 640,
+      "height": 640,
+      "aspect_ratio": 1.0,
+      "laplacian_512": 22.105674743652344,
+      "gray_mean": 231.65385055541992,
+      "gray_std": 34.678189682423614,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.627044677734375,
+      "actual_sha256": "fe5415cee8e38ab1802e7fe5beba0efa743971f6a92dace942acb7ca7ff0556f",
+      "flags": [
+        "possible_blur",
+        "bright_background_or_overexposure"
+      ]
+    },
+    "min_side_640": 88.59
+  },
+  {
+    "sample_id": "roboflow_bottle_v4:image:88",
+    "metrics": {
+      "width": 640,
+      "height": 640,
+      "aspect_ratio": 1.0,
+      "laplacian_512": 1576.8549548169685,
+      "gray_mean": 102.88910293579102,
+      "gray_std": 69.44358762221903,
+      "dark_fraction": 0.01581573486328125,
+      "bright_fraction": 0.006256103515625,
+      "actual_sha256": "e9d3456a7d3b97afef5e1c18cdab3a7b376a394375ad03e01f92e8c40e415fe7",
+      "flags": []
+    },
+    "min_side_640": 53.81
+  },
+  {
+    "sample_id": "roboflow_bottle_v4:image:102",
+    "metrics": {
+      "width": 640,
+      "height": 640,
+      "aspect_ratio": 1.0,
+      "laplacian_512": 2793.5079976356938,
+      "gray_mean": 147.9002914428711,
+      "gray_std": 35.53552047673241,
+      "dark_fraction": 1.9073486328125e-05,
+      "bright_fraction": 5.7220458984375e-05,
+      "actual_sha256": "678703e869a7676f88ed986b4abb261ea10f383b5a909063073fa92f5b11ceb4",
+      "flags": []
+    },
+    "min_side_640": 55.61999999999999
+  },
+  {
+    "sample_id": "roboflow_bottle_v4:image:126",
+    "metrics": {
+      "width": 640,
+      "height": 640,
+      "aspect_ratio": 1.0,
+      "laplacian_512": 301.4437789916992,
+      "gray_mean": 230.25812149047852,
+      "gray_std": 52.127923502342064,
+      "dark_fraction": 1.52587890625e-05,
+      "bright_fraction": 0.7077827453613281,
+      "actual_sha256": "fd05c01f6e284cf9db61162ae873e3b92643224db54aebfeb9b937c88fbf7d1b",
+      "flags": [
+        "bright_background_or_overexposure"
+      ]
+    },
+    "min_side_640": 44.05
+  },
+  {
+    "sample_id": "roboflow_bottle_v4:image:142",
+    "metrics": {
+      "width": 640,
+      "height": 640,
+      "aspect_ratio": 1.0,
+      "laplacian_512": 136.5338363647461,
+      "gray_mean": 233.57040405273438,
+      "gray_std": 40.17332057055252,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.6829032897949219,
+      "actual_sha256": "64bf3cece82b78e2c870e884257175eaa04efd39b2c8bf6965835df4ded23e9d",
+      "flags": [
+        "bright_background_or_overexposure"
+      ]
+    },
+    "min_side_640": 40.79
+  },
+  {
+    "sample_id": "roboflow_bottle_v4:image:171",
+    "metrics": {
+      "width": 640,
+      "height": 640,
+      "aspect_ratio": 1.0,
+      "laplacian_512": 204.94544982910156,
+      "gray_mean": 222.81003189086914,
+      "gray_std": 56.56257616838866,
+      "dark_fraction": 0.000408172607421875,
+      "bright_fraction": 0.6734428405761719,
+      "actual_sha256": "06684f8d82fc8c44dbb44619019c4ff0afd0da7ed67616ce38dc5a3ce86a1eb4",
+      "flags": [
+        "bright_background_or_overexposure"
+      ]
+    },
+    "min_side_640": 43.29
+  },
+  {
+    "sample_id": "roboflow_bottle_v4:image:204",
+    "metrics": {
+      "width": 640,
+      "height": 640,
+      "aspect_ratio": 1.0,
+      "laplacian_512": 3458.1977519322536,
+      "gray_mean": 111.05437850952148,
+      "gray_std": 39.10620542462295,
+      "dark_fraction": 0.0020904541015625,
+      "bright_fraction": 7.62939453125e-06,
+      "actual_sha256": "671f6c09a40dd5643329efc43e7a33290d018a6515d93b6c5513177c703885c9",
+      "flags": []
+    },
+    "min_side_640": 56.11999999999999
+  },
+  {
+    "sample_id": "roboflow_bottle_v4:image:231",
+    "metrics": {
+      "width": 640,
+      "height": 640,
+      "aspect_ratio": 1.0,
+      "laplacian_512": 319.5513687133789,
+      "gray_mean": 228.75793838500977,
+      "gray_std": 54.34492460626325,
+      "dark_fraction": 9.1552734375e-05,
+      "bright_fraction": 0.7068328857421875,
+      "actual_sha256": "1bbfffcf12aefa88e31ead82d7a0c3b286588b124797a7ad1414d60aac8d3f5f",
+      "flags": [
+        "bright_background_or_overexposure"
+      ]
+    },
+    "min_side_640": 41.3
+  },
+  {
+    "sample_id": "roboflow_bottle_v4:image:259",
+    "metrics": {
+      "width": 640,
+      "height": 640,
+      "aspect_ratio": 1.0,
+      "laplacian_512": 123.12690353380458,
+      "gray_mean": 246.14539337158203,
+      "gray_std": 22.320283828372816,
+      "dark_fraction": 0.0,
+      "bright_fraction": 0.8445701599121094,
+      "actual_sha256": "b52cc13d8de5fdbee3870c2d3c6c135004971ae443147a48c94c447ec2391294",
+      "flags": [
+        "bright_background_or_overexposure"
+      ]
+    },
+    "min_side_640": 36.05
+  }
+]

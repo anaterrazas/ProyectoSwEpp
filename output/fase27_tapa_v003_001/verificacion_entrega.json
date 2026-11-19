@@ -1,0 +1,14 @@
+{
+  "manifiestos_y_hashes_validos": true,
+  "imagenes": 262,
+  "cajas_con_identificadores_unicos": 180,
+  "cajas_TAPA": 173,
+  "cajas_ENVASE": 3,
+  "cajas_NO_EVALUABLE": 4,
+  "cajas_fuera_de_clase_TAPA": 7,
+  "cajas_nuevas": 0,
+  "entrenamiento_habilitado": false,
+  "zip_entregado_por_usuario_intacto": true,
+  "pruebas_automatizadas_ejecutadas": 6,
+  "pruebas_automatizadas_resultado": "OK"
+}

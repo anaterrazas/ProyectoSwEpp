@@ -1,0 +1,64 @@
+{
+  "method": "Chrome/CDP existente; no decisiones humanas de prueba persistidas",
+  "cases": [
+    {
+      "case": 0,
+      "loaded": true,
+      "originalUnchanged": true
+    },
+    {
+      "case": 54,
+      "loaded": true,
+      "originalUnchanged": true
+    },
+    {
+      "case": 147,
+      "loaded": true,
+      "originalUnchanged": true
+    },
+    {
+      "case": 224,
+      "loaded": true,
+      "originalUnchanged": true
+    },
+    {
+      "case": 238,
+      "loaded": true,
+      "originalUnchanged": true
+    },
+    {
+      "case": 271,
+      "loaded": true,
+      "originalUnchanged": true
+    },
+    {
+      "case": 272,
+      "loaded": true,
+      "originalUnchanged": true
+    },
+    {
+      "case": 283,
+      "loaded": true,
+      "originalUnchanged": true
+    }
+  ],
+  "status": {
+    "js": 200,
+    "image": 200,
+    "outside": 404,
+    "missingCsrf": 403,
+    "badGeometry": 400
+  },
+  "draw": {
+    "edited": true,
+    "dirty": true,
+    "changed": true
+  },
+  "mobile": {
+    "viewport": 390,
+    "content": 390,
+    "client": 390
+  },
+  "decisionesPruebaGuardadas": 0,
+  "ok": true
+}

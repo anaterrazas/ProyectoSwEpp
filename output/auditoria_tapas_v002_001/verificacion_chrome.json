@@ -1,0 +1,62 @@
+{
+  "galerias": [
+    {
+      "archivo": "index.html",
+      "casos": 7,
+      "imagenes": 14,
+      "rotas": 0
+    },
+    {
+      "archivo": "tapas.html",
+      "casos": 136,
+      "imagenes": 272,
+      "rotas": 0
+    }
+  ],
+  "revision": [
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+      "caja_existe": true,
+      "revision": 4,
+      "estado": "reviewed"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+      "caja_existe": true,
+      "revision": 2,
+      "estado": "reviewed"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "caja_existe": true,
+      "revision": 2,
+      "estado": "reviewed"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000100",
+      "caja_existe": true,
+      "revision": 2,
+      "estado": "reviewed"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000250",
+      "caja_existe": true,
+      "revision": 2,
+      "estado": "reviewed"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000300",
+      "caja_existe": true,
+      "revision": 2,
+      "estado": "reviewed"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000350",
+      "caja_existe": true,
+      "revision": 3,
+      "estado": "reviewed"
+    }
+  ],
+  "ok": true,
+  "guardados_efectuados": 0
+}

@@ -1,0 +1,5159 @@
+{
+  "records": [
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000000",
+      "source": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000000",
+        "video_id": "vid_557eef7acddd10c7439ddd8f",
+        "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+        "frame_index": 0,
+        "pts_seconds": 0.0,
+        "timestamp_seconds": 0.0,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_557eef7acddd10c7439ddd8f_f000000.png",
+        "image_sha256": "d1ebfd7592fe4c3501675f4e3c7386ad29bb8b783a072a4cab53bc384e4d87f1",
+        "width": 1920,
+        "height": 1080,
+        "dhash": "e59af4e452767d5a",
+        "laplacian_variance": 424.53070032371215,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000000",
+        "revision": 6,
+        "previous_revision_sha256": "115996fbba4c7d4b3bf4c25fd7dc9475ad7e9787ed015f76260906e9b6ba4267",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T05:01:21.932581+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "24765f09-c7d0-4016-bb59-8c574b1238ef",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1018.3323404536989,
+              218.28867969037094,
+              1519.1067177978189,
+              1059.968821038018
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "Envase plástico transparente de gran capacidad, con asa amarilla y boca abierta. Parcialmente visible por el encuadre de la fotografía. El cuerpo del envase es identificable y delimitable. No presenta tapa colocada. No se determina material específico ni conformidad del envase."
+          },
+          {
+            "box_id": "aca7f52f-5d91-4b8a-9ff5-455381246256",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1719.4164962438203,
+              468.6781311522239,
+              1899.6952418285146,
+              635.1870763189849
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": false,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "Tapa roja separada del envase; no se conoce a qué botella pertenece."
+          },
+          {
+            "box_id": "dd69dd9f-e4bd-4d97-9e03-f6f46b428f11",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              429.92260696666244,
+              275.87825070320446,
+              1038.363373315006,
+              1057.464936562427
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "Envase plástico transparente de gran capacidad, con asa amarilla y boca abierta. Parcialmente visible por el encuadre de la fotografía. El cuerpo del envase es identificable y delimitable. No presenta tapa colocada. No se determina material específico ni conformidad del envase."
+          },
+          {
+            "box_id": "9812eb79-ac47-4c8b-bbdf-1c8a1dc82013",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              368.5777407561186,
+              68.85707237544861,
+              940.7123975851102,
+              489.5112975979197
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "Envase plástico transparente de gran capacidad, con asa blanca, el cuerpo del envase es identificable y delimitable."
+          },
+          {
+            "box_id": "8b14169c-ae53-4a6a-a743-4bb34dc3f54b",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              512.5503424360195,
+              4.205790063905919,
+              804.2513988427579,
+              153.18745793715163
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "dd69dd9f-e4bd-4d97-9e03-f6f46b428f11",
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "tapa amarilla perteneciente al envase 428f11"
+          },
+          {
+            "box_id": "3971f86e-7640-40ee-b3c9-d1ae87d4dca8",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              906.9100984025383,
+              2.953804843920844,
+              1371.3783318418648,
+              716.563665633205
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastico con asa amarilla, tapado parcialmente por otro envase"
+          },
+          {
+            "box_id": "a6a9ee37-6940-4d35-a7a2-9779ec88593b",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              746.6623169082674,
+              272.1224433318036,
+              749.1661960159307,
+              290.90163707380054
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": ""
+          },
+          {
+            "box_id": "07d84ec8-b8bd-4b42-8fae-7d0475462868",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              992.0417129795587,
+              0,
+              1320.0489132910907,
+              75.11684373949124
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "3971f86e-7640-40ee-b3c9-d1ae87d4dca8",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa casi no vista color amarilla"
+          },
+          {
+            "box_id": "1c85bf35-0072-4a59-8f4d-9ed6aab679b1",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1318.7969393518172,
+              27.992752757084595,
+              1756.9744765461198,
+              734.0909085409686
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastico con asa roja, parcialmente tapado con otra botella"
+          },
+          {
+            "box_id": "8b32389e-008f-4c05-bb3b-9fe24de26c48",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1426.4635346686919,
+              0,
+              1689.3699469518594,
+              108.91939591366095
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "1c85bf35-0072-4a59-8f4d-9ed6aab679b1",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca que tapa al envase al que va asocioado"
+          },
+          {
+            "box_id": "e81379b7-15ec-4d95-91ba-57c93cc5dcb9",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1613.0019436371028,
+              0,
+              1918.4742319796644,
+              543.7949319095255
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastico no se el color de su asa"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_557eef7acddd10c7439ddd8f_f000000",
+          "video_id": "vid_557eef7acddd10c7439ddd8f",
+          "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+          "frame_index": 0,
+          "pts_seconds": 0.0,
+          "timestamp_seconds": 0.0,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_557eef7acddd10c7439ddd8f_f000000.png",
+          "image_sha256": "d1ebfd7592fe4c3501675f4e3c7386ad29bb8b783a072a4cab53bc384e4d87f1",
+          "width": 1920,
+          "height": 1080,
+          "dhash": "e59af4e452767d5a",
+          "laplacian_variance": 424.53070032371215,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "d1ebfd7592fe4c3501675f4e3c7386ad29bb8b783a072a4cab53bc384e4d87f1",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000030",
+      "source": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000030",
+        "video_id": "vid_557eef7acddd10c7439ddd8f",
+        "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+        "frame_index": 30,
+        "pts_seconds": 1.001,
+        "timestamp_seconds": 1.001,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_557eef7acddd10c7439ddd8f_f000030.png",
+        "image_sha256": "4cc9f3621373bd2f0a45cc7163ca994b996d17fdc7bafda0ecd93db3c948939a",
+        "width": 1920,
+        "height": 1080,
+        "dhash": "ddea5dcaec6a7552",
+        "laplacian_variance": 269.3787378221028,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000030",
+        "revision": 3,
+        "previous_revision_sha256": "cf45aeecb3342e838f353d177870a86dd0728d97c92972f41a4a5ad3d850076d",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T05:01:56.589353+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "8157daee-3bac-43a2-bbc1-aecc858b4647",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              346.04286317259,
+              303.4211174777109,
+              1044.6230366987224,
+              1068.7324768776516
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase platico con asa amarilla sin tapa"
+          },
+          {
+            "box_id": "0b540786-7bb9-44c3-b2d3-d393ea552667",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              977.0185071044621,
+              224.5484405775049,
+              1516.6029074610392,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastico con asa amarilla sin tapa"
+          },
+          {
+            "box_id": "791c6d5f-3909-4f31-bd4d-7a35338baa62",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              358.5622243254651,
+              59.29142045566343,
+              859.3365328987013,
+              598.8806482656623
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastico con asa y tapa amarilla"
+          },
+          {
+            "box_id": "500a26f6-449b-4fde-9b3e-babcf303326b",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              471.2364403158991,
+              2.9538220367967023,
+              734.1429901408342,
+              175.72250418184868
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "791c6d5f-3909-4f31-bd4d-7a35338baa62",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla en un envase plastico"
+          },
+          {
+            "box_id": "27176d9b-2fe6-4be3-bd27-8201c51b15d3",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              880.6194709283984,
+              32.55061853281218,
+              1323.8047663380278,
+              749.1142669731414
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con tapa amarilla parcialmente visible"
+          },
+          {
+            "box_id": "345c85ed-1e08-4ff3-b3f1-dbae2f05ec90",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1014.5765561776456,
+              1.7018883954392012,
+              1242.4289360370606,
+              89.33820609151233
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "27176d9b-2fe6-4be3-bd27-8201c51b15d3",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla "
+          },
+          {
+            "box_id": "c91d392e-093b-4a51-8305-c9d6c47fe892",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1302.521759537447,
+              29.244686398442095,
+              1723.1722117489896,
+              752.8700678972139
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastico con asa roja y tapa blanca"
+          },
+          {
+            "box_id": "e70bbd18-0f26-4493-8490-fb7daa747bd8",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1427.7154398370817,
+              2.953804843920844,
+              1663.0793882486032,
+              111.87320075758178
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "c91d392e-093b-4a51-8305-c9d6c47fe892",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca "
+          },
+          {
+            "box_id": "868fe60c-e2f4-4aff-9fc7-f25219fd9b93",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1723.1722117489896,
+              506.2365272326557,
+              1870.9007352467113,
+              625.171478241556
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja suelta"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_557eef7acddd10c7439ddd8f_f000030",
+          "video_id": "vid_557eef7acddd10c7439ddd8f",
+          "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+          "frame_index": 30,
+          "pts_seconds": 1.001,
+          "timestamp_seconds": 1.001,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_557eef7acddd10c7439ddd8f_f000030.png",
+          "image_sha256": "4cc9f3621373bd2f0a45cc7163ca994b996d17fdc7bafda0ecd93db3c948939a",
+          "width": 1920,
+          "height": 1080,
+          "dhash": "ddea5dcaec6a7552",
+          "laplacian_variance": 269.3787378221028,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "4cc9f3621373bd2f0a45cc7163ca994b996d17fdc7bafda0ecd93db3c948939a",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000060",
+      "source": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000060",
+        "video_id": "vid_557eef7acddd10c7439ddd8f",
+        "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+        "frame_index": 60,
+        "pts_seconds": 2.002,
+        "timestamp_seconds": 2.002,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_557eef7acddd10c7439ddd8f_f000060.png",
+        "image_sha256": "db4900518dd6955d8d4af8f8f0c220b70be38ef5ee89ec28fc1abcabd6a5bbfe",
+        "width": 1920,
+        "height": 1080,
+        "dhash": "2d6a6dce6e6d7575",
+        "laplacian_variance": 274.32529686137497,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000060",
+        "revision": 3,
+        "previous_revision_sha256": "ed2c4074de5259c8d8462e1c101d958af04732d8fe415bdaaca02f2fec1bffb8",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T05:02:09.600950+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "21a2e290-dc23-48ff-bef6-3e9e0fe84223",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              354.8064400494119,
+              362.2626175650443,
+              1000.8053242418225,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastico sin tapa"
+          },
+          {
+            "box_id": "b76ed3d5-c103-4b2e-9cd3-45a189e624c2",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              963.2472063977553,
+              275.8782786416278,
+              1507.8392961987754,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase con asa amarilla sin tapa"
+          },
+          {
+            "box_id": "084ccbdc-89b2-4d31-af6c-fafbab8edf18",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              332.27156246588316,
+              156.9433104398517,
+              839.3056031937198,
+              710.3039286549141
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa blanca y tapa amarilla"
+          },
+          {
+            "box_id": "126c60f7-40c5-4b4b-81cc-f7ae81196789",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              456.21323444080247,
+              59.29142045566343,
+              726.631352817844,
+              223.29649833970944
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "084ccbdc-89b2-4d31-af6c-fafbab8edf18",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla que tapa al envase de plastico"
+          },
+          {
+            "box_id": "a9568300-998e-4076-a1e7-f30e42b46cd1",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              869.3520493293549,
+              74.31479608071201,
+              1300.0179492006673,
+              796.6882267452504
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa y tapa amarilla "
+          },
+          {
+            "box_id": "80472e13-c4f2-475c-a1fb-b9cd0532815b",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1005.8130136862655,
+              1.7018712025633431,
+              1204.8708181929935,
+              96.84984232540906
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "a9568300-998e-4076-a1e7-f30e42b46cd1",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla que tapa al envase de plastico"
+          },
+          {
+            "box_id": "0dc62863-7a8e-4558-afad-4f69bb4089cc",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1276.2312008341908,
+              71.8108944122453,
+              1725.676159627537,
+              770.3973967693568
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa roja y tapa blanca"
+          },
+          {
+            "box_id": "823843cb-1c22-45bf-8f82-f05927f4cd89",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1427.7154398370817,
+              1.7018712025633431,
+              1615.5057539738825,
+              120.63683940433944
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "0dc62863-7a8e-4558-afad-4f69bb4089cc",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca que tapa el envase de plastico con asa roja"
+          },
+          {
+            "box_id": "18ed3b0e-1d24-490f-86c3-bc77f09d9417",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1576.6957309614256,
+              2.9538392296725604,
+              1920,
+              576.3456020209652
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico tapado parcialmente"
+          },
+          {
+            "box_id": "c4829842-5e15-4024-a142-c2ecc3c82448",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1725.676159627537,
+              536.2832784827528,
+              1869.6486925365539,
+              648.958509706238
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja suelta"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_557eef7acddd10c7439ddd8f_f000060",
+          "video_id": "vid_557eef7acddd10c7439ddd8f",
+          "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+          "frame_index": 60,
+          "pts_seconds": 2.002,
+          "timestamp_seconds": 2.002,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_557eef7acddd10c7439ddd8f_f000060.png",
+          "image_sha256": "db4900518dd6955d8d4af8f8f0c220b70be38ef5ee89ec28fc1abcabd6a5bbfe",
+          "width": 1920,
+          "height": 1080,
+          "dhash": "2d6a6dce6e6d7575",
+          "laplacian_variance": 274.32529686137497,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "db4900518dd6955d8d4af8f8f0c220b70be38ef5ee89ec28fc1abcabd6a5bbfe",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000090",
+      "source": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000090",
+        "video_id": "vid_557eef7acddd10c7439ddd8f",
+        "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+        "frame_index": 90,
+        "pts_seconds": 3.003,
+        "timestamp_seconds": 3.003,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_557eef7acddd10c7439ddd8f_f000090.png",
+        "image_sha256": "182459a6daf65791499d70120daa0133563a681d17f308e88e4f0dee1081580e",
+        "width": 1920,
+        "height": 1080,
+        "dhash": "17db6c694c45c969",
+        "laplacian_variance": 299.69844305623633,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000090",
+        "revision": 2,
+        "previous_revision_sha256": "c847f67827607c89e35b60298af47f097baa89176754573426e6302499fbec21",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T05:02:18.116970+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "28656a44-8308-4c2e-a9a1-4193349b43a2",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              295.9654529465315,
+              424.85998090062526,
+              969.5068697814719,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastico sin tapa con asa amarilla"
+          },
+          {
+            "box_id": "8915b326-76e9-4260-8383-2244a4ea5193",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              955.7356378456489,
+              308.4289036217684,
+              1476.540841738425,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastico sin tapa con asa amarilla"
+          },
+          {
+            "box_id": "bb0fb394-b51e-4c72-9120-3cdce3462f38",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              317.2483565907866,
+              169.4627843964336,
+              799.2436406274312,
+              701.5402728152806
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plasticocon asa blanca y tapa amarilla"
+          },
+          {
+            "box_id": "88015e43-ea15-4354-9a09-7b6cdd1269a8",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              451.20547622547565,
+              106.86543180640007,
+              670.294244822627,
+              259.60296937522173
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "bb0fb394-b51e-4c72-9120-3cdce3462f38",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla que tapa al envase de plastico"
+          },
+          {
+            "box_id": "ba895105-2487-4675-aff0-7573c1eaac0d",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              815.5188204418014,
+              98.10179315964241,
+              1295.0101909853406,
+              819.2233073756992
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa y tapa  amarilla "
+          },
+          {
+            "box_id": "31ec6f5c-6e84-4de1-8e76-52ec963d16b6",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              551.3603654484764,
+              26.740819115727096,
+              948.2240005226587,
+              617.6598420076592
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa y tapa roja"
+          },
+          {
+            "box_id": "d5f64e63-f51f-4943-a1b9-df91b5b96e90",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              638.9958591331603,
+              0.4499375612058421,
+              834.2978105929511,
+              73.06287963223038
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "31ec6f5c-6e84-4de1-8e76-52ec963d16b6",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja "
+          },
+          {
+            "box_id": "98459fff-27f7-4ae6-9632-5b9a2ab45c93",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              949.4759056910485,
+              17.97716327609358,
+              1166.0607951805364,
+              175.72252137472452
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "ba895105-2487-4675-aff0-7573c1eaac0d",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla que tapa al envase relacionado"
+          },
+          {
+            "box_id": "081c4463-543b-49c2-9fa7-7bb9ef52786b",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1290.002432770014,
+              105.61346377929085,
+              1668.0870089221626,
+              811.7115679845473
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa roja y tapa blanca"
+          },
+          {
+            "box_id": "ab7e9ee1-a93c-427b-81aa-d1df99ca24cd",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1378.8899003939712,
+              26.740801922851237,
+              1581.7034891767523,
+              171.96665167914858
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "081c4463-543b-49c2-9fa7-7bb9ef52786b",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca "
+          },
+          {
+            "box_id": "f8b37658-383d-43b4-9d63-6cfcd9dc5396",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1708.1490746447769,
+              576.3455676352136,
+              1847.1138493384672,
+              697.7844203125804
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja suelta"
+          },
+          {
+            "box_id": "badba250-9e17-4271-9fcf-2a4c25c57d54",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1544.1453713326853,
+              4.205790063905919,
+              1890.9316305662508,
+              617.6598076219075
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico tapado parcialmente"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_557eef7acddd10c7439ddd8f_f000090",
+          "video_id": "vid_557eef7acddd10c7439ddd8f",
+          "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+          "frame_index": 90,
+          "pts_seconds": 3.003,
+          "timestamp_seconds": 3.003,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_557eef7acddd10c7439ddd8f_f000090.png",
+          "image_sha256": "182459a6daf65791499d70120daa0133563a681d17f308e88e4f0dee1081580e",
+          "width": 1920,
+          "height": 1080,
+          "dhash": "17db6c694c45c969",
+          "laplacian_variance": 299.69844305623633,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "182459a6daf65791499d70120daa0133563a681d17f308e88e4f0dee1081580e",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+      "source": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+        "video_id": "vid_557eef7acddd10c7439ddd8f",
+        "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+        "frame_index": 120,
+        "pts_seconds": 4.004,
+        "timestamp_seconds": 4.004,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_557eef7acddd10c7439ddd8f_f000120.png",
+        "image_sha256": "f401be6645a2e351444207ade508a8cfc299279632ea8abcfbf26bc1cba7a884",
+        "width": 1920,
+        "height": 1080,
+        "dhash": "db4bce6c8666a665",
+        "laplacian_variance": 292.2742803851983,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+        "revision": 5,
+        "previous_revision_sha256": "52ea8a256db60d8cbb2ab6a417ae1ab4fade15eb6fcb81d6e1a573047654f053",
+        "author": "sistema.integracion_adjudicaciones",
+        "recorded_at_utc": "2026-11-18T14:39:41.546950+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "Integración automática de decisiones humanas: no es una nueva anotación humana ni acredita segunda revisión independiente.",
+        "boxes": [
+          {
+            "box_id": "7b14e861-c68b-402b-9e25-1f0323adec81",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              268.4228515331179,
+              481.19761370524367,
+              943.2162423073319,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa amarilla sin tapa"
+          },
+          {
+            "box_id": "41a1f6df-b52a-4929-b026-86cfa78a937c",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              941.9643371389421,
+              384.7976745552888,
+              1455.2580412504954,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa amarilla sin tapa"
+          },
+          {
+            "box_id": "0c854440-b096-46d3-8429-a34c0892c365",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              318.5002961446183,
+              225.80040000817615,
+              779.2126765370077,
+              750.3662178073747
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa blanca y tapa amarilla"
+          },
+          {
+            "box_id": "24fbefe9-a208-426f-840b-848194c24b77",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              826.786173269961,
+              140.66798398056977,
+              1262.4599001274842,
+              883.0725936070902
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa y tapa amarilla"
+          },
+          {
+            "box_id": "e984349c-bb13-419d-81cf-88685ad1d4aa",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              432.42645168888396,
+              148.1796889859699,
+              612.7052316590202,
+              297.1613912449673
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "0c854440-b096-46d3-8429-a34c0892c365",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "51ad9cc5-3394-430e-9f7a-aacfa247c7d1",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              945.7201214149953,
+              76.81869774917874,
+              1127.2507721680795,
+              203.26535376347914
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "24fbefe9-a208-426f-840b-848194c24b77",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "33068820-6cdc-4ce9-8c62-74811958f7c8",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              551.3603654484764,
+              53.03170067024835,
+              913.169761786255,
+              676.5013592878686
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa y tapa roja"
+          },
+          {
+            "box_id": "011cc367-0a4f-4dae-b3e3-414a0f0e6e95",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              633.9881009178334,
+              0,
+              786.7242450891142,
+              98.10179315964241
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "550c1390-1b44-45d1-a094-1882ea99d697",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1153.5414684131033,
+              4.205755678154204,
+              1332.568308829408,
+              89.33817170576062
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "60a1ac5d-66a2-40bc-9b38-348e61e68604",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1239.9249881585135,
+              188.24197813843054,
+              1659.3235352016663,
+              874.3089721532084
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa roja y tapa blanca"
+          },
+          {
+            "box_id": "18a977e0-b0ba-4a3c-9aa3-136921cb54e6",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1372.6302370102546,
+              78.0706485834121,
+              1542.8934661642954,
+              213.2809260515943
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "60a1ac5d-66a2-40bc-9b38-348e61e68604",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "98979473-7dda-4b1c-86da-43d3e0f7211b",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1527.8703290600824,
+              21.733015778793657,
+              1870.9007352467113,
+              656.4702147116382
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastico con asa y tapa amarilla"
+          },
+          {
+            "box_id": "a2e47c10-5b3b-4dc1-8842-8e7e330028a9",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1691.8738948304067,
+              616.4078567876742,
+              1819.5712479250535,
+              716.5636484403292
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja suelta"
+          },
+          {
+            "box_id": "13bacab5-e70b-456f-b1e5-e47b7be7134c",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1650.5599239394026,
+              0.44992036832998794,
+              1805.8000159892304,
+              79.32259941764546
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "98979473-7dda-4b1c-86da-43d3e0f7211b",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+          "video_id": "vid_557eef7acddd10c7439ddd8f",
+          "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+          "frame_index": 120,
+          "pts_seconds": 4.004,
+          "timestamp_seconds": 4.004,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_557eef7acddd10c7439ddd8f_f000120.png",
+          "image_sha256": "f401be6645a2e351444207ade508a8cfc299279632ea8abcfbf26bc1cba7a884",
+          "width": 1920,
+          "height": 1080,
+          "dhash": "db4bce6c8666a665",
+          "laplacian_variance": 292.2742803851983,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "f401be6645a2e351444207ade508a8cfc299279632ea8abcfbf26bc1cba7a884",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+      "source": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+        "video_id": "vid_557eef7acddd10c7439ddd8f",
+        "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+        "frame_index": 150,
+        "pts_seconds": 5.005,
+        "timestamp_seconds": 5.005,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_557eef7acddd10c7439ddd8f_f000150.png",
+        "image_sha256": "0be3f7c01874d54df26891a8bd49bd96ece147c54e7a2bb281977981ff017f41",
+        "width": 1920,
+        "height": 1080,
+        "dhash": "dba9d79c5ed6acb5",
+        "laplacian_variance": 257.0474939814087,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+        "revision": 2,
+        "previous_revision_sha256": "1285c6ed668963d04414729aaa809094bf5c56d1920b44fefc885095468f8d66",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T05:03:38.504403+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "719a2425-8b1c-4203-bfe7-60db7aebc65b",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              262.1631881494013,
+              522.5118536919376,
+              925.689157324572,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "49543dfa-59fa-4a3b-9026-6e04828844f8",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              903.1543141264851,
+              422.35609642503437,
+              1469.0292731863183,
+              1073.3685702385333
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "3e996050-3c13-4f6c-9e42-1ed018454a12",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              309.7367536532383,
+              264.61073832640346,
+              771.7010392140176,
+              764.1376425981899
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa blanca y tapa amarilla"
+          },
+          {
+            "box_id": "7b522dee-3fff-4ac2-afaf-0823619d1329",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              388.6087048465421,
+              195.75364875807898,
+              628.9803427025066,
+              329.71200977777954
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "3e996050-3c13-4f6c-9e42-1ed018454a12",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "80622f70-866a-4366-960f-816677acaa0b",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              596.43005184465,
+              33.00053890114217,
+              790.4800981360512,
+              131.90436252668795
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "938c4c67-aec3-413e-9ba8-7e2d264bf38d",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "938c4c67-aec3-413e-9ba8-7e2d264bf38d",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              518.8100058197361,
+              111.87321795045764,
+              890.6349185881683,
+              720.3195009430292
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastico con asa y tapa roja"
+          },
+          {
+            "box_id": "1d7d8d76-ac69-4e51-ac73-5513441ac4fa",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              805.5033040111477,
+              193.249781475364,
+              1264.9637104642638,
+              881.8206427728569
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa blanca y tapa amarilla"
+          },
+          {
+            "box_id": "9014c449-534f-44ef-a998-6aa1584dce29",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              926.9410624929617,
+              111.87321795045764,
+              1113.4795402322566,
+              240.82374124747304
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "1d7d8d76-ac69-4e51-ac73-5513441ac4fa",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "507a46e8-7f12-4fed-8562-f8b54d7a35a0",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1152.2895632447135,
+              26.740801922851237,
+              1322.5527923987543,
+              138.1640995049789
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "b5d664e3-add2-4738-89bc-ada09b02af13",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1227.4056613910802,
+              205.76925543194585,
+              1649.3080187710127,
+              908.1115759060057
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa roja y tapa blanca"
+          },
+          {
+            "box_id": "f22fdbc6-b264-4f94-b26f-7d3841696038",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1351.3472989805575,
+              124.39267471416366,
+              1536.6338027805787,
+              260.8549202094551
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "b5d664e3-add2-4738-89bc-ada09b02af13",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "05fe6f8c-e27e-4c86-800c-5267a5dc76cc",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1650.5599239394026,
+              641.4468047008379,
+              1819.5712479250535,
+              764.1376425981899
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja suelta"
+          },
+          {
+            "box_id": "17d66e30-2f97-4011-9761-afcb60423555",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1837.098470449581,
+              668.9896542824683,
+              1920,
+              830.4907961122959
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla suelta"
+          },
+          {
+            "box_id": "020d0f2b-1c01-4d97-b1e6-c59f9549bf48",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1542.8934661642954,
+              55.535602338715066,
+              1844.6100390016875,
+              717.8155992745625
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "0a4f6f2f-4cf0-454f-b406-a4240a9766f1",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1650.5599239394026,
+              4.205764274592132,
+              1804.5481108208407,
+              104.36153013793334
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "020d0f2b-1c01-4d97-b1e6-c59f9549bf48",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+          "video_id": "vid_557eef7acddd10c7439ddd8f",
+          "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+          "frame_index": 150,
+          "pts_seconds": 5.005,
+          "timestamp_seconds": 5.005,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_557eef7acddd10c7439ddd8f_f000150.png",
+          "image_sha256": "0be3f7c01874d54df26891a8bd49bd96ece147c54e7a2bb281977981ff017f41",
+          "width": 1920,
+          "height": 1080,
+          "dhash": "dba9d79c5ed6acb5",
+          "laplacian_variance": 257.0474939814087,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "0be3f7c01874d54df26891a8bd49bd96ece147c54e7a2bb281977981ff017f41",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+      "source": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+        "video_id": "vid_557eef7acddd10c7439ddd8f",
+        "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+        "frame_index": 180,
+        "pts_seconds": 6.006,
+        "timestamp_seconds": 6.006,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_557eef7acddd10c7439ddd8f_f000180.png",
+        "image_sha256": "da3502cbc54bc9fc506715e56ff4fc4c533a94cb64fa4493a834ff6eb5f378a9",
+        "width": 1920,
+        "height": 1080,
+        "dhash": "5a355a8cd498a5ab",
+        "laplacian_variance": 313.67284239968757,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+        "revision": 2,
+        "previous_revision_sha256": "26e6dff3e0c8a84f0ad9cdaf7ae3355dfaa7667d13028d21e73a330121178fcf",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T05:03:46.459269+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "3ab6bec3-12e6-4690-bc4a-acd5fd722528",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              239.62832775859357,
+              567.5819461813318,
+              911.9178566178651,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y sin tapa amarilla"
+          },
+          {
+            "box_id": "14f392cf-9e49-410b-b4a5-091b4f8e106b",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              900.6504350188217,
+              462.41838557749503,
+              1426.4635346686919,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y sin tapa amarilla"
+          },
+          {
+            "box_id": "4701eb9f-2bfd-4c38-bdc4-c1e6c27139e3",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              260.9112485955696,
+              319.6964221772593,
+              781.7165556446712,
+              838.002485805291
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa blanca y tapa amarilla"
+          },
+          {
+            "box_id": "49891aa7-a6f8-4173-a176-da2dc4624963",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              501.282920836976,
+              138.16411669785475,
+              891.8868925274418,
+              766.6415442666566
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastico con asa y tapa roja\n"
+          },
+          {
+            "box_id": "53a3372c-2845-484a-987e-85179bf3a66e",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              407.3877293831338,
+              249.58739708710655,
+              592.6741987977131,
+              383.54572372105537
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "4701eb9f-2bfd-4c38-bdc4-c1e6c27139e3",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "b2f1a3ba-ce57-4442-aa3f-834edf0005ed",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              590.1703884609334,
+              74.31479608071201,
+              764.1894018910274,
+              183.2342091872488
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "49891aa7-a6f8-4173-a176-da2dc4624963",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "1a1d9095-e7c9-4e95-bdc1-2f7eb577f6b3",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              800.4955457958209,
+              2.9538392296725604,
+              970.7588437207455,
+              58.03950400718178
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "87f516fd-5bf8-4841-aa79-5a9eec6c51b7",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              782.9684608130609,
+              247.0834911204209,
+              1218.642187670584,
+              915.6232078416834
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "db1bff5f-e384-49e4-9838-49030c74d9a0",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              924.4371833852983,
+              166.9588784297479,
+              1088.4408179265063,
+              269.6185373651179
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "87f516fd-5bf8-4841-aa79-5a9eec6c51b7",
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "55770c91-c461-47c8-9714-d77f91981b6a",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1129.7547200466267,
+              75.56674691494538,
+              1292.506380648561,
+              176.97445501608203
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "4f1cb4c5-ef04-4b74-8397-1a7c8db6c2cc",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1197.3592496408871,
+              265.86270635351264,
+              1628.0250807413158,
+              949.4258158926997
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa roja y tapa blanca"
+          },
+          {
+            "box_id": "469f7dd1-2e06-48ab-a0ab-4a805f1ef21f",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1337.5760670447346,
+              175.72250418184868,
+              1504.0834431518383,
+              293.40553874226725
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "4f1cb4c5-ef04-4b74-8397-1a7c8db6c2cc",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "9728c5b1-629d-4ba8-8e50-714e0e3a9fcc",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1501.5796328150589,
+              108.1173482548817,
+              1817.0674375882738,
+              757.8778712341473
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "11cc4693-2a2a-4b39-bbd8-ae7bbee77d59",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1641.7964502189063,
+              686.5169272777647,
+              1789.5248361748602,
+              809.2076964036133
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja suelta"
+          },
+          {
+            "box_id": "46098f96-c1c6-43bd-acef-9c2a6827b34c",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1820.823290635211,
+              717.8155949763435,
+              1920,
+              869.3011989038077
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla suelta"
+          },
+          {
+            "box_id": "fb9e6d1b-88ad-430d-bb2c-5687e39a0856",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1604.238332374839,
+              39.26027587943311,
+              1769.4939408553207,
+              178.2264402360671
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "9728c5b1-629d-4ba8-8e50-714e0e3a9fcc",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla "
+          }
+        ],
+        "source": {
+          "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+          "video_id": "vid_557eef7acddd10c7439ddd8f",
+          "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+          "frame_index": 180,
+          "pts_seconds": 6.006,
+          "timestamp_seconds": 6.006,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_557eef7acddd10c7439ddd8f_f000180.png",
+          "image_sha256": "da3502cbc54bc9fc506715e56ff4fc4c533a94cb64fa4493a834ff6eb5f378a9",
+          "width": 1920,
+          "height": 1080,
+          "dhash": "5a355a8cd498a5ab",
+          "laplacian_variance": 313.67284239968757,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "da3502cbc54bc9fc506715e56ff4fc4c533a94cb64fa4493a834ff6eb5f378a9",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+      "source": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+        "video_id": "vid_557eef7acddd10c7439ddd8f",
+        "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+        "frame_index": 210,
+        "pts_seconds": 7.007,
+        "timestamp_seconds": 7.007,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_557eef7acddd10c7439ddd8f_f000210.png",
+        "image_sha256": "0c5b81e5b95d6cc8726719709c71c1aa34589e472d447a80271939d1139fa3ad",
+        "width": 1920,
+        "height": 1080,
+        "dhash": "9a5d4a9caecee5c5",
+        "laplacian_variance": 286.2006912149107,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+        "revision": 3,
+        "previous_revision_sha256": "822ee3185b93806f4b947b0a353e53855cf17b32b1ae2604ef86c44ccfffea85",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T05:04:38.582479+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "7058ca47-8ffd-48bb-91a3-609eba47bfad",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              178.28347874077073,
+              633.9351340811895,
+              880.6194709283983,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y sin tapa amarilla"
+          },
+          {
+            "box_id": "0a67d74e-7ab2-4c1a-b02c-9e1fcea5db8d",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              881.8713760967881,
+              536.2832784827528,
+              1436.478913557578,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y sin tapa amarilla"
+          },
+          {
+            "box_id": "c1879581-5331-4e15-87ee-c5ad300ad0ce",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              270.92673064078133,
+              362.2626283105917,
+              726.631352817844,
+              849.2700242400447
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa blanca y tapa amarilla"
+          },
+          {
+            "box_id": "8207f728-0690-4ccd-9441-00d344b5f717",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              383.60094663121527,
+              295.90944041073396,
+              560.1239079398564,
+              404.8288191315191
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "c1879581-5331-4e15-87ee-c5ad300ad0ce",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "e12447d0-b888-4ac8-b62f-fb2dd1bbef64",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              505.03873949847116,
+              205.76923823907,
+              874.3598075446818,
+              806.7038334191172
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastico con asa y tapa roja"
+          },
+          {
+            "box_id": "a29b0a9b-093d-473e-be1b-0c87fb0c1f30",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              593.9261727369866,
+              110.62125851978635,
+              734.1429901408342,
+              219.54066302988522
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "e12447d0-b888-4ac8-b62f-fb2dd1bbef64",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "c2adc32e-9dd5-4380-ab8e-cc915ecd7c19",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              796.7397615197677,
+              9.21355901508764,
+              939.4604580312787,
+              85.58231920306054
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "9d39ae74-4fed-4bff-b72b-5cf920417fee",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              782.9684608130609,
+              287.14581895685217,
+              1208.6266712399304,
+              974.4647552094254
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "6f6068e0-8d98-494b-b865-1b605f438b23",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              898.1465559111583,
+              202.01340292924579,
+              1072.165638112136,
+              304.67306186461576
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "9d39ae74-4fed-4bff-b72b-5cf920417fee",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "76922072-844b-445b-a887-f75625a4d0a8",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1122.2430827236365,
+              121.88879023857281,
+              1281.2389590495177,
+              212.02897521736094
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "c7530b30-3e58-4cf8-84dc-ce7e61cb7040",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1206.1227233613834,
+              283.3899578577142,
+              1614.2538488054927,
+              984.4802931117889
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa roja y tapa blanca"
+          },
+          {
+            "box_id": "8f8feede-55b7-4d4d-86e0-e60962de43fa",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1321.3008872303644,
+              209.525099338208,
+              1486.5563581690783,
+              330.963952015575
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "c7530b30-3e58-4cf8-84dc-ce7e61cb7040",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "8b18f7df-4cb5-48d1-af84-3e24d5c6168d",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1248.6885994207773,
+              0.449920368329984,
+              1385.1495637776877,
+              51.779749836014986
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "55c361ed-40ef-41a5-8549-d497758bf835",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1481.5485999537516,
+              148.17967179309406,
+              1794.5325943901871,
+              802.9479809164172
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "e726fdcb-5001-41ba-a0b0-ce2f1bfc4f8a",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1604.238332374839,
+              84.33036836882718,
+              1750.7148131624033,
+              185.73807646996383
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "55c361ed-40ef-41a5-8549-d497758bf835",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "2acce4ae-67aa-422b-9eb5-71bea58ca24d",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1634.2847441250324,
+              731.5870240653777,
+              1788.2729310064706,
+              834.246648614996
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja suelta"
+          },
+          {
+            "box_id": "3f1df3c9-e8e5-47d4-ab75-f846eeb7c7d4",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1813.311584541337,
+              757.8778884270231,
+              1920,
+              899.3478856806204
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla suelta"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+          "video_id": "vid_557eef7acddd10c7439ddd8f",
+          "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+          "frame_index": 210,
+          "pts_seconds": 7.007,
+          "timestamp_seconds": 7.007,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_557eef7acddd10c7439ddd8f_f000210.png",
+          "image_sha256": "0c5b81e5b95d6cc8726719709c71c1aa34589e472d447a80271939d1139fa3ad",
+          "width": 1920,
+          "height": 1080,
+          "dhash": "9a5d4a9caecee5c5",
+          "laplacian_variance": 286.2006912149107,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "0c5b81e5b95d6cc8726719709c71c1aa34589e472d447a80271939d1139fa3ad",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+      "source": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+        "video_id": "vid_557eef7acddd10c7439ddd8f",
+        "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+        "frame_index": 240,
+        "pts_seconds": 8.008,
+        "timestamp_seconds": 8.008,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_557eef7acddd10c7439ddd8f_f000240.png",
+        "image_sha256": "ea5a8437fb60c902f08e5297e690c659d5a8b6f28b268362d53405a2bd9ca009",
+        "width": 1920,
+        "height": 1080,
+        "dhash": "388af45b8a9e89ea",
+        "laplacian_variance": 297.7202125410415,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+        "revision": 3,
+        "previous_revision_sha256": "1b2b2db95947ebe1fc2e37e1b3d6a89c88073e833d9d539191affd8c6780a3c1",
+        "author": "sistema.integracion_adjudicaciones",
+        "recorded_at_utc": "2026-11-18T14:39:41.559917+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "Integración automática de decisiones humanas: no es una nueva anotación humana ni acredita segunda revisión independiente.",
+        "boxes": [
+          {
+            "box_id": "39e50780-b34e-426d-96cb-9aea1f58c157",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              188.29896078598244,
+              660.2260328285865,
+              866.8481702216916,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y sin tapa"
+          },
+          {
+            "box_id": "47ec260e-09fa-4556-a9b3-91920177f39a",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              851.8249643465949,
+              560.0702755616833,
+              1405.180596638995,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y sin tapa"
+          },
+          {
+            "box_id": "c420b89a-037f-4c99-8d7c-a080b01b4350",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              224.60510469077602,
+              401.07298382169483,
+              750.4181699552043,
+              931.8985729849361
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa blanca y tapa amarilla"
+          },
+          {
+            "box_id": "b9c62a69-dd4e-4b2e-8d3a-5d9224da6c1b",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              371.0815854783402,
+              332.21587706049456,
+              565.1316661551832,
+              441.1352901670313
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "c420b89a-037f-4c99-8d7c-a080b01b4350",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "182eac59-31bb-4748-a1dd-1d96bf2c5e55",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              478.74807763888924,
+              224.5484491739428,
+              853.0768695149848,
+              838.0025011176962
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastico con asa y tapa roja"
+          },
+          {
+            "box_id": "5b49478a-6350-4b55-bb80-17a30078f39f",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              575.1471138149531,
+              151.93550710291828,
+              709.104267835084,
+              244.57959375017313
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "182eac59-31bb-4748-a1dd-1d96bf2c5e55",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "40004408-7538-4504-96be-18326d359f3b",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              779.2126765370077,
+              41.764173249680866,
+              914.4217357255285,
+              109.36931628199093
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "b33620f2-8804-4189-9147-349e3bcb68c0",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              751.6700751235942,
+              325.9561572750795,
+              1194.8553017623399,
+              1017.0309546267907
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "7a775ad9-b373-41ce-8ba5-9aed83b8605e",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              891.8868925274418,
+              239.57180975522502,
+              1045.8750106379962,
+              343.48340233195256
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "fd394b66-4ab3-4c56-a88c-4cea9bb23582",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1092.1966022025595,
+              153.18745793715163,
+              1263.7118740667577,
+              257.099067706755
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "e787fbb5-1a53-4c90-8c37-241db8172563",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1232.413419606407,
+              11.7174434906785,
+              1380.141805562361,
+              94.34594065694233
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "4953d043-2576-449a-b5a4-0c9129a8040e",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1172.3204585642532,
+              334.7197873253992,
+              1597.9786689911225,
+              1010.771191859186
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa roja y tapa blanca"
+          },
+          {
+            "box_id": "cbaffa56-be3c-4d10-b8de-f42e52bc57d8",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1300.0179492006673,
+              247.0834868222019,
+              1467.7773680179287,
+              373.5301428365023
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "4953d043-2576-449a-b5a4-0c9129a8040e",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "53c02027-1efe-43fb-b181-59186d6f4e9f",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1570.436067577709,
+              118.13292054299687,
+              1739.44739156336,
+              228.30428448376702
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "0f78e9da-b6cd-4fc7-a834-91fc97cad13c",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "0f78e9da-b6cd-4fc7-a834-91fc97cad13c",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1456.5099464188852,
+              178.2264058503154,
+              1780.761362454364,
+              839.2544863376812
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "1a7986be-3ff2-478e-a2c1-81d10fdb4a03",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1625.5212704045362,
+              762.8857261497083,
+              1759.478424424667,
+              874.3089721532084
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja suelta"
+          },
+          {
+            "box_id": "fe4a33bf-4c94-437a-8c35-8ccf6bb048d0",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1798.288447437124,
+              789.1765776166968,
+              1920,
+              935.6543782072275
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla suelta"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+          "video_id": "vid_557eef7acddd10c7439ddd8f",
+          "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+          "frame_index": 240,
+          "pts_seconds": 8.008,
+          "timestamp_seconds": 8.008,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_557eef7acddd10c7439ddd8f_f000240.png",
+          "image_sha256": "ea5a8437fb60c902f08e5297e690c659d5a8b6f28b268362d53405a2bd9ca009",
+          "width": 1920,
+          "height": 1080,
+          "dhash": "388af45b8a9e89ea",
+          "laplacian_variance": 297.7202125410415,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "ea5a8437fb60c902f08e5297e690c659d5a8b6f28b268362d53405a2bd9ca009",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+      "source": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+        "video_id": "vid_557eef7acddd10c7439ddd8f",
+        "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+        "frame_index": 270,
+        "pts_seconds": 9.009,
+        "timestamp_seconds": 9.009,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_557eef7acddd10c7439ddd8f_f000270.png",
+        "image_sha256": "37ba6180f3732baaebe0099642eec52d34911d182dbc526ec0188ab6a676e095",
+        "width": 1920,
+        "height": 1080,
+        "dhash": "d93a54dcd6aaddd1",
+        "laplacian_variance": 323.32497611562866,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+        "revision": 2,
+        "previous_revision_sha256": "535bef75553199427576287988927bfe0e3abc30e74138942034da85f9de8f70",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T05:04:54.576155+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "af525001-4818-4c5d-9ba1-735867f9035d",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              160.7563765652898,
+              706.548076152214,
+              819.2746047178546,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y sin tapa amarilla"
+          },
+          {
+            "box_id": "8547a1ef-7b0d-402d-8bd9-5a1c61c5c294",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              826.7862420408447,
+              590.1169924260288,
+              1371.3783318418648,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y sin tapa amarilla"
+          },
+          {
+            "box_id": "ad0383b1-418d-435e-ba0a-090bead71ab5",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              190.80283989364582,
+              432.3716687131495,
+              710.3561730034738,
+              938.1582927703512
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa blanca y tapa amarilla"
+          },
+          {
+            "box_id": "4db404cb-0bcd-4c2d-8eb2-4d4bd97909ac",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              341.03513934270507,
+              364.7665299790584,
+              532.5813065264429,
+              483.7014809879587
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "ad0383b1-418d-435e-ba0a-090bead71ab5",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "ad5d213e-767c-4bbd-9cd3-0fbb831d5f20",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              443.8057012350845,
+              246.95824564139534,
+              829.4004205634527,
+              869.0797445621885
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastico con asa y tapa roja"
+          },
+          {
+            "box_id": "98609d1c-d22f-4089-9e09-2a4c56df6a70",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              532.678840815755,
+              169.551412606663,
+              724.7594401780385,
+              297.1293412293991
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "ad5d213e-767c-4bbd-9cd3-0fbb831d5f20",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "6e17f0ac-cd0a-4147-981d-c77efea403b7",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              756.295062731721,
+              62.04194842554785,
+              905.372583379568,
+              140.8822264645848
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "086403fd-393c-4228-81c4-0ec4dd6bf80f",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              724.7594401780385,
+              347.30043312635775,
+              1182.0261148459465,
+              1045.3953459148936
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "64163a7b-cc37-44c3-8a10-d92b4f5c0a5c",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              855.2022559809535,
+              268.4601403231409,
+              1020.0476174335442,
+              383.13695133026357
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "da2d0508-9823-4ce9-aeaf-c34e5e761472",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1057.3170271234083,
+              166.68452075253134,
+              1266.5988697826272,
+              295.69587407882454
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "d32e94b7-c07d-489d-aff1-507c02cda806",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1141.8897820600891,
+              375.96961926843596,
+              1581.9550953194523,
+              1042.528376548817
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa roja y tapa blanca"
+          },
+          {
+            "box_id": "13e34dca-fdb5-4bbc-9481-829bf1f79e9b",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1268.0323903864287,
+              272.76050301889205,
+              1441.4782258479752,
+              393.1711309536829
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "6091534c-32b9-4738-87bc-3ecf53f71623",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1511.7167196395185,
+              159.5172495929461,
+              1712.3979111223673,
+              252.69209947951344
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "e545fd5b-e682-42d9-906a-4f7e17eb5301",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "e545fd5b-e682-42d9-906a-4f7e17eb5301",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1409.9426623500974,
+              192.48677074793804,
+              1753.9676464004165,
+              827.5095053977842
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "584ee0bb-19d7-411a-aa34-35f270d4623a",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1610.6238538329462,
+              778.7718105215451,
+              1743.9335927318546,
+              892.0151672967509
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja suelta"
+          },
+          {
+            "box_id": "cfcfdae5-f000-4ec1-82ab-504c721c8561",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1774.0357537375403,
+              820.3421604172992,
+              1893.0111133797016,
+              962.2546608875656
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla suelta"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+          "video_id": "vid_557eef7acddd10c7439ddd8f",
+          "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+          "frame_index": 270,
+          "pts_seconds": 9.009,
+          "timestamp_seconds": 9.009,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_557eef7acddd10c7439ddd8f_f000270.png",
+          "image_sha256": "37ba6180f3732baaebe0099642eec52d34911d182dbc526ec0188ab6a676e095",
+          "width": 1920,
+          "height": 1080,
+          "dhash": "d93a54dcd6aaddd1",
+          "laplacian_variance": 323.32497611562866,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "37ba6180f3732baaebe0099642eec52d34911d182dbc526ec0188ab6a676e095",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+      "source": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+        "video_id": "vid_557eef7acddd10c7439ddd8f",
+        "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+        "frame_index": 300,
+        "pts_seconds": 10.01,
+        "timestamp_seconds": 10.01,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_557eef7acddd10c7439ddd8f_f000300.png",
+        "image_sha256": "7a851416a012ef974b8c2ea355839cf0c56a6d6f32e2979ae7e5b66ae1cad54e",
+        "width": 1920,
+        "height": 1080,
+        "dhash": "5aaab3bcf9faa9d8",
+        "laplacian_variance": 295.6758466473417,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+        "revision": 3,
+        "previous_revision_sha256": "081c67fb1a1c96a0633c9d6beb07bcd54939b043769789271d5fd7012272e885",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T05:05:41.126957+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "117c5e1b-2072-4b39-a93e-48cf123dc18a",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              85.44630840011612,
+              760.1368243036338,
+              766.3291754560877,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y sin tapa amarilla"
+          },
+          {
+            "box_id": "f7faba92-25f2-4278-992b-91a2a4c9c0a0",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              789.2641468334001,
+              602.4562682255599,
+              1345.4380147505406,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y sin tapa amarilla"
+          },
+          {
+            "box_id": "a33418ad-6e8e-4fbf-b7a3-ef7a5ad8865f",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              135.61663579873067,
+              470.57799905334264,
+              701.8244688007261,
+              980.889654487567
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa blanca y tapa amarilla"
+          },
+          {
+            "box_id": "25ed90d2-f60f-4333-8025-fcc257baf584",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              297.59507415532823,
+              383.1369624033985,
+              489.675703045514,
+              515.0152241935258
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "a33418ad-6e8e-4fbf-b7a3-ef7a5ad8865f",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "e7117e4d-eb27-4607-b7e4-b97b1402acef",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              385.0347521880022,
+              272.7605473114319,
+              786.3972827932116,
+              900.6160403300527
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastico con asa y tapa roja"
+          },
+          {
+            "box_id": "006db1b8-4ba9-4a06-ac64-f698a68a6620",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              498.2763542218841,
+              199.65405667170324,
+              660.2547925784817,
+              310.03047545471486
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "4ac0be73-f95a-4224-a0ca-24435ba78683",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              713.2919840172847,
+              87.8442131851345,
+              863.8029071573236,
+              181.01912212842169
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "e50f058a-6355-4a66-944f-01061f8b1ed9",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              693.223817624356,
+              358.7680965100541,
+              1107.4872954662183,
+              1039.6615437514054
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "fdb485e4-010d-469a-9f43-9a1a7311c390",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              815.0660413067056,
+              295.69587407882454,
+              994.2457820160433,
+              398.904992173891
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "e50f058a-6355-4a66-944f-01061f8b1ed9",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "67d83e7d-a114-48c2-9abb-2ea0145fd19d",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1034.3819966902913,
+              195.3536939759521,
+              1179.1591917499534,
+              307.1635965192407
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "e6080993-cbfc-4044-bd09-1cdb837efea6",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1163.3914100010145,
+              57.7415857297967,
+              1313.9023331410533,
+              143.74913492841887
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "761dc327-7d03-4618-84e7-79e614b3fbf7",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1101.7535673858413,
+              378.8365148136126,
+              1516.0170452277034,
+              1061.1635048719606
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa roja y tapa blanca"
+          },
+          {
+            "box_id": "dbb1d3cc-2cf3-4db5-8958-a78e4f7c89f2",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1229.3295782043726,
+              304.29666590913666,
+              1388.4411525207815,
+              424.7072643155676
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "8014c0d7-501c-47f5-8a2c-120368c2237e",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1401.3421292853368,
+              236.92401434334616,
+              1722.4319647909292,
+              870.5131766478356
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "470f2d53-4391-4878-ab0e-5df01f42d81c",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1510.2831990357172,
+              163.81761228869723,
+              1666.5279683677425,
+              275.627455775266
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "61691fd6-ed1b-4995-b53c-13b57331a95c",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1577.6547697312672,
+              795.9733498896295,
+              1702.3638574538054,
+              919.2508862882545
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja suelta"
+          },
+          {
+            "box_id": "ae201e2f-324c-4209-ad29-282f545f660a",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1732.4660184594911,
+              827.5095201619641,
+              1851.4413781016524,
+              985.1900171833182
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla suelta"
+          },
+          {
+            "box_id": "faff551e-bf7d-4890-8e9e-2f1ad519d567",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1868.6426804543926,
+              912.0835856003093,
+              1920,
+              1072.631109198937
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla suelta"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+          "video_id": "vid_557eef7acddd10c7439ddd8f",
+          "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+          "frame_index": 300,
+          "pts_seconds": 10.01,
+          "timestamp_seconds": 10.01,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_557eef7acddd10c7439ddd8f_f000300.png",
+          "image_sha256": "7a851416a012ef974b8c2ea355839cf0c56a6d6f32e2979ae7e5b66ae1cad54e",
+          "width": 1920,
+          "height": 1080,
+          "dhash": "5aaab3bcf9faa9d8",
+          "laplacian_variance": 295.6758466473417,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "7a851416a012ef974b8c2ea355839cf0c56a6d6f32e2979ae7e5b66ae1cad54e",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "source": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+        "video_id": "vid_557eef7acddd10c7439ddd8f",
+        "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+        "frame_index": 330,
+        "pts_seconds": 11.011,
+        "timestamp_seconds": 11.011,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_557eef7acddd10c7439ddd8f_f000330.png",
+        "image_sha256": "a8d4a87d0e29313128e5106a10b28d36035c0e1c0515f1e0a89ce83889e4770a",
+        "width": 1920,
+        "height": 1080,
+        "dhash": "685e2fb4dcd5adcd",
+        "laplacian_variance": 279.2473316480316,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+        "revision": 3,
+        "previous_revision_sha256": "6044849c471f2d4c1f220336a8db2d180b80392aad0a1af9b632a7d253f3bff3",
+        "author": "sistema.integracion_adjudicaciones",
+        "recorded_at_utc": "2026-11-18T14:39:41.571284+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "Integración automática de decisiones humanas: no es una nueva anotación humana ni acredita segunda revisión independiente.",
+        "boxes": [
+          {
+            "box_id": "eeafd156-84dd-40f1-a6ac-d96fb1847753",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              98.3472556367689,
+              801.7071852725227,
+              743.3941450229705,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y sin tapa amarilla"
+          },
+          {
+            "box_id": "f763b3a8-87fe-4ff7-843d-ea314160dcaf",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              746.261009063159,
+              666.9619670349764,
+              1328.2367123978004,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y sin tapa amarilla"
+          },
+          {
+            "box_id": "259e5d8d-d7c3-4ea4-a200-3ce59a54e349",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              112.68163489351592,
+              480.61219344094195,
+              638.7532827491658,
+              993.7908163957203
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa blanca y tapa amarilla"
+          },
+          {
+            "box_id": "bdc3228a-1929-43f4-9358-04c6c09cd08b",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              277.52693729030193,
+              421.84038168904846,
+              471.04099820058195,
+              532.2167118869803
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "259e5d8d-d7c3-4ea4-a200-3ce59a54e349",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "df21b949-85bc-4ff5-bc3d-75c211d7fbd9",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              400.80256346484344,
+              320.06468829753913,
+              763.4622523600945,
+              912.0835892913543
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastico con asa y tapa roja"
+          },
+          {
+            "box_id": "bb580ab0-0663-428c-a18b-6dff02e43584",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              482.5085134171405,
+              238.3574981036231,
+              641.6200877335496,
+              341.5665571419697
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "df21b949-85bc-4ff5-bc3d-75c211d7fbd9",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "406a6ebb-cfc8-4fef-af17-54157aa09fe5",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              683.189763955794,
+              133.7149257766396,
+              856.6357175289501,
+              215.42214180787056
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "f51419ad-4793-420b-9d1b-ffe9eaa1b629",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              670.2888462470436,
+              407.5057618579332,
+              1097.4532417976563,
+              1076.9314718946882
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "a5601f51-d74c-42d4-a777-725653b35fe6",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              786.3972827932116,
+              325.7985310625223,
+              964.143502898748,
+              433.30802661751983
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "f51419ad-4793-420b-9d1b-ffe9eaa1b629",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "e1ccd715-24fd-4afb-a6da-86528a49819a",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1005.7132381767972,
+              225.45639525218968,
+              1149.0570307442674,
+              335.8327549784815
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "85c2b6dc-d036-41ac-8c62-222f218538e2",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1146.1901076482743,
+              97.87843710109372,
+              1289.5339002157443,
+              185.31947005999288
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "80e5e159-655d-4799-91eb-ddcf78a6fe2f",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1098.8866442898482,
+              420.40688316459153,
+              1498.8157428749632,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa roja y tapa blanca"
+          },
+          {
+            "box_id": "db409b7b-6e18-44c7-a04b-84ccc9a49259",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1213.5616783438243,
+              322.93162259868814,
+              1365.5060039760551,
+              459.1102766129265
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "80e5e159-655d-4799-91eb-ddcf78a6fe2f",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "e3215e24-d68c-4942-b336-646cf7dcf4d6",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1369.80632956424,
+              251.25861571923647,
+              1683.7291526088732,
+              912.0835856003093
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "2b30dc30-85ee-4e96-aa2f-18976092acc7",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1467.2801793770855,
+              208.25481159156547,
+              1634.9922867582552,
+              330.0989232866333
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "e3215e24-d68c-4942-b336-646cf7dcf4d6",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "50478c3f-aa0c-4659-af31-5028d57adc44",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1536.0851525648275,
+              830.3763695690784,
+              1680.8623476244895,
+              955.0873601996204
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja suelta"
+          },
+          {
+            "box_id": "12b3b2bf-270b-4bdc-a640-42396135b3e6",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1706.6641830419903,
+              861.912539841413,
+              1839.9739219408987,
+              1000.9580727911256
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla suelta"
+          },
+          {
+            "box_id": "f4c0b07a-4593-4f08-b428-08319834bbd9",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1841.4073244330905,
+              940.7527588237301,
+              1920,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla suelta"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+          "video_id": "vid_557eef7acddd10c7439ddd8f",
+          "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+          "frame_index": 330,
+          "pts_seconds": 11.011,
+          "timestamp_seconds": 11.011,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_557eef7acddd10c7439ddd8f_f000330.png",
+          "image_sha256": "a8d4a87d0e29313128e5106a10b28d36035c0e1c0515f1e0a89ce83889e4770a",
+          "width": 1920,
+          "height": 1080,
+          "dhash": "685e2fb4dcd5adcd",
+          "laplacian_variance": 279.2473316480316,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "a8d4a87d0e29313128e5106a10b28d36035c0e1c0515f1e0a89ce83889e4770a",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+      "source": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+        "video_id": "vid_557eef7acddd10c7439ddd8f",
+        "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+        "frame_index": 360,
+        "pts_seconds": 12.012,
+        "timestamp_seconds": 12.012,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_557eef7acddd10c7439ddd8f_f000360.png",
+        "image_sha256": "34d53246646c280acf9f6fb135c847455720d6531218dd60244a6ab74e06c03e",
+        "width": 1920,
+        "height": 1080,
+        "dhash": "2956ab92dcd19d89",
+        "laplacian_variance": 309.07190481104016,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+        "revision": 2,
+        "previous_revision_sha256": "c634c570d25e9588b21f6d19d3b3a40a820242a3098d9add8b83b3ae0db1368a",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T05:06:04.281736+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "0bfa5981-3c41-4da4-8e17-4895ddbbeaab",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              92.6135127924408,
+              844.7109857091488,
+              697.524143212541,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y sin tapa amarilla"
+          },
+          {
+            "box_id": "38a3b548-9181-46ce-b625-3322f7dccf2c",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              710.4251199770962,
+              692.7642317945631,
+              1316.7691381254372,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y sin tapa amarilla"
+          },
+          {
+            "box_id": "4936b70b-29ce-4e69-b44b-c6ff93881e67",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              128.44944617035716,
+              526.4829650891669,
+              621.5519803964256,
+              1003.8250255474995
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa blanca y tapa amarilla"
+          },
+          {
+            "box_id": "6946c0c0-882a-4bb7-81fa-fff1bee8e834",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              247.42474675671363,
+              464.8441378331346,
+              450.972890863458,
+              568.053285456561
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "4936b70b-29ce-4e69-b44b-c6ff93881e67",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "472ddd33-609e-486c-abb7-fc4a58c60ea6",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              379.30102410762527,
+              354.4677485784829,
+              750.561334651344,
+              962.2546461233857
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastico con asa y tapa roja"
+          },
+          {
+            "box_id": "605f8cec-d3d8-41d3-bd42-4eb45886c661",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              461.00694453202,
+              274.1940015433489,
+              620.1185188484291,
+              351.6008253504688
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "472ddd33-609e-486c-abb7-fc4a58c60ea6",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "3a83e6a6-8aa5-4328-b346-c26eb92f6691",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              664.5551181666667,
+              447.6426427575901,
+              1081.6854600487175,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "6e4d4ba9-2987-42cf-a6a0-541a21a525a2",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              767.7625779482795,
+              361.63504926642804,
+              951.2426442458024,
+              463.41068360121756
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "3a83e6a6-8aa5-4328-b346-c26eb92f6691",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "e02b4253-c973-4a66-9857-81a20434a501",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              696.0907407203491,
+              156.65026730821222,
+              827.966959015456,
+              229.75675794794086
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "b08e7548-e05a-40eb-abb8-ce5c2c0d405a",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              992.812261412242,
+              268.46015877836584,
+              1159.0910844128293,
+              373.1027015769894
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "12c9c476-042f-4cce-8052-4cbe72bb6bb5",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1085.9857856369024,
+              456.24338291327234,
+              1477.3142330456476,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa roja y tapa blanca"
+          },
+          {
+            "box_id": "f60ddf8a-bd0c-425b-84f0-b2ac701e9740",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1176.29226865396,
+              358.76811496527904,
+              1362.6393171032807,
+              499.2471612036284
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "12c9c476-042f-4cce-8052-4cbe72bb6bb5",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "8d564e2a-ff17-45d0-a985-cd2f9e5b889e",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1342.5710916545474,
+              291.39551138307337,
+              1655.0603940953793,
+              946.4866052797582
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "1f3595b0-4676-4b66-a257-f92599080829",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1133.289130883719,
+              116.51340486378021,
+              1250.8310880336883,
+              218.28905396274965
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "c9471d2e-6cc1-4b66-b943-1a25515ae19a",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1450.0788770243453,
+              225.45635095964982,
+              1591.9891489880142,
+              354.4677338143029
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "8d564e2a-ff17-45d0-a985-cd2f9e5b889e",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "5fff0a1b-716f-4a70-b875-d1b516d2b63b",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1533.2182294688344,
+              863.3459350166103,
+              1667.9613708599343,
+              965.1216284081196
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja suelta"
+          },
+          {
+            "box_id": "4b2f86c4-aff6-442b-afd6-c538731e737c",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1692.3298037852433,
+              896.315515228322,
+              1814.1719684117882,
+              1032.4941840067404
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla suelta"
+          },
+          {
+            "box_id": "be6a841c-cae9-4964-9ebc-a21a4d5a59bb",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1814.1719684117882,
+              965.1215988797596,
+              1920,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla suelta"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+          "video_id": "vid_557eef7acddd10c7439ddd8f",
+          "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+          "frame_index": 360,
+          "pts_seconds": 12.012,
+          "timestamp_seconds": 12.012,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_557eef7acddd10c7439ddd8f_f000360.png",
+          "image_sha256": "34d53246646c280acf9f6fb135c847455720d6531218dd60244a6ab74e06c03e",
+          "width": 1920,
+          "height": 1080,
+          "dhash": "2956ab92dcd19d89",
+          "laplacian_variance": 309.07190481104016,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "34d53246646c280acf9f6fb135c847455720d6531218dd60244a6ab74e06c03e",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+      "source": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+        "video_id": "vid_557eef7acddd10c7439ddd8f",
+        "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+        "frame_index": 390,
+        "pts_seconds": 13.013,
+        "timestamp_seconds": 13.013,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_557eef7acddd10c7439ddd8f_f000390.png",
+        "image_sha256": "b79df0aef61b5b9fa565bd33b2a55d2d402e165f35e6751f0e41dba62e411f0a",
+        "width": 1920,
+        "height": 1080,
+        "dhash": "6b5aaad29cd2b40f",
+        "laplacian_variance": 279.80105563688346,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+        "revision": 3,
+        "previous_revision_sha256": "953354cde67f5745ad5cab96a94449e369f3a6eda1070389e32e789864c36217",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T05:06:26.670506+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "e3dd22a5-e429-401f-9279-44c33098a98f",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              81.14599757588225,
+              525.0494259632151,
+              638.7532827491658,
+              1036.7945651577165
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa blanca y tapa amarilla"
+          },
+          {
+            "box_id": "6e9b5b30-3942-489f-83ba-1bde0e7361a4",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              256.02539793308375,
+              480.6121491484021,
+              481.0750518691439,
+              586.6881757073027
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "e3dd22a5-e429-401f-9279-44c33098a98f",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "309315e3-9ece-40dd-91bf-7612dcc25b96",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              698.9576047605376,
+              662.6615821929554,
+              1259.4317392100586,
+              1052.5626687491088
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y sin tapa amarilla"
+          },
+          {
+            "box_id": "344e13a6-5583-4510-8ffe-21c8a6ca9d2e",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              181.4866376091602,
+              834.6767322648295,
+              637.3197621453645,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y sin tapa amarilla"
+          },
+          {
+            "box_id": "2beebcbe-a430-4e72-93b6-d28b363b6efc",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              363.533212830784,
+              373.1026978859444,
+              757.7285242797176,
+              976.5892032067361
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastico con asa y tapa roja"
+          },
+          {
+            "box_id": "1f11dcf4-a593-4f87-9086-b63f2c49e48b",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              458.1400804918315,
+              288.52856600878937,
+              634.4529571609808,
+              396.0380615637869
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "2beebcbe-a430-4e72-93b6-d28b363b6efc",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "1caaadb0-ce67-4c65-b64b-98c1f465a49e",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              680.3228999156056,
+              178.15215460786774,
+              826.5335565232642,
+              261.29282487101574
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "d907ea04-4681-4ba6-ae22-95d288a6907f",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              640.186626185553,
+              450.5095069288843,
+              1091.7195137172794,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "bd224d34-46d0-4168-b9fd-4a04b9657af6",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              777.7966316168415,
+              387.4372844976548,
+              959.843177310563,
+              483.4790723764162
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "d907ea04-4681-4ba6-ae22-95d288a6907f",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "d40e03bd-0538-43bc-835a-e9af1ea077c1",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1344.0044941467393,
+              332.96586127882733,
+              1634.9922867582552,
+              949.3536613853919
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "bafe254a-4294-4285-8e6d-31ff1795a751",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1440.0448233557834,
+              249.82516148731943,
+              1612.057256325138,
+              367.36888095827624
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "d40e03bd-0538-43bc-835a-e9af1ea077c1",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "apa amarilla"
+          },
+          {
+            "box_id": "d13f929d-ac61-4494-a3b2-adf8227b30d4",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1110.3542185622114,
+              148.04949762417004,
+              1249.397567429887,
+              232.62365164759498
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "72cda2d4-cde3-4f87-a524-0460dd85df54",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              992.812261412242,
+              284.2281811667683,
+              1143.3233026638904,
+              390.30420772566885
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "3498dbba-9b31-4b47-ab71-78949b83dbef",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1167.69161747759,
+              383.13691441981365,
+              1344.0044941467393,
+              513.5818105631037
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "09e10330-7fff-437b-8c67-534f4730be5d",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "09e10330-7fff-437b-8c67-534f4730be5d",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1055.883506519607,
+              507.8479050503557,
+              1518.8838502120873,
+              1049.6957012285548
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "\nenvase de plastico con asa roja y tapa blanca\n"
+          },
+          {
+            "box_id": "d8b392ba-e929-443f-9ffa-6e2178a5a532",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1541.8188806452044,
+              880.5475334414144,
+              1652.1935891109954,
+              998.0911347989315
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja suelta"
+          },
+          {
+            "box_id": "d90334dc-740b-4085-bb68-9ec4e242f1d8",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1677.9954245284964,
+              907.7831933761983,
+              1817.0388915077815,
+              1062.5968114620782
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla suelta"
+          },
+          {
+            "box_id": "53ca3bc6-dec8-488f-9ca8-3a3a96b3ee87",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1822.7726195881582,
+              986.6234418868753,
+              1920,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla suelta"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+          "video_id": "vid_557eef7acddd10c7439ddd8f",
+          "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+          "frame_index": 390,
+          "pts_seconds": 13.013,
+          "timestamp_seconds": 13.013,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_557eef7acddd10c7439ddd8f_f000390.png",
+          "image_sha256": "b79df0aef61b5b9fa565bd33b2a55d2d402e165f35e6751f0e41dba62e411f0a",
+          "width": 1920,
+          "height": 1080,
+          "dhash": "6b5aaad29cd2b40f",
+          "laplacian_variance": 279.80105563688346,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "b79df0aef61b5b9fa565bd33b2a55d2d402e165f35e6751f0e41dba62e411f0a",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+      "source": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+        "video_id": "vid_557eef7acddd10c7439ddd8f",
+        "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+        "frame_index": 405,
+        "pts_seconds": 13.5135,
+        "timestamp_seconds": 13.5135,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_557eef7acddd10c7439ddd8f_f000405.png",
+        "image_sha256": "2b1383b2fe34909394513c6bbabccd765a759ddd179b0d7da007faac1dd9871b",
+        "width": 1920,
+        "height": 1080,
+        "dhash": "695aaada94ca941d",
+        "laplacian_variance": 298.02870193600035,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+        "revision": 3,
+        "previous_revision_sha256": "b85f87aba68b924c82e3c9a724d260d857f158432db29d39144ea687731fe26d",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T05:07:15.720116+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "f3ce6d25-37c8-4b94-8040-3985007a4d0d",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              713.2919840172847,
+              727.1672810023719,
+              1268.0323903864287,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "\nenvase plastica con asa y sin tapa"
+          },
+          {
+            "box_id": "18fef610-68f4-46c8-91b4-7618853a3a88",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              132.74975699459105,
+              579.5209340760773,
+              592.8832218829316,
+              1009.5588572393477
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": true,
+            "notes": "envase plastica con asa blanca y tapa amarilla"
+          },
+          {
+            "box_id": "80152cd1-9e3b-4e64-8d3c-4c1642522d9d",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              257.458829953178,
+              467.7110462969687,
+              442.37226921499024,
+              595.2889749197047
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "b2646f8e-2602-45c3-ad0f-de3a574bb080",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              382.1678881478137,
+              381.70345649685163,
+              736.2269553945971,
+              979.4561448899751
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastico con asa y tapa roja"
+          },
+          {
+            "box_id": "b2f1ec45-92a2-4f0e-8cec-f6dd4a61c5bf",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              453.83975490364645,
+              281.36130223129413,
+              627.2857084768026,
+              410.3726555575873
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "b2646f8e-2602-45c3-ad0f-de3a574bb080",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "7e4bd965-2cfe-4703-b66b-8a7c10abf69e",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              687.490089543979,
+              183.88600475494087,
+              812.1991772665172,
+              275.6274299379511
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja"
+          },
+          {
+            "box_id": "432a0f33-3bd3-497c-912a-0df33f8d02b0",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              653.0876029501081,
+              489.2129778891641,
+              1080.251939444916,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "14f217c4-208f-49cd-9b2c-f9c789b19ec3",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              754.8616602395291,
+              381.70345649685163,
+              955.5429698339874,
+              506.41447665575356
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "432a0f33-3bd3-497c-912a-0df33f8d02b0",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "ec2f01fe-6e0e-4dde-9bb4-342139f12c48",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1332.5370379859855,
+              331.5324107379553,
+              1626.391635581885,
+              957.9543018828595
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase plastica con asa y tapa amarilla"
+          },
+          {
+            "box_id": "d10c4626-ff49-47cf-a151-b7d557cac83d",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1424.2770416068445,
+              277.06091369822803,
+              1643.5929379346253,
+              367.3688551209613
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "a4993f81-f0e0-4977-b9a2-644bf80ce49e",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1120.3882722307733,
+              145.18258916033594,
+              1240.7970343651264,
+              246.95822349512542
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "0ab750c3-42db-46aa-9cfb-4782c9577cea",
+            "class_name": "ENVASE",
+            "bbox_xyxy": [
+              1038.6823222784762,
+              473.4448964440418,
+              1483.0479611260243,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "envase de plastico con asa roja y tapa blanca"
+          },
+          {
+            "box_id": "7cfc557c-9adc-4187-bdc8-1085c506803d",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1176.29226865396,
+              381.70346756998657,
+              1346.8714172427324,
+              512.1483046565568
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": "0ab750c3-42db-46aa-9cfb-4782c9577cea",
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "0ed0550b-cefc-4ac6-a145-3a435d67887e",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              988.511935824057,
+              287.09510439478237,
+              1141.8897820600891,
+              387.4372844976548
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa blanca"
+          },
+          {
+            "box_id": "41f0ad10-3af3-49f7-9446-989f106f7f3a",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1527.4845013884574,
+              897.7489546960592,
+              1656.4939146991806,
+              1012.4257657031818
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa roja suelta"
+          },
+          {
+            "box_id": "aae7d50c-daa6-42a2-8913-f2710f088c91",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1680.8623476244895,
+              913.5170988889463,
+              1808.4382403314114,
+              1058.296478294687
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla suelta"
+          },
+          {
+            "box_id": "8a5b0637-168f-49d3-84db-b5e22ae79fac",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1811.3051634274045,
+              1006.6919487755137,
+              1920,
+              1080
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla suelta"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+          "video_id": "vid_557eef7acddd10c7439ddd8f",
+          "video_sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+          "frame_index": 405,
+          "pts_seconds": 13.5135,
+          "timestamp_seconds": 13.5135,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_557eef7acddd10c7439ddd8f_f000405.png",
+          "image_sha256": "2b1383b2fe34909394513c6bbabccd765a759ddd179b0d7da007faac1dd9871b",
+          "width": 1920,
+          "height": 1080,
+          "dhash": "695aaada94ca941d",
+          "laplacian_variance": 298.02870193600035,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "2b1383b2fe34909394513c6bbabccd765a759ddd179b0d7da007faac1dd9871b",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000000",
+      "source": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000000",
+        "video_id": "vid_8a2b94bcf49a24212a443df0",
+        "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+        "frame_index": 0,
+        "pts_seconds": 0.0,
+        "timestamp_seconds": 0.0,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_8a2b94bcf49a24212a443df0_f000000.png",
+        "image_sha256": "86ffa48a5587589268d9f2fe3ce5d09fa6a88b7e4ac10ff5d803dede64ef946e",
+        "width": 1280,
+        "height": 720,
+        "dhash": "99c952d48d749c14",
+        "laplacian_variance": 22.033300746418515,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000000",
+        "revision": 2,
+        "previous_revision_sha256": "9d5fba9c1b3574b110676da813aa46485cb362cc510416079128085bcf1cf3c0",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T05:07:24.847190+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "6baf55bb-fec2-4985-8602-7ba49d597f10",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              518.531087744561,
+              217.19902316904484,
+              740.236145708141,
+              424.5728758282158
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "691d5728-ffc7-43b1-90fc-769a9ad28d6d",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              825.2868195871617,
+              280.27127266793764,
+              1049.858643164589,
+              468.5323333353748
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_8a2b94bcf49a24212a443df0_f000000",
+          "video_id": "vid_8a2b94bcf49a24212a443df0",
+          "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+          "frame_index": 0,
+          "pts_seconds": 0.0,
+          "timestamp_seconds": 0.0,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_8a2b94bcf49a24212a443df0_f000000.png",
+          "image_sha256": "86ffa48a5587589268d9f2fe3ce5d09fa6a88b7e4ac10ff5d803dede64ef946e",
+          "width": 1280,
+          "height": 720,
+          "dhash": "99c952d48d749c14",
+          "laplacian_variance": 22.033300746418515,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "86ffa48a5587589268d9f2fe3ce5d09fa6a88b7e4ac10ff5d803dede64ef946e",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000050",
+      "source": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000050",
+        "video_id": "vid_8a2b94bcf49a24212a443df0",
+        "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+        "frame_index": 50,
+        "pts_seconds": 1.0,
+        "timestamp_seconds": 1.0,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_8a2b94bcf49a24212a443df0_f000050.png",
+        "image_sha256": "7c13a39feaa61fc357c67726f05f4a326cf3b05b5b64830ed00af14e9488e40a",
+        "width": 1280,
+        "height": 720,
+        "dhash": "8dc595f47654705a",
+        "laplacian_variance": 39.81945203554954,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000050",
+        "revision": 3,
+        "previous_revision_sha256": "429cf6f6a0f6745bf293a6151204e165c78f7c30e1178a4a1ddfa0826e956db9",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T05:07:32.945424+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "e0bfc8f9-50e0-4aaf-9ef6-9f2c56d65764",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              558.6673417893454,
+              282.1825671234303,
+              775.5942733340096,
+              452.2864325825985
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "0092627d-4983-4a9c-b74c-2742bd8f0165",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              499.4186214394348,
+              230.57799577241377,
+              581.6023722224625,
+              386.3472795412649
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_8a2b94bcf49a24212a443df0_f000050",
+          "video_id": "vid_8a2b94bcf49a24212a443df0",
+          "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+          "frame_index": 50,
+          "pts_seconds": 1.0,
+          "timestamp_seconds": 1.0,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_8a2b94bcf49a24212a443df0_f000050.png",
+          "image_sha256": "7c13a39feaa61fc357c67726f05f4a326cf3b05b5b64830ed00af14e9488e40a",
+          "width": 1280,
+          "height": 720,
+          "dhash": "8dc595f47654705a",
+          "laplacian_variance": 39.81945203554954,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "7c13a39feaa61fc357c67726f05f4a326cf3b05b5b64830ed00af14e9488e40a",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000100",
+      "source": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000100",
+        "video_id": "vid_8a2b94bcf49a24212a443df0",
+        "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+        "frame_index": 100,
+        "pts_seconds": 2.0,
+        "timestamp_seconds": 2.0,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_8a2b94bcf49a24212a443df0_f000100.png",
+        "image_sha256": "af0aded9706d6821042db301ddeabbc7eb076756281ba64dddbf1b0f17718adf",
+        "width": 1280,
+        "height": 720,
+        "dhash": "a496c6a666566218",
+        "laplacian_variance": 36.81540127777759,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000100",
+        "revision": 3,
+        "previous_revision_sha256": "445aa35dd456530bd8a37a257d87ea0ce082aa63b768659cd3ee4162525ce0e5",
+        "author": "sistema.integracion_adjudicaciones",
+        "recorded_at_utc": "2026-11-18T14:39:41.580395+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "Integración automática de decisiones humanas: no es una nueva anotación humana ni acredita segunda revisión independiente.",
+        "boxes": [
+          {
+            "box_id": "36294aa7-566e-4d4c-a092-8406ac5cbd18",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              487.951086537608,
+              264.0253792972513,
+              694.3660848419067,
+              465.6653756576075
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "ce00f4be-3086-4e9f-a0fc-68a324a97b27",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              1016.4117188616427,
+              350.9885941788447,
+              1260.0961268558056,
+              536.3827168540879
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_8a2b94bcf49a24212a443df0_f000100",
+          "video_id": "vid_8a2b94bcf49a24212a443df0",
+          "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+          "frame_index": 100,
+          "pts_seconds": 2.0,
+          "timestamp_seconds": 2.0,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_8a2b94bcf49a24212a443df0_f000100.png",
+          "image_sha256": "af0aded9706d6821042db301ddeabbc7eb076756281ba64dddbf1b0f17718adf",
+          "width": 1280,
+          "height": 720,
+          "dhash": "a496c6a666566218",
+          "laplacian_variance": 36.81540127777759,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "af0aded9706d6821042db301ddeabbc7eb076756281ba64dddbf1b0f17718adf",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000150",
+      "source": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000150",
+        "video_id": "vid_8a2b94bcf49a24212a443df0",
+        "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+        "frame_index": 150,
+        "pts_seconds": 3.0,
+        "timestamp_seconds": 3.0,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_8a2b94bcf49a24212a443df0_f000150.png",
+        "image_sha256": "6749a8108b9100d6895120e297c7e573d2eb72e5ecd2d845bade7c96ad57ec7e",
+        "width": 1280,
+        "height": 720,
+        "dhash": "11c93112fb09783c",
+        "laplacian_variance": 31.7852727574478,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000150",
+        "revision": 2,
+        "previous_revision_sha256": "de9d71529e59073a4d176dda5ca1f8c48a1159cf9fa9266764279e09717f4a77",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T05:07:48.068537+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "522ff8bb-f098-42c4-9c59-fef0946f8dcc",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              525.2204962274722,
+              295.5615003556527,
+              710.6117855331856,
+              500.0684642365629
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "0ebe1c50-bb74-41f6-9ec3-2bc76c8dee6e",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              746.9255148205156,
+              355.7668401603631,
+              955.2517164477367,
+              530.6489060781613
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_8a2b94bcf49a24212a443df0_f000150",
+          "video_id": "vid_8a2b94bcf49a24212a443df0",
+          "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+          "frame_index": 150,
+          "pts_seconds": 3.0,
+          "timestamp_seconds": 3.0,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_8a2b94bcf49a24212a443df0_f000150.png",
+          "image_sha256": "6749a8108b9100d6895120e297c7e573d2eb72e5ecd2d845bade7c96ad57ec7e",
+          "width": 1280,
+          "height": 720,
+          "dhash": "11c93112fb09783c",
+          "laplacian_variance": 31.7852727574478,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "6749a8108b9100d6895120e297c7e573d2eb72e5ecd2d845bade7c96ad57ec7e",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000200",
+      "source": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000200",
+        "video_id": "vid_8a2b94bcf49a24212a443df0",
+        "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+        "frame_index": 200,
+        "pts_seconds": 4.0,
+        "timestamp_seconds": 4.0,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_8a2b94bcf49a24212a443df0_f000200.png",
+        "image_sha256": "6f68a2ed3688f1f38eb52773fac32355cf731f078c8f83857f93017e64d9bc25",
+        "width": 1280,
+        "height": 720,
+        "dhash": "2c0dd5aad7587070",
+        "laplacian_variance": 37.40507383880615,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000200",
+        "revision": 2,
+        "previous_revision_sha256": "58df2f72abaafc0a2491468f347236ca15cc80b80f6079dbfdb97f2f2f532024",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T05:07:56.449059+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "98ca5ec3-502a-4163-8e8d-25bdfe5ce918",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              515.6642433896408,
+              305.1178877390813,
+              727.8130091448529,
+              487.6451413216369
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_8a2b94bcf49a24212a443df0_f000200",
+          "video_id": "vid_8a2b94bcf49a24212a443df0",
+          "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+          "frame_index": 200,
+          "pts_seconds": 4.0,
+          "timestamp_seconds": 4.0,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_8a2b94bcf49a24212a443df0_f000200.png",
+          "image_sha256": "6f68a2ed3688f1f38eb52773fac32355cf731f078c8f83857f93017e64d9bc25",
+          "width": 1280,
+          "height": 720,
+          "dhash": "2c0dd5aad7587070",
+          "laplacian_variance": 37.40507383880615,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "6f68a2ed3688f1f38eb52773fac32355cf731f078c8f83857f93017e64d9bc25",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000250",
+      "source": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000250",
+        "video_id": "vid_8a2b94bcf49a24212a443df0",
+        "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+        "frame_index": 250,
+        "pts_seconds": 5.0,
+        "timestamp_seconds": 5.0,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_8a2b94bcf49a24212a443df0_f000250.png",
+        "image_sha256": "836ffc5d61286b644ce4bfe9bd18011ba4bc2640b5d99a09f8a011d30f31f65a",
+        "width": 1280,
+        "height": 720,
+        "dhash": "2782e636f6ce723c",
+        "laplacian_variance": 46.01709599801051,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000250",
+        "revision": 3,
+        "previous_revision_sha256": "b011d8490a24d2eaeee744a0876eadf2fbb3c98361d03fd3282d86c8400a409d",
+        "author": "sistema.integracion_adjudicaciones",
+        "recorded_at_utc": "2026-11-18T14:39:41.588824+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "Integración automática de decisiones humanas: no es una nueva anotación humana ni acredita segunda revisión independiente.",
+        "boxes": [
+          {
+            "box_id": "4bacdeaa-1c24-49d7-9e8a-24627c32c6b2",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              522.3536125020154,
+              276.44868129625564,
+              730.6798928703096,
+              498.15711564574366
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "8e93d45f-0ec4-463f-81d1-708184e6dc33",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              981.0535912357741,
+              368.1901138613558,
+              1235.2498537292295,
+              557.4068008406177
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_8a2b94bcf49a24212a443df0_f000250",
+          "video_id": "vid_8a2b94bcf49a24212a443df0",
+          "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+          "frame_index": 250,
+          "pts_seconds": 5.0,
+          "timestamp_seconds": 5.0,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_8a2b94bcf49a24212a443df0_f000250.png",
+          "image_sha256": "836ffc5d61286b644ce4bfe9bd18011ba4bc2640b5d99a09f8a011d30f31f65a",
+          "width": 1280,
+          "height": 720,
+          "dhash": "2782e636f6ce723c",
+          "laplacian_variance": 46.01709599801051,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "836ffc5d61286b644ce4bfe9bd18011ba4bc2640b5d99a09f8a011d30f31f65a",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000300",
+      "source": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000300",
+        "video_id": "vid_8a2b94bcf49a24212a443df0",
+        "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+        "frame_index": 300,
+        "pts_seconds": 6.0,
+        "timestamp_seconds": 6.0,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_8a2b94bcf49a24212a443df0_f000300.png",
+        "image_sha256": "3a56746980ac464b76b6f70224c9879c97b934b230842041a8ad104c9743e3b3",
+        "width": 1280,
+        "height": 720,
+        "dhash": "09832f377b5978fc",
+        "laplacian_variance": 40.81882192908275,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000300",
+        "revision": 3,
+        "previous_revision_sha256": "1ed8a8de32a023b76e944f2b611cc29c5c5f476fcf131acb05126bc9d83876f5",
+        "author": "sistema.integracion_adjudicaciones",
+        "recorded_at_utc": "2026-11-18T14:39:41.597515+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "Integración automática de decisiones humanas: no es una nueva anotación humana ni acredita segunda revisión independiente.",
+        "boxes": [
+          {
+            "box_id": "828408df-22d5-4bb1-b712-427c230eea56",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              511.84171863218637,
+              280.27124560027437,
+              676.2092595687782,
+              505.80224425378117
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "1c5ccae1-f4c4-4c41-9c95-2d3b7c08f4dd",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              671.431093779326,
+              328.05325756866546,
+              889.3136269854515,
+              528.7375980888371
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_8a2b94bcf49a24212a443df0_f000300",
+          "video_id": "vid_8a2b94bcf49a24212a443df0",
+          "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+          "frame_index": 300,
+          "pts_seconds": 6.0,
+          "timestamp_seconds": 6.0,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_8a2b94bcf49a24212a443df0_f000300.png",
+          "image_sha256": "3a56746980ac464b76b6f70224c9879c97b934b230842041a8ad104c9743e3b3",
+          "width": 1280,
+          "height": 720,
+          "dhash": "09832f377b5978fc",
+          "laplacian_variance": 40.81882192908275,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "3a56746980ac464b76b6f70224c9879c97b934b230842041a8ad104c9743e3b3",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000350",
+      "source": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000350",
+        "video_id": "vid_8a2b94bcf49a24212a443df0",
+        "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+        "frame_index": 350,
+        "pts_seconds": 7.0,
+        "timestamp_seconds": 7.0,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_8a2b94bcf49a24212a443df0_f000350.png",
+        "image_sha256": "cd032691560f6d25235d2e0546317f63528977003dcfff9b132a4487a1884681",
+        "width": 1280,
+        "height": 720,
+        "dhash": "0d8db126d6497470",
+        "laplacian_variance": 37.68915405205621,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000350",
+        "revision": 4,
+        "previous_revision_sha256": "afdd4d7162b07e297ab3c82cdbaa741dd20fce71f32eaa217c0aca594beecf5f",
+        "author": "sistema.integracion_adjudicaciones",
+        "recorded_at_utc": "2026-11-18T14:39:41.605998+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "Integración automática de decisiones humanas: no es una nueva anotación humana ni acredita segunda revisión independiente.",
+        "boxes": [
+          {
+            "box_id": "f7f8b8c8-d6be-458e-a044-966159612618",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              495.5960966819804,
+              289.8276538996246,
+              726.8573287423187,
+              512.491724403724
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_8a2b94bcf49a24212a443df0_f000350",
+          "video_id": "vid_8a2b94bcf49a24212a443df0",
+          "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+          "frame_index": 350,
+          "pts_seconds": 7.0,
+          "timestamp_seconds": 7.0,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_8a2b94bcf49a24212a443df0_f000350.png",
+          "image_sha256": "cd032691560f6d25235d2e0546317f63528977003dcfff9b132a4487a1884681",
+          "width": 1280,
+          "height": 720,
+          "dhash": "0d8db126d6497470",
+          "laplacian_variance": 37.68915405205621,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "cd032691560f6d25235d2e0546317f63528977003dcfff9b132a4487a1884681",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000400",
+      "source": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000400",
+        "video_id": "vid_8a2b94bcf49a24212a443df0",
+        "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+        "frame_index": 400,
+        "pts_seconds": 8.0,
+        "timestamp_seconds": 8.0,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_8a2b94bcf49a24212a443df0_f000400.png",
+        "image_sha256": "e3a65774f2d43bf39466dbf5dd19d65ecb5c5b2c4a982329e2030053e6655e9a",
+        "width": 1280,
+        "height": 720,
+        "dhash": "25c494b6c454747c",
+        "laplacian_variance": 37.26498569714463,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000400",
+        "revision": 2,
+        "previous_revision_sha256": "71937719245f3d79f644ccecc1a1a4c7b622e98e0a2d57aca5806136eadcf052",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T05:08:47.516639+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "596314b3-e71a-420c-ae14-cbd648b53e13",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              481.26171742523337,
+              269.75921591049274,
+              693.4104831804455,
+              488.60072211057343
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "5432e4ab-2f70-4c19-8805-4259c731c209",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              839.6211594733724,
+              349.077321869622,
+              1093.8173432257547,
+              559.3181026782004
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_8a2b94bcf49a24212a443df0_f000400",
+          "video_id": "vid_8a2b94bcf49a24212a443df0",
+          "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+          "frame_index": 400,
+          "pts_seconds": 8.0,
+          "timestamp_seconds": 8.0,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_8a2b94bcf49a24212a443df0_f000400.png",
+          "image_sha256": "e3a65774f2d43bf39466dbf5dd19d65ecb5c5b2c4a982329e2030053e6655e9a",
+          "width": 1280,
+          "height": 720,
+          "dhash": "25c494b6c454747c",
+          "laplacian_variance": 37.26498569714463,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "e3a65774f2d43bf39466dbf5dd19d65ecb5c5b2c4a982329e2030053e6655e9a",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000449",
+      "source": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000449",
+        "video_id": "vid_8a2b94bcf49a24212a443df0",
+        "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+        "frame_index": 449,
+        "pts_seconds": 8.98,
+        "timestamp_seconds": 8.98,
+        "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+        "image": "images/vid_8a2b94bcf49a24212a443df0_f000449.png",
+        "image_sha256": "19659185936f63a6583e2e749346b1a75df9f1f59a64945c35be952e624d8c0d",
+        "width": 1280,
+        "height": 720,
+        "dhash": "1a98adaad6557070",
+        "laplacian_variance": 33.19451874624064,
+        "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+      },
+      "annotation": {
+        "sample_id": "vid_8a2b94bcf49a24212a443df0_f000449",
+        "revision": 2,
+        "previous_revision_sha256": "9b578473fa46d7a7da11fd0267cb62949ad41c86a5cce57c0d25cb068028b16d",
+        "author": "ana",
+        "recorded_at_utc": "2026-11-17T04:57:33.376214+00:00",
+        "status": "reviewed",
+        "exhaustive": true,
+        "empty_confirmed": false,
+        "notes": "",
+        "boxes": [
+          {
+            "box_id": "3e14ed52-ad24-41e7-92a8-abe86f68e8e0",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              465.0160954750274,
+              253.51336191095297,
+              588.2917413348371,
+              462.7984475082001
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": true,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          },
+          {
+            "box_id": "55437cbb-a36e-4fc6-83ac-28e49ecd2392",
+            "class_name": "TAPA",
+            "bbox_xyxy": [
+              578.7354884970058,
+              322.3194234161206,
+              802.3518285245812,
+              532.5601845391258
+            ],
+            "physical_id": null,
+            "parent_envase_box_id": null,
+            "partial": true,
+            "occluded": false,
+            "not_evaluable": false,
+            "notes": "tapa amarilla"
+          }
+        ],
+        "source": {
+          "sample_id": "vid_8a2b94bcf49a24212a443df0_f000449",
+          "video_id": "vid_8a2b94bcf49a24212a443df0",
+          "video_sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+          "frame_index": 449,
+          "pts_seconds": 8.98,
+          "timestamp_seconds": 8.98,
+          "timestamp_method": "ffmpeg_showinfo_pts_first_video_stream",
+          "image": "images/vid_8a2b94bcf49a24212a443df0_f000449.png",
+          "image_sha256": "19659185936f63a6583e2e749346b1a75df9f1f59a64945c35be952e624d8c0d",
+          "width": 1280,
+          "height": 720,
+          "dhash": "1a98adaad6557070",
+          "laplacian_variance": 33.19451874624064,
+          "derivation": "PNG sin pérdida del fotograma decodificado completo; no es el MP4 original"
+        },
+        "expected_hash": "19659185936f63a6583e2e749346b1a75df9f1f59a64945c35be952e624d8c0d",
+        "review_scope": "human annotation, not independent quality review"
+      }
+    }
+  ],
+  "alcance": "COPIA_DERIVADA_NO_TEST_INDEPENDIENTE"
+}

@@ -1,0 +1,468 @@
+{
+  "alcance": "Cinco fuentes originales candidatas de Calidad; copias de uploads y backup deduplicadas",
+  "archivos_fisicos": 26,
+  "contenidos_unicos": 5,
+  "archivos": [
+    {
+      "ruta": "pruebas_ia/botellasSinTapa.mp4",
+      "bytes": 2780627,
+      "sha256": "5ca43d2cd97a8972211c98afc1bb8391d6ad9340cc3badd9c8a0783b870588a5",
+      "filesystem_modificacion_utc": "2026-11-16T14:28:22.648614+00:00",
+      "filesystem_creacion_utc": "2026-11-16T14:28:22.443119+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "pruebas_ia/produccion.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T04:21:07.162969+00:00",
+      "filesystem_creacion_utc": "2026-11-14T04:21:06.938876+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "pruebas_ia/produccion_prueba_02.mp4",
+      "bytes": 104129797,
+      "sha256": "8f35e32d5a6c862be820107fe9ca8dca67da8424c9b35a735df8108a18df4fe9",
+      "filesystem_modificacion_utc": "2026-11-14T05:54:51.142390+00:00",
+      "filesystem_creacion_utc": "2026-11-14T05:54:50.941578+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "pruebas_ia/prueba2.mp4",
+      "bytes": 9299267,
+      "sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+      "filesystem_modificacion_utc": "2026-11-16T14:22:02.720322+00:00",
+      "filesystem_creacion_utc": "2026-11-16T14:22:02.464773+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "pruebas_ia/tapas.mp4",
+      "bytes": 3166725,
+      "sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+      "filesystem_modificacion_utc": "2026-11-16T14:30:44.754361+00:00",
+      "filesystem_creacion_utc": "2026-11-16T14:30:44.566168+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media/produccion/videos/produccion.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T05:09:11.683558+00:00",
+      "filesystem_creacion_utc": "2026-11-14T05:09:11.683558+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media/produccion/videos/produccion_0vE9SO0.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T16:15:20.498454+00:00",
+      "filesystem_creacion_utc": "2026-11-14T16:15:20.498454+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media/produccion/videos/produccion_5IxVJXU.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T20:37:26.621603+00:00",
+      "filesystem_creacion_utc": "2026-11-14T20:37:27.354694+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media/produccion/videos/produccion_DZGof5L.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T16:38:26.975258+00:00",
+      "filesystem_creacion_utc": "2026-11-14T16:38:26.980253+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media/produccion/videos/produccion_eLNJ4rP.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T16:27:53.806619+00:00",
+      "filesystem_creacion_utc": "2026-11-14T16:27:53.809769+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media/produccion/videos/produccion_EqctasV.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T05:48:02.807440+00:00",
+      "filesystem_creacion_utc": "2026-11-14T05:48:02.816866+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media/produccion/videos/produccion_KqIUfuA.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T16:21:44.144103+00:00",
+      "filesystem_creacion_utc": "2026-11-14T16:21:44.144103+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media/produccion/videos/produccion_m1i5bOC.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T20:36:20.757219+00:00",
+      "filesystem_creacion_utc": "2026-11-14T20:36:21.497387+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media/produccion/videos/produccion_prueba_02.mp4",
+      "bytes": 104129797,
+      "sha256": "8f35e32d5a6c862be820107fe9ca8dca67da8424c9b35a735df8108a18df4fe9",
+      "filesystem_modificacion_utc": "2026-11-14T16:42:03.768655+00:00",
+      "filesystem_creacion_utc": "2026-11-14T16:42:03.771655+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media/produccion/videos/produccion_R4Ml8kE.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T16:31:15.854335+00:00",
+      "filesystem_creacion_utc": "2026-11-14T16:31:15.859154+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media/produccion/videos/produccion_SWDrzPV.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T20:33:52.392123+00:00",
+      "filesystem_creacion_utc": "2026-11-14T20:33:53.160763+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media/produccion/videos/produccion_X98Znra.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T16:08:44.552628+00:00",
+      "filesystem_creacion_utc": "2026-11-14T16:08:44.552628+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media_backup/produccion/videos/produccion.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T05:09:11.683558+00:00",
+      "filesystem_creacion_utc": "2026-11-14T17:21:38.191045+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media_backup/produccion/videos/produccion_0vE9SO0.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T16:15:20.498454+00:00",
+      "filesystem_creacion_utc": "2026-11-14T17:21:38.194033+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media_backup/produccion/videos/produccion_DZGof5L.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T16:38:26.975258+00:00",
+      "filesystem_creacion_utc": "2026-11-14T17:21:38.196033+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media_backup/produccion/videos/produccion_eLNJ4rP.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T16:27:53.806619+00:00",
+      "filesystem_creacion_utc": "2026-11-14T17:21:38.197034+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media_backup/produccion/videos/produccion_EqctasV.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T05:48:02.807440+00:00",
+      "filesystem_creacion_utc": "2026-11-14T17:21:38.198034+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media_backup/produccion/videos/produccion_KqIUfuA.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T16:21:44.144103+00:00",
+      "filesystem_creacion_utc": "2026-11-14T17:21:38.201033+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media_backup/produccion/videos/produccion_prueba_02.mp4",
+      "bytes": 104129797,
+      "sha256": "8f35e32d5a6c862be820107fe9ca8dca67da8424c9b35a735df8108a18df4fe9",
+      "filesystem_modificacion_utc": "2026-11-14T16:42:03.768655+00:00",
+      "filesystem_creacion_utc": "2026-11-14T17:21:38.202458+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media_backup/produccion/videos/produccion_R4Ml8kE.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T16:31:15.854335+00:00",
+      "filesystem_creacion_utc": "2026-11-14T17:21:38.243109+00:00",
+      "no_acredita_fecha_captura": true
+    },
+    {
+      "ruta": "media_backup/produccion/videos/produccion_X98Znra.mp4",
+      "bytes": 2974537,
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "filesystem_modificacion_utc": "2026-11-14T16:08:44.552628+00:00",
+      "filesystem_creacion_utc": "2026-11-14T17:21:38.245109+00:00",
+      "no_acredita_fecha_captura": true
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "produccion.mp4",
+      "sha256": "93b17306b5e2dcd9467c1dc1d507dc85431021cbfe1bc808efea0badac338e08",
+      "coincide_con_hash_historico": true,
+      "hash_historico_disponible": true,
+      "copias_identicas": [
+        "pruebas_ia/produccion.mp4",
+        "media/produccion/videos/produccion.mp4",
+        "media/produccion/videos/produccion_0vE9SO0.mp4",
+        "media/produccion/videos/produccion_5IxVJXU.mp4",
+        "media/produccion/videos/produccion_DZGof5L.mp4",
+        "media/produccion/videos/produccion_eLNJ4rP.mp4",
+        "media/produccion/videos/produccion_EqctasV.mp4",
+        "media/produccion/videos/produccion_KqIUfuA.mp4",
+        "media/produccion/videos/produccion_m1i5bOC.mp4",
+        "media/produccion/videos/produccion_R4Ml8kE.mp4",
+        "media/produccion/videos/produccion_SWDrzPV.mp4",
+        "media/produccion/videos/produccion_X98Znra.mp4",
+        "media_backup/produccion/videos/produccion.mp4",
+        "media_backup/produccion/videos/produccion_0vE9SO0.mp4",
+        "media_backup/produccion/videos/produccion_DZGof5L.mp4",
+        "media_backup/produccion/videos/produccion_eLNJ4rP.mp4",
+        "media_backup/produccion/videos/produccion_EqctasV.mp4",
+        "media_backup/produccion/videos/produccion_KqIUfuA.mp4",
+        "media_backup/produccion/videos/produccion_R4Ml8kE.mp4",
+        "media_backup/produccion/videos/produccion_X98Znra.mp4"
+      ],
+      "metadatos_video": {
+        "frames_cabecera": 434,
+        "fps_nominal": 50.0,
+        "ancho": 1280,
+        "alto": 720,
+        "duracion_nominal_s": 8.68
+      },
+      "metadata_entrada_ffmpeg": {
+        "creation_time": [
+          "2021-12-02T01:00:58.000000Z"
+        ],
+        "encoder": [
+          "AVC Coding"
+        ],
+        "handler_name": [
+          "L-SMASH Video Handler",
+          "L-SMASH Audio Handler"
+        ],
+        "major_brand": [
+          "mp42"
+        ]
+      },
+      "zone_identifier": {
+        "ZoneId": "3",
+        "HostUrl": "https://www.pexels.com/"
+      },
+      "fuente_exacta_url": null,
+      "autor_titular": null,
+      "sesion_confirmada": null,
+      "fecha_captura_confirmada": null,
+      "permiso_ml_acreditado": false,
+      "limitacion": "HostUrl gen?rico/fecha interna no acreditan licencia ni sesi?n"
+    },
+    {
+      "nombre": "prueba2.mp4",
+      "sha256": "557eef7acddd10c7439ddd8fd85984d59289edee934cb38e2f0dacb9cf4ce0fb",
+      "coincide_con_hash_historico": true,
+      "hash_historico_disponible": true,
+      "copias_identicas": [
+        "pruebas_ia/prueba2.mp4"
+      ],
+      "metadatos_video": {
+        "frames_cabecera": 406,
+        "fps_nominal": 29.97002997002997,
+        "ancho": 1920,
+        "alto": 1080,
+        "duracion_nominal_s": 13.546866666666666
+      },
+      "metadata_entrada_ffmpeg": {
+        "creation_time": [
+          "2020-10-02T18:51:58.000000Z"
+        ],
+        "encoder": [
+          "AVC Coding"
+        ],
+        "handler_name": [
+          "L-SMASH Video Handler",
+          "L-SMASH Audio Handler"
+        ],
+        "major_brand": [
+          "mp42"
+        ]
+      },
+      "zone_identifier": {
+        "ZoneId": "3",
+        "HostUrl": "https://www.pexels.com/"
+      },
+      "fuente_exacta_url": null,
+      "autor_titular": null,
+      "sesion_confirmada": null,
+      "fecha_captura_confirmada": null,
+      "permiso_ml_acreditado": false,
+      "limitacion": "HostUrl gen?rico/fecha interna no acreditan licencia ni sesi?n"
+    },
+    {
+      "nombre": "tapas.mp4",
+      "sha256": "8a2b94bcf49a24212a443df0dbc7283f5fc1d3dde80cf6c16dea38bd89736a71",
+      "coincide_con_hash_historico": true,
+      "hash_historico_disponible": true,
+      "copias_identicas": [
+        "pruebas_ia/tapas.mp4"
+      ],
+      "metadatos_video": {
+        "frames_cabecera": 450,
+        "fps_nominal": 50.0,
+        "ancho": 1280,
+        "alto": 720,
+        "duracion_nominal_s": 9.0
+      },
+      "metadata_entrada_ffmpeg": {
+        "creation_time": [
+          "2021-12-02T01:01:40.000000Z"
+        ],
+        "encoder": [
+          "AVC Coding"
+        ],
+        "handler_name": [
+          "L-SMASH Video Handler",
+          "L-SMASH Audio Handler"
+        ],
+        "major_brand": [
+          "mp42"
+        ]
+      },
+      "zone_identifier": {
+        "ZoneId": "3",
+        "HostUrl": "https://www.pexels.com/"
+      },
+      "fuente_exacta_url": null,
+      "autor_titular": null,
+      "sesion_confirmada": null,
+      "fecha_captura_confirmada": null,
+      "permiso_ml_acreditado": false,
+      "limitacion": "HostUrl gen?rico/fecha interna no acreditan licencia ni sesi?n"
+    },
+    {
+      "nombre": "botellasSinTapa.mp4",
+      "sha256": "5ca43d2cd97a8972211c98afc1bb8391d6ad9340cc3badd9c8a0783b870588a5",
+      "coincide_con_hash_historico": true,
+      "hash_historico_disponible": true,
+      "copias_identicas": [
+        "pruebas_ia/botellasSinTapa.mp4"
+      ],
+      "metadatos_video": {
+        "frames_cabecera": 399,
+        "fps_nominal": 25.0,
+        "ancho": 768,
+        "alto": 432,
+        "duracion_nominal_s": 15.96
+      },
+      "metadata_entrada_ffmpeg": {
+        "encoder": [
+          "Lavf60.16.100",
+          "Lavc60.31.102 libx264"
+        ],
+        "copyright": [
+          "'This video is subject to copyright.'"
+        ],
+        "handler_name": [
+          "VideoHandler",
+          "SoundHandler"
+        ],
+        "major_brand": [
+          "isom"
+        ]
+      },
+      "zone_identifier": {
+        "ZoneId": "3",
+        "HostUrl": "https://www.istockphoto.com/"
+      },
+      "fuente_exacta_url": null,
+      "autor_titular": null,
+      "sesion_confirmada": null,
+      "fecha_captura_confirmada": null,
+      "permiso_ml_acreditado": false,
+      "limitacion": "HostUrl gen?rico/fecha interna no acreditan licencia ni sesi?n"
+    },
+    {
+      "nombre": "produccion_prueba_02.mp4",
+      "sha256": "8f35e32d5a6c862be820107fe9ca8dca67da8424c9b35a735df8108a18df4fe9",
+      "coincide_con_hash_historico": null,
+      "hash_historico_disponible": false,
+      "copias_identicas": [
+        "pruebas_ia/produccion_prueba_02.mp4",
+        "media/produccion/videos/produccion_prueba_02.mp4",
+        "media_backup/produccion/videos/produccion_prueba_02.mp4"
+      ],
+      "metadatos_video": {
+        "frames_cabecera": 1017,
+        "fps_nominal": 29.97002997002997,
+        "ancho": 3840,
+        "alto": 2160,
+        "duracion_nominal_s": 33.9339
+      },
+      "metadata_entrada_ffmpeg": {
+        "creation_time": [
+          "2020-04-17T13:45:30.000000Z"
+        ],
+        "encoder": [
+          "AVC Coding"
+        ],
+        "handler_name": [
+          "L-SMASH Video Handler",
+          "L-SMASH Audio Handler"
+        ],
+        "major_brand": [
+          "mp42"
+        ]
+      },
+      "zone_identifier": {
+        "ZoneId": "3",
+        "HostUrl": "https://www.pexels.com/"
+      },
+      "fuente_exacta_url": null,
+      "autor_titular": null,
+      "sesion_confirmada": null,
+      "fecha_captura_confirmada": null,
+      "permiso_ml_acreditado": false,
+      "limitacion": "HostUrl gen?rico/fecha interna no acreditan licencia ni sesi?n"
+    }
+  ],
+  "exclusiones_derivados": [
+    "pruebas_ia/deteccion_produccion.avi",
+    "pruebas_ia/resultados_preformas/deteccion_preformas.mp4",
+    "pruebas_ia/seguimiento/botellas/produccion.avi",
+    "pruebas_ia/seguimiento/conteo/conteo_botellas.mp4"
+  ],
+  "sesiones_independientes_confirmadas": 0,
+  "particiones_asignadas": false,
+  "declaracion_usuario": {
+    "enlaces_exactos_conservados": false,
+    "documentos_licencia_ml_conservados": false,
+    "recuerdo_no_verificado": "produccion_prueba_02 fue el primer video recomendado de Pexels; URL no guardada",
+    "no_confirma_derechos": true
+  },
+  "recuperacion_local": {
+    "enlaces_clip_recuperados": 0,
+    "perfiles_consultados": [
+      "Chrome Default",
+      "Edge Default"
+    ],
+    "limitacion_edge": "Archivo bloqueado; snapshot immutable sin WAL visible, no garantiza actividad no persistida",
+    "datos_captura_sesiones_confirmados": 0,
+    "derechos_confirmados": 0
+  }
+}

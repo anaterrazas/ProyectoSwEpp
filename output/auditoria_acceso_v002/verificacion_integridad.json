@@ -1,0 +1,9 @@
+{
+  "archivos_protegidos_previos_intactos_sin_db_operativa": 816,
+  "sqlite_operativo_intacto_desde_inicio_auditoria": true,
+  "diferencia_preexistente_db_respecto_cierre_anterior": true,
+  "cambios_de_cuentas": false,
+  "cambios_de_password": false,
+  "cambios_de_permisos": false,
+  "actividad_lab": "Login de piloto: last_login y sesi?n propios; contexto Chrome aislado cerrado; sin borrar sesiones de otros usuarios"
+}

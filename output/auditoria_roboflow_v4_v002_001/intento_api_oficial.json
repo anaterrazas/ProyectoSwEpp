@@ -1,0 +1,5 @@
+{
+  "url": "https://api.roboflow.com/spark-intelligence-scqhh/bottle-defect-detection/4/coco",
+  "status": 401,
+  "respuesta": "{\"error\":{\"message\":\"This method requires your API key.\",\"type\":\"OAuthException\",\"hint\":\"You may pass a token as `api_key` in the request body or query parameters, or through an `Authorization: Bearer <api_key>` header.\"}}"
+}

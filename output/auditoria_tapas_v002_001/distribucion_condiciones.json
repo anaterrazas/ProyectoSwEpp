@@ -1,0 +1,199 @@
+{
+  "atributos_humanos": {
+    "frames": 25,
+    "partial:False": 1,
+    "occluded:False": 128,
+    "not_evaluable:False": 136,
+    "tapas": 136,
+    "sin_enlace": 77,
+    "pequenas_640": 0,
+    "partial:True": 135,
+    "occluded:True": 8,
+    "con_enlace": 59
+  },
+  "menciones_suelta_o_separada_en_notas": [
+    {
+      "ordinal": 1,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000000",
+      "box_id": "aca7f52f-5d91-4b8a-9ff5-455381246256",
+      "notes": "Tapa roja separada del envase; no se conoce a qué botella pertenece."
+    },
+    {
+      "ordinal": 8,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000030",
+      "box_id": "868fe60c-e2f4-4aff-9fc7-f25219fd9b93",
+      "notes": "tapa roja suelta"
+    },
+    {
+      "ordinal": 12,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000060",
+      "box_id": "c4829842-5e15-4024-a142-c2ecc3c82448",
+      "notes": "tapa roja suelta"
+    },
+    {
+      "ordinal": 17,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000090",
+      "box_id": "f8b37658-383d-43b4-9d63-6cfcd9dc5396",
+      "notes": "tapa roja suelta"
+    },
+    {
+      "ordinal": 22,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+      "box_id": "a2e47c10-5b3b-4dc1-8842-8e7e330028a9",
+      "notes": "tapa roja suelta"
+    },
+    {
+      "ordinal": 29,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+      "box_id": "05fe6f8c-e27e-4c86-800c-5267a5dc76cc",
+      "notes": "tapa roja suelta"
+    },
+    {
+      "ordinal": 30,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000150",
+      "box_id": "17d66e30-2f97-4011-9761-afcb60423555",
+      "notes": "tapa amarilla suelta"
+    },
+    {
+      "ordinal": 38,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+      "box_id": "11cc4693-2a2a-4b39-bbd8-ae7bbee77d59",
+      "notes": "tapa roja suelta"
+    },
+    {
+      "ordinal": 39,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000180",
+      "box_id": "46098f96-c1c6-43bd-acef-9c2a6827b34c",
+      "notes": "tapa amarilla suelta"
+    },
+    {
+      "ordinal": 49,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+      "box_id": "2acce4ae-67aa-422b-9eb5-71bea58ca24d",
+      "notes": "tapa roja suelta"
+    },
+    {
+      "ordinal": 50,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000210",
+      "box_id": "3f1df3c9-e8e5-47d4-ab75-f846eeb7c7d4",
+      "notes": "tapa amarilla suelta"
+    },
+    {
+      "ordinal": 58,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+      "box_id": "1a7986be-3ff2-478e-a2c1-81d10fdb4a03",
+      "notes": "tapa roja suelta"
+    },
+    {
+      "ordinal": 59,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+      "box_id": "fe4a33bf-4c94-437a-8c35-8ccf6bb048d0",
+      "notes": "tapa amarilla suelta"
+    },
+    {
+      "ordinal": 67,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+      "box_id": "584ee0bb-19d7-411a-aa34-35f270d4623a",
+      "notes": "tapa roja suelta"
+    },
+    {
+      "ordinal": 68,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000270",
+      "box_id": "cfcfdae5-f000-4ec1-82ab-504c721c8561",
+      "notes": "tapa amarilla suelta"
+    },
+    {
+      "ordinal": 77,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+      "box_id": "61691fd6-ed1b-4995-b53c-13b57331a95c",
+      "notes": "tapa roja suelta"
+    },
+    {
+      "ordinal": 78,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+      "box_id": "ae201e2f-324c-4209-ad29-282f545f660a",
+      "notes": "tapa amarilla suelta"
+    },
+    {
+      "ordinal": 79,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000300",
+      "box_id": "faff551e-bf7d-4890-8e9e-2f1ad519d567",
+      "notes": "tapa amarilla suelta"
+    },
+    {
+      "ordinal": 88,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "box_id": "12b3b2bf-270b-4bdc-a640-42396135b3e6",
+      "notes": "tapa amarilla suelta"
+    },
+    {
+      "ordinal": 89,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "box_id": "f4c0b07a-4593-4f08-b428-08319834bbd9",
+      "notes": "tapa amarilla suelta"
+    },
+    {
+      "ordinal": 98,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+      "box_id": "5fff0a1b-716f-4a70-b875-d1b516d2b63b",
+      "notes": "tapa roja suelta"
+    },
+    {
+      "ordinal": 99,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+      "box_id": "4b2f86c4-aff6-442b-afd6-c538731e737c",
+      "notes": "tapa amarilla suelta"
+    },
+    {
+      "ordinal": 100,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000360",
+      "box_id": "be6a841c-cae9-4964-9ebc-a21a4d5a59bb",
+      "notes": "tapa amarilla suelta"
+    },
+    {
+      "ordinal": 109,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+      "box_id": "d8b392ba-e929-443f-9ffa-6e2178a5a532",
+      "notes": "tapa roja suelta"
+    },
+    {
+      "ordinal": 110,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+      "box_id": "d90334dc-740b-4085-bb68-9ec4e242f1d8",
+      "notes": "tapa amarilla suelta"
+    },
+    {
+      "ordinal": 111,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000390",
+      "box_id": "53ca3bc6-dec8-488f-9ca8-3a3a96b3ee87",
+      "notes": "tapa amarilla suelta"
+    },
+    {
+      "ordinal": 120,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+      "box_id": "41f0ad10-3af3-49f7-9446-989f106f7f3a",
+      "notes": "tapa roja suelta"
+    },
+    {
+      "ordinal": 121,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+      "box_id": "aae7d50c-daa6-42a2-8913-f2710f088c91",
+      "notes": "tapa amarilla suelta"
+    },
+    {
+      "ordinal": 122,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000405",
+      "box_id": "8a5b0637-168f-49d3-84db-b5e22ae79fac",
+      "notes": "tapa amarilla suelta"
+    }
+  ],
+  "colocacion_estructurada_confirmada": null,
+  "ausencias_confirmadas_post_tapado": null,
+  "ids_fisicos_conocidos": 0,
+  "avisos_desENFOQUE_no_etiquetas": 11,
+  "min_lado_640": {
+    "min": 17.109943155895,
+    "mediana": 37.14109059760463,
+    "max": 106.07438287760604
+  }
+}

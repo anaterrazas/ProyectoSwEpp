@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="es" data-renderizado="{{ renderizado }}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Revisión EPP</title>
+<script>
+if (document.documentElement.dataset.renderizado !== 'si') {
+  addEventListener('DOMContentLoaded', () => {
+    document.body.replaceChildren();
+    const aviso = document.createElement('p');
+    aviso.textContent = 'Esta es una plantilla Django. Ábrela desde el servidor experimental, no como archivo HTML ni en Live Server.';
+    const enlace = document.createElement('a'); enlace.href = 'http://127.0.0.1:8010/monitoreo/'; enlace.textContent = 'Abrir monitoreo experimental';
+    document.body.append(aviso, enlace);
+  });
+}
+</script>
+<style>body{font:16px system-ui;max-width:1000px;margin:32px auto;padding:0 20px;color:#172b3a}article{border:1px solid #ccd6dd;padding:20px;margin:20px 0}img,video{max-width:100%}textarea{display:block;width:95%;margin:12px 0}small{display:block}</style></head>
+<body><a href="{% url 'lista_camaras' %}">Volver a cámaras</a>
+<h1>Revisión EPP · {{ camara.nombre }}</h1>
+<p>Área al analizar: {{ reporte.area }}. Equipo obligatorio: {{ reporte.obligatorios|join:", " }}.</p>
+<p>{{ reporte.nota }}</p>
+<h2>Video original</h2>
+{% if video_original_url %}<video controls preload="metadata" src="{{ video_original_url }}"></video>{% else %}<p>El reporte no tiene video original asociado.</p>{% endif %}
+<h2>Video con detecciones</h2>
+{% if video_resultado_url %}<video controls preload="metadata" src="{{ video_resultado_url }}"></video>{% else %}<p>No hay video procesado disponible para esta ejecución.</p>{% endif %}
+<p class="error-medio" hidden>No se pudo reproducir un video. Revise el archivo y su formato; este fallo no representa un resultado de IA.</p>
+<p>Los candidatos exigen evidencia negativa explícita durante {{ reporte.umbral_segundos }} segundos. No detectar equipo produce un estado no evaluable. Las métricas de precisión aún requieren un conjunto independiente anotado.</p>
+{% for evento in reporte.eventos %}
+<article><h2>{{ evento.equipo }} · ID temporal {{ evento.track_id }}</h2>
+<p>Del segundo {{ evento.inicio|floatformat:2 }} al {{ evento.fin|floatformat:2 }}. Revisión: <strong>{{ evento.revision }}</strong>.</p>
+{% if evento.evidencia_url %}<img src="{{ evento.evidencia_url }}" alt="Evidencia del candidato de incumplimiento">{% else %}<p>Evidencia no disponible en esta ejecución.</p>{% endif %}
+{% for revision in evento.historial %}<p>{{ revision.fecha }} · {{ revision.usuario }} · {{ revision.decision }}: {{ revision.nota }}</p>{% endfor %}
+{% if perms.seguridad.change_deteccionepp %}
+<form method="post" action="{{ revision_url }}">{% csrf_token %}<input type="hidden" name="evento" value="{{ forloop.counter0 }}"><input type="hidden" name="version" value="{{ evento.historial|length }}">
+<label>Decisión <select name="revision" required><option value="">Seleccione</option><option value="CONFIRMADO">Incumplimiento confirmado</option><option value="DESCARTADO">Falsa alarma</option><option value="NO_EVALUABLE">No evaluable</option></select></label>
+<label>Observación<textarea name="nota" maxlength="2000" required></textarea></label><button>Guardar revisión</button></form>
+{% endif %}</article>
+{% empty %}<p>No se generaron candidatos. Esto no demuestra cumplimiento: revise la cobertura y la visibilidad del video.</p>{% endfor %}
+<h2>Cobertura de observaciones</h2>
+{% if total_observaciones %}<p>{{ observaciones_evaluables }} de {{ total_observaciones }} observaciones evaluables ({{ cobertura_porcentaje|floatformat:2 }} %).</p>{% else %}<p>Cobertura no calculable: no hay observaciones registradas.</p>{% endif %}
+{% for estado,total in reporte.observaciones_por_estado.items %}<p>{{ estado }}: {{ total }}</p>{% empty %}<p>No hubo personas evaluadas.</p>{% endfor %}
+<small>Estas cantidades son observaciones por fotograma y equipo; no son personas ni incidentes únicos.</small>
+<script>document.querySelectorAll('video').forEach(v => v.addEventListener('error', () => { document.querySelector('.error-medio').hidden = false; }));</script>
+</body></html>

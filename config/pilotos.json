@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "estado": "PREPARACION_EVIDENCIA",
+  "epp": {
+    "area_id": 1,
+    "camara_id": 1,
+    "equipos": [
+      "CASCO",
+      "CHALECO"
+    ],
+    "persistencia_segundos": 2,
+    "revision_humana_obligatoria": true,
+    "validado_en_planta": false,
+    "video": "videos/trabajadores.mp4"
+  },
+  "calidad": {
+    "linea": null,
+    "sku": null,
+    "camara_id": null,
+    "familia": "BOTELLA",
+    "etapa": "POST_TAPADO",
+    "tapa_obligatoria": true,
+    "criterios": [
+      "TAPA_AUSENTE",
+      "TAPA_MAL_COLOCADA"
+    ],
+    "referencia_tapa_correcta": null,
+    "rechazo_automatico": false,
+    "validado_en_planta": false,
+    "producto_id": 1,
+    "etapa_confirmada_en_videos": false
+  },
+  "modo": "SIMULACION_CON_VIDEOS"
+}

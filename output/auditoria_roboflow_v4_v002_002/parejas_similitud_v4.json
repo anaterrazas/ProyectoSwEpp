@@ -1,0 +1,302 @@
+[
+  {
+    "a": "v4:25",
+    "b": "v4:7",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:38",
+    "b": "v4:24",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:53",
+    "b": "v4:28",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:55",
+    "b": "v4:12",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:69",
+    "b": "v4:15",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:86",
+    "b": "v4:12",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:86",
+    "b": "v4:55",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:107",
+    "b": "v4:18",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:112",
+    "b": "v4:30",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:119",
+    "b": "v4:9",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:122",
+    "b": "v4:67",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:127",
+    "b": "v4:92",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:134",
+    "b": "v4:7",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:134",
+    "b": "v4:25",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:135",
+    "b": "v4:18",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:135",
+    "b": "v4:107",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:137",
+    "b": "v4:67",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:137",
+    "b": "v4:122",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:140",
+    "b": "v4:18",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:144",
+    "b": "v4:114",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:154",
+    "b": "v4:39",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:156",
+    "b": "v4:9",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:156",
+    "b": "v4:119",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:172",
+    "b": "v4:74",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:173",
+    "b": "v4:89",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:176",
+    "b": "v4:77",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:178",
+    "b": "v4:12",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:178",
+    "b": "v4:86",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:178",
+    "b": "v4:55",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:181",
+    "b": "v4:12",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:181",
+    "b": "v4:86",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:181",
+    "b": "v4:55",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:181",
+    "b": "v4:178",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:184",
+    "b": "v4:160",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:188",
+    "b": "v4:180",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:192",
+    "b": "v4:42",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:197",
+    "b": "v4:86",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:198",
+    "b": "v4:184",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:203",
+    "b": "v4:172",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:209",
+    "b": "v4:203",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:220",
+    "b": "v4:25",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:220",
+    "b": "v4:134",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:228",
+    "b": "v4:152",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:230",
+    "b": "v4:95",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:231",
+    "b": "v4:126",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:234",
+    "b": "v4:201",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:238",
+    "b": "v4:85",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:243",
+    "b": "v4:67",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:243",
+    "b": "v4:122",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:243",
+    "b": "v4:137",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:246",
+    "b": "v4:12",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:246",
+    "b": "v4:86",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:246",
+    "b": "v4:181",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:246",
+    "b": "v4:55",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:246",
+    "b": "v4:178",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:246",
+    "b": "v4:197",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:253",
+    "b": "v4:44",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:255",
+    "b": "v4:9",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:255",
+    "b": "v4:156",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  },
+  {
+    "a": "v4:256",
+    "b": "v4:230",
+    "tipo": "SEMEJANZA_CANDIDATA_NO_IDENTIDAD_FISICA"
+  }
+]

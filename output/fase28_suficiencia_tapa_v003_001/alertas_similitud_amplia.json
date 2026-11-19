@@ -1,0 +1,13 @@
+[
+  {
+    "a": 259,
+    "b": 248,
+    "phash_distance": 12,
+    "dhash_distance": 7,
+    "gray_difference": 0.12376780790441176,
+    "color_difference": 0.1129953022875817,
+    "changed_fraction": 0.886474609375,
+    "cross_group": true,
+    "strict": false
+  }
+]

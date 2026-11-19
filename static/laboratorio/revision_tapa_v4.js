@@ -1,0 +1,51 @@
+'use strict';
+// Se reutilizan el lienzo, transformación de coordenadas y guardado explícito
+// del anotador manual existente; no hay predicciones ni ajuste de cajas fuente.
+const $ = id => document.getElementById(id);
+const state = JSON.parse($('revision-datos').textContent);
+const canvas = $('lienzo'), ctx = canvas.getContext('2d');
+let current, image, decisions = [], additions = [], selected, dirty = false, drag;
+const choices = ['PENDIENTE','ENVASE','TAPA','NO_EVALUABLE'];
+const visibility = ['NO_REVISADA','TOTAL','PARCIAL','OCLUIDA','NO_EVALUABLE','DUDOSA'];
+function msg(s) { $('mensaje').textContent=s; }
+function change() { dirty=true; msg('Cambios sin guardar.'); }
+function el(tag,text) { const n=document.createElement(tag); if(text!==undefined)n.textContent=text;return n; }
+function select(options,value,onchange,label) { const n=el('select');n.setAttribute('aria-label',label);options.forEach(v=>{const o=el('option',v.replaceAll('_',' '));o.value=v;n.append(o);});n.value=value;n.onchange=()=>{onchange(n.value);change();draw();};return n; }
+function note(value,onchange) {const n=el('textarea');n.rows=2;n.maxLength=3000;n.placeholder='Justificación humana por caja';n.setAttribute('aria-label','Justificación por caja');n.value=value;n.oninput=()=>{onchange(n.value);change();};return n;}
+function historyFor(id) {return state.historia.filter(d=>d.image_id===id);}
+function latest(id) {return historyFor(id).at(-1);}
+function xy(a) {const [x,y,w,h]=a.bbox;return [x,y,x+w,y+h];}
+function focusBox(coords,key) {selected=key;draw();const [x1,y1,x2,y2]=coords;const margin=Math.max(x2-x1,y2-y1)*.3;const x=Math.max(0,x1-margin),y=Math.max(0,y1-margin);const w=Math.min(canvas.width,x2+margin)-x,h=Math.min(canvas.height,y2+margin)-y;const c=$('recorte');c.width=Math.max(1,Math.round(w));c.height=Math.max(1,Math.round(h));const g=c.getContext('2d');g.drawImage(image,x,y,w,h,0,0,c.width,c.height);g.strokeStyle='#ffce38';g.lineWidth=2;g.strokeRect(x1-x,y1-y,x2-x1,y2-y1);}
+function render() {
+ $('cajas-originales').replaceChildren(...current.source_annotations_cap.map(a=>{
+  const d=decisions.find(d=>d.annotation_id===a.id);const box=el('div');box.className='caja-editor';const b=el('button',`Caja ${a.id} · original cap`);b.type='button';b.onclick=()=>focusBox(xy(a),`s${a.id}`);box.append(b,el('p',`Fuente [x, y, ancho, alto]: ${JSON.stringify(a.bbox)}`));
+  box.append(select(choices,d.clase,v=>{d.clase=v;d.touched=true;},`Adjudicación caja ${a.id}`),select(visibility,d.visibilidad,v=>{d.visibilidad=v;d.touched=true;},`Visibilidad caja ${a.id}`),note(d.justificacion,v=>{d.justificacion=v;d.touched=true;}));return box;
+ }));
+ $('cajas-nuevas').replaceChildren(...additions.map((b,i)=>{const box=el('div');box.className='caja-editor';const focus=el('button',`Caja manual ${i+1}`);focus.type='button';focus.onclick=()=>focusBox(b.bbox_xyxy,b.id);box.append(focus);const nums=el('div');nums.className='numeros';['x1','y1','x2','y2'].forEach((name,k)=>{const input=el('input');input.type='number';input.step='any';input.value=b.bbox_xyxy[k];input.setAttribute('aria-label',`${name} caja manual ${i+1}`);input.oninput=()=>{b.bbox_xyxy[k]=Number(input.value);change();draw();};nums.append(input);});box.append(nums,select(['','TAPA','ENVASE'],b.clase,v=>b.clase=v,`Clase caja manual ${i+1}`),select(visibility,b.visibilidad,v=>b.visibilidad=v,`Visibilidad caja manual ${i+1}`),note(b.justificacion,v=>b.justificacion=v));const remove=el('button','Retirar de esta revisión');remove.type='button';remove.onclick=()=>{additions=additions.filter(a=>a.id!==b.id);change();$('exhaustividad').value='PENDIENTE';render();draw();};box.append(remove);return box;}));
+}
+function draw() {if(!image?.complete||!image.naturalWidth)return;ctx.clearRect(0,0,canvas.width,canvas.height);ctx.drawImage(image,0,0);const boxes=[...current.source_annotations_cap.map(a=>({id:`s${a.id}`,name:`${a.id} · ${decisions.find(d=>d.annotation_id===a.id).clase}`,coords:xy(a),color:'#ffce38'})),...additions.map((b,i)=>({id:b.id,name:`Manual ${i+1} · ${b.clase||'SIN CLASE'}`,coords:b.bbox_xyxy,color:'#31e7aa'}))];boxes.forEach(b=>{ctx.strokeStyle=selected===b.id?'#fff':b.color;ctx.lineWidth=selected===b.id?5:3;const [x1,y1,x2,y2]=b.coords;ctx.strokeRect(x1,y1,x2-x1,y2-y1);ctx.fillStyle=ctx.strokeStyle;ctx.font=`${Math.max(14,canvas.width/65)}px sans-serif`;ctx.fillText(b.name,x1,Math.max(20,y1-5));});if(drag){ctx.strokeStyle='#fff';ctx.strokeRect(drag.start[0],drag.start[1],drag.end[0]-drag.start[0],drag.end[1]-drag.start[1]);}}
+function resize(){canvas.style.width=$('zoom').value==='fit'?'100%':`${canvas.width*Number($('zoom').value)}px`;}
+function navigate(id,focusId) {
+ if(dirty&&!confirm('Hay cambios sin guardar. ¿Descartarlos?')){$('imagen-selector').value=current.image_id;return;}
+ current=state.imagenes.find(r=>r.image_id===id);if(!current)return;const old=latest(id);selected=null;drag=null;dirty=false;
+ decisions=current.source_annotations_cap.map(a=>{const d=old?.decisiones.find(b=>b.annotation_id===a.id);return {annotation_id:a.id,clase:d?.clase||'PENDIENTE',visibilidad:d?.visibilidad||'NO_REVISADA',justificacion:d?.justificacion||'',touched:!!d};});additions=structuredClone(old?.nuevas_cajas||[]);
+ $('imagen-selector').value=id;$('identidad').textContent=`Imagen ${id} · ${current.width}×${current.height} · ${current.group_id} · destino provisional ${current.proposed_partition} · SHA-256 ${current.sha256}`;
+ $('exhaustividad').value=old?.exhaustividad||'PENDIENTE';$('justificacion').value=old?.justificacion||'';if(!$('autor').value)$('autor').value=old?.autor||'';
+ $('original-enlace').href=`imagen/${id}/original/`;$('contexto').src=`imagen/${id}/contexto/`;
+ image=new Image();image.onload=()=>{canvas.width=current.width;canvas.height=current.height;resize();draw();const a=current.source_annotations_cap.find(a=>a.id===focusId)||current.source_annotations_cap[0];if(a)focusBox(xy(a),`s${a.id}`);else{$('recorte').width=1;$('recorte').height=1;}};image.onerror=()=>msg('No se pudo cargar la imagen verificada.');image.src=`imagen/${id}/original/`;
+ render();$('historial').replaceChildren(...historyFor(id).map(d=>{const box=el('div');box.className='hist-item';box.append(el('strong',`Versión ${d.revision_global} · ${d.autor} · ${d.fecha_utc}`),el('p',d.justificacion));const a=el('a','Registro completo de decisión');a.href=`version/${d.revision_global}/decision.json`;box.append(a);return box;}));
+ msg(old?'Última revisión cargada. Los cambios requieren guardar una nueva versión.':'PENDIENTE · no existe una decisión humana guardada para esta imagen.');location.hash=`imagen-${id}`;
+}
+function refreshState(){const e=state.estado;$('estado-resumen').textContent=`${e.conflictos_resueltos.length}/7 conflictos resueltos · ${e.imagenes_revisadas} imágenes revisadas · ${e.cajas_nuevas} cajas añadidas · imagen 24: ${e.imagen24_estado}. Entrenamiento bloqueado.`;$('descargas').replaceChildren();if(e.revision_global){['dataset.jsonl','estado.json','manifest.json'].forEach(name=>{const a=el('a',name);a.href=`version/${e.revision_global}/${name}`;a.style.marginRight='18px';$('descargas').append(a);});}else $('descargas').textContent='Sin decisiones humanas nuevas. El candidato inicial conserva las referencias originales.';}
+state.imagenes.forEach(r=>{const o=el('option',`${r.image_id} · ${r.group_id} · ${r.source_annotations_cap.length} cajas cap fuente`);o.value=r.image_id;$('imagen-selector').append(o);});
+state.conflictos.forEach(aid=>{const r=state.imagenes.find(r=>r.source_annotations_cap.some(a=>a.id===aid));const b=el('button',`Caja ${aid} · imagen ${r.image_id}`);b.type='button';b.onclick=()=>navigate(r.image_id,aid);$('conflictos').append(b);});
+$('imagen-selector').onchange=()=>navigate(Number($('imagen-selector').value));$('abrir24').onclick=()=>navigate(24);$('abrir38').onclick=()=>navigate(38);$('zoom').onchange=resize;
+function point(e){const r=canvas.getBoundingClientRect();return [Math.max(0,Math.min(canvas.width,(e.clientX-r.left)*canvas.width/r.width)),Math.max(0,Math.min(canvas.height,(e.clientY-r.top)*canvas.height/r.height))];}
+canvas.onpointerdown=e=>{if(e.button!==0||!$('dibujar').checked)return;const p=point(e);drag={start:p,end:p};canvas.setPointerCapture(e.pointerId);};canvas.onpointermove=e=>{if(drag){drag.end=point(e);draw();}};
+canvas.onpointerup=e=>{if(!drag)return;drag.end=point(e);const a=drag.start,b=drag.end;const coords=[Math.min(a[0],b[0]),Math.min(a[1],b[1]),Math.max(a[0],b[0]),Math.max(a[1],b[1])];drag=null;if(coords[2]>coords[0]&&coords[3]>coords[1]){additions.push({id:'manual-'+crypto.randomUUID(),clase:'',bbox_xyxy:coords,visibilidad:'NO_REVISADA',justificacion:''});$('exhaustividad').value='PENDIENTE';change();render();}draw();};canvas.onpointercancel=()=>{drag=null;draw();};
+if($('agregar-coordenadas'))$('agregar-coordenadas').onclick=()=>{additions.push({id:'manual-'+crypto.randomUUID(),clase:'',bbox_xyxy:[0,0,0,0],visibilidad:'NO_REVISADA',justificacion:''});$('exhaustividad').value='PENDIENTE';change();render();};
+['exhaustividad','autor','justificacion'].forEach(id=>$(id).addEventListener('input',change));
+$('formulario').onsubmit=async e=>{e.preventDefault();const submitted=current.image_id;const payload={image_id:submitted,version:state.estado.revision_global,expected_sha256:current.sha256,autor:$('autor').value,justificacion:$('justificacion').value,exhaustividad:$('exhaustividad').value,decisiones:decisions.filter(d=>d.touched).map(({touched,...d})=>d),nuevas_cajas:additions};
+ try{const response=await fetch(location.pathname,{method:'POST',headers:{'Content-Type':'application/json','X-CSRFToken':document.querySelector('[name=csrfmiddlewaretoken]').value},body:JSON.stringify(payload)});const result=await response.json();if(!response.ok)throw Error(result.error||'No se guardó la revisión');dirty=false;msg(`Versión ${result.revision_global} guardada. Recargando la copia persistida…`);location.hash=`imagen-${submitted}`;location.reload();}catch(err){msg(err.message);}};
+window.onbeforeunload=e=>{if(dirty){e.preventDefault();e.returnValue='';}};
+refreshState();const id=Number(location.hash.match(/^#imagen-(\d+)$/)?.[1]||9);navigate(state.imagenes.some(i=>i.image_id===id)?id:9);

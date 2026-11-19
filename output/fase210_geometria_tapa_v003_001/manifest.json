@@ -1,0 +1,29 @@
+{
+  "status": "AUDITORIA_Y_HERRAMIENTA_COMPLETADAS_DATASET_NO_PREPARADO",
+  "protocol_sha256": "0a351469054b5cc036a8588ac7553f102748e0443c9c19514283dcd6550fdfe7",
+  "sha256": {
+    "catalogo.json": "2c18d7d883473008a6443983135f99596c944bf9d27ab9c1c7e7661dd6793452",
+    "dataset_revision_inicial.json": "cd77cfbcb08af4140d2eac23e0865e8be19410438b2fcb8e12d48d5d9208af7e",
+    "geometria_escritorio.png": "96331728324feca94d75680c408483738847fccba2a28ae921506fd523a125cc",
+    "geometria_movil.png": "f4a7bf347c470d9e7eb9dd926fa9b8822aaa83e46b0c00c82ebe0a3555db5cd2",
+    "INFORME.md": "089639702e1f666d00189ad438660abd767f12cb76300f6df298f7a55fc3730a",
+    "preparar_auditoria.py": "c0789d9b56e1aef89f80d3883f429527350bdce8b09033390971c3694e638d89",
+    "reserva_12.jpg": "23dde5dfafe1d00b29fd71a6af79366f36faa90d870b4c5a76d0ad06e350aa87",
+    "reserva_procedencia_independencia.json": "9a0d3b54cf10e228eb606e5a07c7473089ddcecd6ad5d371f28a93dcb93c3b77",
+    "resumen_auditoria.json": "a72d55e9f0d2187c46112a94b7280316afbb23316e9102c431eaf5dca80f82be",
+    "verificacion_chrome.json": "9b852953612c841905d13c890703598bfbae2f63aa1d764c7ab80c764b4b9de5",
+    "verificacion_integridad.json": "db224986acf1bce6e0eb325c92f44cc9a7602248131137e471edf600d30436da",
+    "detalle/054.jpg": "f43783bd831332e16f08d1a43a2aa871bfc7e6ed7a2fcf86ec6385e51c17deaa",
+    "detalle/099.jpg": "a5f4cad8f886c92c254b7be81e8d9f8b164145647c73aa50b0f807c7ffc1153f",
+    "detalle/147.jpg": "3bc929776dbc1b9be94fee2221ea06110151bf42f245b5c5c9f3ca5b7bf44116",
+    "detalle/148.jpg": "fcc9c9d1fec6ae80e7034fe7e28a9251b106da499dcc969a7014d820447b2f7c",
+    "detalle/163.jpg": "148959a6d803841b9d94c803afe4d3b4aad8121a0e315c8621b733bb60e62ed2",
+    "detalle/173.jpg": "5e39115d0a72c2feb417ca2e64b86ce26ba9ddf6d170cf88a201bebebfeef5cc",
+    "detalle/194.jpg": "d337221c9c226c4910b4f0efbb630804f198c95a9567359cf5399b3e0e50543c",
+    "detalle/224.jpg": "26dd292fef3e3bcc9aa5c58a72a959eb426b39e8ce23afbcd411964970482aef",
+    "detalle/231.jpg": "4c818441fb1a8e27e778cc6f21240b824e3f58c36f8dad835bcc21d2f8734aa8",
+    "detalle/238.jpg": "4ad73e5b15c9f2ebe01c799ab25e767bfa03ad53c0c7c3c7ab7ce325ce204dbc",
+    "detalle/257.jpg": "c818bfb62e56b882d267567305ef80d46091e5919449f209349a10e773d605f1",
+    "detalle/270.jpg": "3b68ff2853c89757d0c87f22f906b170ee4927c7b2f5979c356c02d15ba0f36d"
+  }
+}

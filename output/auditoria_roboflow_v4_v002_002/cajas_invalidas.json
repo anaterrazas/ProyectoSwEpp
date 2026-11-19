@@ -1,0 +1,98 @@
+[
+  {
+    "annotation_id": 17,
+    "image_id": 4,
+    "file_name": "000093_jpg.rf.fa09ef470ad7af3b5ce09a7b8f8f85e2.jpg",
+    "class": "not-crumbled",
+    "bbox": [
+      303,
+      2,
+      233.84,
+      638.5
+    ],
+    "dimensions": [
+      640,
+      640
+    ]
+  },
+  {
+    "annotation_id": 142,
+    "image_id": 43,
+    "file_name": "000004_jpg.rf.183392d4c0cf0fe74917aa1618000c39.jpg",
+    "class": "label",
+    "bbox": [
+      552,
+      201,
+      88.5,
+      105.63
+    ],
+    "dimensions": [
+      640,
+      640
+    ]
+  },
+  {
+    "annotation_id": 274,
+    "image_id": 78,
+    "file_name": "000033_jpg.rf.38212d52dcfda3aeacc00b565977735f.jpg",
+    "class": "not-crumbled",
+    "bbox": [
+      389,
+      3,
+      218.58,
+      637.25
+    ],
+    "dimensions": [
+      640,
+      640
+    ]
+  },
+  {
+    "annotation_id": 813,
+    "image_id": 235,
+    "file_name": "100192_jpg.rf.e369a0b9f1b052a23cd1d41733287faa.jpg",
+    "class": "label",
+    "bbox": [
+      488,
+      189,
+      152.25,
+      127.13
+    ],
+    "dimensions": [
+      640,
+      640
+    ]
+  },
+  {
+    "annotation_id": 861,
+    "image_id": 248,
+    "file_name": "100060_jpg.rf.e25ee93dd80451ef412256f381182230.jpg",
+    "class": "not-crumbled",
+    "bbox": [
+      243,
+      147,
+      149.86,
+      493.5
+    ],
+    "dimensions": [
+      640,
+      640
+    ]
+  },
+  {
+    "annotation_id": 894,
+    "image_id": 257,
+    "file_name": "200019_jpg.rf.f21b1a5fc7b5fbee96c387b63d295e70.jpg",
+    "class": "label",
+    "bbox": [
+      508,
+      330,
+      132.25,
+      93.85
+    ],
+    "dimensions": [
+      640,
+      640
+    ]
+  }
+]

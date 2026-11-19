@@ -1,0 +1,48 @@
+{
+  "imagenes_verificadas": 570,
+  "clases_cajas": {
+    "No Cap": 162,
+    "Broken Cap": 54,
+    "Good Cap": 218,
+    "Loose Cap": 124,
+    "Broken Ring": 48
+  },
+  "candidatas_good_broken": 272,
+  "imagenes_candidatas": 272,
+  "grupos_candidatos": {
+    "origin-748a769a56ce16aa": 137,
+    "origin-4133e6232670ab23": 135
+  },
+  "por_fecha_proxy": {
+    "20220705": {
+      "No Cap": 82
+    },
+    "20220701": {
+      "Broken Cap": 25,
+      "Loose Cap": 66,
+      "Good Cap": 112,
+      "Broken Ring": 20
+    },
+    "20220704": {
+      "Good Cap": 106,
+      "Loose Cap": 55,
+      "No Cap": 80,
+      "Broken Ring": 28,
+      "Broken Cap": 29
+    },
+    "20220713": {
+      "Loose Cap": 3
+    }
+  },
+  "cantidad_anotaciones_por_imagen_candidata": {
+    "1": 265,
+    "2": 7
+  },
+  "anotaciones_raw_verificadas": {
+    "datasets\\publicos_calidad_botellas\\raw\\roboflow_caps_v26\\extracted\\train\\_annotations.coco.json": "71c297b434bb1984d203b9e3e6d59cfa3e691d8e7815c98375d4e90b7fb90970",
+    "datasets\\publicos_calidad_botellas\\raw\\roboflow_caps_v26\\extracted\\valid\\_annotations.coco.json": "ce35449fe7cab23cd3a3350beeebb2cf09132231665465afe793eef532b2c490",
+    "datasets\\publicos_calidad_botellas\\raw\\roboflow_caps_v26\\extracted\\test\\_annotations.coco.json": "c702c0d778378eecb2066b7282545387230198f254972100332b843e22d68491"
+  },
+  "entrenamiento": false,
+  "inferencias": 0
+}

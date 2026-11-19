@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light"><title>{% block titulo %}Sistema de Inspección IA{% endblock %}</title>
+{% include 'demo/estilos.html' %}</head>
+<body><a class="salto" href="#contenido">Saltar al contenido</a>
+<aside class="lateral"><a class="marca" href="{% url 'demo_inicio' %}"><span class="simbolo" aria-hidden="true">▣</span><span>INSPECCIÓN<span class="marca-sub">INTELIGENCIA ARTIFICIAL</span></span></a>
+<div class="nav-titulo">PLATAFORMA EXPERIMENTAL</div><nav aria-label="Navegación principal"><a href="{% url 'demo_inicio' %}" {% if request.path == '/' %}aria-current="page"{% endif %}>◈ &nbsp; Vista general</a>{% for a in accesos %}<a href="{% url 'demo_modulo' a.id %}" {% if modulo == a.id %}aria-current="page"{% endif %}>{% if a.id == 'epp' %}◉{% else %}▤{% endif %} &nbsp; {{ a.nombre }}</a>{% endfor %}<a href="{% url 'demo_historial' %}" {% if '/historial/' in request.path %}aria-current="page"{% endif %}>↺ &nbsp; Historial</a><a href="{% url 'demo_inicio' %}#documentacion">▧ &nbsp; Documentación</a></nav>
+<div class="lateral-pie"><span class="punto"></span> Laboratorio local<div>Videos y resultados existentes<br>Sin operación industrial</div></div></aside>
+<div class="principal"><header class="barra"><span>SISTEMA DE INSPECCIÓN IA <span class="separador">/</span> DEMOSTRACIÓN</span><span class="badge neutro">LAB · v002</span></header><main id="contenido">{% block contenido %}{% endblock %}</main><footer>Laboratorio experimental · Modelos y métricas independientes por módulo · Revisión humana</footer></div>
+</body></html>

@@ -1,0 +1,158 @@
+[
+  {
+    "type": "GEOMETRIA",
+    "image_id": 4,
+    "annotation_id": 17,
+    "class": "not-crumbled",
+    "scope": "IMPORT_GENERICO_IMAGEN_COMPLETA",
+    "reason": "Caja excede l?mites; RAW conservado, sin clipping"
+  },
+  {
+    "type": "GEOMETRIA",
+    "image_id": 43,
+    "annotation_id": 142,
+    "class": "label",
+    "scope": "IMPORT_GENERICO_IMAGEN_COMPLETA",
+    "reason": "Caja excede l?mites; RAW conservado, sin clipping"
+  },
+  {
+    "type": "GEOMETRIA",
+    "image_id": 78,
+    "annotation_id": 274,
+    "class": "not-crumbled",
+    "scope": "IMPORT_GENERICO_IMAGEN_COMPLETA",
+    "reason": "Caja excede l?mites; RAW conservado, sin clipping"
+  },
+  {
+    "type": "GEOMETRIA",
+    "image_id": 235,
+    "annotation_id": 813,
+    "class": "label",
+    "scope": "IMPORT_GENERICO_IMAGEN_COMPLETA",
+    "reason": "Caja excede l?mites; RAW conservado, sin clipping"
+  },
+  {
+    "type": "GEOMETRIA",
+    "image_id": 248,
+    "annotation_id": 861,
+    "class": "not-crumbled",
+    "scope": "IMPORT_GENERICO_IMAGEN_COMPLETA",
+    "reason": "Caja excede l?mites; RAW conservado, sin clipping"
+  },
+  {
+    "type": "GEOMETRIA",
+    "image_id": 257,
+    "annotation_id": 894,
+    "class": "label",
+    "scope": "IMPORT_GENERICO_IMAGEN_COMPLETA",
+    "reason": "Caja excede l?mites; RAW conservado, sin clipping"
+  },
+  {
+    "type": "PROCEDENCIA_POR_REVISAR",
+    "image_id": 11,
+    "file_name": "6a00d83451b96069e200e553b8b8168834-800wi_jpg.rf.f979e3e3b666c8db39727c962b0f59cb.jpg",
+    "reason": "NOMBRE_SUGIERE_IMAGEN_WEB_O_STOCK; CC BY publicado no sustituye rastreo del elemento de terceros",
+    "scope": "NO_EXCLUSION_FISICA;NO_TRAIN_HASTA_REVISION"
+  },
+  {
+    "type": "PROCEDENCIA_POR_REVISAR",
+    "image_id": 40,
+    "file_name": "5596d720-3739-4ec4-84f4-4dcbaa05d7f3_jpg.rf.21c1deba1f581682c5dc30e7da34b008.jpg",
+    "reason": "NOMBRE_SUGIERE_IMAGEN_WEB_O_STOCK; CC BY publicado no sustituye rastreo del elemento de terceros",
+    "scope": "NO_EXCLUSION_FISICA;NO_TRAIN_HASTA_REVISION"
+  },
+  {
+    "type": "PROCEDENCIA_POR_REVISAR",
+    "image_id": 41,
+    "file_name": "2c7pa0m_jpg.rf.2078fd2ab99e6be5dde4c151704eed76.jpg",
+    "reason": "NOMBRE_SUGIERE_IMAGEN_WEB_O_STOCK; CC BY publicado no sustituye rastreo del elemento de terceros",
+    "scope": "NO_EXCLUSION_FISICA;NO_TRAIN_HASTA_REVISION"
+  },
+  {
+    "type": "PROCEDENCIA_POR_REVISAR",
+    "image_id": 65,
+    "file_name": "8wtjst88up_Medium_WW275057_jpg.rf.2c357056080e9e4af460cd844a37929c.jpg",
+    "reason": "NOMBRE_SUGIERE_IMAGEN_WEB_O_STOCK; CC BY publicado no sustituye rastreo del elemento de terceros",
+    "scope": "NO_EXCLUSION_FISICA;NO_TRAIN_HASTA_REVISION"
+  },
+  {
+    "type": "PROCEDENCIA_POR_REVISAR",
+    "image_id": 75,
+    "file_name": "6a00d83451b96069e200e553b8b8168834-800wi_jpg.rf.36c9e2c66ad54c82ebcee567a2b38d45.jpg",
+    "reason": "NOMBRE_SUGIERE_IMAGEN_WEB_O_STOCK; CC BY publicado no sustituye rastreo del elemento de terceros",
+    "scope": "NO_EXCLUSION_FISICA;NO_TRAIN_HASTA_REVISION"
+  },
+  {
+    "type": "PROCEDENCIA_POR_REVISAR",
+    "image_id": 87,
+    "file_name": "800px_COLOURBOX4610056_jpg.rf.4138ea110cb1ba500bf8963c71e51407.jpg",
+    "reason": "NOMBRE_SUGIERE_IMAGEN_WEB_O_STOCK; CC BY publicado no sustituye rastreo del elemento de terceros",
+    "scope": "NO_EXCLUSION_FISICA;NO_TRAIN_HASTA_REVISION"
+  },
+  {
+    "type": "PROCEDENCIA_POR_REVISAR",
+    "image_id": 88,
+    "file_name": "8wtjst88up_Medium_WW275057_jpg.rf.3f4071099faea13b775fa8d611e10cf1.jpg",
+    "reason": "NOMBRE_SUGIERE_IMAGEN_WEB_O_STOCK; CC BY publicado no sustituye rastreo del elemento de terceros",
+    "scope": "NO_EXCLUSION_FISICA;NO_TRAIN_HASTA_REVISION"
+  },
+  {
+    "type": "PROCEDENCIA_POR_REVISAR",
+    "image_id": 90,
+    "file_name": "800px_COLOURBOX4610056_jpg.rf.45523bcc5e786126924519fe0bf1376a.jpg",
+    "reason": "NOMBRE_SUGIERE_IMAGEN_WEB_O_STOCK; CC BY publicado no sustituye rastreo del elemento de terceros",
+    "scope": "NO_EXCLUSION_FISICA;NO_TRAIN_HASTA_REVISION"
+  },
+  {
+    "type": "PROCEDENCIA_POR_REVISAR",
+    "image_id": 91,
+    "file_name": "2c7pa0m_jpg.rf.3dc1e4cede710a654b29dca9bd83720c.jpg",
+    "reason": "NOMBRE_SUGIERE_IMAGEN_WEB_O_STOCK; CC BY publicado no sustituye rastreo del elemento de terceros",
+    "scope": "NO_EXCLUSION_FISICA;NO_TRAIN_HASTA_REVISION"
+  },
+  {
+    "type": "PROCEDENCIA_POR_REVISAR",
+    "image_id": 102,
+    "file_name": "800px_COLOURBOX3621066_jpg.rf.4cd10fc65248c158f975ba13eb260578.jpg",
+    "reason": "NOMBRE_SUGIERE_IMAGEN_WEB_O_STOCK; CC BY publicado no sustituye rastreo del elemento de terceros",
+    "scope": "NO_EXCLUSION_FISICA;NO_TRAIN_HASTA_REVISION"
+  },
+  {
+    "type": "PROCEDENCIA_POR_REVISAR",
+    "image_id": 204,
+    "file_name": "800px_COLOURBOX3621066_jpg.rf.b4827b1b035b5b15ca5946f87a0fc716.jpg",
+    "reason": "NOMBRE_SUGIERE_IMAGEN_WEB_O_STOCK; CC BY publicado no sustituye rastreo del elemento de terceros",
+    "scope": "NO_EXCLUSION_FISICA;NO_TRAIN_HASTA_REVISION"
+  },
+  {
+    "type": "PROCEDENCIA_POR_REVISAR",
+    "image_id": 259,
+    "file_name": "5596d720-3739-4ec4-84f4-4dcbaa05d7f3_jpg.rf.f37af0d8120e0130e333746084a806a4.jpg",
+    "reason": "NOMBRE_SUGIERE_IMAGEN_WEB_O_STOCK; CC BY publicado no sustituye rastreo del elemento de terceros",
+    "scope": "NO_EXCLUSION_FISICA;NO_TRAIN_HASTA_REVISION"
+  },
+  {
+    "type": "SEMANTICA",
+    "class": "no-cap",
+    "scope": "NO_MAPEAR_A_TAPA_O_DEFECTO_AUTOMATICAMENTE",
+    "reason": "Cuello sin tapa no es objeto TAPA; etapa industrial no acreditada"
+  },
+  {
+    "type": "SEMANTICA",
+    "class": "label",
+    "scope": "NO_MAPEAR_A_RAYADURA",
+    "reason": "Caja de etiqueta, no da?o superficial"
+  },
+  {
+    "type": "SEMANTICA",
+    "class": "crumbled",
+    "scope": "NO_MEZCLAR_CON_DENT_ROI",
+    "reason": "Caja de botella deformada, no regi?n de abolladura; causa de da?o desconocida"
+  },
+  {
+    "type": "SEMANTICA",
+    "class": "not-crumbled",
+    "scope": "NO_MAPEAR_A_CONFORMIDAD_GLOBAL",
+    "reason": "Solo estado fuente de deformaci?n"
+  }
+]

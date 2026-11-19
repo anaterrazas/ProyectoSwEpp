@@ -1,0 +1,11 @@
+{
+  "dataset_manifest": "datasets/calidad_botellas/v003/tapa_candidato_001/manifest.json",
+  "dataset_manifest_sha256": "9e6af0cdf80aab4fca79059eda4ed093a2a03af8811964a6e9d8f23fec782f26",
+  "sha256": {
+    "INFORME.md": "1cfce97317e94b9cdfef28892415d3e3f7676ff8f5be2511aea8cb2a390fbda7",
+    "resumen.json": "40e8b58a1925a53487d6a16056445ee72a12ee9da40d389e956d61bb71a7c37e",
+    "trazabilidad.json": "dd9bc69cee94deb3a32332120cd5040f5f1dc0df837a22e104de8aee8eab6e7c",
+    "verificacion_integridad.json": "e66eaef13f18cb5b6bcfbd6e90208416fbdbaba3129ff63bb17a134b2da62c64"
+  },
+  "estado": "NO_PREPARADO_PARA_ENTRENAMIENTO_EXPERIMENTAL"
+}

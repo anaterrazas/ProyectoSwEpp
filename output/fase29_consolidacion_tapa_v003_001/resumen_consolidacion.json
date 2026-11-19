@@ -1,0 +1,48 @@
+{
+  "total_candidatas": 284,
+  "cajas_fuente": 284,
+  "por_fuente": {
+    "roboflow_caps_v26": 272,
+    "roboflow_bottle_v4": 12,
+    "mendeley": 0,
+    "referencia_propia": 0
+  },
+  "cajas_roi_cap_v26": 272,
+  "cajas_TAPA_estrictas_nuevas_humanas": 0,
+  "cajas_cap_v4_previamente_candidatas": 12,
+  "source_classes_v26": {
+    "Broken Cap": 54,
+    "Good Cap": 218
+  },
+  "grupos_con_fuente": 8,
+  "grupos_fecha_v26": 2,
+  "grupos_visuales_v4": 6,
+  "particiones": {
+    "train": 137,
+    "validation": 135,
+    "RESERVA_SIN_TEST_INDEPENDIENTE": 12
+  },
+  "grupos_por_particion": {
+    "train": 1,
+    "validation": 1,
+    "RESERVA_SIN_TEST_INDEPENDIENTE": 6
+  },
+  "min_side_640_by_source": {
+    "roboflow_caps_v26": {
+      "min": 167.06833333333333,
+      "max": 316.11
+    },
+    "roboflow_bottle_v4": {
+      "min": 31.05,
+      "max": 88.59
+    }
+  },
+  "blancos_v26": 272,
+  "colores_v4_descripcion": "Tapas azules, verdes y turquesa, fotos de producto y botellas en suelo; sin aumentar artificialmente número de orígenes.",
+  "falta": "Convención física de caja consistente; test reservado con procedencia e independencia justificadas; más diversidad de tamaño/escena para generalización a video.",
+  "entrenamiento_autorizado": false,
+  "estado": "CANDIDATO_AMPLIADO_ROI_FUENTE_NO_PREPARADO_COMO_TAPA_ESTRICTA_CON_TEST_INDEPENDIENTE",
+  "solicitar_nuevas_capturas_ahora": false,
+  "inferencias": 0,
+  "entrenamientos": 0
+}

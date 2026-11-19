@@ -1,0 +1,6 @@
+﻿clase_proyecto,evidencia,limite_semantico_geometrico,propuesta
+ENVASE,P?blicos sin cajas completas de envase acreditadas; propias 101,No crear cajas desde defectos,Reutilizar baseline COCO existente; 25 frames en cuarentena de derechos
+TAPA,Roboflow Good Cap 218 y Broken Cap 54 cajas candidatas; propias 143,Revisar extensi?n tapa/cuello; Loose Cap y Broken Ring no son cajas equivalentes,Preparar protocolo de geometr?a y reutilizar cajas compatibles; no activar entrenamiento
+TAPA_DEFECTUOSA,"Broken Cap 54 + Loose Cap 124 instancias, 171 im?genes",Mantener subtipos; Good Cap no es conformidad global; No Cap condicional,Benchmark de estado/ROI viable con taxonom?a fuente; 50 referencias humanas existentes son un subconjunto
+RAYADURA,Mendeley scuff 10893 cajas en 2572 im?genes,Scuff es rozadura/abrasi?n; no toda raya ni da?o de etiqueta,Prototipo fuente SCUFF; adoptar nombre RAYADURA solo tras aprobar protocolo
+DEFORMACION,Mendeley dent 8029 cajas en 2388 im?genes,Abolladura localizada; no toda deformaci?n imaginable,"Prototipo de abolladura con cajas originales, separado de tapas"

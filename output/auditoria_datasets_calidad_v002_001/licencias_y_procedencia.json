@@ -1,0 +1,47 @@
+[
+  {
+    "source": "mendeley_kthmmbsh8t_v1",
+    "version": 1,
+    "license": "CC-BY-4.0",
+    "url": "https://data.mendeley.com/datasets/kthmmbsh8t/1",
+    "creators": [
+      "Fakhra Aftab",
+      "Majida Kazmi"
+    ],
+    "local_evidence": "raw/mendeley_kthmmbsh8t_v1/metadata.json",
+    "online_verified_date": "2026-11-18"
+  },
+  {
+    "source": "roboflow_caps_v26",
+    "version": 26,
+    "license": "CC-BY-4.0",
+    "url": "https://universe.roboflow.com/product-defect-detection/bottle-defects-o4gnx/dataset/26",
+    "creators": [
+      "Product Defect Detection"
+    ],
+    "local_evidence": [
+      "raw/roboflow_caps_v26/extracted/README.dataset.txt",
+      "raw/roboflow_caps_v26/extracted/README.roboflow.txt"
+    ],
+    "online_verified_date": "2026-11-18",
+    "metadata_warning": "PROVENANCE_LICENSE hist?rico mantiene download_status AUTHENTICATION_REQUIRED; ACQUISITION.json y ZIP prueban descarga posterior real"
+  },
+  {
+    "source": "roboflow_bottle_v4",
+    "version": 4,
+    "license": "CC-BY-4.0",
+    "url": "https://universe.roboflow.com/spark-intelligence-scqhh/bottle-defect-detection/dataset/4",
+    "creators": [
+      "Spark Intelligence"
+    ],
+    "local_images": 0,
+    "published_images": 262,
+    "online_verified_date": "2026-11-18"
+  },
+  {
+    "source": "experimental_25",
+    "license": null,
+    "annotation_ownership_not_image_rights": true,
+    "status": "PENDIENTE_DERECHOS_VIDEO"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "fecha_verificacion_utc": "2026-11-18T20:52:00.319152+00:00",
+  "fuente_oficial": "https://universe.roboflow.com/spark-intelligence-scqhh/bottle-defect-detection/dataset/4",
+  "version_publicada": 4,
+  "licencia_publicada": "CC-BY-4.0",
+  "imagenes_publicadas": 262,
+  "split_publicado": {
+    "train": 262,
+    "validation": 0,
+    "test": 0
+  },
+  "exportacion_local_encontrada": false,
+  "archivo_exportacion": null,
+  "sha256_exportacion": null,
+  "imagenes_locales_verificadas": null,
+  "cajas_locales_verificadas": null,
+  "clases_locales_verificadas": null,
+  "estado": "PENDIENTE_DESCARGA_AUTENTICADA_OFICIAL",
+  "obstaculos_reales": [
+    "Chrome: verificaci?n de seguridad Cloudflare",
+    "API oficial: HTTP 401 requiere autenticaci?n"
+  ],
+  "entrenamiento": false,
+  "particiones_definitivas_aprobadas": false,
+  "no_inventar_conteos_o_clases": true
+}

@@ -1,0 +1,345 @@
+[
+  {
+    "autor": "Ana",
+    "justificacion": "Imagen revisada completamente. La botella presenta el cuello y la boca visibles, sin tapa colocada. No existen regiones que impidan evaluar la presencia de tapa.",
+    "decisiones": [
+      {
+        "annotation_id": 31,
+        "clase": "ENVASE",
+        "visibilidad": "TOTAL",
+        "justificacion": "La caja original delimita el cuerpo completo de la botella y no corresponde a una tapa. Se reclasifica como ENVASE. El objeto es visible en su totalidad.",
+        "clase_original": "cap",
+        "bbox_original": [
+          357,
+          137,
+          432.29,
+          1460.78
+        ]
+      }
+    ],
+    "nuevas_cajas": [],
+    "exhaustividad": "PENDIENTE",
+    "image_id": 9,
+    "imagen_sha256": "8210cec6c7aafc63c2cca0343491a5557b1d89c00afb62ae817e712d2b20f05f",
+    "revision_global": 1,
+    "hash_decision_anterior": null,
+    "cuenta_usuario": "piloto",
+    "fecha_utc": "2026-11-18T21:43:29.249618+00:00",
+    "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+    "tipo": "REVISION_HUMANA_DECLARADA",
+    "segunda_revision_independiente": "NO_ACREDITADA"
+  },
+  {
+    "autor": "Ana",
+    "justificacion": "Imagen revisada completamente. La botella presenta el cuello y la boca visibles, sin tapa colocada. No existen regiones que impidan evaluar la presencia de tapa.",
+    "decisiones": [
+      {
+        "annotation_id": 31,
+        "clase": "ENVASE",
+        "visibilidad": "TOTAL",
+        "justificacion": "La caja original delimita el cuerpo completo de la botella y no corresponde a una tapa. Se reclasifica como ENVASE. El objeto es visible en su totalidad.",
+        "clase_original": "cap",
+        "bbox_original": [
+          357,
+          137,
+          432.29,
+          1460.78
+        ]
+      }
+    ],
+    "nuevas_cajas": [],
+    "exhaustividad": "PENDIENTE",
+    "image_id": 9,
+    "imagen_sha256": "8210cec6c7aafc63c2cca0343491a5557b1d89c00afb62ae817e712d2b20f05f",
+    "revision_global": 2,
+    "hash_decision_anterior": "311143988f87e13f1ccb05c60cc0661f27f5c39c514055b3fed9e2d06738f8a2",
+    "cuenta_usuario": "piloto",
+    "fecha_utc": "2026-11-18T21:43:30.566366+00:00",
+    "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+    "tipo": "REVISION_HUMANA_DECLARADA",
+    "segunda_revision_independiente": "NO_ACREDITADA"
+  },
+  {
+    "autor": "Ana",
+    "justificacion": "Imagen revisada completamente. La botella presenta el cuello y la boca visibles, sin tapa colocada. No existen regiones que impidan evaluar la presencia de tapa.",
+    "decisiones": [
+      {
+        "annotation_id": 31,
+        "clase": "ENVASE",
+        "visibilidad": "TOTAL",
+        "justificacion": "La caja original delimita el cuerpo completo de la botella y no corresponde a una tapa. Se reclasifica como ENVASE. El objeto es visible en su totalidad.",
+        "clase_original": "cap",
+        "bbox_original": [
+          357,
+          137,
+          432.29,
+          1460.78
+        ]
+      }
+    ],
+    "nuevas_cajas": [],
+    "exhaustividad": "PENDIENTE",
+    "image_id": 9,
+    "imagen_sha256": "8210cec6c7aafc63c2cca0343491a5557b1d89c00afb62ae817e712d2b20f05f",
+    "revision_global": 3,
+    "hash_decision_anterior": "6f0c0451c6da1623505923ae2d8d3fb5bbd5d69febc89af67a348a978606bc17",
+    "cuenta_usuario": "piloto",
+    "fecha_utc": "2026-11-18T21:43:31.460245+00:00",
+    "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+    "tipo": "REVISION_HUMANA_DECLARADA",
+    "segunda_revision_independiente": "NO_ACREDITADA"
+  },
+  {
+    "autor": "Ana",
+    "justificacion": "La tapa verde se encuentra colocada y es claramente visible en la boca de la botella. No se identifican regiones que impidan evaluar su presencia.",
+    "decisiones": [
+      {
+        "annotation_id": 123,
+        "clase": "ENVASE",
+        "visibilidad": "PARCIAL",
+        "justificacion": "La caja original delimita el cuerpo de la botella completa en su mayor parte y no corresponde a una tapa. Se reclasifica como ENVASE. La parte inferior está parcialmente fuera del encuadre. La tapa verde se encuentra visible y colocada.",
+        "clase_original": "cap",
+        "bbox_original": [
+          170,
+          255,
+          123.38,
+          384.75
+        ]
+      }
+    ],
+    "nuevas_cajas": [],
+    "exhaustividad": "COMPLETA",
+    "image_id": 38,
+    "imagen_sha256": "3d09a184cb5e8043e23f31a41a0f6ef9d168fd73146576fc4e3b79f1adf77eb3",
+    "revision_global": 4,
+    "hash_decision_anterior": "f1a332dc1eaf8272db8545aa196097ed83164d2ec34d4244780a250736d6a244",
+    "cuenta_usuario": "piloto",
+    "fecha_utc": "2026-11-18T21:45:23.185867+00:00",
+    "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+    "tipo": "REVISION_HUMANA_DECLARADA",
+    "segunda_revision_independiente": "NO_ACREDITADA"
+  },
+  {
+    "autor": "Ana",
+    "justificacion": "La botella ubicada sobre la cinta transportadora presenta la región de la boquilla y posible tapa con visibilidad insuficiente. No es posible confirmar de manera segura la presencia o ausencia de tapa. Se mantiene como NO EVALUABLE.",
+    "decisiones": [
+      {
+        "annotation_id": 134,
+        "clase": "NO_EVALUABLE",
+        "visibilidad": "DUDOSA",
+        "justificacion": "La caja original delimita únicamente la región de la boquilla o cuello de la botella. No se distingue con suficiente claridad una tapa independiente. No corresponde considerarla como TAPA ni como una caja válida del envase completo.",
+        "clase_original": "cap",
+        "bbox_original": [
+          977,
+          328,
+          40.37,
+          32.13
+        ]
+      }
+    ],
+    "nuevas_cajas": [],
+    "exhaustividad": "NO_EVALUABLE",
+    "image_id": 42,
+    "imagen_sha256": "af95c755f57aad8b4568bce204aa2af279aafa1bfc3ec4dce3b83a211cd55768",
+    "revision_global": 5,
+    "hash_decision_anterior": "09fdea918390838a9c604709256deebabd32e2d75667a7e720e413234cff8a39",
+    "cuenta_usuario": "piloto",
+    "fecha_utc": "2026-11-18T21:50:02.203080+00:00",
+    "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+    "tipo": "REVISION_HUMANA_DECLARADA",
+    "segunda_revision_independiente": "NO_ACREDITADA"
+  },
+  {
+    "autor": "Ana",
+    "justificacion": "La caja original delimita la etiqueta comercial de la botella y no corresponde a una tapa. Se excluye de la clase TAPA para evitar una anotación incorrecta.",
+    "decisiones": [
+      {
+        "annotation_id": 203,
+        "clase": "TAPA",
+        "visibilidad": "TOTAL",
+        "justificacion": "La caja delimita la tapa azul colocada en la boca de la botella. La tapa se encuentra visible y distinguible.",
+        "clase_original": "cap",
+        "bbox_original": [
+          294,
+          58,
+          80.62,
+          47.05
+        ]
+      },
+      {
+        "annotation_id": 204,
+        "clase": "NO_EVALUABLE",
+        "visibilidad": "TOTAL",
+        "justificacion": "La caja delimita la etiqueta comercial de la botella. No corresponde a la clase TAPA ni a la clase ENVASE. Se excluye de la detección de tapas.",
+        "clase_original": "cap",
+        "bbox_original": [
+          226,
+          267,
+          187.11,
+          134.6
+        ]
+      }
+    ],
+    "nuevas_cajas": [],
+    "exhaustividad": "NO_EVALUABLE",
+    "image_id": 60,
+    "imagen_sha256": "511c79397ed5df10fcdb240014305b6c958942faa291b2ee8cf9e9883abb25f9",
+    "revision_global": 6,
+    "hash_decision_anterior": "c21899a60510a696f9502c377d6a598ed921fb1056eef9298842599e38d02c0d",
+    "cuenta_usuario": "piloto",
+    "fecha_utc": "2026-11-18T21:52:53.004324+00:00",
+    "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+    "tipo": "REVISION_HUMANA_DECLARADA",
+    "segunda_revision_independiente": "NO_ACREDITADA"
+  },
+  {
+    "autor": "Ana",
+    "justificacion": "La botella ubicada sobre la cinta transportadora presenta la región de la boquilla y posible tapa con visibilidad insuficiente. No es posible confirmar de manera segura la presencia o ausencia de tapa. Se mantiene como NO EVALUABLE.",
+    "decisiones": [
+      {
+        "annotation_id": 324,
+        "clase": "NO_EVALUABLE",
+        "visibilidad": "DUDOSA",
+        "justificacion": "La caja original delimita únicamente la región de la boquilla o cuello de la botella. No se distingue con suficiente claridad una tapa independiente. No corresponde considerarla como TAPA ni como una caja válida del envase completo.",
+        "clase_original": "cap",
+        "bbox_original": [
+          817,
+          343,
+          43.82,
+          38.71
+        ]
+      }
+    ],
+    "nuevas_cajas": [],
+    "exhaustividad": "NO_EVALUABLE",
+    "image_id": 95,
+    "imagen_sha256": "e7dc4f8d2b8ab936e1b0b5911686abbf0775fc506c8a55f2842f95c0788ab5cc",
+    "revision_global": 7,
+    "hash_decision_anterior": "abd31e2b4fc7cabd9707193e65c979a4f32a288c6d1c3417403818047ee52001",
+    "cuenta_usuario": "piloto",
+    "fecha_utc": "2026-11-18T21:53:46.439046+00:00",
+    "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+    "tipo": "REVISION_HUMANA_DECLARADA",
+    "segunda_revision_independiente": "NO_ACREDITADA"
+  },
+  {
+    "autor": "Ana",
+    "justificacion": "La botella presenta una tapa azul claramente visible y colocada. La región de la tapa puede evaluarse sin dificultad.",
+    "decisiones": [
+      {
+        "annotation_id": 567,
+        "clase": "ENVASE",
+        "visibilidad": "TOTAL",
+        "justificacion": "La caja original muestra el cuerpo de la botella que esta tapada con una tapa azul. Se reclasifica como ENVASE",
+        "clase_original": "cap",
+        "bbox_original": [
+          168,
+          63,
+          101.88,
+          442.06
+        ]
+      }
+    ],
+    "nuevas_cajas": [],
+    "exhaustividad": "COMPLETA",
+    "image_id": 165,
+    "imagen_sha256": "afaa5a58dd7917b9788b463663cddd66c96897f7eecf0b033533928e5a6d24f1",
+    "revision_global": 8,
+    "hash_decision_anterior": "f58d79e925e91590b611bb81f007d75f1d4c51da69a7066edc312629c66b8513",
+    "cuenta_usuario": "piloto",
+    "fecha_utc": "2026-11-18T21:56:41.898086+00:00",
+    "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+    "tipo": "REVISION_HUMANA_DECLARADA",
+    "segunda_revision_independiente": "NO_ACREDITADA"
+  },
+  {
+    "autor": "Ana",
+    "justificacion": "La región superior de la botella está completamente visible. Se observa la boquilla roscada sin tapa colocada. La ausencia de tapa es visualmente identificable.",
+    "decisiones": [
+      {
+        "annotation_id": 773,
+        "clase": "NO_EVALUABLE",
+        "visibilidad": "TOTAL",
+        "justificacion": "La caja original delimita la boquilla roscada o cuello de la botella, no una tapa independiente. Se excluye de la clase TAPA para evitar una clasificación incorrecta.",
+        "clase_original": "cap",
+        "bbox_original": [
+          534,
+          137,
+          188.97,
+          157.44
+        ]
+      }
+    ],
+    "nuevas_cajas": [],
+    "exhaustividad": "COMPLETA",
+    "image_id": 223,
+    "imagen_sha256": "78038843497e66346be8c1e26aa94e87764c5fdca0eb91bc2545ff10843d03b7",
+    "revision_global": 9,
+    "hash_decision_anterior": "16e5a50c86eb83f4954209d9237a953aa1a490f1d16d2d9c9df91a2da4a85bab",
+    "cuenta_usuario": "piloto",
+    "fecha_utc": "2026-11-18T21:57:57.596262+00:00",
+    "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+    "tipo": "REVISION_HUMANA_DECLARADA",
+    "segunda_revision_independiente": "NO_ACREDITADA"
+  },
+  {
+    "autor": "Ana",
+    "justificacion": "La región superior de la botella está completamente visible. Se observa la boquilla roscada sin tapa colocada. La ausencia de tapa es visualmente identificable.",
+    "decisiones": [
+      {
+        "annotation_id": 773,
+        "clase": "NO_EVALUABLE",
+        "visibilidad": "TOTAL",
+        "justificacion": "La caja original delimita la boquilla roscada o cuello de la botella, no una tapa independiente. Se excluye de la clase TAPA para evitar una clasificación incorrecta.",
+        "clase_original": "cap",
+        "bbox_original": [
+          534,
+          137,
+          188.97,
+          157.44
+        ]
+      }
+    ],
+    "nuevas_cajas": [],
+    "exhaustividad": "COMPLETA",
+    "image_id": 223,
+    "imagen_sha256": "78038843497e66346be8c1e26aa94e87764c5fdca0eb91bc2545ff10843d03b7",
+    "revision_global": 10,
+    "hash_decision_anterior": "a73344a7290d76046a62dcc71d92764cd952d7c8bb727a404ebea72814e5083f",
+    "cuenta_usuario": "piloto",
+    "fecha_utc": "2026-11-18T21:58:16.338107+00:00",
+    "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+    "tipo": "REVISION_HUMANA_DECLARADA",
+    "segunda_revision_independiente": "NO_ACREDITADA"
+  },
+  {
+    "autor": "Ana",
+    "justificacion": "Imagen revisada completamente. La botella presenta el cuello y la boca visibles, sin tapa colocada. No existen regiones que impidan evaluar la presencia de tapa.",
+    "decisiones": [
+      {
+        "annotation_id": 31,
+        "clase": "ENVASE",
+        "visibilidad": "TOTAL",
+        "justificacion": "La caja original delimita el cuerpo completo de la botella y no corresponde a una tapa. Se reclasifica como ENVASE. El objeto es visible en su totalidad.",
+        "clase_original": "cap",
+        "bbox_original": [
+          357,
+          137,
+          432.29,
+          1460.78
+        ]
+      }
+    ],
+    "nuevas_cajas": [],
+    "exhaustividad": "COMPLETA",
+    "image_id": 9,
+    "imagen_sha256": "8210cec6c7aafc63c2cca0343491a5557b1d89c00afb62ae817e712d2b20f05f",
+    "revision_global": 11,
+    "hash_decision_anterior": "eb164049462b184ff7f44068aa172b7dfd05c22af7391422281f2e7b6176eb8d",
+    "cuenta_usuario": "piloto",
+    "fecha_utc": "2026-11-18T22:04:06.634982+00:00",
+    "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+    "tipo": "REVISION_HUMANA_DECLARADA",
+    "segunda_revision_independiente": "NO_ACREDITADA"
+  }
+]

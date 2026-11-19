@@ -1,0 +1,70 @@
+[
+  {
+    "archivo": "experimentos/pilotos/catalogo.py",
+    "sha256": "2debbe63965ea14dc8662e843d53b200e6c4c3ffbc593e03ca6edfd95ce5fa8b"
+  },
+  {
+    "archivo": "experimentos/pilotos/portal.py",
+    "sha256": "831f4130ef2f88e4bd0e110d2041eef65dfc5c98a114dcdb5a05a1795ba15946"
+  },
+  {
+    "archivo": "experimentos/pilotos/artefactos.py",
+    "sha256": "05dbba3c6d97e00faf9e40742d2196957571ab7d3f5e935bb74d2a2055f8aa8f"
+  },
+  {
+    "archivo": "experimentos/pilotos/navegacion.py",
+    "sha256": "8ed26238ce6ebad1c89eeb68f5c84145f7a11a418d8007143e838067221e0dfc"
+  },
+  {
+    "archivo": "experimentos/pilotos/test_portal.py",
+    "sha256": "f1898ac2cca7cfa29ba5a7dedb932c776f4f57891c0bfc0c0da3f0563d32f12d"
+  },
+  {
+    "archivo": "experimentos/pilotos/media.py",
+    "sha256": "9b297e593f1d21a1dcbdf99859cf174157c922a853913545b96c87e4daf41c4d"
+  },
+  {
+    "archivo": "experimentos/pilotos/settings.py",
+    "sha256": "7831e229babccd7c92de64521d0842aa9678f82ee46236a20a3a540bb1633b34"
+  },
+  {
+    "archivo": "experimentos/pilotos/urls.py",
+    "sha256": "b1c36eb3be89f6f0f70caee133b73aad3eb5e69cfdba3a4d8ec73b572831b893"
+  },
+  {
+    "archivo": "experimentos/pilotos/templates/demo/base.html",
+    "sha256": "083db93b97b5e34db044f9eb38fa2d074ff29fc56d8f2cbdb618e3585a9ec95b"
+  },
+  {
+    "archivo": "experimentos/pilotos/templates/demo/estilos.html",
+    "sha256": "2da78a0ca41b3f65c9eb6362c51e31cfdc4232f44e7b1844256563862ac979e4"
+  },
+  {
+    "archivo": "experimentos/pilotos/templates/demo/inicio.html",
+    "sha256": "6d09b9ecea20250756c424ce5c49686f8cdce14ea30cbc25c8a6b40f77bfa8d6"
+  },
+  {
+    "archivo": "experimentos/pilotos/templates/demo/modulo.html",
+    "sha256": "34831745c515df06579a8492ac310a237b3ea3b8b705a3036336ae12b4f783ca"
+  },
+  {
+    "archivo": "experimentos/pilotos/templates/demo/historial.html",
+    "sha256": "76cc329e3d846575c6d805deed3b9e6b43af976bd2e490feb4ae87f0d3e623f5"
+  },
+  {
+    "archivo": "scripts/laboratorio_pilotos.py",
+    "sha256": "b8291d2192ce71035eeec1b52b002127df2f0d6d3a0cd7abceac2c485fa19f2e"
+  },
+  {
+    "archivo": "scripts/verificar_demo_integrada.mjs",
+    "sha256": "d50bdeca4c3260975f89aa3ad0d6bfcf65cf9e28ee1a41503d8d78910e2bc3de"
+  },
+  {
+    "archivo": "docs/GUION_DEMO_INTEGRADA.md",
+    "sha256": "562cac2aee7b197774c7e5041a26e3edfd63e87748ad40a1563a75f36497a9a5"
+  },
+  {
+    "archivo": "docs/INFORME_DEMO_INTEGRADA.md",
+    "sha256": "a072da791446865d84586e9aa56704ee59b1100d4c69ffdee2251d70969cbeca"
+  }
+]

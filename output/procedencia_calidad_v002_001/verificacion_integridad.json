@@ -1,0 +1,22 @@
+{
+  "fuentes_unicas": 5,
+  "archivos_video_verificados": 26,
+  "copias_por_hash": {
+    "produccion.mp4": 20,
+    "prueba2.mp4": 1,
+    "tapas.mp4": 1,
+    "botellasSinTapa.mp4": 1,
+    "produccion_prueba_02.mp4": 3
+  },
+  "hashes_historicos_coincidentes": 4,
+  "archivos_protegidos_previos_intactos": 1450,
+  "alterados": [],
+  "particiones_asignadas": false,
+  "entrenamientos": 0,
+  "inferencias": 0,
+  "anotaciones_modificadas": 0,
+  "adjudicaciones_modificadas": 0,
+  "verificacion_tras_busqueda_local": true,
+  "enlaces_exactos_recuperados": 0,
+  "derechos_confirmados": 0
+}

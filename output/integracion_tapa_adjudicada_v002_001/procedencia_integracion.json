@@ -1,0 +1,285 @@
+{
+  "decisiones": [
+    {
+      "caso": 1,
+      "path": "output/fase22_tapa_v002_001/decisiones/1/000001.json",
+      "sha256": "be52e92a10c7f8f5f547b7c8b88d3b94227af3d50d53da9490a959c052f13ea4",
+      "revisiones_verificadas": 1
+    },
+    {
+      "caso": 2,
+      "path": "output/fase22_tapa_v002_001/decisiones/2/000001.json",
+      "sha256": "4ddc1b1d15c506ef9ab660b3a8fcc0b44b21f223b791c718793ef2299445d518",
+      "revisiones_verificadas": 1
+    },
+    {
+      "caso": 3,
+      "path": "output/fase22_tapa_v002_001/decisiones/3/000001.json",
+      "sha256": "d0aa2eb1fd18ef163353c40c27a21aca4fe31a24d83a5c587f2910c85a9a0bb8",
+      "revisiones_verificadas": 1
+    },
+    {
+      "caso": 4,
+      "path": "output/fase22_tapa_v002_001/decisiones/4/000001.json",
+      "sha256": "f02b5cc04a91bf294cb07bfae804358d9ab272470bf58500b8e5692fc30a92a7",
+      "revisiones_verificadas": 1
+    },
+    {
+      "caso": 5,
+      "path": "output/fase22_tapa_v002_001/decisiones/5/000001.json",
+      "sha256": "560da71f01e0405c06a1c2019a5b7dcd1b2e128584d70a4b7afbb0d8d7d69fe4",
+      "revisiones_verificadas": 1
+    },
+    {
+      "caso": 6,
+      "path": "output/fase22_tapa_v002_001/decisiones/6/000001.json",
+      "sha256": "0ea01b3582bcf06d499928c43c1e5880a11b674b96405e8f91c7919653559bd7",
+      "revisiones_verificadas": 1
+    },
+    {
+      "caso": 7,
+      "path": "output/fase22_tapa_v002_001/decisiones/7/000001.json",
+      "sha256": "be97d6e3908b9451f75ab81c3172459ade49f309e936601ae802777452662e3f",
+      "revisiones_verificadas": 1
+    }
+  ],
+  "decisiones_humanas_completas": [
+    {
+      "revision": 1,
+      "hash_anterior": null,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+      "box_id": "011cc367-0a4f-4dae-b3e3-414a0f0e6e95",
+      "clase_original": "ENVASE",
+      "revision_original_sha256": "52ea8a256db60d8cbb2ab6a417ae1ab4fade15eb6fcb81d6e1a573047654f053",
+      "bbox_original": [
+        633.9881009178334,
+        0,
+        786.7242450891142,
+        98.10179315964241
+      ],
+      "nota_original": "tapa roja",
+      "estado": "ADJUDICADO",
+      "clase_adjudicada": "TAPA",
+      "evaluabilidad_adjudicada": null,
+      "autor": "Ana",
+      "cuenta_usuario": "piloto",
+      "fecha_utc": "2026-11-18T14:31:58.822975+00:00",
+      "justificacion": "La región delimitada corresponde a una tapa roja colocada sobre la boca del envase. La clase ENVASE registrada originalmente es incorrecta. Se adjudica como TAPA.",
+      "segunda_revision_independiente": "NO_ACREDITADA",
+      "aplicado_a_anotaciones": false,
+      "habilita_entrenamiento": false
+    },
+    {
+      "revision": 1,
+      "hash_anterior": null,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+      "box_id": "40004408-7538-4504-96be-18326d359f3b",
+      "clase_original": "ENVASE",
+      "revision_original_sha256": "1b2b2db95947ebe1fc2e37e1b3d6a89c88073e833d9d539191affd8c6780a3c1",
+      "bbox_original": [
+        779.2126765370077,
+        41.764173249680866,
+        914.4217357255285,
+        109.36931628199093
+      ],
+      "nota_original": "tapa roja",
+      "estado": "ADJUDICADO",
+      "clase_adjudicada": "TAPA",
+      "evaluabilidad_adjudicada": null,
+      "autor": "Ana",
+      "cuenta_usuario": "piloto",
+      "fecha_utc": "2026-11-18T14:32:28.239850+00:00",
+      "justificacion": "La región delimitada corresponde a una tapa roja colocada sobre la boca del envase. La clase ENVASE registrada originalmente es incorrecta. Se adjudica como TAPA.",
+      "segunda_revision_independiente": "NO_ACREDITADA",
+      "aplicado_a_anotaciones": false,
+      "habilita_entrenamiento": false
+    },
+    {
+      "revision": 1,
+      "hash_anterior": null,
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "box_id": "50478c3f-aa0c-4659-af31-5028d57adc44",
+      "clase_original": "ENVASE",
+      "revision_original_sha256": "6044849c471f2d4c1f220336a8db2d180b80392aad0a1af9b632a7d253f3bff3",
+      "bbox_original": [
+        1536.0851525648275,
+        830.3763695690784,
+        1680.8623476244895,
+        955.0873601996204
+      ],
+      "nota_original": "tapa roja suelta",
+      "estado": "ADJUDICADO",
+      "clase_adjudicada": "TAPA",
+      "evaluabilidad_adjudicada": null,
+      "autor": "Ana",
+      "cuenta_usuario": "piloto",
+      "fecha_utc": "2026-11-18T14:34:18.190126+00:00",
+      "justificacion": "La región delimitada corresponde a una tapa roja suelta, separada de cualquier envase. La clase ENVASE registrada originalmente es incorrecta. Se adjudica como TAPA.",
+      "segunda_revision_independiente": "NO_ACREDITADA",
+      "aplicado_a_anotaciones": false,
+      "habilita_entrenamiento": false
+    },
+    {
+      "revision": 1,
+      "hash_anterior": null,
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000100",
+      "box_id": "ce00f4be-3086-4e9f-a0fc-68a324a97b27",
+      "clase_original": "ENVASE",
+      "revision_original_sha256": "445aa35dd456530bd8a37a257d87ea0ce082aa63b768659cd3ee4162525ce0e5",
+      "bbox_original": [
+        1016.4117188616427,
+        350.9885941788447,
+        1260.0961268558056,
+        536.3827168540879
+      ],
+      "nota_original": "tapa amarilla",
+      "estado": "ADJUDICADO",
+      "clase_adjudicada": "TAPA",
+      "evaluabilidad_adjudicada": null,
+      "autor": "Ana",
+      "cuenta_usuario": "piloto",
+      "fecha_utc": "2026-11-18T14:35:20.933850+00:00",
+      "justificacion": "La región delimitada corresponde a una tapa roja amarilla. La clase ENVASE registrada originalmente es incorrecta. Se adjudica como TAPA.",
+      "segunda_revision_independiente": "NO_ACREDITADA",
+      "aplicado_a_anotaciones": false,
+      "habilita_entrenamiento": false
+    },
+    {
+      "revision": 1,
+      "hash_anterior": null,
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000250",
+      "box_id": "4bacdeaa-1c24-49d7-9e8a-24627c32c6b2",
+      "clase_original": "ENVASE",
+      "revision_original_sha256": "b011d8490a24d2eaeee744a0876eadf2fbb3c98361d03fd3282d86c8400a409d",
+      "bbox_original": [
+        522.3536125020154,
+        276.44868129625564,
+        730.6798928703096,
+        498.15711564574366
+      ],
+      "nota_original": "tapa amarilla",
+      "estado": "ADJUDICADO",
+      "clase_adjudicada": "TAPA",
+      "evaluabilidad_adjudicada": null,
+      "autor": "Ana",
+      "cuenta_usuario": "piloto",
+      "fecha_utc": "2026-11-18T14:35:45.386996+00:00",
+      "justificacion": "La región delimitada corresponde a una tapa amarilla. La clase ENVASE registrada originalmente es incorrecta. Se adjudica como TAPA. Copiar",
+      "segunda_revision_independiente": "NO_ACREDITADA",
+      "aplicado_a_anotaciones": false,
+      "habilita_entrenamiento": false
+    },
+    {
+      "revision": 1,
+      "hash_anterior": null,
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000300",
+      "box_id": "828408df-22d5-4bb1-b712-427c230eea56",
+      "clase_original": "ENVASE",
+      "revision_original_sha256": "1ed8a8de32a023b76e944f2b611cc29c5c5f476fcf131acb05126bc9d83876f5",
+      "bbox_original": [
+        511.84171863218637,
+        280.27124560027437,
+        676.2092595687782,
+        505.80224425378117
+      ],
+      "nota_original": "tapa amarilla",
+      "estado": "ADJUDICADO",
+      "clase_adjudicada": "TAPA",
+      "evaluabilidad_adjudicada": null,
+      "autor": "Ana",
+      "cuenta_usuario": "piloto",
+      "fecha_utc": "2026-11-18T14:36:17.936327+00:00",
+      "justificacion": "La región delimitada corresponde a una tapa amarilla. La clase ENVASE registrada originalmente es incorrecta. Se adjudica como TAPA.",
+      "segunda_revision_independiente": "NO_ACREDITADA",
+      "aplicado_a_anotaciones": false,
+      "habilita_entrenamiento": false
+    },
+    {
+      "revision": 1,
+      "hash_anterior": null,
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000350",
+      "box_id": "f7f8b8c8-d6be-458e-a044-966159612618",
+      "clase_original": "ENVASE",
+      "revision_original_sha256": "afdd4d7162b07e297ab3c82cdbaa741dd20fce71f32eaa217c0aca594beecf5f",
+      "bbox_original": [
+        495.5960966819804,
+        289.8276538996246,
+        726.8573287423187,
+        512.491724403724
+      ],
+      "nota_original": "tapa amarilla",
+      "estado": "ADJUDICADO",
+      "clase_adjudicada": "TAPA",
+      "evaluabilidad_adjudicada": null,
+      "autor": "Ana",
+      "cuenta_usuario": "piloto",
+      "fecha_utc": "2026-11-18T14:36:31.333164+00:00",
+      "justificacion": "La región delimitada corresponde a una tapa amarilla. La clase ENVASE registrada originalmente es incorrecta. Se adjudica como TAPA.",
+      "segunda_revision_independiente": "NO_ACREDITADA",
+      "aplicado_a_anotaciones": false,
+      "habilita_entrenamiento": false
+    }
+  ],
+  "integraciones": [
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+      "revision_nueva": 5,
+      "revision_original_sha256": "52ea8a256db60d8cbb2ab6a417ae1ab4fade15eb6fcb81d6e1a573047654f053",
+      "revision_nueva_sha256": "6f1396cceead0c34a992bc008087be7445905b8873d2c057ba475b733274ca7f",
+      "autor_integracion": "sistema.integracion_adjudicaciones",
+      "tipo": "DERIVACION_AUTOMATICA_DE_DECISIONES_HUMANAS"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+      "revision_nueva": 3,
+      "revision_original_sha256": "1b2b2db95947ebe1fc2e37e1b3d6a89c88073e833d9d539191affd8c6780a3c1",
+      "revision_nueva_sha256": "4e99e6c816b9e4fd7c626e50f35b735db28864725eace19eccd23219d5979e1c",
+      "autor_integracion": "sistema.integracion_adjudicaciones",
+      "tipo": "DERIVACION_AUTOMATICA_DE_DECISIONES_HUMANAS"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "revision_nueva": 3,
+      "revision_original_sha256": "6044849c471f2d4c1f220336a8db2d180b80392aad0a1af9b632a7d253f3bff3",
+      "revision_nueva_sha256": "4219183bfce479070f1d3cd07095b7aa56dfe5018db533ad5d2804718628a733",
+      "autor_integracion": "sistema.integracion_adjudicaciones",
+      "tipo": "DERIVACION_AUTOMATICA_DE_DECISIONES_HUMANAS"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000100",
+      "revision_nueva": 3,
+      "revision_original_sha256": "445aa35dd456530bd8a37a257d87ea0ce082aa63b768659cd3ee4162525ce0e5",
+      "revision_nueva_sha256": "310cc81f68ac657ab6a94f425b71e916722ed61eceec79a7c11c79280007bd93",
+      "autor_integracion": "sistema.integracion_adjudicaciones",
+      "tipo": "DERIVACION_AUTOMATICA_DE_DECISIONES_HUMANAS"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000250",
+      "revision_nueva": 3,
+      "revision_original_sha256": "b011d8490a24d2eaeee744a0876eadf2fbb3c98361d03fd3282d86c8400a409d",
+      "revision_nueva_sha256": "2686cb5463e05a935ebcaadcde54e5d4f8d7e05025a9ea64e69c15792d31b2d8",
+      "autor_integracion": "sistema.integracion_adjudicaciones",
+      "tipo": "DERIVACION_AUTOMATICA_DE_DECISIONES_HUMANAS"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000300",
+      "revision_nueva": 3,
+      "revision_original_sha256": "1ed8a8de32a023b76e944f2b611cc29c5c5f476fcf131acb05126bc9d83876f5",
+      "revision_nueva_sha256": "765bd7f516c7162b17e095f9f8f0d5469057eed64a769f19dcb776f6581f1803",
+      "autor_integracion": "sistema.integracion_adjudicaciones",
+      "tipo": "DERIVACION_AUTOMATICA_DE_DECISIONES_HUMANAS"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000350",
+      "revision_nueva": 4,
+      "revision_original_sha256": "afdd4d7162b07e297ab3c82cdbaa741dd20fce71f32eaa217c0aca594beecf5f",
+      "revision_nueva_sha256": "fb5790224303f9d35f48507af060c0bf2e3b9141a2c6a868b073c232fb0fd8a7",
+      "autor_integracion": "sistema.integracion_adjudicaciones",
+      "tipo": "DERIVACION_AUTOMATICA_DE_DECISIONES_HUMANAS"
+    }
+  ],
+  "copia_dataset": "datasets/calidad_botellas/v002/experiments/detection_manual_v001/dataset_tapa_adjudicado_fase23_001",
+  "anotaciones_originales_modificadas": false,
+  "segunda_revision_independiente": "NO_ACREDITADA",
+  "exportacion_entrenamiento": false
+}

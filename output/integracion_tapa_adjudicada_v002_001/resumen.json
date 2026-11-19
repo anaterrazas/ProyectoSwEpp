@@ -1,0 +1,31 @@
+{
+  "frames": 25,
+  "cajas": {
+    "ENVASE": 101,
+    "TAPA": 143
+  },
+  "cajas_evaluables": {
+    "ENVASE": 100,
+    "TAPA": 143
+  },
+  "visibilidad_tapas": {
+    "TOTALMENTE_VISIBLE": 1,
+    "OCLUIDA": 11,
+    "PARCIAL": 131
+  },
+  "por_video": {
+    "vid_557eef7acddd10c7439ddd8f": {
+      "ENVASE": 101,
+      "TAPA": 125
+    },
+    "vid_8a2b94bcf49a24212a443df0": {
+      "TAPA": 18
+    }
+  },
+  "conflictos_semanticos_pendientes": [],
+  "decisiones_integradas": 7,
+  "revisiones_derivadas": 7,
+  "suficiente_entrenamiento_segun_anotador": false,
+  "entrenamiento_autorizado": false,
+  "metricas_ia_nuevas": false
+}

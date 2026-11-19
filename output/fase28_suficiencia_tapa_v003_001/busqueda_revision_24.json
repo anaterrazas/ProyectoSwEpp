@@ -1,0 +1,62 @@
+{
+  "registros_decision_en_output": [
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000001/decision.json",
+      "image_id": 9,
+      "sha256": "311143988f87e13f1ccb05c60cc0661f27f5c39c514055b3fed9e2d06738f8a2"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000002/decision.json",
+      "image_id": 9,
+      "sha256": "6f0c0451c6da1623505923ae2d8d3fb5bbd5d69febc89af67a348a978606bc17"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000003/decision.json",
+      "image_id": 9,
+      "sha256": "f1a332dc1eaf8272db8545aa196097ed83164d2ec34d4244780a250736d6a244"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000004/decision.json",
+      "image_id": 38,
+      "sha256": "09fdea918390838a9c604709256deebabd32e2d75667a7e720e413234cff8a39"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000005/decision.json",
+      "image_id": 42,
+      "sha256": "c21899a60510a696f9502c377d6a598ed921fb1056eef9298842599e38d02c0d"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000006/decision.json",
+      "image_id": 60,
+      "sha256": "abd31e2b4fc7cabd9707193e65c979a4f32a288c6d1c3417403818047ee52001"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000007/decision.json",
+      "image_id": 95,
+      "sha256": "f58d79e925e91590b611bb81f007d75f1d4c51da69a7066edc312629c66b8513"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000008/decision.json",
+      "image_id": 165,
+      "sha256": "16e5a50c86eb83f4954209d9237a953aa1a490f1d16d2d9c9df91a2da4a85bab"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000009/decision.json",
+      "image_id": 223,
+      "sha256": "a73344a7290d76046a62dcc71d92764cd952d7c8bb727a404ebea72814e5083f"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000010/decision.json",
+      "image_id": 223,
+      "sha256": "eb164049462b184ff7f44068aa172b7dfd05c22af7391422281f2e7b6176eb8d"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000011/decision.json",
+      "image_id": 9,
+      "sha256": "8bcd2660d37c5f692f0a27c9b3874b204d3290252a81c21c3e5ab7af331175d7"
+    }
+  ],
+  "registros_imagen24": [],
+  "almacenamiento_borradores_cliente": "No hay localStorage, sessionStorage ni IndexedDB en el anotador v4; cambios sin guardar viven solo en memoria.",
+  "alcance": "Registros y representaciones locales en el proyecto; no se inspeccionaron carpetas personales ajenas al proyecto."
+}

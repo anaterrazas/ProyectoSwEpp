@@ -1,0 +1,78 @@
+{
+  "metodo": "Chrome headless/CDP local; sin dependencias nuevas",
+  "plantillaDirectaBloqueada": true,
+  "listadoRenderizado": true,
+  "reporteRenderizado": true,
+  "coberturaMostrada": true,
+  "imagenes": [],
+  "listaVideos": [
+    {
+      "url": "http://127.0.0.1:8010/media/videos/trabajadores.mp4",
+      "duracion": 4.926667,
+      "readyState": 4,
+      "tiempoReproducido": 0.660063,
+      "error": null
+    },
+    {
+      "url": "http://127.0.0.1:8010/media/fuentes/epp_largo.mp4",
+      "duracion": 10.133333,
+      "readyState": 4,
+      "tiempoReproducido": 0.660035,
+      "error": null
+    }
+  ],
+  "revisionVideos": [
+    {
+      "url": "http://127.0.0.1:8010/media/videos/trabajadores.mp4",
+      "duracion": 4.926667,
+      "readyState": 4,
+      "tiempoReproducido": 0.659607,
+      "error": null
+    },
+    {
+      "url": "http://127.0.0.1:8010/media/resultados_ia/camara_1/89dea6db38f940e5a538f9e3f7e4c471/resultado_epp.mp4",
+      "duracion": 4.88,
+      "readyState": 4,
+      "tiempoReproducido": 0.7098,
+      "error": null
+    }
+  ],
+  "calidadVideos": [
+    {
+      "url": "http://127.0.0.1:8010/media/fuentes/produccion.mp4",
+      "duracion": 8.681667,
+      "readyState": 4,
+      "tiempoReproducido": 0.660047,
+      "error": null
+    },
+    {
+      "url": "http://127.0.0.1:8010/media/fuentes/prueba2.mp4",
+      "duracion": 13.566667,
+      "readyState": 4,
+      "tiempoReproducido": 0.659611,
+      "error": null
+    },
+    {
+      "url": "http://127.0.0.1:8010/media/fuentes/tapas.mp4",
+      "duracion": 9.001667,
+      "readyState": 4,
+      "tiempoReproducido": 0.661112,
+      "error": null
+    },
+    {
+      "url": "http://127.0.0.1:8010/media/fuentes/botellasSinTapa.mp4",
+      "duracion": 15.978,
+      "readyState": 4,
+      "tiempoReproducido": 0.660109,
+      "error": null
+    },
+    {
+      "url": "http://127.0.0.1:8010/media/fuentes/produccion_prueba_02.mp4",
+      "duracion": 33.94,
+      "readyState": 4,
+      "tiempoReproducido": 0.661064,
+      "error": null
+    }
+  ],
+  "todosReproducidos": true
+}

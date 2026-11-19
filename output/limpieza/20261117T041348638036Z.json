@@ -1,0 +1,132 @@
+{
+  "removed": [
+    {
+      "path": "administracion\\__pycache__",
+      "files": [
+        "administracion\\__pycache__\\admin.cpython-313.pyc",
+        "administracion\\__pycache__\\apps.cpython-313.pyc",
+        "administracion\\__pycache__\\models.cpython-313.pyc",
+        "administracion\\__pycache__\\tests.cpython-313.pyc",
+        "administracion\\__pycache__\\__init__.cpython-313.pyc"
+      ],
+      "bytes": 7559
+    },
+    {
+      "path": "config\\__pycache__",
+      "files": [
+        "config\\__pycache__\\settings.cpython-313.pyc",
+        "config\\__pycache__\\urls.cpython-313.pyc",
+        "config\\__pycache__\\wsgi.cpython-313.pyc",
+        "config\\__pycache__\\__init__.cpython-313.pyc"
+      ],
+      "bytes": 4454
+    },
+    {
+      "path": "monitoreo\\__pycache__",
+      "files": [
+        "monitoreo\\__pycache__\\admin.cpython-313.pyc",
+        "monitoreo\\__pycache__\\apps.cpython-313.pyc",
+        "monitoreo\\__pycache__\\models.cpython-313.pyc",
+        "monitoreo\\__pycache__\\tests.cpython-313.pyc",
+        "monitoreo\\__pycache__\\urls.cpython-313.pyc",
+        "monitoreo\\__pycache__\\views.cpython-313.pyc",
+        "monitoreo\\__pycache__\\__init__.cpython-313.pyc"
+      ],
+      "bytes": 8934
+    },
+    {
+      "path": "produccion\\__pycache__",
+      "files": [
+        "produccion\\__pycache__\\admin.cpython-313.pyc",
+        "produccion\\__pycache__\\apps.cpython-313.pyc",
+        "produccion\\__pycache__\\calidad.cpython-313.pyc",
+        "produccion\\__pycache__\\consultas.cpython-313.pyc",
+        "produccion\\__pycache__\\detectores.cpython-313.pyc",
+        "produccion\\__pycache__\\forms.cpython-313.pyc",
+        "produccion\\__pycache__\\models.cpython-313.pyc",
+        "produccion\\__pycache__\\tests.cpython-313.pyc",
+        "produccion\\__pycache__\\test_consultas.cpython-313.pyc",
+        "produccion\\__pycache__\\test_registro_manual.cpython-313.pyc",
+        "produccion\\__pycache__\\uploads.cpython-313.pyc",
+        "produccion\\__pycache__\\urls.cpython-313.pyc",
+        "produccion\\__pycache__\\videos.cpython-313.pyc",
+        "produccion\\__pycache__\\views.cpython-313.pyc",
+        "produccion\\__pycache__\\__init__.cpython-313.pyc"
+      ],
+      "bytes": 127359
+    },
+    {
+      "path": "reportes\\__pycache__",
+      "files": [
+        "reportes\\__pycache__\\admin.cpython-313.pyc",
+        "reportes\\__pycache__\\apps.cpython-313.pyc",
+        "reportes\\__pycache__\\models.cpython-313.pyc",
+        "reportes\\__pycache__\\tests.cpython-313.pyc",
+        "reportes\\__pycache__\\urls.cpython-313.pyc",
+        "reportes\\__pycache__\\views.cpython-313.pyc",
+        "reportes\\__pycache__\\__init__.cpython-313.pyc"
+      ],
+      "bytes": 3452
+    },
+    {
+      "path": "seguridad\\__pycache__",
+      "files": [
+        "seguridad\\__pycache__\\admin.cpython-313.pyc",
+        "seguridad\\__pycache__\\apps.cpython-313.pyc",
+        "seguridad\\__pycache__\\models.cpython-313.pyc",
+        "seguridad\\__pycache__\\tests.cpython-313.pyc",
+        "seguridad\\__pycache__\\__init__.cpython-313.pyc"
+      ],
+      "bytes": 3960
+    },
+    {
+      "path": "seguridad\\migrations\\__pycache__",
+      "files": [
+        "seguridad\\migrations\\__pycache__\\0001_initial.cpython-313.pyc",
+        "seguridad\\migrations\\__pycache__\\__init__.cpython-313.pyc"
+      ],
+      "bytes": 2117
+    },
+    {
+      "path": "reportes\\migrations\\__pycache__",
+      "files": [
+        "reportes\\migrations\\__pycache__\\__init__.cpython-313.pyc"
+      ],
+      "bytes": 157
+    },
+    {
+      "path": "produccion\\migrations\\__pycache__",
+      "files": [
+        "produccion\\migrations\\__pycache__\\0001_initial.cpython-313.pyc",
+        "produccion\\migrations\\__pycache__\\0002_loteproduccion.cpython-313.pyc",
+        "produccion\\migrations\\__pycache__\\0003_analisisproduccion.cpython-313.pyc",
+        "produccion\\migrations\\__pycache__\\0004_inspeccioncalidad.cpython-313.pyc",
+        "produccion\\migrations\\__pycache__\\0005_producto_tipo_producto_producto_tipo_admitido.cpython-313.pyc",
+        "produccion\\migrations\\__pycache__\\0006_analisisproduccion_origen_and_more.cpython-313.pyc",
+        "produccion\\migrations\\__pycache__\\__init__.cpython-313.pyc"
+      ],
+      "bytes": 11145
+    },
+    {
+      "path": "monitoreo\\migrations\\__pycache__",
+      "files": [
+        "monitoreo\\migrations\\__pycache__\\__init__.cpython-313.pyc"
+      ],
+      "bytes": 158
+    },
+    {
+      "path": "administracion\\migrations\\__pycache__",
+      "files": [
+        "administracion\\migrations\\__pycache__\\0001_initial.cpython-313.pyc",
+        "administracion\\migrations\\__pycache__\\0002_equipoproteccion_areatrabajo.cpython-313.pyc",
+        "administracion\\migrations\\__pycache__\\0003_camara.cpython-313.pyc",
+        "administracion\\migrations\\__pycache__\\__init__.cpython-313.pyc"
+      ],
+      "bytes": 5528
+    }
+  ],
+  "files_removed": 58,
+  "bytes_removed": 174823,
+  "protected_changed": [],
+  "scope": "Only untracked Python bytecode caches; no datasets, media, backups, models or code deleted"
+}

@@ -1,0 +1,33 @@
+{
+  "revision_global": 9,
+  "conflictos_resueltos": [
+    31,
+    123,
+    134,
+    204,
+    324,
+    567,
+    773
+  ],
+  "conflictos_pendientes": [],
+  "imagenes_revisadas": 7,
+  "imagenes_cobertura_completa": [
+    38,
+    165,
+    223
+  ],
+  "imagen24_estado": "PENDIENTE",
+  "cajas_nuevas": 0,
+  "entrenamiento_autorizado": false,
+  "independencia_grupos": "NO_CERTIFICADA",
+  "grupos_indivisibles": 14,
+  "grupos_publicos_previos": 202,
+  "negativo_inferido": false,
+  "referencia_propia_excluida": true,
+  "fuentes_originales_modificadas": false,
+  "motivos_bloqueo": [
+    "Revisar cierre de adjudicación",
+    "Exhaustividad del conjunto reservado pendiente",
+    "Independencia y procedencia de grupos sin certificar"
+  ]
+}

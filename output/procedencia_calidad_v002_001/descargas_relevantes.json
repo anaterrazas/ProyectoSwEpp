@@ -1,0 +1,7 @@
+[
+  {
+    "browser": "Edge",
+    "profile": "Default",
+    "error": "OperationalError: database is locked"
+  }
+]

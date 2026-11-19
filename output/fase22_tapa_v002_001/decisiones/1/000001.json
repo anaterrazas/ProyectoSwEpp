@@ -1,0 +1,25 @@
+{
+  "revision": 1,
+  "hash_anterior": null,
+  "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+  "box_id": "011cc367-0a4f-4dae-b3e3-414a0f0e6e95",
+  "clase_original": "ENVASE",
+  "revision_original_sha256": "52ea8a256db60d8cbb2ab6a417ae1ab4fade15eb6fcb81d6e1a573047654f053",
+  "bbox_original": [
+    633.9881009178334,
+    0,
+    786.7242450891142,
+    98.10179315964241
+  ],
+  "nota_original": "tapa roja",
+  "estado": "ADJUDICADO",
+  "clase_adjudicada": "TAPA",
+  "evaluabilidad_adjudicada": null,
+  "autor": "Ana",
+  "cuenta_usuario": "piloto",
+  "fecha_utc": "2026-11-18T14:31:58.822975+00:00",
+  "justificacion": "La región delimitada corresponde a una tapa roja colocada sobre la boca del envase. La clase ENVASE registrada originalmente es incorrecta. Se adjudica como TAPA.",
+  "segunda_revision_independiente": "NO_ACREDITADA",
+  "aplicado_a_anotaciones": false,
+  "habilita_entrenamiento": false
+}

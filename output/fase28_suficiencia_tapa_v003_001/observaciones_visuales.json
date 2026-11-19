@@ -1,0 +1,278 @@
+[
+  {
+    "image_id": 5,
+    "group_id": "v4g04",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapas verdes visibles en botellas del fondo sin cajas específicas.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 24,
+    "group_id": "v4g06",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Varias tapas verdes de fondo sin cajas; no existe revisión humana guardada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 38,
+    "group_id": "v4g06",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa de primer plano y tapas de fondo sin cajas TAPA tras reclasificar 123 como ENVASE.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 42,
+    "group_id": "v4g03",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa verde visible en botella izquierda sin caja específica; región derecha adjudicada NO EVALUABLE.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 63,
+    "group_id": "v4g01",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa verde central sin caja; las otras dos sí tienen cajas.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 87,
+    "group_id": "v4g11",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa azul en botella tumbada; cero cajas cap fuente. Marca COLOURBOX visible.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 89,
+    "group_id": "v4g03",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa verde sobre botella en cinta izquierda sin caja.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 90,
+    "group_id": "v4g11",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Variante de imagen 87, tapa azul sin caja; marca COLOURBOX.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 95,
+    "group_id": "v4g03",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa verde izquierda sin caja específica; boca derecha adjudicada NO EVALUABLE.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 96,
+    "group_id": "v4g03",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa verde izquierda sin caja.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 115,
+    "group_id": "v4g03",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa verde en botella superior de la cinta izquierda sin caja.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 123,
+    "group_id": "v4g04",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Segunda botella inclinada tiene tapa azul sin caja.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 131,
+    "group_id": "v4g01",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa azul visible; ninguna caja cap. Marca Dreamstime visible.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 158,
+    "group_id": "v4g03",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa de botella del extremo derecho sin caja específica.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 163,
+    "group_id": "v4g04",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapas azules laterales de botellas de fondo sin cajas específicas.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 165,
+    "group_id": "v4g10",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Nota humana confirma tapa azul; la única caja fue reclasificada ENVASE y no se agregó TAPA.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 172,
+    "group_id": "v4g03",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa verde sobre botella en cinta izquierda sin caja.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 173,
+    "group_id": "v4g03",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa verde sobre botella en cinta izquierda sin caja.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 184,
+    "group_id": "v4g03",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa verde izquierda sin caja; par automático con 160, que sí tiene una caja.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 192,
+    "group_id": "v4g03",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa verde izquierda sin caja.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 198,
+    "group_id": "v4g03",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa verde izquierda sin caja.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 203,
+    "group_id": "v4g03",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa verde izquierda sin caja.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 205,
+    "group_id": "v4g01",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapas blancas visibles sin ninguna caja cap.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 209,
+    "group_id": "v4g03",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa verde izquierda sin caja.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 221,
+    "group_id": "v4g03",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapas azules visibles en la línea; cero cajas cap fuente.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 225,
+    "group_id": "v4g01",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa blanca de botella derecha sin caja.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 229,
+    "group_id": "v4g01",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa azul del envase delantero sin caja; requiere revisar el límite superior del encuadre.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 235,
+    "group_id": "v4g01",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa de segunda botella desde la izquierda sin caja.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 245,
+    "group_id": "v4g01",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Seis botellas con tapas visibles y una sola caja cap registrada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 256,
+    "group_id": "v4g03",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Tapa verde izquierda sin caja.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 257,
+    "group_id": "v4g10",
+    "tipo": "OMISION_VISUAL_A_CORREGIR",
+    "observacion": "Cinco botellas con tapas verdes, algunas parciales, y solo dos cajas cap.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 62,
+    "group_id": "v4g01",
+    "tipo": "DUDOSA_O_FUERA_DE_CAMPO",
+    "observacion": "Región de tapa fuera del recorte: no convertir en negativo.",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 73,
+    "group_id": "v4g01",
+    "tipo": "DUDOSA_O_FUERA_DE_CAMPO",
+    "observacion": "Desenfoque visible; caja azul plausible pero precisión de borde limitada.",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 202,
+    "group_id": "v4g04",
+    "tipo": "DUDOSA_O_FUERA_DE_CAMPO",
+    "observacion": "Foto recortada al cuerpo/etiqueta: tapa fuera de campo; no es un negativo confirmado.",
+    "es_etiqueta_humana": false
+  },
+  {
+    "image_id": 208,
+    "group_id": "v4g03",
+    "tipo": "DUDOSA_O_FUERA_DE_CAMPO",
+    "observacion": "Tapas pequeñas, desenfoque/sobreexposición al fondo; alcance de evaluabilidad sin confirmar.",
+    "es_etiqueta_humana": false
+  }
+]

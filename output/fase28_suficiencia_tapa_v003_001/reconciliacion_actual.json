@@ -1,0 +1,30 @@
+{
+  "imagen_9": {
+    "estado": "RESUELTO",
+    "revision": 11,
+    "exhaustividad": "COMPLETA",
+    "accion": "Se reconoce la decisión nueva; no se cambia v003 congelado en revisión 10."
+  },
+  "imagen_24": {
+    "estado": "NO_RECUPERADA",
+    "version_guardada": null,
+    "accion": "No crear una decisión. El cliente no tiene almacenamiento persistente de borradores."
+  },
+  "imagen_38": {
+    "estado": "PERSISTE_INCONSISTENCIA",
+    "revision": 4,
+    "nuevas_cajas": 0,
+    "exhaustividad": "COMPLETA"
+  },
+  "imagen_165": {
+    "estado": "PERSISTE_INCONSISTENCIA",
+    "revision": 8,
+    "nuevas_cajas": 0,
+    "exhaustividad": "COMPLETA"
+  },
+  "imagen_60": {
+    "estado": "ALCANCE_PENDIENTE",
+    "revision": 6,
+    "detalle": "203=TAPA/TOTAL y 204=NO_EVALUABLE/TOTAL, con NO_EVALUABLE global. El positivo local se conserva; no aprobar alcance global automáticamente."
+  }
+}

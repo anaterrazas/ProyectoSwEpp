@@ -1,0 +1,8 @@
+test_export_identity_or_license_must_match (ml.calidad_botellas.test_import_public.PublicImportTests.test_export_identity_or_license_must_match) ... ok
+test_unsafe_path_and_invalid_box_rejected (ml.calidad_botellas.test_import_public.PublicImportTests.test_unsafe_path_and_invalid_box_rejected) ... ok
+test_coco_parser_and_unknown_class (ml.calidad_botellas.test_import_public.PublicImportTests.test_coco_parser_and_unknown_class) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.038s
+
+OK

@@ -1,0 +1,133 @@
+{
+  "generated_at_utc": "2026-11-18T14:39:42.490374+00:00",
+  "frames": 25,
+  "videos": 2,
+  "reviewed_frames": 25,
+  "unfinished_frames": 0,
+  "objects_including_drafts": {
+    "ENVASE": 101,
+    "TAPA": 143
+  },
+  "reviewed_objects": {
+    "ENVASE": 101,
+    "TAPA": 143
+  },
+  "reviewed_objects_by_partition": {
+    "UNASSIGNED": {
+      "ENVASE": 101,
+      "TAPA": 143
+    },
+    "train": {
+      "ENVASE": 0,
+      "TAPA": 0
+    },
+    "validation": {
+      "ENVASE": 0,
+      "TAPA": 0
+    },
+    "test": {
+      "ENVASE": 0,
+      "TAPA": 0
+    }
+  },
+  "declared_physical_ids": [],
+  "object_observations_without_physical_id": 244,
+  "not_evaluable_objects": 1,
+  "by_video": {
+    "vid_557eef7acddd10c7439ddd8f": {
+      "frames": 15,
+      "reviewed_frames": 15,
+      "ENVASE": 101,
+      "TAPA": 125,
+      "splits": {
+        "UNASSIGNED": 15
+      }
+    },
+    "vid_8a2b94bcf49a24212a443df0": {
+      "frames": 10,
+      "reviewed_frames": 10,
+      "ENVASE": 0,
+      "TAPA": 18,
+      "splits": {
+        "UNASSIGNED": 10
+      }
+    }
+  },
+  "partition_frames": {
+    "UNASSIGNED": 25
+  },
+  "eligible_frames_by_split": {
+    "UNASSIGNED": 24
+  },
+  "components": [
+    {
+      "component_id": "grp_2b90628f1ec6dc60444b",
+      "sample_ids": [
+        "vid_557eef7acddd10c7439ddd8f_f000000",
+        "vid_557eef7acddd10c7439ddd8f_f000030",
+        "vid_557eef7acddd10c7439ddd8f_f000060",
+        "vid_557eef7acddd10c7439ddd8f_f000090",
+        "vid_557eef7acddd10c7439ddd8f_f000120",
+        "vid_557eef7acddd10c7439ddd8f_f000150",
+        "vid_557eef7acddd10c7439ddd8f_f000180",
+        "vid_557eef7acddd10c7439ddd8f_f000210",
+        "vid_557eef7acddd10c7439ddd8f_f000240",
+        "vid_557eef7acddd10c7439ddd8f_f000270",
+        "vid_557eef7acddd10c7439ddd8f_f000300",
+        "vid_557eef7acddd10c7439ddd8f_f000330",
+        "vid_557eef7acddd10c7439ddd8f_f000360",
+        "vid_557eef7acddd10c7439ddd8f_f000390",
+        "vid_557eef7acddd10c7439ddd8f_f000405",
+        "vid_8a2b94bcf49a24212a443df0_f000000",
+        "vid_8a2b94bcf49a24212a443df0_f000050",
+        "vid_8a2b94bcf49a24212a443df0_f000100",
+        "vid_8a2b94bcf49a24212a443df0_f000150",
+        "vid_8a2b94bcf49a24212a443df0_f000200",
+        "vid_8a2b94bcf49a24212a443df0_f000250",
+        "vid_8a2b94bcf49a24212a443df0_f000300",
+        "vid_8a2b94bcf49a24212a443df0_f000350",
+        "vid_8a2b94bcf49a24212a443df0_f000400",
+        "vid_8a2b94bcf49a24212a443df0_f000449"
+      ],
+      "video_ids": [
+        "vid_557eef7acddd10c7439ddd8f",
+        "vid_8a2b94bcf49a24212a443df0"
+      ],
+      "split": "UNASSIGNED"
+    }
+  ],
+  "exact_duplicate_pairs": [],
+  "visual_similarity_candidates": [],
+  "annotation_warnings": [
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000000",
+      "box_id": "a6a9ee37-6940-4d35-a7a2-9779ec88593b",
+      "reason": "region_under_16_pixels"
+    }
+  ],
+  "hashes_verified": true,
+  "possible_blur_frames_laplacian_below_50": [
+    "vid_8a2b94bcf49a24212a443df0_f000000",
+    "vid_8a2b94bcf49a24212a443df0_f000050",
+    "vid_8a2b94bcf49a24212a443df0_f000100",
+    "vid_8a2b94bcf49a24212a443df0_f000150",
+    "vid_8a2b94bcf49a24212a443df0_f000200",
+    "vid_8a2b94bcf49a24212a443df0_f000250",
+    "vid_8a2b94bcf49a24212a443df0_f000300",
+    "vid_8a2b94bcf49a24212a443df0_f000350",
+    "vid_8a2b94bcf49a24212a443df0_f000400",
+    "vid_8a2b94bcf49a24212a443df0_f000449"
+  ],
+  "low_resolution_frames_under_640x480": [],
+  "unknown_session_video_ids": [
+    "vid_557eef7acddd10c7439ddd8f",
+    "vid_8a2b94bcf49a24212a443df0"
+  ],
+  "license_pending_video_ids": [
+    "vid_557eef7acddd10c7439ddd8f",
+    "vid_8a2b94bcf49a24212a443df0"
+  ],
+  "sufficient_for_training": false,
+  "verdict": "NO PREPARADO: requiere anotación exhaustiva, revisión, derechos confirmados y evaluación independiente por origen; número de cajas no equivale a objetos físicos",
+  "quality_predictions": "NO DISPONIBLE; ninguna clase de defecto se infiere de cajas"
+}

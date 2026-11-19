@@ -1,0 +1,25 @@
+{
+  "revision": 1,
+  "hash_anterior": null,
+  "sample_id": "vid_8a2b94bcf49a24212a443df0_f000250",
+  "box_id": "4bacdeaa-1c24-49d7-9e8a-24627c32c6b2",
+  "clase_original": "ENVASE",
+  "revision_original_sha256": "b011d8490a24d2eaeee744a0876eadf2fbb3c98361d03fd3282d86c8400a409d",
+  "bbox_original": [
+    522.3536125020154,
+    276.44868129625564,
+    730.6798928703096,
+    498.15711564574366
+  ],
+  "nota_original": "tapa amarilla",
+  "estado": "ADJUDICADO",
+  "clase_adjudicada": "TAPA",
+  "evaluabilidad_adjudicada": null,
+  "autor": "Ana",
+  "cuenta_usuario": "piloto",
+  "fecha_utc": "2026-11-18T14:35:45.386996+00:00",
+  "justificacion": "La región delimitada corresponde a una tapa amarilla. La clase ENVASE registrada originalmente es incorrecta. Se adjudica como TAPA. Copiar",
+  "segunda_revision_independiente": "NO_ACREDITADA",
+  "aplicado_a_anotaciones": false,
+  "habilita_entrenamiento": false
+}

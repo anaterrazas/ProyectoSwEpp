@@ -1,0 +1,30 @@
+{
+  "autor": "Ana",
+  "justificacion": "La tapa verde se encuentra colocada y es claramente visible en la boca de la botella. No se identifican regiones que impidan evaluar su presencia.",
+  "decisiones": [
+    {
+      "annotation_id": 123,
+      "clase": "ENVASE",
+      "visibilidad": "PARCIAL",
+      "justificacion": "La caja original delimita el cuerpo de la botella completa en su mayor parte y no corresponde a una tapa. Se reclasifica como ENVASE. La parte inferior está parcialmente fuera del encuadre. La tapa verde se encuentra visible y colocada.",
+      "clase_original": "cap",
+      "bbox_original": [
+        170,
+        255,
+        123.38,
+        384.75
+      ]
+    }
+  ],
+  "nuevas_cajas": [],
+  "exhaustividad": "COMPLETA",
+  "image_id": 38,
+  "imagen_sha256": "3d09a184cb5e8043e23f31a41a0f6ef9d168fd73146576fc4e3b79f1adf77eb3",
+  "revision_global": 4,
+  "hash_decision_anterior": "f1a332dc1eaf8272db8545aa196097ed83164d2ec34d4244780a250736d6a244",
+  "cuenta_usuario": "piloto",
+  "fecha_utc": "2026-11-18T21:45:23.185867+00:00",
+  "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+  "tipo": "REVISION_HUMANA_DECLARADA",
+  "segunda_revision_independiente": "NO_ACREDITADA"
+}

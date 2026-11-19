@@ -1,0 +1,231 @@
+{
+  "paginas": [
+    {
+      "ruta": "/",
+      "titulo": "Sistema de Inspección IA",
+      "ancho": 1440,
+      "contenido": 1425,
+      "plantillas": false,
+      "enlaces": [
+        "/demo/epp/",
+        "/demo/calidad/",
+        "/demo/historial/",
+        "/artefactos/docs/CIERRE_EPP_V002_Y_PLAN_INTEGRACION.md",
+        "/artefactos/docs/MONITOREO_LABORATORIO.md",
+        "/artefactos/docs/PILOTOS.md"
+      ]
+    },
+    {
+      "ruta": "/demo/epp/",
+      "titulo": "Seguridad EPP · Inspección IA",
+      "ancho": 1440,
+      "contenido": 1425,
+      "plantillas": false,
+      "enlaces": [
+        "/monitoreo/",
+        "/demo/historial/",
+        "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/epp_corto_base_vs_candidata.mp4",
+        "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/epp_corto_base_vs_candidata.mp4",
+        "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/epp_largo_base_vs_candidata.mp4",
+        "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/epp_largo_base_vs_candidata.mp4",
+        "/media/videos/trabajadores.mp4",
+        "/media/fuentes/epp_largo.mp4",
+        "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/index.html",
+        "/artefactos/output/experimental_pilotos/auditoria_errores_epp33_v002_001/index.html",
+        "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/INFORME_VIDEOS_EPP.md",
+        "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/plan.json",
+        "/artefactos/output/experimental_pilotos/seguridad_epp_v002_001/modelos_y_parametros.json",
+        "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/errores_33.json",
+        "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/comparacion_temporal.json"
+      ]
+    },
+    {
+      "ruta": "/demo/calidad/",
+      "titulo": "Control de Calidad · Inspección IA",
+      "ancho": 1440,
+      "contenido": 1425,
+      "plantillas": false,
+      "enlaces": [
+        "/artefactos/datasets/calidad_botellas/v002/experiments/individual_v001/runs/piloto_tapa_20261117/processed.mp4",
+        "/artefactos/datasets/calidad_botellas/v002/experiments/individual_v001/runs/piloto_tapa_20261117/processed.mp4",
+        "/media/fuentes/produccion.mp4",
+        "/media/fuentes/prueba2.mp4",
+        "/media/fuentes/tapas.mp4",
+        "/media/fuentes/botellasSinTapa.mp4",
+        "/media/fuentes/produccion_prueba_02.mp4",
+        "/artefactos/output/experimental_pilotos/evaluacion_deteccion_v002_001/index.html",
+        "/artefactos/output/experimental_pilotos/evaluacion_deteccion_v002_001/INFORME.md",
+        "/artefactos/output/experimental_pilotos/evaluacion_deteccion_v002_001/predicciones.json",
+        "/artefactos/output/experimental_pilotos/evaluacion_deteccion_v002_001/conflictos_semanticos.json",
+        "/artefactos/output/experimental_pilotos/evaluacion_deteccion_v002_001/errores.csv",
+        "/artefactos/datasets/calidad_botellas/v002/experiments/individual_v001/runs/piloto_tapa_20261117/report.json",
+        "/artefactos/datasets/calidad_botellas/v002/experiments/individual_v001/runs/piloto_tapa_20261117/reference_domain_profile.json",
+        "/artefactos/datasets/calidad_botellas/v002/experiments/individual_v001/runs/piloto_tapa_20261117/screenshots/frame_000000.jpg",
+        "/artefactos/datasets/calidad_botellas/v002/experiments/individual_v001/runs/piloto_tapa_20261117/screenshots/frame_000199.jpg",
+        "/artefactos/datasets/calidad_botellas/v002/experiments/individual_v001/runs/piloto_tapa_20261117/screenshots/frame_000398.jpg"
+      ]
+    },
+    {
+      "ruta": "/demo/historial/",
+      "titulo": "Historial · Inspección IA",
+      "ancho": 1440,
+      "contenido": 1425,
+      "plantillas": false,
+      "enlaces": [
+        "/artefactos/output/experimental_pilotos/seguridad_epp_v002_001/modelos_y_parametros.json",
+        "/artefactos/output/experimental_pilotos/seguridad_epp_v002_001/INFORME_EPP.md",
+        "/artefactos/output/experimental_pilotos/evaluacion_epp33_v002_001/metricas.json",
+        "/artefactos/output/experimental_pilotos/evaluacion_epp33_v002_001/index.html",
+        "/artefactos/output/experimental_pilotos/auditoria_errores_epp33_v002_001/plan_previo.json",
+        "/artefactos/output/experimental_pilotos/auditoria_errores_epp33_v002_001/index.html",
+        "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/plan.json",
+        "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/index.html",
+        "/artefactos/output/experimental_pilotos/evaluacion_deteccion_v002_001/predicciones.json",
+        "/artefactos/output/experimental_pilotos/evaluacion_deteccion_v002_001/index.html",
+        "/artefactos/datasets/calidad_botellas/v002/experiments/individual_v001/runs/piloto_tapa_20261117/report.json",
+        "/artefactos/datasets/calidad_botellas/v002/experiments/individual_v001/runs/piloto_tapa_20261117/processed.mp4"
+      ]
+    },
+    {
+      "ruta": "/monitoreo/",
+      "titulo": "Monitoreo de Cámaras",
+      "ancho": 1440,
+      "contenido": 1440,
+      "plantillas": false,
+      "enlaces": []
+    },
+    {
+      "ruta": "/calidad/",
+      "titulo": "Calidad · laboratorio",
+      "ancho": 1440,
+      "contenido": 1425,
+      "plantillas": false,
+      "enlaces": []
+    }
+  ],
+  "videos": [
+    {
+      "pagina": "/demo/epp/",
+      "videos": [
+        {
+          "url": "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/epp_corto_base_vs_candidata.mp4",
+          "duracion": 4.88,
+          "tiempo": 0.3046,
+          "error": null
+        },
+        {
+          "url": "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/epp_largo_base_vs_candidata.mp4",
+          "duracion": 10.08,
+          "tiempo": 0.3051,
+          "error": null
+        },
+        {
+          "url": "/media/videos/trabajadores.mp4",
+          "duracion": 4.926667,
+          "tiempo": 0.258327,
+          "error": null
+        },
+        {
+          "url": "/media/fuentes/epp_largo.mp4",
+          "duracion": 10.133333,
+          "tiempo": 0.248904,
+          "error": null
+        }
+      ]
+    },
+    {
+      "pagina": "/demo/calidad/",
+      "videos": [
+        {
+          "url": "/artefactos/datasets/calidad_botellas/v002/experiments/individual_v001/runs/piloto_tapa_20261117/processed.mp4",
+          "duracion": 15.96,
+          "tiempo": 0.311,
+          "error": null
+        },
+        {
+          "url": "/media/fuentes/produccion.mp4",
+          "duracion": 8.681667,
+          "tiempo": 0.260543,
+          "error": null
+        },
+        {
+          "url": "/media/fuentes/prueba2.mp4",
+          "duracion": 13.566667,
+          "tiempo": 0.256936,
+          "error": null
+        },
+        {
+          "url": "/media/fuentes/tapas.mp4",
+          "duracion": 9.001667,
+          "tiempo": 0.275776,
+          "error": null
+        },
+        {
+          "url": "/media/fuentes/botellasSinTapa.mp4",
+          "duracion": 15.978,
+          "tiempo": 0.256835,
+          "error": null
+        },
+        {
+          "url": "/media/fuentes/produccion_prueba_02.mp4",
+          "duracion": 33.94,
+          "tiempo": 0.260088,
+          "error": null
+        }
+      ]
+    }
+  ],
+  "galerias": [
+    {
+      "ruta": "/artefactos/output/experimental_pilotos/comparacion_videos_epp_v002_001/index.html",
+      "imagenes": 132,
+      "rotas": [],
+      "casos": 33
+    },
+    {
+      "ruta": "/artefactos/output/experimental_pilotos/evaluacion_epp33_v002_001/index.html",
+      "imagenes": 99,
+      "rotas": [],
+      "casos": 33
+    },
+    {
+      "ruta": "/artefactos/output/experimental_pilotos/auditoria_errores_epp33_v002_001/index.html",
+      "imagenes": 251,
+      "rotas": [],
+      "casos": 83,
+      "filtro": {
+        "seleccion": "CASCO",
+        "visibles": 20
+      }
+    },
+    {
+      "ruta": "/artefactos/output/experimental_pilotos/evaluacion_deteccion_v002_001/index.html",
+      "imagenes": 50,
+      "rotas": [],
+      "casos": 25
+    }
+  ],
+  "movil": [
+    {
+      "ruta": "/",
+      "ancho": 390,
+      "contenido": 390
+    },
+    {
+      "ruta": "/demo/epp/",
+      "ancho": 390,
+      "contenido": 390
+    },
+    {
+      "ruta": "/demo/calidad/",
+      "ancho": 390,
+      "contenido": 390
+    },
+    {
+      "ruta": "/demo/historial/",
+      "ancho": 390,
+      "contenido": 390
+    }
+  ],
+  "ok": true
+}

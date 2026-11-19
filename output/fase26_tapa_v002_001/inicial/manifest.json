@@ -1,0 +1,42 @@
+{
+  "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+  "fuente_candidato_sha256": "68d4d17cbc47712b2d13f4dd06f01d8eb9675370876ac8ff4256afd3844ee1dc",
+  "imagenes_verificadas": 262,
+  "cajas_fuente": 180,
+  "grupos": {
+    "v4g01": "train",
+    "v4g02": "train",
+    "v4g03": "test",
+    "v4g04": "validation",
+    "v4g05": "PENDIENTE",
+    "v4g06": "PENDIENTE",
+    "v4g07": "PENDIENTE",
+    "v4g08": "PENDIENTE",
+    "v4g09": "PENDIENTE",
+    "v4g10": "PENDIENTE",
+    "v4g11": "PENDIENTE",
+    "v4g12": "PENDIENTE",
+    "v4g13": "PENDIENTE",
+    "v4g14": "PENDIENTE"
+  },
+  "restricciones_202": {
+    "origen": "datasets/publicos_calidad_botellas/selections/pretrain_v001/split_proposal.jsonl",
+    "sha256": "1f504337bf103b0848d60ef8ceb605022a940bc48b7ae2058eaabdf8b1ff4d1d",
+    "imagenes": 8477,
+    "grupos": 202,
+    "cruces_actuales": 0,
+    "restricciones": [
+      "No dividir ning?n grupo existente al a?adir v4",
+      "Unir grupos si se detecta origen compartido o duplicados v4",
+      "Si una fusi?n cruza splits previos, reasignar el componente completo antes de aprobar",
+      "262 im?genes publicadas no equivale a 262 im?genes ?nicas adicionales",
+      "No adoptar train=262 como partici?n final"
+    ]
+  },
+  "decisiones_humanas": 0,
+  "entrenamiento_autorizado": false,
+  "sha256": {
+    "dataset.jsonl": "1ffa5f38e393f737c18640d091a80692e505bc0985435f6503796a9af4b05ce3",
+    "estado.json": "14eecb60e4294f1a63bec5b26ab5ac631dcfb5fcce817408d5685044befa6384"
+  }
+}

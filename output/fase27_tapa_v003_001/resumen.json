@@ -1,0 +1,231 @@
+{
+  "version": "TAPA_v003_candidato_001",
+  "estado": "NO_PREPARADO_PARA_ENTRENAMIENTO_EXPERIMENTAL",
+  "imagenes": 262,
+  "cajas_fuente": 180,
+  "cajas_finales": {
+    "TAPA": 173,
+    "ENVASE": 3,
+    "NO_EVALUABLE": 4
+  },
+  "cajas_fuente_retenidas": 180,
+  "cajas_excluidas_de_positivos": 4,
+  "cajas_nuevas": 0,
+  "tapa_con_revision_humana": 1,
+  "tapa_solo_etiqueta_fuente": 172,
+  "conflictos": {
+    "31": {
+      "image_id": 9,
+      "clase": "ENVASE",
+      "visibilidad": "TOTAL",
+      "revision": 3,
+      "guardada": true,
+      "resuelto": true
+    },
+    "123": {
+      "image_id": 38,
+      "clase": "ENVASE",
+      "visibilidad": "PARCIAL",
+      "revision": 4,
+      "guardada": true,
+      "resuelto": true
+    },
+    "134": {
+      "image_id": 42,
+      "clase": "NO_EVALUABLE",
+      "visibilidad": "DUDOSA",
+      "revision": 5,
+      "guardada": true,
+      "resuelto": true
+    },
+    "204": {
+      "image_id": 60,
+      "clase": "NO_EVALUABLE",
+      "visibilidad": "TOTAL",
+      "revision": 6,
+      "guardada": true,
+      "resuelto": true
+    },
+    "324": {
+      "image_id": 95,
+      "clase": "NO_EVALUABLE",
+      "visibilidad": "DUDOSA",
+      "revision": 7,
+      "guardada": true,
+      "resuelto": true
+    },
+    "567": {
+      "image_id": 165,
+      "clase": "ENVASE",
+      "visibilidad": "TOTAL",
+      "revision": 8,
+      "guardada": true,
+      "resuelto": true
+    },
+    "773": {
+      "image_id": 223,
+      "clase": "NO_EVALUABLE",
+      "visibilidad": "TOTAL",
+      "revision": 10,
+      "guardada": true,
+      "resuelto": true
+    }
+  },
+  "conflictos_pendientes": [],
+  "revisiones_globales": 10,
+  "imagenes_revisadas": 7,
+  "cobertura_declarada": {
+    "SIN_REVISION": 255,
+    "PENDIENTE": 1,
+    "COMPLETA": 3,
+    "NO_EVALUABLE": 3
+  },
+  "visibilidad_por_clase": {
+    "TAPA": {
+      "NO_REVISADA": 172,
+      "TOTAL": 1
+    },
+    "ENVASE": {
+      "TOTAL": 2,
+      "PARCIAL": 1
+    },
+    "NO_EVALUABLE": {
+      "DUDOSA": 2,
+      "TOTAL": 2
+    }
+  },
+  "particiones": {
+    "train": {
+      "imagenes": 173,
+      "TAPA": 76,
+      "ENVASE": 1,
+      "excluidas": 1,
+      "nuevas": 0,
+      "grupos": [
+        "v4g01",
+        "v4g02"
+      ],
+      "cobertura": {
+        "SIN_REVISION": 171,
+        "PENDIENTE": 1,
+        "COMPLETA": 1
+      }
+    },
+    "test": {
+      "imagenes": 41,
+      "TAPA": 41,
+      "ENVASE": 0,
+      "excluidas": 2,
+      "nuevas": 0,
+      "grupos": [
+        "v4g03"
+      ],
+      "cobertura": {
+        "SIN_REVISION": 39,
+        "NO_EVALUABLE": 2
+      }
+    },
+    "validation": {
+      "imagenes": 25,
+      "TAPA": 36,
+      "ENVASE": 0,
+      "excluidas": 1,
+      "nuevas": 0,
+      "grupos": [
+        "v4g04"
+      ],
+      "cobertura": {
+        "SIN_REVISION": 24,
+        "NO_EVALUABLE": 1
+      }
+    },
+    "PENDIENTE": {
+      "imagenes": 23,
+      "TAPA": 20,
+      "ENVASE": 2,
+      "excluidas": 0,
+      "nuevas": 0,
+      "grupos": [
+        "v4g05",
+        "v4g06",
+        "v4g07",
+        "v4g08",
+        "v4g09",
+        "v4g10",
+        "v4g11",
+        "v4g12",
+        "v4g13",
+        "v4g14"
+      ],
+      "cobertura": {
+        "SIN_REVISION": 21,
+        "COMPLETA": 2
+      }
+    }
+  },
+  "incidencias": [
+    {
+      "image_id": 9,
+      "codigo": "TEXTO_COMPLETO_ESTADO_PENDIENTE",
+      "revision": 3,
+      "evidencia_humana": "Imagen revisada completamente. La botella presenta el cuello y la boca visibles, sin tapa colocada. No existen regiones que impidan evaluar la presencia de tapa.",
+      "detalle": "El texto declara revisión completa; el selector guardado sigue PENDIENTE. Se conserva el selector."
+    },
+    {
+      "image_id": 38,
+      "codigo": "TAPA_DESCRITA_SIN_CAJA_TAPA",
+      "revision": 4,
+      "evidencia_humana": "La tapa verde se encuentra colocada y es claramente visible en la boca de la botella. No se identifican regiones que impidan evaluar su presencia.",
+      "detalle": "La nota humana describe tapa visible y la imagen figura COMPLETA, pero no tiene una caja TAPA efectiva. No se inventa la caja ni se cambia la declaración humana."
+    },
+    {
+      "image_id": 60,
+      "codigo": "POSITIVO_LOCAL_EN_IMAGEN_NO_EVALUABLE",
+      "revision": 6,
+      "evidencia_humana": "La caja original delimita la etiqueta comercial de la botella y no corresponde a una tapa. Se excluye de la clase TAPA para evitar una anotación incorrecta.",
+      "detalle": "Hay TAPA adjudicada localmente y una declaración NO EVALUABLE global. Conservar ambas; falta delimitar su alcance antes de usarla para evaluar o entrenar."
+    },
+    {
+      "image_id": 165,
+      "codigo": "TAPA_DESCRITA_SIN_CAJA_TAPA",
+      "revision": 8,
+      "evidencia_humana": "La botella presenta una tapa azul claramente visible y colocada. La región de la tapa puede evaluarse sin dificultad.",
+      "detalle": "La nota humana describe tapa visible y la imagen figura COMPLETA, pero no tiene una caja TAPA efectiva. No se inventa la caja ni se cambia la declaración humana."
+    },
+    {
+      "image_id": 24,
+      "codigo": "REVISION_NO_GUARDADA",
+      "detalle": "No existe decisión de imagen 24 en las generaciones reales verificadas."
+    }
+  ],
+  "revisiones_repetidas_conservadas": [
+    {
+      "revision": 2,
+      "mismo_contenido_que": 1
+    },
+    {
+      "revision": 3,
+      "mismo_contenido_que": 1
+    },
+    {
+      "revision": 10,
+      "mismo_contenido_que": 9
+    }
+  ],
+  "grupos_indivisibles": 14,
+  "cruces_de_grupo": 0,
+  "duplicados_exactos": 0,
+  "independencia_de_sesiones": "NO_CERTIFICADA",
+  "negativos_inferidos": 0,
+  "entrenamiento_autorizado": false,
+  "inferencias_ejecutadas": 0,
+  "entrenamientos_ejecutados": 0,
+  "alcance": "Solo candidato Roboflow v4, no suma Mendeley, v26 ni las 244 referencias propias.",
+  "bloqueos": [
+    "No hay revisión guardada de imagen 24.",
+    "Imágenes 38 y 165 declaradas COMPLETA describen tapas visibles sin sus cajas TAPA.",
+    "La exhaustividad de los conjuntos reservados no está acreditada; imágenes sin revisión no son negativos.",
+    "Independencia y procedencia individual de grupos sin certificar.",
+    "Segunda revisión independiente no acreditada."
+  ]
+}

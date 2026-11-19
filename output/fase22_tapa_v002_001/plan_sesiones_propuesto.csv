@@ -1,0 +1,10 @@
+﻿espacio_planificacion_no_session_real,particion_propuesta,estado,objetivo_imagenes_min,objetivo_imagenes_max,session_id_real,linea_sku,fecha_captura,autorizacion_procedencia
+PLAN_01,train,POR_CAPTURAR_NO_ES_DATO_REAL,20,40,,,,
+PLAN_02,train,POR_CAPTURAR_NO_ES_DATO_REAL,20,40,,,,
+PLAN_03,train,POR_CAPTURAR_NO_ES_DATO_REAL,20,40,,,,
+PLAN_04,train,POR_CAPTURAR_NO_ES_DATO_REAL,20,40,,,,
+PLAN_05,train,POR_CAPTURAR_NO_ES_DATO_REAL,20,40,,,,
+PLAN_06,validation,POR_CAPTURAR_NO_ES_DATO_REAL,20,40,,,,
+PLAN_07,validation,POR_CAPTURAR_NO_ES_DATO_REAL,20,40,,,,
+PLAN_08,test,POR_CAPTURAR_NO_ES_DATO_REAL,20,40,,,,
+PLAN_09,test,POR_CAPTURAR_NO_ES_DATO_REAL,20,40,,,,

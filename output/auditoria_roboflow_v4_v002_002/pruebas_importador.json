@@ -1,0 +1,7 @@
+{
+  "tests": 3,
+  "ok": true,
+  "errors": 0,
+  "failures": 0,
+  "initial_attempt": "Temp ACL del sandbox Windows impidi? fixtures; rerun con directorios aislados de workspace; c?digo de pruebas no modificado"
+}

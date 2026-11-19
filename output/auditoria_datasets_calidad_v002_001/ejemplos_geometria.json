@@ -1,0 +1,52 @@
+[
+  {
+    "source_class": "Good Cap",
+    "sample_id": "roboflow_caps_v26:01e7f66c1b85a63b4ffa04dea5c6dedece5d4936dc3aab57fddc4aa5993c84c5",
+    "image": "datasets\\publicos_calidad_botellas\\imports\\roboflow_caps_v26_001\\images\\unmapped_review_only\\01e7f66c1b85a63b4ffa04dea5c6dedece5d4936dc3aab57fddc4aa5993c84c5.jpg"
+  },
+  {
+    "source_class": "Good Cap",
+    "sample_id": "roboflow_caps_v26:0312ad28530badb3c3236f17528371ccbfe9bb0c2af87b39bf39a3c6b236eda1",
+    "image": "datasets\\publicos_calidad_botellas\\imports\\roboflow_caps_v26_001\\images\\unmapped_review_only\\0312ad28530badb3c3236f17528371ccbfe9bb0c2af87b39bf39a3c6b236eda1.jpg"
+  },
+  {
+    "source_class": "Broken Cap",
+    "sample_id": "roboflow_caps_v26:011729425c94bb79c672445d6ca4c8a6fbd15097605dac59d456ec00d3e6d467",
+    "image": "datasets\\publicos_calidad_botellas\\imports\\roboflow_caps_v26_001\\images\\candidate_presence\\011729425c94bb79c672445d6ca4c8a6fbd15097605dac59d456ec00d3e6d467.jpg"
+  },
+  {
+    "source_class": "Broken Cap",
+    "sample_id": "roboflow_caps_v26:06e19972e45bc716ec6419fa5094fb0a1419188675c4f625372dcd7a88096560",
+    "image": "datasets\\publicos_calidad_botellas\\imports\\roboflow_caps_v26_001\\images\\candidate_presence\\06e19972e45bc716ec6419fa5094fb0a1419188675c4f625372dcd7a88096560.jpg"
+  },
+  {
+    "source_class": "Loose Cap",
+    "sample_id": "roboflow_caps_v26:022ef0d53e66368cd1a6c0e170cbbf4c05fa713cdde7b18ac8200f51465a3a74",
+    "image": "datasets\\publicos_calidad_botellas\\imports\\roboflow_caps_v26_001\\images\\candidate_presence\\022ef0d53e66368cd1a6c0e170cbbf4c05fa713cdde7b18ac8200f51465a3a74.jpg"
+  },
+  {
+    "source_class": "Loose Cap",
+    "sample_id": "roboflow_caps_v26:0500fa6aab3d2f1421c7818040c8d5a124ffdc290b0bf61f03d027b3daa6cbb0",
+    "image": "datasets\\publicos_calidad_botellas\\imports\\roboflow_caps_v26_001\\images\\candidate_presence\\0500fa6aab3d2f1421c7818040c8d5a124ffdc290b0bf61f03d027b3daa6cbb0.jpg"
+  },
+  {
+    "source_class": "Broken Ring",
+    "sample_id": "roboflow_caps_v26:0a739fcba20c03582313f3e440769a751d4e771ab77408c0a06ec9bdb1b83075",
+    "image": "datasets\\publicos_calidad_botellas\\imports\\roboflow_caps_v26_001\\images\\candidate_presence\\0a739fcba20c03582313f3e440769a751d4e771ab77408c0a06ec9bdb1b83075.jpg"
+  },
+  {
+    "source_class": "Broken Ring",
+    "sample_id": "roboflow_caps_v26:0c05ec60e3f73842e0e90e6ab5bab5da2f815b667cab8b2568985aaf9f117fde",
+    "image": "datasets\\publicos_calidad_botellas\\imports\\roboflow_caps_v26_001\\images\\candidate_presence\\0c05ec60e3f73842e0e90e6ab5bab5da2f815b667cab8b2568985aaf9f117fde.jpg"
+  },
+  {
+    "source_class": "No Cap",
+    "sample_id": "roboflow_caps_v26:00e841dbbc62a689acb54fe7de1ad90768e6360bc0b012c95fb269af4469c020",
+    "image": "datasets\\publicos_calidad_botellas\\imports\\roboflow_caps_v26_001\\images\\unmapped_review_only\\00e841dbbc62a689acb54fe7de1ad90768e6360bc0b012c95fb269af4469c020.jpg"
+  },
+  {
+    "source_class": "No Cap",
+    "sample_id": "roboflow_caps_v26:03041405fee2b5d85e5de18d2a0012ec61243df744c1d3c772a0581cd5c02865",
+    "image": "datasets\\publicos_calidad_botellas\\imports\\roboflow_caps_v26_001\\images\\unmapped_review_only\\03041405fee2b5d85e5de18d2a0012ec61243df744c1d3c772a0581cd5c02865.jpg"
+  }
+]

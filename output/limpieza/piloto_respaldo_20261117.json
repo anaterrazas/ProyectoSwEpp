@@ -1,0 +1,119 @@
+﻿{
+    "fecha_utc":  "2026-11-17T13:35:47.0230684Z",
+    "conservado":  "C:\\Users\\Usuario\\sistema_epp\\media_backup",
+    "eliminado":  "C:\\Users\\Usuario\\sistema_epp\\media_backup_20261114_140925",
+    "archivos":  [
+                     {
+                         "path":  "produccion\\resultados\\analisis_1.mp4",
+                         "bytes":  18092934,
+                         "sha256":  "6DDE70FBD1E1CA891826A90D08210F8DADB2DADCB08EA4238BC74D60C6ABE720"
+                     },
+                     {
+                         "path":  "produccion\\resultados\\analisis_1_93I6bQd.mp4",
+                         "bytes":  18092934,
+                         "sha256":  "6DDE70FBD1E1CA891826A90D08210F8DADB2DADCB08EA4238BC74D60C6ABE720"
+                     },
+                     {
+                         "path":  "produccion\\resultados\\analisis_2_h264.mp4",
+                         "bytes":  4789945,
+                         "sha256":  "8D08BAFBBF75D7554421EE211A9553335F81FC3A767802C0C5C22014C48BA86B"
+                     },
+                     {
+                         "path":  "produccion\\resultados\\analisis_2_h264_QHLbNS1.mp4",
+                         "bytes":  4789945,
+                         "sha256":  "8D08BAFBBF75D7554421EE211A9553335F81FC3A767802C0C5C22014C48BA86B"
+                     },
+                     {
+                         "path":  "produccion\\resultados\\analisis_3_h264.mp4",
+                         "bytes":  4789945,
+                         "sha256":  "8D08BAFBBF75D7554421EE211A9553335F81FC3A767802C0C5C22014C48BA86B"
+                     },
+                     {
+                         "path":  "produccion\\resultados\\analisis_3_h264_OLkffsp.mp4",
+                         "bytes":  4789945,
+                         "sha256":  "8D08BAFBBF75D7554421EE211A9553335F81FC3A767802C0C5C22014C48BA86B"
+                     },
+                     {
+                         "path":  "produccion\\resultados\\analisis_5_h264.mp4",
+                         "bytes":  4789945,
+                         "sha256":  "8D08BAFBBF75D7554421EE211A9553335F81FC3A767802C0C5C22014C48BA86B"
+                     },
+                     {
+                         "path":  "produccion\\resultados\\analisis_8_h264.mp4",
+                         "bytes":  4789945,
+                         "sha256":  "8D08BAFBBF75D7554421EE211A9553335F81FC3A767802C0C5C22014C48BA86B"
+                     },
+                     {
+                         "path":  "produccion\\resultados\\analisis_9_h264.mp4",
+                         "bytes":  111678823,
+                         "sha256":  "84AF68FEF9CC969338C8D24C1BBC29D138C67EC986A76645963D7987FF91E0C3"
+                     },
+                     {
+                         "path":  "produccion\\videos\\produccion.mp4",
+                         "bytes":  2974537,
+                         "sha256":  "93B17306B5E2DCD9467C1DC1D507DC85431021CBFE1BC808EFEA0BADAC338E08"
+                     },
+                     {
+                         "path":  "produccion\\videos\\produccion_0vE9SO0.mp4",
+                         "bytes":  2974537,
+                         "sha256":  "93B17306B5E2DCD9467C1DC1D507DC85431021CBFE1BC808EFEA0BADAC338E08"
+                     },
+                     {
+                         "path":  "produccion\\videos\\produccion_DZGof5L.mp4",
+                         "bytes":  2974537,
+                         "sha256":  "93B17306B5E2DCD9467C1DC1D507DC85431021CBFE1BC808EFEA0BADAC338E08"
+                     },
+                     {
+                         "path":  "produccion\\videos\\produccion_eLNJ4rP.mp4",
+                         "bytes":  2974537,
+                         "sha256":  "93B17306B5E2DCD9467C1DC1D507DC85431021CBFE1BC808EFEA0BADAC338E08"
+                     },
+                     {
+                         "path":  "produccion\\videos\\produccion_EqctasV.mp4",
+                         "bytes":  2974537,
+                         "sha256":  "93B17306B5E2DCD9467C1DC1D507DC85431021CBFE1BC808EFEA0BADAC338E08"
+                     },
+                     {
+                         "path":  "produccion\\videos\\produccion_KqIUfuA.mp4",
+                         "bytes":  2974537,
+                         "sha256":  "93B17306B5E2DCD9467C1DC1D507DC85431021CBFE1BC808EFEA0BADAC338E08"
+                     },
+                     {
+                         "path":  "produccion\\videos\\produccion_prueba_02.mp4",
+                         "bytes":  104129797,
+                         "sha256":  "8F35E32D5A6C862BE820107FE9CA8DCA67DA8424C9B35A735DF8108A18DF4FE9"
+                     },
+                     {
+                         "path":  "produccion\\videos\\produccion_R4Ml8kE.mp4",
+                         "bytes":  2974537,
+                         "sha256":  "93B17306B5E2DCD9467C1DC1D507DC85431021CBFE1BC808EFEA0BADAC338E08"
+                     },
+                     {
+                         "path":  "produccion\\videos\\produccion_X98Znra.mp4",
+                         "bytes":  2974537,
+                         "sha256":  "93B17306B5E2DCD9467C1DC1D507DC85431021CBFE1BC808EFEA0BADAC338E08"
+                     },
+                     {
+                         "path":  "resultados_ia\\camara_1\\resultado_epp.mp4",
+                         "bytes":  11003540,
+                         "sha256":  "A2A1D6DE095288F501E690BA21E15CED489B49632BE626B690A7B425D2885A07"
+                     },
+                     {
+                         "path":  "resultados_ia\\camara_1\\trabajadores.avi",
+                         "bytes":  16985542,
+                         "sha256":  "D4F3EC8A11A70D4B7E1E2555733F8EF5A3940BC125D4D7852804ED0280D9C9A9"
+                     },
+                     {
+                         "path":  "resultados_ia\\camara_1\\trabajadores_web.mp4",
+                         "bytes":  4761921,
+                         "sha256":  "68D3505FECB128D44D733B5BE4FF6D220F4DCB4C1E4CC61C888E797E377ABD6B"
+                     },
+                     {
+                         "path":  "videos\\trabajadores.mp4",
+                         "bytes":  4076091,
+                         "sha256":  "931A1DB66E4578C8767B4C1133310EBDF8378749EE82B6CA5E310D3507FCFD51"
+                     }
+                 ],
+    "bytes":  341357548,
+    "motivo":  "Respaldo identico por rutas y SHA256; se conserva media_backup"
+}

@@ -1,0 +1,101 @@
+{
+  "estado": "NO_PREPARADO_PARA_ENTRENAMIENTO_CON_EVALUACION_INDEPENDIENTE",
+  "imagenes_integras": 262,
+  "cajas_fuente_geometricamente_validas": 180,
+  "TAPA_candidatas": 173,
+  "TAPA_con_nueva_adjudicacion_humana": 1,
+  "ENVASE_adjudicados": 3,
+  "NO_EVALUABLE": 4,
+  "cajas_cap_fuente_no_mantenidas_como_TAPA": [
+    31,
+    123,
+    134,
+    204,
+    324,
+    567,
+    773
+  ],
+  "nuevas_cajas_humanas": 0,
+  "imagenes_con_omisiones_en_criba": 31,
+  "ids_omisiones": [
+    5,
+    24,
+    38,
+    42,
+    63,
+    87,
+    89,
+    90,
+    95,
+    96,
+    115,
+    123,
+    131,
+    158,
+    163,
+    165,
+    172,
+    173,
+    184,
+    192,
+    198,
+    203,
+    205,
+    209,
+    221,
+    225,
+    229,
+    235,
+    245,
+    256,
+    257
+  ],
+  "candidatos_visualmente_compatibles_para_revision_reducida": 12,
+  "cajas_en_ese_nucleo": 12,
+  "grupos_en_nucleo": 6,
+  "imagenes_aprobadas_para_entrenamiento": 0,
+  "imagenes_restantes_no_incluidas_en_nucleo": 250,
+  "particiones_actuales": {
+    "train": {
+      "imagenes": 173,
+      "TAPA": 76,
+      "ENVASE": 1,
+      "NO_EVALUABLE": 1
+    },
+    "validation": {
+      "imagenes": 25,
+      "TAPA": 36,
+      "ENVASE": 0,
+      "NO_EVALUABLE": 1
+    },
+    "test": {
+      "imagenes": 41,
+      "TAPA": 41,
+      "ENVASE": 0,
+      "NO_EVALUABLE": 2
+    },
+    "PENDIENTE": {
+      "imagenes": 23,
+      "TAPA": 20,
+      "ENVASE": 2,
+      "NO_EVALUABLE": 0
+    }
+  },
+  "revision_actual": 11,
+  "revision_v003_congelada": 10,
+  "hoja_contactos_revisadas": 22,
+  "imagenes_incluidas_en_criba_visual": 262,
+  "limite_visual": "Criba a escala de hoja y ampliaciones dirigidas; no certificación exhaustiva de cada objeto pequeño por revisión humana.",
+  "clases_disponibles": {
+    "TAPA": "CANDIDATA_NO_VALIDADA",
+    "ENVASE": "3 RECLASIFICACIONES, NO DATASET EXHAUSTIVO",
+    "TAPA_DEFECTUOSA": "NO_HABILITADA",
+    "TAPA_AUSENTE": "SIN_CONTEXTO_POST_TAPADO_CONFIRMADO",
+    "RAYADURA": "NO_DISPONIBLE",
+    "DEFORMACION": "NO_DISPONIBLE"
+  },
+  "recomendacion": "Usar núcleo de seis pares para reducir verificación, no como validación del detector en video. Mantener fuera los grupos conflictivos. No autorizar entrenamiento basado en evaluación independiente aún.",
+  "solicitar_nuevas_capturas_ahora": false,
+  "entrenamientos": 0,
+  "inferencias": 0
+}

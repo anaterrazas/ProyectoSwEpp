@@ -1,0 +1,11 @@
+{
+  "camara_id": 1,
+  "area_id": 1,
+  "antes": [],
+  "despues": [
+    "casco",
+    "Chaleco"
+  ],
+  "modo": "SIMULACION_CON_VIDEOS",
+  "base_respaldada": "output\\pilotos_20261117\\db_antes_configuracion.sqlite3"
+}

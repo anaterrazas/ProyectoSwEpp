@@ -1,0 +1,155 @@
+{
+  "images": [
+    {
+      "case_id": 272,
+      "image_id": 11,
+      "sha256": "52cf858fab400f2fb06f62afcf8d28f703258cd1f2424c4305675f6499e3961d",
+      "group_id": "v4g05",
+      "exif": {},
+      "coco_date_captured": "2023-12-06T20:02:35+00:00",
+      "coco_license_id": 1,
+      "original_individual_url_verified": false,
+      "independent_test_approved": false
+    },
+    {
+      "case_id": 273,
+      "image_id": 40,
+      "sha256": "1eaf6afcd8b2ecade66e5bc7bb8647f92ad760e0c68825cdb6939dbc6077f391",
+      "group_id": "v4g07",
+      "exif": {},
+      "coco_date_captured": "2023-12-06T20:02:35+00:00",
+      "coco_license_id": 1,
+      "original_individual_url_verified": false,
+      "independent_test_approved": false
+    },
+    {
+      "case_id": 274,
+      "image_id": 65,
+      "sha256": "511d1e5f76cbb1da9c4f1aa45df668a6ee7d05535675c9702320c7bd3573a57b",
+      "group_id": "v4g09",
+      "exif": {},
+      "coco_date_captured": "2023-12-06T20:02:35+00:00",
+      "coco_license_id": 1,
+      "original_individual_url_verified": false,
+      "independent_test_approved": false
+    },
+    {
+      "case_id": 275,
+      "image_id": 75,
+      "sha256": "fe5415cee8e38ab1802e7fe5beba0efa743971f6a92dace942acb7ca7ff0556f",
+      "group_id": "v4g05",
+      "exif": {},
+      "coco_date_captured": "2023-12-06T20:02:35+00:00",
+      "coco_license_id": 1,
+      "original_individual_url_verified": false,
+      "independent_test_approved": false
+    },
+    {
+      "case_id": 276,
+      "image_id": 88,
+      "sha256": "e9d3456a7d3b97afef5e1c18cdab3a7b376a394375ad03e01f92e8c40e415fe7",
+      "group_id": "v4g09",
+      "exif": {},
+      "coco_date_captured": "2023-12-06T20:02:35+00:00",
+      "coco_license_id": 1,
+      "original_individual_url_verified": false,
+      "independent_test_approved": false
+    },
+    {
+      "case_id": 277,
+      "image_id": 102,
+      "sha256": "678703e869a7676f88ed986b4abb261ea10f383b5a909063073fa92f5b11ceb4",
+      "group_id": "v4g12",
+      "exif": {},
+      "coco_date_captured": "2023-12-06T20:02:35+00:00",
+      "coco_license_id": 1,
+      "original_individual_url_verified": false,
+      "independent_test_approved": false
+    },
+    {
+      "case_id": 278,
+      "image_id": 126,
+      "sha256": "fd05c01f6e284cf9db61162ae873e3b92643224db54aebfeb9b937c88fbf7d1b",
+      "group_id": "v4g13",
+      "exif": {},
+      "coco_date_captured": "2023-12-06T20:02:35+00:00",
+      "coco_license_id": 1,
+      "original_individual_url_verified": false,
+      "independent_test_approved": false
+    },
+    {
+      "case_id": 279,
+      "image_id": 142,
+      "sha256": "64bf3cece82b78e2c870e884257175eaa04efd39b2c8bf6965835df4ded23e9d",
+      "group_id": "v4g14",
+      "exif": {},
+      "coco_date_captured": "2023-12-06T20:02:35+00:00",
+      "coco_license_id": 1,
+      "original_individual_url_verified": false,
+      "independent_test_approved": false
+    },
+    {
+      "case_id": 280,
+      "image_id": 171,
+      "sha256": "06684f8d82fc8c44dbb44619019c4ff0afd0da7ed67616ce38dc5a3ce86a1eb4",
+      "group_id": "v4g14",
+      "exif": {},
+      "coco_date_captured": "2023-12-06T20:02:35+00:00",
+      "coco_license_id": 1,
+      "original_individual_url_verified": false,
+      "independent_test_approved": false
+    },
+    {
+      "case_id": 281,
+      "image_id": 204,
+      "sha256": "671f6c09a40dd5643329efc43e7a33290d018a6515d93b6c5513177c703885c9",
+      "group_id": "v4g12",
+      "exif": {},
+      "coco_date_captured": "2023-12-06T20:02:35+00:00",
+      "coco_license_id": 1,
+      "original_individual_url_verified": false,
+      "independent_test_approved": false
+    },
+    {
+      "case_id": 282,
+      "image_id": 231,
+      "sha256": "1bbfffcf12aefa88e31ead82d7a0c3b286588b124797a7ad1414d60aac8d3f5f",
+      "group_id": "v4g13",
+      "exif": {},
+      "coco_date_captured": "2023-12-06T20:02:35+00:00",
+      "coco_license_id": 1,
+      "original_individual_url_verified": false,
+      "independent_test_approved": false
+    },
+    {
+      "case_id": 283,
+      "image_id": 259,
+      "sha256": "b52cc13d8de5fdbee3870c2d3c6c135004971ae443147a48c94c447ec2391294",
+      "group_id": "v4g07",
+      "exif": {},
+      "coco_date_captured": "2023-12-06T20:02:35+00:00",
+      "coco_license_id": 1,
+      "original_individual_url_verified": false,
+      "independent_test_approved": false
+    }
+  ],
+  "coco_info": {
+    "year": "2023",
+    "version": "4",
+    "description": "Exported from roboflow.com",
+    "contributor": "",
+    "url": "https://public.roboflow.com/object-detection/undefined",
+    "date_created": "2023-12-06T20:02:35+00:00"
+  },
+  "coco_licenses": [
+    {
+      "id": 1,
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "name": "CC BY 4.0"
+    }
+  ],
+  "registered_publication_url": "https://universe.roboflow.com/spark-intelligence-scqhh/bottle-defect-detection/dataset/4",
+  "groups": 6,
+  "independent_test_approved_images": 0,
+  "rights_inferred": false
+}

@@ -1,0 +1,30 @@
+{
+  "autor": "Ana",
+  "justificacion": "Imagen revisada completamente. La botella presenta el cuello y la boca visibles, sin tapa colocada. No existen regiones que impidan evaluar la presencia de tapa.",
+  "decisiones": [
+    {
+      "annotation_id": 31,
+      "clase": "ENVASE",
+      "visibilidad": "TOTAL",
+      "justificacion": "La caja original delimita el cuerpo completo de la botella y no corresponde a una tapa. Se reclasifica como ENVASE. El objeto es visible en su totalidad.",
+      "clase_original": "cap",
+      "bbox_original": [
+        357,
+        137,
+        432.29,
+        1460.78
+      ]
+    }
+  ],
+  "nuevas_cajas": [],
+  "exhaustividad": "COMPLETA",
+  "image_id": 9,
+  "imagen_sha256": "8210cec6c7aafc63c2cca0343491a5557b1d89c00afb62ae817e712d2b20f05f",
+  "revision_global": 11,
+  "hash_decision_anterior": "eb164049462b184ff7f44068aa172b7dfd05c22af7391422281f2e7b6176eb8d",
+  "cuenta_usuario": "piloto",
+  "fecha_utc": "2026-11-18T22:04:06.634982+00:00",
+  "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+  "tipo": "REVISION_HUMANA_DECLARADA",
+  "segunda_revision_independiente": "NO_ACREDITADA"
+}

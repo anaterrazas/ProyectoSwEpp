@@ -1,0 +1,30 @@
+{
+  "autor": "Ana",
+  "justificacion": "La región superior de la botella está completamente visible. Se observa la boquilla roscada sin tapa colocada. La ausencia de tapa es visualmente identificable.",
+  "decisiones": [
+    {
+      "annotation_id": 773,
+      "clase": "NO_EVALUABLE",
+      "visibilidad": "TOTAL",
+      "justificacion": "La caja original delimita la boquilla roscada o cuello de la botella, no una tapa independiente. Se excluye de la clase TAPA para evitar una clasificación incorrecta.",
+      "clase_original": "cap",
+      "bbox_original": [
+        534,
+        137,
+        188.97,
+        157.44
+      ]
+    }
+  ],
+  "nuevas_cajas": [],
+  "exhaustividad": "COMPLETA",
+  "image_id": 223,
+  "imagen_sha256": "78038843497e66346be8c1e26aa94e87764c5fdca0eb91bc2545ff10843d03b7",
+  "revision_global": 9,
+  "hash_decision_anterior": "16e5a50c86eb83f4954209d9237a953aa1a490f1d16d2d9c9df91a2da4a85bab",
+  "cuenta_usuario": "piloto",
+  "fecha_utc": "2026-11-18T21:57:57.596262+00:00",
+  "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+  "tipo": "REVISION_HUMANA_DECLARADA",
+  "segunda_revision_independiente": "NO_ACREDITADA"
+}

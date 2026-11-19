@@ -1,0 +1,11 @@
+{
+  "archivos_protegidos_intactos": 1959,
+  "alterados": [],
+  "pruebas_aprobadas": 57,
+  "entrenamientos": 0,
+  "inferencias": 0,
+  "decisiones_reales_guardadas_por_agente": 0,
+  "sqlite_operativo_intacto": true,
+  "permiso_laboratorio": "piloto: produccion.change_inspeccioncalidad para formulario autorizado",
+  "referencias_originales_intactas": true
+}

@@ -1,0 +1,2522 @@
+[
+  {
+    "image_id": 0,
+    "annotation_id": 2,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      310,
+      40,
+      440.35,
+      116.3
+    ],
+    "min_side_640": 76.3,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 2,
+    "annotation_id": 7,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      243,
+      67,
+      362.87,
+      112.56
+    ],
+    "min_side_640": 45.56,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 3,
+    "annotation_id": 11,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      877,
+      285,
+      915.67,
+      313.41
+    ],
+    "min_side_640": 14.205000000000002,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 3,
+    "annotation_id": 12,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      1090,
+      273,
+      1128.35,
+      294.26
+    ],
+    "min_side_640": 10.63,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 4,
+    "annotation_id": 15,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      163,
+      2,
+      236.89,
+      48.79
+    ],
+    "min_side_640": 46.79,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 4,
+    "annotation_id": 16,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      360,
+      10,
+      440.35,
+      48.79
+    ],
+    "min_side_640": 38.79,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 5,
+    "annotation_id": 21,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      363,
+      58,
+      485.85,
+      116.3
+    ],
+    "min_side_640": 58.3,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 8,
+    "annotation_id": 28,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      245,
+      65,
+      361.37,
+      108.81
+    ],
+    "min_side_640": 43.81,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 9,
+    "annotation_id": 31,
+    "clase": "ENVASE",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      357,
+      137,
+      789.29,
+      1597.78
+    ],
+    "min_side_640": 144.0966666666667,
+    "visibilidad": "TOTAL"
+  },
+  {
+    "image_id": 11,
+    "annotation_id": 38,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      469,
+      295,
+      549.59,
+      451.84000000000003
+    ],
+    "min_side_640": 80.59,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 13,
+    "annotation_id": 43,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      211,
+      94,
+      318.13,
+      138.81
+    ],
+    "min_side_640": 44.81,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 14,
+    "annotation_id": 46,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      283,
+      177,
+      375.87,
+      217.59
+    ],
+    "min_side_640": 40.59,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 17,
+    "annotation_id": 55,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      282,
+      47,
+      381.11,
+      86.3
+    ],
+    "min_side_640": 39.3,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 24,
+    "annotation_id": 76,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      195,
+      261,
+      244.39,
+      293.86
+    ],
+    "min_side_640": 32.86,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 26,
+    "annotation_id": 81,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      270,
+      84,
+      394.36,
+      163.81
+    ],
+    "min_side_640": 79.81,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 27,
+    "annotation_id": 83,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      163,
+      37,
+      251.89,
+      100.05
+    ],
+    "min_side_640": 63.05,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 27,
+    "annotation_id": 84,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      383,
+      39,
+      473.85,
+      102.55
+    ],
+    "min_side_640": 63.55,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 34,
+    "annotation_id": 108,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      268,
+      62,
+      400.86,
+      108.81
+    ],
+    "min_side_640": 46.81,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 35,
+    "annotation_id": 110,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      274,
+      136,
+      358.62,
+      185.07999999999998
+    ],
+    "min_side_640": 49.08,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 37,
+    "annotation_id": 116,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      305,
+      384,
+      332.62,
+      410.15
+    ],
+    "min_side_640": 13.075,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 37,
+    "annotation_id": 117,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      418,
+      362,
+      445.32,
+      379.86
+    ],
+    "min_side_640": 8.93,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 37,
+    "annotation_id": 120,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      136,
+      418,
+      171.07999999999998,
+      445.59
+    ],
+    "min_side_640": 13.794999999999998,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 37,
+    "annotation_id": 121,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      517,
+      344,
+      539.73,
+      360.14
+    ],
+    "min_side_640": 8.07,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 38,
+    "annotation_id": 123,
+    "clase": "ENVASE",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      170,
+      255,
+      293.38,
+      639.75
+    ],
+    "min_side_640": 123.38,
+    "visibilidad": "PARCIAL"
+  },
+  {
+    "image_id": 40,
+    "annotation_id": 129,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      288,
+      44,
+      355.87,
+      75.05
+    ],
+    "min_side_640": 31.05,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 41,
+    "annotation_id": 132,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      505,
+      285,
+      537.34,
+      346.87
+    ],
+    "min_side_640": 32.34,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 42,
+    "annotation_id": 134,
+    "clase": "NO_EVALUABLE",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      977,
+      328,
+      1017.37,
+      360.13
+    ],
+    "min_side_640": 16.065,
+    "visibilidad": "DUDOSA"
+  },
+  {
+    "image_id": 43,
+    "annotation_id": 136,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      0,
+      0,
+      112.66,
+      65.25
+    ],
+    "min_side_640": 65.25,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 43,
+    "annotation_id": 137,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      232,
+      0,
+      355.12,
+      49
+    ],
+    "min_side_640": 49.0,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 43,
+    "annotation_id": 138,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      414,
+      25,
+      512.59,
+      72.53999999999999
+    ],
+    "min_side_640": 47.54,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 45,
+    "annotation_id": 149,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      287,
+      50,
+      380.11,
+      83.8
+    ],
+    "min_side_640": 33.8,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 49,
+    "annotation_id": 161,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      263,
+      52,
+      348.87,
+      111.3
+    ],
+    "min_side_640": 59.3,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 54,
+    "annotation_id": 179,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      350,
+      49,
+      429.36,
+      93.8
+    ],
+    "min_side_640": 44.8,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 54,
+    "annotation_id": 180,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      215,
+      29,
+      303.38,
+      67.55
+    ],
+    "min_side_640": 38.55,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 56,
+    "annotation_id": 185,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      120,
+      94,
+      225.39,
+      146.31
+    ],
+    "min_side_640": 52.31,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 56,
+    "annotation_id": 189,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      418,
+      82,
+      521.84,
+      135.06
+    ],
+    "min_side_640": 53.06,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 59,
+    "annotation_id": 197,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      872,
+      279,
+      910.67,
+      308.84
+    ],
+    "min_side_640": 14.919999999999998,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 59,
+    "annotation_id": 198,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      1076,
+      263,
+      1112.64,
+      285.97
+    ],
+    "min_side_640": 11.485,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 59,
+    "annotation_id": 200,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      646,
+      300,
+      687.56,
+      335.27
+    ],
+    "min_side_640": 17.635,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 60,
+    "annotation_id": 203,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      294,
+      58,
+      374.62,
+      105.05
+    ],
+    "min_side_640": 47.05,
+    "visibilidad": "TOTAL"
+  },
+  {
+    "image_id": 60,
+    "annotation_id": 204,
+    "clase": "NO_EVALUABLE",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      226,
+      267,
+      413.11,
+      401.6
+    ],
+    "min_side_640": 134.6,
+    "visibilidad": "TOTAL"
+  },
+  {
+    "image_id": 63,
+    "annotation_id": 212,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      413,
+      18,
+      508.84000000000003,
+      78.78999999999999
+    ],
+    "min_side_640": 60.79,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 63,
+    "annotation_id": 213,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      120,
+      21,
+      220.39,
+      75.03999999999999
+    ],
+    "min_side_640": 54.04,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 64,
+    "annotation_id": 217,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      294,
+      16,
+      370.37,
+      67.03999999999999
+    ],
+    "min_side_640": 51.04,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 65,
+    "annotation_id": 220,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      380,
+      82,
+      448.35,
+      140.06
+    ],
+    "min_side_640": 58.06,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 66,
+    "annotation_id": 223,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      164,
+      21,
+      248.64,
+      90.04
+    ],
+    "min_side_640": 69.04,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 66,
+    "annotation_id": 224,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      384,
+      22,
+      472.6,
+      88.79
+    ],
+    "min_side_640": 66.79,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 68,
+    "annotation_id": 231,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      122,
+      94,
+      228.14,
+      145.06
+    ],
+    "min_side_640": 51.06,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 68,
+    "annotation_id": 232,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      415,
+      83,
+      523.34,
+      135.06
+    ],
+    "min_side_640": 52.06,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 70,
+    "annotation_id": 239,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      190,
+      56,
+      264.38,
+      110.05
+    ],
+    "min_side_640": 54.05,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 71,
+    "annotation_id": 245,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      317,
+      51,
+      397.11,
+      105.05
+    ],
+    "min_side_640": 54.05,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 71,
+    "annotation_id": 246,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      133,
+      56,
+      214.89,
+      112.55
+    ],
+    "min_side_640": 56.55,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 72,
+    "annotation_id": 247,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      123,
+      55,
+      194.9,
+      86.3
+    ],
+    "min_side_640": 31.3,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 72,
+    "annotation_id": 248,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      434,
+      50,
+      508.59000000000003,
+      90.05
+    ],
+    "min_side_640": 40.05,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 73,
+    "annotation_id": 254,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      305,
+      114,
+      357.37,
+      150.07
+    ],
+    "min_side_640": 36.07,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 75,
+    "annotation_id": 260,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      459,
+      294,
+      547.59,
+      451.09000000000003
+    ],
+    "min_side_640": 88.59,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 76,
+    "annotation_id": 262,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      265,
+      10,
+      373.37,
+      75.04
+    ],
+    "min_side_640": 65.04,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 78,
+    "annotation_id": 267,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      71,
+      3,
+      177.15,
+      57.54
+    ],
+    "min_side_640": 54.54,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 78,
+    "annotation_id": 268,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      275,
+      0,
+      384.36,
+      55.04
+    ],
+    "min_side_640": 55.04,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 78,
+    "annotation_id": 269,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      454,
+      1,
+      567.58,
+      61.29
+    ],
+    "min_side_640": 60.29,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 81,
+    "annotation_id": 282,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      279,
+      75,
+      400.61,
+      122.56
+    ],
+    "min_side_640": 47.56,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 82,
+    "annotation_id": 284,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      118,
+      54,
+      190.9,
+      88.8
+    ],
+    "min_side_640": 34.8,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 82,
+    "annotation_id": 285,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      432,
+      56,
+      511.09000000000003,
+      87.55
+    ],
+    "min_side_640": 31.55,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 83,
+    "annotation_id": 290,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      258,
+      161,
+      327.87,
+      196.32999999999998
+    ],
+    "min_side_640": 35.33,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 84,
+    "annotation_id": 294,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      259,
+      161,
+      328.62,
+      200.07999999999998
+    ],
+    "min_side_640": 39.08,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 88,
+    "annotation_id": 303,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      384,
+      85,
+      450.6,
+      138.81
+    ],
+    "min_side_640": 53.81,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 91,
+    "annotation_id": 309,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      508,
+      289,
+      534.84,
+      343.12
+    ],
+    "min_side_640": 26.839999999999996,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 93,
+    "annotation_id": 315,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      140,
+      23,
+      217.39,
+      65.03999999999999
+    ],
+    "min_side_640": 42.04,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 93,
+    "annotation_id": 318,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      330,
+      19,
+      403.36,
+      55.04
+    ],
+    "min_side_640": 36.04,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 95,
+    "annotation_id": 324,
+    "clase": "NO_EVALUABLE",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      817,
+      343,
+      860.82,
+      381.71
+    ],
+    "min_side_640": 19.355,
+    "visibilidad": "DUDOSA"
+  },
+  {
+    "image_id": 100,
+    "annotation_id": 340,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      355,
+      40,
+      390.36,
+      81.3
+    ],
+    "min_side_640": 35.36,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 100,
+    "annotation_id": 342,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      433,
+      459,
+      463.85,
+      518.07
+    ],
+    "min_side_640": 30.85,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 101,
+    "annotation_id": 345,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      295,
+      22,
+      356.37,
+      67.53999999999999
+    ],
+    "min_side_640": 45.54,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 102,
+    "annotation_id": 348,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      319,
+      236,
+      374.62,
+      312.6
+    ],
+    "min_side_640": 55.61999999999999,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 106,
+    "annotation_id": 359,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      188,
+      29,
+      290.88,
+      80.05
+    ],
+    "min_side_640": 51.05,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 113,
+    "annotation_id": 379,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      205,
+      84,
+      245.39,
+      110.06
+    ],
+    "min_side_640": 26.059999999999995,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 117,
+    "annotation_id": 391,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      488,
+      350,
+      588.83,
+      506.38
+    ],
+    "min_side_640": 100.83,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 120,
+    "annotation_id": 399,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      245,
+      13,
+      397.35,
+      65.05
+    ],
+    "min_side_640": 52.05,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 123,
+    "annotation_id": 407,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      168,
+      118,
+      224.89,
+      155.07
+    ],
+    "min_side_640": 37.07,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 125,
+    "annotation_id": 414,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      278,
+      77,
+      398.86,
+      123.81
+    ],
+    "min_side_640": 46.81,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 126,
+    "annotation_id": 416,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      254,
+      46,
+      388.61,
+      90.05
+    ],
+    "min_side_640": 44.05,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 130,
+    "annotation_id": 428,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      275,
+      140,
+      357.37,
+      185.07999999999998
+    ],
+    "min_side_640": 45.08,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 132,
+    "annotation_id": 431,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      73,
+      31,
+      224.89,
+      136.3
+    ],
+    "min_side_640": 105.3,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 132,
+    "annotation_id": 434,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      419,
+      27,
+      598.58,
+      136.3
+    ],
+    "min_side_640": 109.3,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 139,
+    "annotation_id": 455,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      172,
+      29,
+      271.13,
+      103.8
+    ],
+    "min_side_640": 74.8,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 139,
+    "annotation_id": 458,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      380,
+      24,
+      483.35,
+      90.04
+    ],
+    "min_side_640": 66.04,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 141,
+    "annotation_id": 463,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      297,
+      20,
+      374.12,
+      65.03999999999999
+    ],
+    "min_side_640": 45.04,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 142,
+    "annotation_id": 467,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      250,
+      23,
+      392.36,
+      63.79
+    ],
+    "min_side_640": 40.79,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 145,
+    "annotation_id": 475,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      195,
+      113,
+      269.38,
+      140.07
+    ],
+    "min_side_640": 27.07,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 148,
+    "annotation_id": 484,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      293,
+      24,
+      359.87,
+      71.28999999999999
+    ],
+    "min_side_640": 47.29,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 149,
+    "annotation_id": 486,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      184,
+      30,
+      288.63,
+      75.05
+    ],
+    "min_side_640": 45.05,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 150,
+    "annotation_id": 495,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      552,
+      218,
+      578.15,
+      239.82
+    ],
+    "min_side_640": 10.91,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 150,
+    "annotation_id": 496,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      700,
+      213,
+      726.13,
+      237.67000000000002
+    ],
+    "min_side_640": 12.335,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 150,
+    "annotation_id": 497,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      854,
+      208,
+      884.1,
+      233.24
+    ],
+    "min_side_640": 12.62,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 150,
+    "annotation_id": 498,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      986,
+      213,
+      1018.94,
+      233.39
+    ],
+    "min_side_640": 10.195,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 150,
+    "annotation_id": 499,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      1220,
+      210,
+      1244.9,
+      229.82
+    ],
+    "min_side_640": 9.91,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 152,
+    "annotation_id": 504,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      224,
+      74,
+      387.86,
+      150.06
+    ],
+    "min_side_640": 76.06,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 155,
+    "annotation_id": 512,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      270,
+      101,
+      348.37,
+      206.32
+    ],
+    "min_side_640": 78.37,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 157,
+    "annotation_id": 525,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      115,
+      274,
+      146.37,
+      302.69
+    ],
+    "min_side_640": 14.345000000000002,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 157,
+    "annotation_id": 526,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      307,
+      272,
+      339.76,
+      291.55
+    ],
+    "min_side_640": 9.775,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 157,
+    "annotation_id": 527,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      479,
+      262,
+      510.59,
+      284.69
+    ],
+    "min_side_640": 11.345,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 157,
+    "annotation_id": 528,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      659,
+      260,
+      684.28,
+      277.83
+    ],
+    "min_side_640": 8.915,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 157,
+    "annotation_id": 529,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      929,
+      249,
+      960.8,
+      274.26
+    ],
+    "min_side_640": 12.63,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 157,
+    "annotation_id": 530,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      1032,
+      245,
+      1055.79,
+      266.25
+    ],
+    "min_side_640": 10.625,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 157,
+    "annotation_id": 531,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      1128,
+      239,
+      1152.91,
+      258.54
+    ],
+    "min_side_640": 9.77,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 158,
+    "annotation_id": 536,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      360,
+      336,
+      393.61,
+      361.57
+    ],
+    "min_side_640": 12.785,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 158,
+    "annotation_id": 537,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      536,
+      316,
+      563.01,
+      334.99
+    ],
+    "min_side_640": 9.495,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 158,
+    "annotation_id": 538,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      653,
+      297,
+      680.28,
+      316.55
+    ],
+    "min_side_640": 9.775,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 158,
+    "annotation_id": 539,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      175,
+      362,
+      208.07,
+      385.57
+    ],
+    "min_side_640": 11.785,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 159,
+    "annotation_id": 542,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      284,
+      33,
+      374.62,
+      75.05
+    ],
+    "min_side_640": 42.05,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 160,
+    "annotation_id": 548,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      297,
+      60,
+      331.77,
+      92.06
+    ],
+    "min_side_640": 16.03,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 162,
+    "annotation_id": 554,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      278,
+      41,
+      362.87,
+      91.3
+    ],
+    "min_side_640": 50.3,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 163,
+    "annotation_id": 556,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      117,
+      12,
+      248.14,
+      90.04
+    ],
+    "min_side_640": 78.04,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 163,
+    "annotation_id": 557,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      358,
+      0,
+      502.84000000000003,
+      82.54
+    ],
+    "min_side_640": 82.54,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 163,
+    "annotation_id": 558,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      263,
+      29,
+      368.87,
+      88.8
+    ],
+    "min_side_640": 59.8,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 164,
+    "annotation_id": 563,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      267,
+      41,
+      349.12,
+      76.3
+    ],
+    "min_side_640": 35.3,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 165,
+    "annotation_id": 567,
+    "clase": "ENVASE",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      168,
+      63,
+      269.88,
+      505.06
+    ],
+    "min_side_640": 101.88,
+    "visibilidad": "TOTAL"
+  },
+  {
+    "image_id": 167,
+    "annotation_id": 572,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      267,
+      82,
+      400.11,
+      167.56
+    ],
+    "min_side_640": 85.56,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 169,
+    "annotation_id": 576,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      278,
+      111,
+      356.87,
+      156.32
+    ],
+    "min_side_640": 45.32,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 170,
+    "annotation_id": 579,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      257,
+      35,
+      380.11,
+      106.3
+    ],
+    "min_side_640": 71.3,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 171,
+    "annotation_id": 582,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      252,
+      23,
+      393.11,
+      66.28999999999999
+    ],
+    "min_side_640": 43.29,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 179,
+    "annotation_id": 606,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      298,
+      120,
+      381.86,
+      146.32
+    ],
+    "min_side_640": 26.32,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 180,
+    "annotation_id": 609,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      288,
+      112,
+      349.87,
+      168.82
+    ],
+    "min_side_640": 56.82000000000001,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 185,
+    "annotation_id": 623,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      287,
+      36,
+      374.12,
+      73.8
+    ],
+    "min_side_640": 37.8,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 186,
+    "annotation_id": 629,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      217,
+      215,
+      254.06,
+      251.68
+    ],
+    "min_side_640": 18.34,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 187,
+    "annotation_id": 632,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      297,
+      129,
+      354.12,
+      165.07
+    ],
+    "min_side_640": 36.07,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 188,
+    "annotation_id": 636,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      287,
+      115,
+      352.12,
+      170.07
+    ],
+    "min_side_640": 55.07000000000001,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 189,
+    "annotation_id": 639,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      432,
+      458,
+      460.1,
+      520.32
+    ],
+    "min_side_640": 28.1,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 189,
+    "annotation_id": 643,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      355,
+      44,
+      390.36,
+      80.05
+    ],
+    "min_side_640": 35.36,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 191,
+    "annotation_id": 647,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      33,
+      25,
+      108.91,
+      75.03999999999999
+    ],
+    "min_side_640": 50.04,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 191,
+    "annotation_id": 648,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      210,
+      21,
+      279.38,
+      71.28999999999999
+    ],
+    "min_side_640": 50.29,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 191,
+    "annotation_id": 649,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      348,
+      27,
+      424.86,
+      75.05
+    ],
+    "min_side_640": 48.05,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 191,
+    "annotation_id": 650,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      514,
+      19,
+      584.58,
+      75.03999999999999
+    ],
+    "min_side_640": 56.04,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 193,
+    "annotation_id": 662,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      144,
+      141,
+      251.64,
+      168.82999999999998
+    ],
+    "min_side_640": 27.829999999999995,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 193,
+    "annotation_id": 665,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      493,
+      309,
+      591.83,
+      336.37
+    ],
+    "min_side_640": 27.369999999999997,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 204,
+    "annotation_id": 698,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      322,
+      238,
+      378.12,
+      315.1
+    ],
+    "min_side_640": 56.11999999999999,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 207,
+    "annotation_id": 705,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      255,
+      27,
+      402.36,
+      85.05
+    ],
+    "min_side_640": 58.05,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 208,
+    "annotation_id": 707,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      945,
+      504,
+      1001.08,
+      553.04
+    ],
+    "min_side_640": 24.52,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 208,
+    "annotation_id": 708,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      797,
+      479,
+      850.54,
+      524.6
+    ],
+    "min_side_640": 22.8,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 208,
+    "annotation_id": 709,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      725,
+      453,
+      777.12,
+      497.74
+    ],
+    "min_side_640": 22.37,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 208,
+    "annotation_id": 710,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      653,
+      442,
+      702.28,
+      478.45
+    ],
+    "min_side_640": 18.225,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 208,
+    "annotation_id": 711,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      530,
+      407,
+      574.15,
+      446.01
+    ],
+    "min_side_640": 19.505,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 208,
+    "annotation_id": 712,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      459,
+      392,
+      503.74,
+      425.87
+    ],
+    "min_side_640": 16.935,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 208,
+    "annotation_id": 713,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      367,
+      374,
+      404.9,
+      404.72
+    ],
+    "min_side_640": 15.36,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 208,
+    "annotation_id": 714,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      262,
+      343,
+      299.34000000000003,
+      376
+    ],
+    "min_side_640": 16.5,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 213,
+    "annotation_id": 733,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      263,
+      48,
+      346.87,
+      108.8
+    ],
+    "min_side_640": 60.8,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 215,
+    "annotation_id": 740,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      208,
+      97,
+      312.88,
+      135.06
+    ],
+    "min_side_640": 38.06,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 218,
+    "annotation_id": 749,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      267,
+      68,
+      400.11,
+      117.56
+    ],
+    "min_side_640": 49.56,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 219,
+    "annotation_id": 751,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      223,
+      273,
+      254.35,
+      297.12
+    ],
+    "min_side_640": 12.06,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 219,
+    "annotation_id": 752,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      392,
+      266,
+      417.04,
+      285.55
+    ],
+    "min_side_640": 9.775,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 219,
+    "annotation_id": 753,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      557,
+      254,
+      593.44,
+      278.97
+    ],
+    "min_side_640": 12.485,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 219,
+    "annotation_id": 754,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      726,
+      250,
+      753.84,
+      274.11
+    ],
+    "min_side_640": 12.055,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 219,
+    "annotation_id": 755,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      865,
+      250,
+      891.39,
+      269.83
+    ],
+    "min_side_640": 9.915,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 219,
+    "annotation_id": 756,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      1000,
+      246,
+      1027.79,
+      266.11
+    ],
+    "min_side_640": 10.055,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 223,
+    "annotation_id": 773,
+    "clase": "NO_EVALUABLE",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      534,
+      137,
+      722.97,
+      294.44
+    ],
+    "min_side_640": 52.480000000000004,
+    "visibilidad": "TOTAL"
+  },
+  {
+    "image_id": 224,
+    "annotation_id": 775,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      394,
+      35,
+      470.6,
+      80.05
+    ],
+    "min_side_640": 45.05,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 225,
+    "annotation_id": 779,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      135,
+      0,
+      244.39,
+      65.25
+    ],
+    "min_side_640": 65.25,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 226,
+    "annotation_id": 782,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      268,
+      40,
+      348.87,
+      78.8
+    ],
+    "min_side_640": 38.8,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 228,
+    "annotation_id": 787,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      224,
+      67,
+      390.61,
+      145.06
+    ],
+    "min_side_640": 78.06,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 231,
+    "annotation_id": 797,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      254,
+      45,
+      384.61,
+      86.3
+    ],
+    "min_side_640": 41.3,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 235,
+    "annotation_id": 809,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      34,
+      0,
+      119.66,
+      49
+    ],
+    "min_side_640": 49.0,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 235,
+    "annotation_id": 814,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      527,
+      0,
+      613.08,
+      45.25
+    ],
+    "min_side_640": 45.25,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 235,
+    "annotation_id": 816,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      355,
+      1,
+      441.35,
+      57.54
+    ],
+    "min_side_640": 56.54,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 236,
+    "annotation_id": 818,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      288,
+      155,
+      356.87,
+      195.07999999999998
+    ],
+    "min_side_640": 40.08,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 241,
+    "annotation_id": 832,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      486,
+      343,
+      583.08,
+      511.32
+    ],
+    "min_side_640": 97.08,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 242,
+    "annotation_id": 834,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      163,
+      21,
+      250.89,
+      87.54
+    ],
+    "min_side_640": 66.54,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 242,
+    "annotation_id": 835,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      380,
+      22,
+      472.35,
+      90.04
+    ],
+    "min_side_640": 68.04,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 244,
+    "annotation_id": 846,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      471,
+      38,
+      559.09,
+      82.55
+    ],
+    "min_side_640": 44.55,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 244,
+    "annotation_id": 847,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      80,
+      37,
+      161.4,
+      80.05
+    ],
+    "min_side_640": 43.05,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 244,
+    "annotation_id": 848,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      278,
+      31,
+      357.87,
+      75.05
+    ],
+    "min_side_640": 44.05,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 245,
+    "annotation_id": 852,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      78,
+      99,
+      125.91,
+      132.57
+    ],
+    "min_side_640": 33.57,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 248,
+    "annotation_id": 862,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      284,
+      156,
+      359.62,
+      205.07999999999998
+    ],
+    "min_side_640": 49.08,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 251,
+    "annotation_id": 872,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      112,
+      19,
+      189.9,
+      69.78999999999999
+    ],
+    "min_side_640": 50.79,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 251,
+    "annotation_id": 873,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      438,
+      22,
+      512.84,
+      68.78999999999999
+    ],
+    "min_side_640": 46.79,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 257,
+    "annotation_id": 892,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      243,
+      165,
+      310.88,
+      208.82999999999998
+    ],
+    "min_side_640": 43.83,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 257,
+    "annotation_id": 896,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      553,
+      172,
+      628.8199999999999,
+      217.57999999999998
+    ],
+    "min_side_640": 45.58,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 258,
+    "annotation_id": 900,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      272,
+      37,
+      363.12,
+      78.8
+    ],
+    "min_side_640": 41.8,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 258,
+    "annotation_id": 901,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      80,
+      38,
+      164.4,
+      80.05
+    ],
+    "min_side_640": 42.05,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 258,
+    "annotation_id": 902,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      465,
+      41,
+      557.34,
+      81.3
+    ],
+    "min_side_640": 40.3,
+    "visibilidad": "NO_REVISADA"
+  },
+  {
+    "image_id": 259,
+    "annotation_id": 907,
+    "clase": "TAPA",
+    "geometria_valida": true,
+    "bbox_xyxy": [
+      291,
+      44,
+      355.12,
+      80.05
+    ],
+    "min_side_640": 36.05,
+    "visibilidad": "NO_REVISADA"
+  }
+]

@@ -1,0 +1,172 @@
+{
+  "fecha_utc": "2026-11-18T22:03:34.381325+00:00",
+  "historial_archivos": [
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000001/decision.json",
+      "sha256": "311143988f87e13f1ccb05c60cc0661f27f5c39c514055b3fed9e2d06738f8a2"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000001/dataset.jsonl",
+      "sha256": "979064b13762e4255db05102c56e3b735a0e913519b105f72616a8bac2af9bef"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000001/estado.json",
+      "sha256": "6fd847d82e626204bd98727d75d4531f544a2b16372df7bdcc61e2eb57ab5d4a"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000001/manifest.json",
+      "sha256": "b359730def107b97c42068b9c54a1b50fdb6ca949b37a8c725e528293f29f7a2"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000002/decision.json",
+      "sha256": "6f0c0451c6da1623505923ae2d8d3fb5bbd5d69febc89af67a348a978606bc17"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000002/dataset.jsonl",
+      "sha256": "cbc24ef0d4380455dc2561832110cccd97c2d5aab3adb70767cf20dadd6b2aec"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000002/estado.json",
+      "sha256": "d6953e55fbd2b22f2f4f5a3f39bfa13070699e546dd49d4cc60c300f42fc9ae9"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000002/manifest.json",
+      "sha256": "40207db91e8ce05a6fa4c1dc09762c93f29d8c02cc278cf826a1c6feb4817f4b"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000003/decision.json",
+      "sha256": "f1a332dc1eaf8272db8545aa196097ed83164d2ec34d4244780a250736d6a244"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000003/dataset.jsonl",
+      "sha256": "5551ba4a822aefbcc10e736ca4ee56dc70dfc8b9f94bd8d7424d57298e134e7f"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000003/estado.json",
+      "sha256": "7eb584888a9d13de941f6267c4119930f6e6e2908870087e6f0227f3102334c9"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000003/manifest.json",
+      "sha256": "f1fc2813868a359dd33d176fc1d255d66354ccc4f98185441f62f2d8c66c97e9"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000004/decision.json",
+      "sha256": "09fdea918390838a9c604709256deebabd32e2d75667a7e720e413234cff8a39"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000004/dataset.jsonl",
+      "sha256": "1ca5f3dcbe7fdd7dfc76d480365ff6aa5f9666a72e497c7a21350891adf0bfd2"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000004/estado.json",
+      "sha256": "779904e3e8476194244ea63d850440819be07c60940b521526fc1f547107e1aa"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000004/manifest.json",
+      "sha256": "437f7e1c57d7641ffc6cf835f169319fd270a0d53f583c2be8045a9982bfd4c5"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000005/decision.json",
+      "sha256": "c21899a60510a696f9502c377d6a598ed921fb1056eef9298842599e38d02c0d"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000005/dataset.jsonl",
+      "sha256": "e99eec8877b66da904222a50acc7b123598f7868484931c9ae897a0bba453ffe"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000005/estado.json",
+      "sha256": "cc195ad922195b47fbf58f40fa4d09f8d20210614a4a7209629f3ca1e7646386"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000005/manifest.json",
+      "sha256": "ea897449c0071755275a0e70a28659499349c9c94f3c6d746cdeb4d1192ca5aa"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000006/decision.json",
+      "sha256": "abd31e2b4fc7cabd9707193e65c979a4f32a288c6d1c3417403818047ee52001"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000006/dataset.jsonl",
+      "sha256": "cd95c4114425d90a1f9e5146627badfba79ca56cd81a4fd2bc1472d6ef32bd3b"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000006/estado.json",
+      "sha256": "b97a687f6b373d704f0ef40013148dffccc08f6d43364069ec08a3814492040b"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000006/manifest.json",
+      "sha256": "9ac242527c7882aa69550e6b13193bcd3ecd4a24a8fecc78fad40b0dd004aa3b"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000007/decision.json",
+      "sha256": "f58d79e925e91590b611bb81f007d75f1d4c51da69a7066edc312629c66b8513"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000007/dataset.jsonl",
+      "sha256": "73cf2296edc22ed51c90ba1d5bdabce4f4655d9db83dabcde4b245558f5e0ec7"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000007/estado.json",
+      "sha256": "dae1cb98ea065f0dbba9df4cad4924b75925e9c6d0d38f6621f8773eace7c677"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000007/manifest.json",
+      "sha256": "54dbf03005081122615108d3115c8e7a256642e1805edc7d2565a258059b2ce9"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000008/decision.json",
+      "sha256": "16e5a50c86eb83f4954209d9237a953aa1a490f1d16d2d9c9df91a2da4a85bab"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000008/dataset.jsonl",
+      "sha256": "ad8b6921570954d8fd4237f14f48ac4e22bf0ff5024c641d7bc97e4f60b8dcab"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000008/estado.json",
+      "sha256": "7298ff4382f660737333dda3ba4fd3352f895a13afca2b817a73d1480736d004"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000008/manifest.json",
+      "sha256": "9c72f4554e52688d171b8363bf5a606fa65ce82c739160bf6c9216117a1aad75"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000009/decision.json",
+      "sha256": "a73344a7290d76046a62dcc71d92764cd952d7c8bb727a404ebea72814e5083f"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000009/dataset.jsonl",
+      "sha256": "ebd366b7393d0188fbef98e1a7951136115de826301d9f52656c8de0231569cf"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000009/estado.json",
+      "sha256": "a6f562fe3c4199a128061d9277ed392151698bf6b2d9bd0697aed73e77edea81"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000009/manifest.json",
+      "sha256": "2cbb3bf9c418d6a59f27c01db61ee95e22428fec606c9b37d8f3a4e60ed5a55e"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000010/decision.json",
+      "sha256": "eb164049462b184ff7f44068aa172b7dfd05c22af7391422281f2e7b6176eb8d"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000010/dataset.jsonl",
+      "sha256": "af58f6933d4e9e59169fe4df0cb7392e2cdc01e77f90cbe06d5bfddd36ad6aeb"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000010/estado.json",
+      "sha256": "a2cc993b6ae3b4d46bc6b0550229910606ca34043d66158af3ecf4f3e605c437"
+    },
+    {
+      "path": "output/fase26_tapa_v002_001/versiones/000010/manifest.json",
+      "sha256": "92a311c42dcfacd87361d5f77ad7ad535cfe45a0867466024f2918c3a69ed077"
+    }
+  ],
+  "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+  "fuente_candidato_sha256": "68d4d17cbc47712b2d13f4dd06f01d8eb9675370876ac8ff4256afd3844ee1dc",
+  "dataset": "datasets/calidad_botellas/v003/tapa_candidato_001",
+  "historial_original_modificado": false,
+  "revision_global_congelada": 10,
+  "referencia_propia": "CONSERVADA_POR_SEPARADO_NO_INCLUIDA",
+  "licencia_exportacion": "CC BY 4.0 registrada; procedencia individual con alertas previas sin nueva certificación"
+}

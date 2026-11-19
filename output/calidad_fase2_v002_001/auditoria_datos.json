@@ -1,0 +1,88 @@
+{
+  "frames": 25,
+  "estados": {
+    "reviewed": 25
+  },
+  "boxes": {
+    "ENVASE": 108,
+    "TAPA": 136
+  },
+  "tapas_con_enlace": 59,
+  "hashes_25_verificados": 25,
+  "conflictos_persistentes": [
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000120",
+      "box_id": "011cc367-0a4f-4dae-b3e3-414a0f0e6e95",
+      "clase_guardada": "ENVASE",
+      "nota_humana": "tapa roja",
+      "motivo": "Clase ENVASE con nota que describe una tapa; requiere adjudicación humana"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000240",
+      "box_id": "40004408-7538-4504-96be-18326d359f3b",
+      "clase_guardada": "ENVASE",
+      "nota_humana": "tapa roja",
+      "motivo": "Clase ENVASE con nota que describe una tapa; requiere adjudicación humana"
+    },
+    {
+      "sample_id": "vid_557eef7acddd10c7439ddd8f_f000330",
+      "box_id": "50478c3f-aa0c-4659-af31-5028d57adc44",
+      "clase_guardada": "ENVASE",
+      "nota_humana": "tapa roja suelta",
+      "motivo": "Clase ENVASE con nota que describe una tapa; requiere adjudicación humana"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000100",
+      "box_id": "ce00f4be-3086-4e9f-a0fc-68a324a97b27",
+      "clase_guardada": "ENVASE",
+      "nota_humana": "tapa amarilla",
+      "motivo": "Clase ENVASE con nota que describe una tapa; requiere adjudicación humana"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000250",
+      "box_id": "4bacdeaa-1c24-49d7-9e8a-24627c32c6b2",
+      "clase_guardada": "ENVASE",
+      "nota_humana": "tapa amarilla",
+      "motivo": "Clase ENVASE con nota que describe una tapa; requiere adjudicación humana"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000300",
+      "box_id": "828408df-22d5-4bb1-b712-427c230eea56",
+      "clase_guardada": "ENVASE",
+      "nota_humana": "tapa amarilla",
+      "motivo": "Clase ENVASE con nota que describe una tapa; requiere adjudicación humana"
+    },
+    {
+      "sample_id": "vid_8a2b94bcf49a24212a443df0_f000350",
+      "box_id": "f7f8b8c8-d6be-458e-a044-966159612618",
+      "clase_guardada": "ENVASE",
+      "nota_humana": "tapa amarilla",
+      "motivo": "Clase ENVASE con nota que describe una tapa; requiere adjudicación humana"
+    }
+  ],
+  "clasificador_particiones": {
+    "('validation', 1)": 15,
+    "('test', 1)": 10,
+    "('train', 1)": 11,
+    "('train', 0)": 7,
+    "('test', 0)": 7
+  },
+  "pesos_locales": [
+    {
+      "path": "datasets/calidad_botellas/v002/experiments/individual_v001/weights/fasterrcnn_mobilenet_v3_large_320_fpn-907ea3f9.pth",
+      "sha256": "907ea3f91ff92242bc1baea8049276a3e76bca48ce7560bd268cc029f37977b5"
+    },
+    {
+      "path": "datasets/calidad_botellas/v002/experiments/individual_v001/weights/yolo11s.pt",
+      "sha256": "85a76fe86dd8afe384648546b56a7a78580c7cb7b404fc595f97969322d502d5"
+    },
+    {
+      "path": "datasets/calidad_botellas/v002/experiments/day1_v001/artifacts/cap_model.pt",
+      "sha256": "548886556125f43ef232d21274643907b65d6c4bb7c5353f6c51eca6c13c96b1"
+    },
+    {
+      "path": "Modelos/best.pt",
+      "sha256": "2b33d4d016f9751c5a25f4a72ce050e0a7e4e140b11c1669978d7154003a4f61"
+    }
+  ]
+}

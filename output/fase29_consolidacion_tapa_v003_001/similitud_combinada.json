@@ -1,0 +1,74 @@
+{
+  "comparisons": 40186,
+  "pairs": [
+    {
+      "a": "roboflow_caps_v26:2a23649efcea3e19b4987b020f555df8e2daac4d59e40e94a5f7e29d907337bb",
+      "b": "roboflow_caps_v26:10a151aa5bed24c6ccdb19fca57fbbd225a66db31285ca803625db7cd8d18f69",
+      "group_a": "origin-4133e6232670ab23",
+      "group_b": "origin-4133e6232670ab23",
+      "cross_group": false,
+      "cross_source": false,
+      "phash_distance": 2,
+      "dhash_distance": 2,
+      "color_difference": 0.003594771241830065
+    },
+    {
+      "a": "roboflow_caps_v26:85a3c874fda15baada06e58d6022dbe0301a4dad283bdc543f7ab591eebfe96d",
+      "b": "roboflow_caps_v26:7eb0a5158e6266ae0c123f34571430674a4dc65d997d366506ec2d5e3528f24f",
+      "group_a": "origin-4133e6232670ab23",
+      "group_b": "origin-4133e6232670ab23",
+      "cross_group": false,
+      "cross_source": false,
+      "phash_distance": 2,
+      "dhash_distance": 1,
+      "color_difference": 0.004820261437908497
+    },
+    {
+      "a": "roboflow_caps_v26:aa59d173229ec3e4b3d8c3be61037d614cc89b10b7fd3bf5ce15190cfd5b221b",
+      "b": "roboflow_caps_v26:7eb0a5158e6266ae0c123f34571430674a4dc65d997d366506ec2d5e3528f24f",
+      "group_a": "origin-4133e6232670ab23",
+      "group_b": "origin-4133e6232670ab23",
+      "cross_group": false,
+      "cross_source": false,
+      "phash_distance": 2,
+      "dhash_distance": 4,
+      "color_difference": 0.003993055555555556
+    },
+    {
+      "a": "roboflow_caps_v26:c47e405df780b49e2d199c1f07640907cfbd410fcc589eeceaad389b2965809f",
+      "b": "roboflow_caps_v26:c1977e7ec003325415c7bba8dd220eef94581dab3d5012a6fd7d3551c217088d",
+      "group_a": "origin-748a769a56ce16aa",
+      "group_b": "origin-748a769a56ce16aa",
+      "cross_group": false,
+      "cross_source": false,
+      "phash_distance": 0,
+      "dhash_distance": 3,
+      "color_difference": 0.005147058823529412
+    },
+    {
+      "a": "roboflow_caps_v26:f4441cd03d0eb489beefd9cebd413a69590916b8e8f6131b191cdab79de30282",
+      "b": "roboflow_caps_v26:725dcb802ab68c8a447ee99b684acc772119bcfe02e5702188c1bbb79c20aad6",
+      "group_a": "origin-748a769a56ce16aa",
+      "group_b": "origin-748a769a56ce16aa",
+      "cross_group": false,
+      "cross_source": false,
+      "phash_distance": 2,
+      "dhash_distance": 2,
+      "color_difference": 0.007056781045751634
+    },
+    {
+      "a": "roboflow_bottle_v4:image:231",
+      "b": "roboflow_bottle_v4:image:126",
+      "group_a": "v4g13",
+      "group_b": "v4g13",
+      "cross_group": false,
+      "cross_source": false,
+      "phash_distance": 2,
+      "dhash_distance": 0,
+      "color_difference": 0.005672998366013072
+    }
+  ],
+  "cross_group_pairs": 0,
+  "exact_duplicates": 0,
+  "method": "Criterios estrictos de audit_visual reutilizados; similitud no demuestra identidad física ni independencia."
+}

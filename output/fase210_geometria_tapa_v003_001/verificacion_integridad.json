@@ -1,0 +1,14 @@
+{
+  "protected_files_verified": 26361,
+  "changed": [],
+  "previous_fase27_28_29_and_datasets_manifests_valid": true,
+  "catalog_images_verified": 284,
+  "v26_source_annotations_unchanged": 272,
+  "automatic_coordinate_edits": 0,
+  "human_decisions_saved_by_assistant": 0,
+  "new_human_revisions_at_delivery": 0,
+  "tests_passed": 9,
+  "chrome_ok": true,
+  "training": 0,
+  "inference": 0
+}

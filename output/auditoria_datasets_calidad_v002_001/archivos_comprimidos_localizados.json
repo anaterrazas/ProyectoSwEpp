@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bottle Defects.v26-without-any-modification.coco.zip",
+    "bytes": 253699544,
+    "sha256": "0e37c5ed873a7bb76eb292750e9092a50fc33cb7be141b5684791cd21b9ce7fa",
+    "workspace_path": "Downloads/Documents/Bottle Defects.v26-without-any-modification.coco.zip"
+  },
+  {
+    "name": "dataset.rar",
+    "bytes": 162131884,
+    "sha256": "530f60bbc145c839b143542ec3793024792393067c87879d52e8f9c769f18506",
+    "workspace_path": "datasets/publicos_calidad_botellas/raw/mendeley_kthmmbsh8t_v1/dataset.rar"
+  },
+  {
+    "name": "dataset.zip",
+    "bytes": 253699544,
+    "sha256": "0e37c5ed873a7bb76eb292750e9092a50fc33cb7be141b5684791cd21b9ce7fa",
+    "workspace_path": "datasets/publicos_calidad_botellas/raw/roboflow_caps_v26/dataset.zip"
+  }
+]

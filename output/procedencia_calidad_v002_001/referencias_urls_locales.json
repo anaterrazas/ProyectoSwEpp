@@ -1,0 +1,523 @@
+{
+  "referencias": [
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2009,
+      "timestamp": "2026-11-18T14:53:03.618Z",
+      "url": "https://www.pexels.com/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2009,
+      "timestamp": "2026-11-18T14:53:03.618Z",
+      "url": "https://www.pexels.com/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2009,
+      "timestamp": "2026-11-18T14:53:03.618Z",
+      "url": "https://www.pexels.com/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2009,
+      "timestamp": "2026-11-18T14:53:03.618Z",
+      "url": "https://www.istockphoto.com/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2009,
+      "timestamp": "2026-11-18T14:53:03.618Z",
+      "url": "https://www.pexels.com/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2010,
+      "timestamp": "2026-11-18T14:53:03.623Z",
+      "url": "https://www.pexels.com/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2010,
+      "timestamp": "2026-11-18T14:53:03.623Z",
+      "url": "https://www.pexels.com/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2010,
+      "timestamp": "2026-11-18T14:53:03.623Z",
+      "url": "https://www.pexels.com/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2010,
+      "timestamp": "2026-11-18T14:53:03.623Z",
+      "url": "https://www.istockphoto.com/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2010,
+      "timestamp": "2026-11-18T14:53:03.623Z",
+      "url": "https://www.pexels.com/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2016,
+      "timestamp": "2026-11-18T14:53:15.260Z",
+      "url": "https://help.pexels.com/hc/en-us/articles/900005880463-What-are-the-Terms-and-Conditions",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2016,
+      "timestamp": "2026-11-18T14:53:15.260Z",
+      "url": "https://www.istockphoto.com/legal/license-agreement",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2016,
+      "timestamp": "2026-11-18T14:53:15.260Z",
+      "url": "https://www.pexels.com/terms-of-service/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2016,
+      "timestamp": "2026-11-18T14:53:15.260Z",
+      "url": "https://help.pexels.com/hc/en-us/articles/27292485713945-AI-and-ML-FAQ",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2016,
+      "timestamp": "2026-11-18T14:53:15.260Z",
+      "url": "https://www.pexels.com/acceptable-use-policy/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2016,
+      "timestamp": "2026-11-18T14:53:15.260Z",
+      "url": "https://www.istockphoto.com/legal/membership-agreement",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2016,
+      "timestamp": "2026-11-18T14:53:15.260Z",
+      "url": "https://www.istockphoto.com/legal/terms-of-use",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2016,
+      "timestamp": "2026-11-18T14:53:15.260Z",
+      "url": "https://www.istockphoto.com/FR/legal/license-agreement",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2016,
+      "timestamp": "2026-11-18T14:53:15.260Z",
+      "url": "https://help.pexels.com/hc/en-us/articles/22114560160409-Terms-Policy-Update-2024",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2016,
+      "timestamp": "2026-11-18T14:53:15.260Z",
+      "url": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2016,
+      "timestamp": "2026-11-18T14:53:15.260Z",
+      "url": "https://help.pexels.com/hc/en-us/articles/360042295174-What-is-the-license-of-the-photos-and-videos-on-Pexels",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2016,
+      "timestamp": "2026-11-18T14:53:15.260Z",
+      "url": "https://www.pexels.com/license/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2017,
+      "timestamp": "2026-11-18T14:53:15.265Z",
+      "url": "https://help.pexels.com/hc/en-us/articles/900005880463-What-are-the-Terms-and-Conditions",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2017,
+      "timestamp": "2026-11-18T14:53:15.265Z",
+      "url": "https://www.istockphoto.com/legal/license-agreement",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2017,
+      "timestamp": "2026-11-18T14:53:15.265Z",
+      "url": "https://www.pexels.com/terms-of-service/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2017,
+      "timestamp": "2026-11-18T14:53:15.265Z",
+      "url": "https://help.pexels.com/hc/en-us/articles/27292485713945-AI-and-ML-FAQ",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2017,
+      "timestamp": "2026-11-18T14:53:15.265Z",
+      "url": "https://www.pexels.com/acceptable-use-policy/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2017,
+      "timestamp": "2026-11-18T14:53:15.265Z",
+      "url": "https://www.istockphoto.com/legal/membership-agreement",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2017,
+      "timestamp": "2026-11-18T14:53:15.265Z",
+      "url": "https://www.istockphoto.com/legal/terms-of-use",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2017,
+      "timestamp": "2026-11-18T14:53:15.265Z",
+      "url": "https://www.istockphoto.com/FR/legal/license-agreement",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2017,
+      "timestamp": "2026-11-18T14:53:15.265Z",
+      "url": "https://help.pexels.com/hc/en-us/articles/22114560160409-Terms-Policy-Update-2024",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2017,
+      "timestamp": "2026-11-18T14:53:15.265Z",
+      "url": "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2017,
+      "timestamp": "2026-11-18T14:53:15.265Z",
+      "url": "https://help.pexels.com/hc/en-us/articles/360042295174-What-is-the-license-of-the-photos-and-videos-on-Pexels",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2017,
+      "timestamp": "2026-11-18T14:53:15.265Z",
+      "url": "https://www.pexels.com/license/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2021,
+      "timestamp": "2026-11-18T14:53:19.929Z",
+      "url": "https://www.pexels.com/terms-of-service/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2021,
+      "timestamp": "2026-11-18T14:53:19.929Z",
+      "url": "https://help.pexels.com/hc/en-us/articles/900005880463-What-are-the-Terms-and-Conditions",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2021,
+      "timestamp": "2026-11-18T14:53:19.929Z",
+      "url": "https://www.istockphoto.com/legal/license-agreement",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2023,
+      "timestamp": "2026-11-18T14:53:21.550Z",
+      "url": "https://www.pexels.com/terms-of-service/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2023,
+      "timestamp": "2026-11-18T14:53:21.550Z",
+      "url": "https://www.pexels.com/terms-of-service/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2023,
+      "timestamp": "2026-11-18T14:53:21.550Z",
+      "url": "https://www.pexels.com/terms-of-service/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2023,
+      "timestamp": "2026-11-18T14:53:21.550Z",
+      "url": "https://help.pexels.com/hc/en-us/articles/900005880463-What-are-the-Terms-and-Conditions",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2023,
+      "timestamp": "2026-11-18T14:53:21.550Z",
+      "url": "https://www.istockphoto.com/legal/license-agreement",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2024,
+      "timestamp": "2026-11-18T14:53:21.555Z",
+      "url": "https://www.pexels.com/terms-of-service/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2024,
+      "timestamp": "2026-11-18T14:53:21.555Z",
+      "url": "https://www.pexels.com/terms-of-service/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2024,
+      "timestamp": "2026-11-18T14:53:21.555Z",
+      "url": "https://help.pexels.com/hc/en-us/articles/900005880463-What-are-the-Terms-and-Conditions",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2024,
+      "timestamp": "2026-11-18T14:53:21.555Z",
+      "url": "https://help.pexels.com/hc/en-us/articles/900005880463-What-are-the-Terms-and-Conditions",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2024,
+      "timestamp": "2026-11-18T14:53:21.555Z",
+      "url": "https://www.pexels.com/license†www.pexels.com】",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2024,
+      "timestamp": "2026-11-18T14:53:21.555Z",
+      "url": "https://www.pexels.com/terms-of-service†www.pexels.com】",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2024,
+      "timestamp": "2026-11-18T14:53:21.555Z",
+      "url": "https://www.istockphoto.com/legal/license-agreement",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2024,
+      "timestamp": "2026-11-18T14:53:21.555Z",
+      "url": "https://www.istockphoto.com/legal/license-agreement",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2030,
+      "timestamp": "2026-11-18T14:53:28.230Z",
+      "url": "https://www.pexels.com/terms-of-service/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2030,
+      "timestamp": "2026-11-18T14:53:28.230Z",
+      "url": "https://www.istockphoto.com/legal/license-agreement",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2031,
+      "timestamp": "2026-11-18T14:53:28.235Z",
+      "url": "https://www.pexels.com/terms-of-service/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2031,
+      "timestamp": "2026-11-18T14:53:28.235Z",
+      "url": "https://www.pexels.com/blog/resource/upload-guidelines/】",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2031,
+      "timestamp": "2026-11-18T14:53:28.235Z",
+      "url": "https://www.istockphoto.com/legal/license-agreement",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2039,
+      "timestamp": "2026-11-18T14:54:27.669Z",
+      "url": "https://www.pexels.com/'",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2039,
+      "timestamp": "2026-11-18T14:54:27.669Z",
+      "url": "https://www.pexels.com/'",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2039,
+      "timestamp": "2026-11-18T14:54:27.669Z",
+      "url": "https://www.pexels.com/'",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2039,
+      "timestamp": "2026-11-18T14:54:27.669Z",
+      "url": "https://www.istockphoto.com/'",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2039,
+      "timestamp": "2026-11-18T14:54:27.669Z",
+      "url": "https://www.pexels.com/'}",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2040,
+      "timestamp": "2026-11-18T14:54:27.674Z",
+      "url": "https://www.pexels.com/'",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2040,
+      "timestamp": "2026-11-18T14:54:27.674Z",
+      "url": "https://www.pexels.com/'",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2040,
+      "timestamp": "2026-11-18T14:54:27.674Z",
+      "url": "https://www.pexels.com/'",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2040,
+      "timestamp": "2026-11-18T14:54:27.674Z",
+      "url": "https://www.istockphoto.com/'",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2040,
+      "timestamp": "2026-11-18T14:54:27.674Z",
+      "url": "https://www.pexels.com/'}",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2056,
+      "timestamp": "2026-11-18T15:00:46.125Z",
+      "url": "https://www.pexels.com/terms-of-service/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2056,
+      "timestamp": "2026-11-18T15:00:46.125Z",
+      "url": "https://help.pexels.com/hc/en-us/articles/900005880463-What-are-the-Terms-and-Conditions",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2056,
+      "timestamp": "2026-11-18T15:00:46.125Z",
+      "url": "https://www.istockphoto.com/legal/license-agreement",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2058,
+      "timestamp": "2026-11-18T15:00:46.253Z",
+      "url": "https://www.pexels.com/terms-of-service/",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2058,
+      "timestamp": "2026-11-18T15:00:46.253Z",
+      "url": "https://help.pexels.com/hc/en-us/articles/900005880463-What-are-the-Terms-and-Conditions",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    },
+    {
+      "registro_local": "rollout-2026-11-17T09-21-48-01a1e9ab-bd2b-70e2-8b97-407a7c557637.jsonl",
+      "linea": 2058,
+      "timestamp": "2026-11-18T15:00:46.253Z",
+      "url": "https://www.istockphoto.com/legal/license-agreement",
+      "evidencia": "REFERENCIA_LOCAL_NO_PRUEBA_DE_DESCARGA"
+    }
+  ],
+  "urls_unicas": [
+    "https://help.pexels.com/hc/en-us/articles/22114560160409-Terms-Policy-Update-2024",
+    "https://help.pexels.com/hc/en-us/articles/27292485713945-AI-and-ML-FAQ",
+    "https://help.pexels.com/hc/en-us/articles/27453505326873-Can-I-upload-generative-AI-photos-and-videos-to-Pexels",
+    "https://help.pexels.com/hc/en-us/articles/360042295174-What-is-the-license-of-the-photos-and-videos-on-Pexels",
+    "https://help.pexels.com/hc/en-us/articles/900005880463-What-are-the-Terms-and-Conditions",
+    "https://www.istockphoto.com/",
+    "https://www.istockphoto.com/'",
+    "https://www.istockphoto.com/FR/legal/license-agreement",
+    "https://www.istockphoto.com/legal/license-agreement",
+    "https://www.istockphoto.com/legal/membership-agreement",
+    "https://www.istockphoto.com/legal/terms-of-use",
+    "https://www.pexels.com/",
+    "https://www.pexels.com/'",
+    "https://www.pexels.com/'}",
+    "https://www.pexels.com/acceptable-use-policy/",
+    "https://www.pexels.com/blog/resource/upload-guidelines/】",
+    "https://www.pexels.com/license/",
+    "https://www.pexels.com/license†www.pexels.com】",
+    "https://www.pexels.com/terms-of-service/",
+    "https://www.pexels.com/terms-of-service†www.pexels.com】"
+  ]
+}

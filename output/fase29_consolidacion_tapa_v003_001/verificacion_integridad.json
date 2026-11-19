@@ -1,0 +1,17 @@
+{
+  "protected_files_verified": 26361,
+  "changed": [],
+  "earlier_v003_fase27_fase28_manifests_valid": true,
+  "candidate_images_hash_verified": 284,
+  "source_v26_images_and_raw_verified": 570,
+  "groups": 8,
+  "cross_group_assignment_conflicts": 0,
+  "full_source_membership_for_v26_groups": {
+    "origin-748a769a56ce16aa": 204,
+    "origin-4133e6232670ab23": 281
+  },
+  "gallery_resources": 292,
+  "tests": 4,
+  "training": 0,
+  "inference": 0
+}

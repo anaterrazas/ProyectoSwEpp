@@ -1,0 +1,9 @@
+{
+  "fuente_coco_sha256": "06dd4e05a2c6c35c3244dcf62840eeb00759ea340726d58868dd87a8362c7f54",
+  "fuente_candidato_sha256": "68d4d17cbc47712b2d13f4dd06f01d8eb9675370876ac8ff4256afd3844ee1dc",
+  "sha256": {
+    "decision.json": "16e5a50c86eb83f4954209d9237a953aa1a490f1d16d2d9c9df91a2da4a85bab",
+    "dataset.jsonl": "ad8b6921570954d8fd4237f14f48ac4e22bf0ff5024c641d7bc97e4f60b8dcab",
+    "estado.json": "7298ff4382f660737333dda3ba4fd3352f895a13afca2b817a73d1480736d004"
+  }
+}

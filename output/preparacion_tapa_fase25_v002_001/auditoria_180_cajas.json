@@ -1,0 +1,4322 @@
+[
+  {
+    "annotation_original": {
+      "id": 2,
+      "image_id": 0,
+      "category_id": 1,
+      "bbox": [
+        310,
+        40,
+        130.35,
+        76.3
+      ],
+      "area": 9945.705,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "888a0c1cc3ec3e13c0228502a2160da8adeef9589c0e0bdfca6dd1734781e5ef",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 76.3,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 7,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        243,
+        67,
+        119.87,
+        45.56
+      ],
+      "area": 5461.277,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "b15ef21b3827a1c69697253ea31addb5adb4f3accebb6f9516ac77ca75f9b8b3",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 45.56,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 11,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        877,
+        285,
+        38.67,
+        28.41
+      ],
+      "area": 1098.615,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "a2422127e905d844e7d8cdd952f5aea97ff08133868f534dd094f873d22232a7",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 14.205000000000002,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 12,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        1090,
+        273,
+        38.35,
+        21.26
+      ],
+      "area": 815.321,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "a2422127e905d844e7d8cdd952f5aea97ff08133868f534dd094f873d22232a7",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 10.63,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 15,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        163,
+        2,
+        73.89,
+        46.79
+      ],
+      "area": 3457.313,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "1ab839214bbdd36173faeac417a3031aa4b3d568f3778213707f70fedf9d8349",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 46.79,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 16,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        360,
+        10,
+        80.35,
+        38.79
+      ],
+      "area": 3116.776,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "1ab839214bbdd36173faeac417a3031aa4b3d568f3778213707f70fedf9d8349",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 38.79,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 21,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        363,
+        58,
+        122.85,
+        58.3
+      ],
+      "area": 7162.155,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "5c0590a2fda8d7b3aa784742070919ee73beb7c9b5e6c79a71d3d6c2a8381a19",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 58.3,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 28,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        245,
+        65,
+        116.37,
+        43.81
+      ],
+      "area": 5098.17,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "bb46d68db2119d77519c2bf4be377f7f6128d64fdf9dd13fdb6b8e9c05f622f2",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 43.81,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 31,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        357,
+        137,
+        432.29,
+        1460.78
+      ],
+      "area": 631480.586,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "8210cec6c7aafc63c2cca0343491a5557b1d89c00afb62ae817e712d2b20f05f",
+    "group_id": "v4g02",
+    "estado_auditoria": "CAJA_INCORRECTA",
+    "observacion_tecnica": "Delimita la botella completa, no la tapa.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 144.0966666666667,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 38,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        469,
+        295,
+        80.59,
+        156.84
+      ],
+      "area": 12639.736,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "52cf858fab400f2fb06f62afcf8d28f703258cd1f2424c4305675f6499e3961d",
+    "group_id": "v4g05",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 80.59,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 43,
+      "image_id": 13,
+      "category_id": 1,
+      "bbox": [
+        211,
+        94,
+        107.13,
+        44.81
+      ],
+      "area": 4800.495,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "734856df9edf7c39bd2177e951a81a18f148236ef4247f33fe75ab45bceec6c3",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 44.81,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 46,
+      "image_id": 14,
+      "category_id": 1,
+      "bbox": [
+        283,
+        177,
+        92.87,
+        40.59
+      ],
+      "area": 3769.593,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "575740202f00598b7ffe0a6948f2578b684f5a6de938087dc39e65892f749dd6",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 40.59,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 55,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        282,
+        47,
+        99.11,
+        39.3
+      ],
+      "area": 3895.023,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "ca652289df8bcb2e569807aaf54dbadc3649cae89347e52011817dcf783bc635",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 39.3,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 76,
+      "image_id": 24,
+      "category_id": 1,
+      "bbox": [
+        195,
+        261,
+        49.39,
+        32.86
+      ],
+      "area": 1622.955,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "60e0fe03be0ac65d03bf82fc7b9dc2247f8ecfd6e7040f8ae6da9a3bf6d1feac",
+    "group_id": "v4g06",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 32.86,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 81,
+      "image_id": 26,
+      "category_id": 1,
+      "bbox": [
+        270,
+        84,
+        124.36,
+        79.81
+      ],
+      "area": 9925.172,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "b7b3a18cf67c6dc7f5556a7cbbcef245702add9df8e8eb22abe7db1c452ff8ec",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 79.81,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 83,
+      "image_id": 27,
+      "category_id": 1,
+      "bbox": [
+        163,
+        37,
+        88.89,
+        63.05
+      ],
+      "area": 5604.515,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "ace453d5f3306b8cf8632a5f30283c8bea2187f35285e87bbce14d63cfe98e4c",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 63.05,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 84,
+      "image_id": 27,
+      "category_id": 1,
+      "bbox": [
+        383,
+        39,
+        90.85,
+        63.55
+      ],
+      "area": 5773.517,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "ace453d5f3306b8cf8632a5f30283c8bea2187f35285e87bbce14d63cfe98e4c",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 63.55,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 108,
+      "image_id": 34,
+      "category_id": 1,
+      "bbox": [
+        268,
+        62,
+        132.86,
+        46.81
+      ],
+      "area": 6219.177,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "84110f70e4671c7090175f50b2f45b8b6d1d78c8df53f7d7edf20247a4399664",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 46.81,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 110,
+      "image_id": 35,
+      "category_id": 1,
+      "bbox": [
+        274,
+        136,
+        84.62,
+        49.08
+      ],
+      "area": 4153.15,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "54005216be9abaf612bd6258ac180761df5d657fa49d500b42f2a315459b02ef",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 49.08,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 116,
+      "image_id": 37,
+      "category_id": 1,
+      "bbox": [
+        305,
+        384,
+        27.62,
+        26.15
+      ],
+      "area": 722.263,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "d1b8c208ab18446c50944582ad2d4ca9ba16b2e398dfb343e37d6796d47489d7",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 13.075,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 117,
+      "image_id": 37,
+      "category_id": 1,
+      "bbox": [
+        418,
+        362,
+        27.32,
+        17.86
+      ],
+      "area": 487.935,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "d1b8c208ab18446c50944582ad2d4ca9ba16b2e398dfb343e37d6796d47489d7",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 8.93,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 120,
+      "image_id": 37,
+      "category_id": 1,
+      "bbox": [
+        136,
+        418,
+        35.08,
+        27.59
+      ],
+      "area": 967.857,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "d1b8c208ab18446c50944582ad2d4ca9ba16b2e398dfb343e37d6796d47489d7",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 13.794999999999998,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 121,
+      "image_id": 37,
+      "category_id": 1,
+      "bbox": [
+        517,
+        344,
+        22.73,
+        16.14
+      ],
+      "area": 366.862,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "d1b8c208ab18446c50944582ad2d4ca9ba16b2e398dfb343e37d6796d47489d7",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 8.07,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 123,
+      "image_id": 38,
+      "category_id": 1,
+      "bbox": [
+        170,
+        255,
+        123.38,
+        384.75
+      ],
+      "area": 47470.455,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "3d09a184cb5e8043e23f31a41a0f6ef9d168fd73146576fc4e3b79f1adf77eb3",
+    "group_id": "v4g06",
+    "estado_auditoria": "CAJA_INCORRECTA",
+    "observacion_tecnica": "Delimita la botella completa, no la tapa.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 123.38,
+    "touches_border": true
+  },
+  {
+    "annotation_original": {
+      "id": 129,
+      "image_id": 40,
+      "category_id": 1,
+      "bbox": [
+        288,
+        44,
+        67.87,
+        31.05
+      ],
+      "area": 2107.364,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "1eaf6afcd8b2ecade66e5bc7bb8647f92ad760e0c68825cdb6939dbc6077f391",
+    "group_id": "v4g07",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 31.05,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 132,
+      "image_id": 41,
+      "category_id": 1,
+      "bbox": [
+        505,
+        285,
+        32.34,
+        61.87
+      ],
+      "area": 2000.876,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "796376436dff9eb5e1a6370ea40a4425b84880deb1b26888633007c864000a8d",
+    "group_id": "v4g08",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 32.34,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 134,
+      "image_id": 42,
+      "category_id": 1,
+      "bbox": [
+        977,
+        328,
+        40.37,
+        32.13
+      ],
+      "area": 1297.088,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "af95c755f57aad8b4568bce204aa2af279aafa1bfc3ec4dce3b83a211cd55768",
+    "group_id": "v4g03",
+    "estado_auditoria": "DUDOSA_REQUIERE_ADJUDICACION",
+    "observacion_tecnica": "Región de cuello/boca: no confirmar tapa física sin revisión humana.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 16.065,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 136,
+      "image_id": 43,
+      "category_id": 1,
+      "bbox": [
+        0,
+        0,
+        112.66,
+        65.25
+      ],
+      "area": 7351.065,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "e11c61402d616ecdbc07c5dc8f087aa25646a503dd028303fccd00b6eca1e9a2",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 65.25,
+    "touches_border": true
+  },
+  {
+    "annotation_original": {
+      "id": 137,
+      "image_id": 43,
+      "category_id": 1,
+      "bbox": [
+        232,
+        0,
+        123.12,
+        49
+      ],
+      "area": 6032.88,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "e11c61402d616ecdbc07c5dc8f087aa25646a503dd028303fccd00b6eca1e9a2",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 49.0,
+    "touches_border": true
+  },
+  {
+    "annotation_original": {
+      "id": 138,
+      "image_id": 43,
+      "category_id": 1,
+      "bbox": [
+        414,
+        25,
+        98.59,
+        47.54
+      ],
+      "area": 4686.969,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "e11c61402d616ecdbc07c5dc8f087aa25646a503dd028303fccd00b6eca1e9a2",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 47.54,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 149,
+      "image_id": 45,
+      "category_id": 1,
+      "bbox": [
+        287,
+        50,
+        93.11,
+        33.8
+      ],
+      "area": 3147.118,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "f6f4b5c9131ecfee38a600d274baec91438535db0f218aa15fa34544a3c585a5",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 33.8,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 161,
+      "image_id": 49,
+      "category_id": 1,
+      "bbox": [
+        263,
+        52,
+        85.87,
+        59.3
+      ],
+      "area": 5092.091,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "8a919a2495831bd2132db12ee39f3dc0263dfab166bb83d666fe259537d07548",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 59.3,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 179,
+      "image_id": 54,
+      "category_id": 1,
+      "bbox": [
+        350,
+        49,
+        79.36,
+        44.8
+      ],
+      "area": 3555.328,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "c395a85415241db73b354cb5865b5593972ba85bc4180a1bf8c7096b4eb17642",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 44.8,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 180,
+      "image_id": 54,
+      "category_id": 1,
+      "bbox": [
+        215,
+        29,
+        88.38,
+        38.55
+      ],
+      "area": 3407.049,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "c395a85415241db73b354cb5865b5593972ba85bc4180a1bf8c7096b4eb17642",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 38.55,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 185,
+      "image_id": 56,
+      "category_id": 1,
+      "bbox": [
+        120,
+        94,
+        105.39,
+        52.31
+      ],
+      "area": 5512.951,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "4277cca9cde0e4557edc28f79fcaa3987aa0b480308ac28c861aeb1ceee24462",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 52.31,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 189,
+      "image_id": 56,
+      "category_id": 1,
+      "bbox": [
+        418,
+        82,
+        103.84,
+        53.06
+      ],
+      "area": 5509.75,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "4277cca9cde0e4557edc28f79fcaa3987aa0b480308ac28c861aeb1ceee24462",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 53.06,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 197,
+      "image_id": 59,
+      "category_id": 1,
+      "bbox": [
+        872,
+        279,
+        38.67,
+        29.84
+      ],
+      "area": 1153.913,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "88ea0b93c11638165392a1e27ae9cfcb7fcc462b5042abc2beb47a9b03dec848",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 14.919999999999998,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 198,
+      "image_id": 59,
+      "category_id": 1,
+      "bbox": [
+        1076,
+        263,
+        36.64,
+        22.97
+      ],
+      "area": 841.621,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "88ea0b93c11638165392a1e27ae9cfcb7fcc462b5042abc2beb47a9b03dec848",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 11.485,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 200,
+      "image_id": 59,
+      "category_id": 1,
+      "bbox": [
+        646,
+        300,
+        41.56,
+        35.27
+      ],
+      "area": 1465.821,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "88ea0b93c11638165392a1e27ae9cfcb7fcc462b5042abc2beb47a9b03dec848",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 17.635,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 203,
+      "image_id": 60,
+      "category_id": 1,
+      "bbox": [
+        294,
+        58,
+        80.62,
+        47.05
+      ],
+      "area": 3793.171,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "511c79397ed5df10fcdb240014305b6c958942faa291b2ee8cf9e9883abb25f9",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 47.05,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 204,
+      "image_id": 60,
+      "category_id": 1,
+      "bbox": [
+        226,
+        267,
+        187.11,
+        134.6
+      ],
+      "area": 25185.006,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "511c79397ed5df10fcdb240014305b6c958942faa291b2ee8cf9e9883abb25f9",
+    "group_id": "v4g04",
+    "estado_auditoria": "CAJA_INCORRECTA",
+    "observacion_tecnica": "Delimita la etiqueta del cuerpo; la tapa azul está fuera de la caja.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 134.6,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 212,
+      "image_id": 63,
+      "category_id": 1,
+      "bbox": [
+        413,
+        18,
+        95.84,
+        60.79
+      ],
+      "area": 5826.114,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "ab446b4e646b0614707a7596344d9cc0f4fbd8fdbf02170b8d80aac036502477",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 60.79,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 213,
+      "image_id": 63,
+      "category_id": 1,
+      "bbox": [
+        120,
+        21,
+        100.39,
+        54.04
+      ],
+      "area": 5425.076,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "ab446b4e646b0614707a7596344d9cc0f4fbd8fdbf02170b8d80aac036502477",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 54.04,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 217,
+      "image_id": 64,
+      "category_id": 1,
+      "bbox": [
+        294,
+        16,
+        76.37,
+        51.04
+      ],
+      "area": 3897.925,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "3692653c7906cd90182c534f01d45bb0eeabde1fe3f984d0ef514066e367c38d",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 51.04,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 220,
+      "image_id": 65,
+      "category_id": 1,
+      "bbox": [
+        380,
+        82,
+        68.35,
+        58.06
+      ],
+      "area": 3968.401,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "511d1e5f76cbb1da9c4f1aa45df668a6ee7d05535675c9702320c7bd3573a57b",
+    "group_id": "v4g09",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 58.06,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 223,
+      "image_id": 66,
+      "category_id": 1,
+      "bbox": [
+        164,
+        21,
+        84.64,
+        69.04
+      ],
+      "area": 5843.546,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "82ef3f604ce7f4d84265a5a914100243b0e0c5cfa2638c3171f5db93d96f16af",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 69.04,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 224,
+      "image_id": 66,
+      "category_id": 1,
+      "bbox": [
+        384,
+        22,
+        88.6,
+        66.79
+      ],
+      "area": 5917.594,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "82ef3f604ce7f4d84265a5a914100243b0e0c5cfa2638c3171f5db93d96f16af",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 66.79,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 231,
+      "image_id": 68,
+      "category_id": 1,
+      "bbox": [
+        122,
+        94,
+        106.14,
+        51.06
+      ],
+      "area": 5419.508,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "e2c2a76986f6dc25b1270dfb45e70298de6a532f9ce2dbcde694aabdf4073c4a",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 51.06,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 232,
+      "image_id": 68,
+      "category_id": 1,
+      "bbox": [
+        415,
+        83,
+        108.34,
+        52.06
+      ],
+      "area": 5640.18,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "e2c2a76986f6dc25b1270dfb45e70298de6a532f9ce2dbcde694aabdf4073c4a",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 52.06,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 239,
+      "image_id": 70,
+      "category_id": 1,
+      "bbox": [
+        190,
+        56,
+        74.38,
+        54.05
+      ],
+      "area": 4020.239,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "d8cbad24dfffc6c869d8e9910eba2460bf092c4c1b6d6800d22897757ea2a1f3",
+    "group_id": "v4g10",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 54.05,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 245,
+      "image_id": 71,
+      "category_id": 1,
+      "bbox": [
+        317,
+        51,
+        80.11,
+        54.05
+      ],
+      "area": 4329.945,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "00dba731bf91052c9f5a280d9cdff107fc0ba96d20b475d61c1ff50929b469ee",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 54.05,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 246,
+      "image_id": 71,
+      "category_id": 1,
+      "bbox": [
+        133,
+        56,
+        81.89,
+        56.55
+      ],
+      "area": 4630.88,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "00dba731bf91052c9f5a280d9cdff107fc0ba96d20b475d61c1ff50929b469ee",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 56.55,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 247,
+      "image_id": 72,
+      "category_id": 1,
+      "bbox": [
+        123,
+        55,
+        71.9,
+        31.3
+      ],
+      "area": 2250.47,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "88886bec672cb32a0e4dcfa52982a3f449aec592ae776bb5ec79dc4c0641b612",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 31.3,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 248,
+      "image_id": 72,
+      "category_id": 1,
+      "bbox": [
+        434,
+        50,
+        74.59,
+        40.05
+      ],
+      "area": 2987.329,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "88886bec672cb32a0e4dcfa52982a3f449aec592ae776bb5ec79dc4c0641b612",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 40.05,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 254,
+      "image_id": 73,
+      "category_id": 1,
+      "bbox": [
+        305,
+        114,
+        52.37,
+        36.07
+      ],
+      "area": 1888.986,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "aab321e408de820bbdec96d91629a1ec23c6835db7e5e42f34c564a47f76da1a",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 36.07,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 260,
+      "image_id": 75,
+      "category_id": 1,
+      "bbox": [
+        459,
+        294,
+        88.59,
+        157.09
+      ],
+      "area": 13916.603,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "fe5415cee8e38ab1802e7fe5beba0efa743971f6a92dace942acb7ca7ff0556f",
+    "group_id": "v4g05",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 88.59,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 262,
+      "image_id": 76,
+      "category_id": 1,
+      "bbox": [
+        265,
+        10,
+        108.37,
+        65.04
+      ],
+      "area": 7048.385,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "234367ddb81667685cb906c16139cb8ef6cc114eda2ec8073eb5e2e7a2c84a34",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 65.04,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 267,
+      "image_id": 78,
+      "category_id": 1,
+      "bbox": [
+        71,
+        3,
+        106.15,
+        54.54
+      ],
+      "area": 5789.421,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "7131b65af7babddb118aebce98bcb9eedcd6ef6899cc6e2a900f7234648dada6",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 54.54,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 268,
+      "image_id": 78,
+      "category_id": 1,
+      "bbox": [
+        275,
+        0,
+        109.36,
+        55.04
+      ],
+      "area": 6019.174,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "7131b65af7babddb118aebce98bcb9eedcd6ef6899cc6e2a900f7234648dada6",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 55.04,
+    "touches_border": true
+  },
+  {
+    "annotation_original": {
+      "id": 269,
+      "image_id": 78,
+      "category_id": 1,
+      "bbox": [
+        454,
+        1,
+        113.58,
+        60.29
+      ],
+      "area": 6847.738,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "7131b65af7babddb118aebce98bcb9eedcd6ef6899cc6e2a900f7234648dada6",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 60.29,
+    "touches_border": true
+  },
+  {
+    "annotation_original": {
+      "id": 282,
+      "image_id": 81,
+      "category_id": 1,
+      "bbox": [
+        279,
+        75,
+        121.61,
+        47.56
+      ],
+      "area": 5783.772,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "706e410d0842c9d786f6fe6e15c6b7cc6aa1e28135f8b73b96eca31f890758f5",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 47.56,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 284,
+      "image_id": 82,
+      "category_id": 1,
+      "bbox": [
+        118,
+        54,
+        72.9,
+        34.8
+      ],
+      "area": 2536.92,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "7c273d890d2fdaedb4ab968ceab1d9f3a60de280386d6139b6c4de99f793df92",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 34.8,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 285,
+      "image_id": 82,
+      "category_id": 1,
+      "bbox": [
+        432,
+        56,
+        79.09,
+        31.55
+      ],
+      "area": 2495.29,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "7c273d890d2fdaedb4ab968ceab1d9f3a60de280386d6139b6c4de99f793df92",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 31.55,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 290,
+      "image_id": 83,
+      "category_id": 1,
+      "bbox": [
+        258,
+        161,
+        69.87,
+        35.33
+      ],
+      "area": 2468.507,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "dca0d0325d00381f1468b91d3e77d20f3379a9e3453503f7ea0775912ae9066c",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 35.33,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 294,
+      "image_id": 84,
+      "category_id": 1,
+      "bbox": [
+        259,
+        161,
+        69.62,
+        39.08
+      ],
+      "area": 2720.75,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "b9918b42e1f582b3928dfd6f9f96d3a3862fe7d3be2bed5d071b045d670266da",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 39.08,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 303,
+      "image_id": 88,
+      "category_id": 1,
+      "bbox": [
+        384,
+        85,
+        66.6,
+        53.81
+      ],
+      "area": 3583.746,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "e9d3456a7d3b97afef5e1c18cdab3a7b376a394375ad03e01f92e8c40e415fe7",
+    "group_id": "v4g09",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 53.81,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 309,
+      "image_id": 91,
+      "category_id": 1,
+      "bbox": [
+        508,
+        289,
+        26.84,
+        54.12
+      ],
+      "area": 1452.581,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "719c549578ab750a57d230689e76c4ca297ae76538b0f1bf8fd89092b124e43e",
+    "group_id": "v4g08",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 26.839999999999996,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 315,
+      "image_id": 93,
+      "category_id": 1,
+      "bbox": [
+        140,
+        23,
+        77.39,
+        42.04
+      ],
+      "area": 3253.476,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "db058f2009c464344df97738572df65dc8d2dff81707456b8cc890232c62bca1",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 42.04,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 318,
+      "image_id": 93,
+      "category_id": 1,
+      "bbox": [
+        330,
+        19,
+        73.36,
+        36.04
+      ],
+      "area": 2643.894,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "db058f2009c464344df97738572df65dc8d2dff81707456b8cc890232c62bca1",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 36.04,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 324,
+      "image_id": 95,
+      "category_id": 1,
+      "bbox": [
+        817,
+        343,
+        43.82,
+        38.71
+      ],
+      "area": 1696.272,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "e7dc4f8d2b8ab936e1b0b5911686abbf0775fc506c8a55f2842f95c0788ab5cc",
+    "group_id": "v4g03",
+    "estado_auditoria": "DUDOSA_REQUIERE_ADJUDICACION",
+    "observacion_tecnica": "Región de boca aparentemente abierta: requiere adjudicación humana.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 19.355,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 340,
+      "image_id": 100,
+      "category_id": 1,
+      "bbox": [
+        355,
+        40,
+        35.36,
+        41.3
+      ],
+      "area": 1460.368,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "11caba88b8e19bc3ccf0819e13c37aea4f8637a5155cda51a71c083be0685fab",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 35.36,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 342,
+      "image_id": 100,
+      "category_id": 1,
+      "bbox": [
+        433,
+        459,
+        30.85,
+        59.07
+      ],
+      "area": 1822.31,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "11caba88b8e19bc3ccf0819e13c37aea4f8637a5155cda51a71c083be0685fab",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 30.85,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 345,
+      "image_id": 101,
+      "category_id": 1,
+      "bbox": [
+        295,
+        22,
+        61.37,
+        45.54
+      ],
+      "area": 2794.79,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "477f413f072b5b36e3671a73f7f4d46a7e31c7fa4095ddc89c0529757290de34",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 45.54,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 348,
+      "image_id": 102,
+      "category_id": 1,
+      "bbox": [
+        319,
+        236,
+        55.62,
+        76.6
+      ],
+      "area": 4260.492,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "678703e869a7676f88ed986b4abb261ea10f383b5a909063073fa92f5b11ceb4",
+    "group_id": "v4g12",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 55.61999999999999,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 359,
+      "image_id": 106,
+      "category_id": 1,
+      "bbox": [
+        188,
+        29,
+        102.88,
+        51.05
+      ],
+      "area": 5252.024,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "9b90e65008ab3a08d1be8276fe499dd4fe6f331db33b20cfc9982a695b941061",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 51.05,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 379,
+      "image_id": 113,
+      "category_id": 1,
+      "bbox": [
+        205,
+        84,
+        40.39,
+        26.06
+      ],
+      "area": 1052.563,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "9f9e4301142beb8997c3684af8e12ad7a96cad871d685ddcbf23360f7ced43c1",
+    "group_id": "v4g10",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 26.059999999999995,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 391,
+      "image_id": 117,
+      "category_id": 1,
+      "bbox": [
+        488,
+        350,
+        100.83,
+        156.38
+      ],
+      "area": 15767.795,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "6022b2ef8a593b5e605b089cbd76c20b9ff1390a12efe80cbe4834d98a56b247",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 100.83,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 399,
+      "image_id": 120,
+      "category_id": 1,
+      "bbox": [
+        245,
+        13,
+        152.35,
+        52.05
+      ],
+      "area": 7929.817,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "85019e3a6cd16d66470e536fb6e60039e56f9b11a15b7029f1e03a5df3c479f8",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 52.05,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 407,
+      "image_id": 123,
+      "category_id": 1,
+      "bbox": [
+        168,
+        118,
+        56.89,
+        37.07
+      ],
+      "area": 2108.912,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "c7a191c77b648df03a7dd34c49f621e608bec9f98ace3ab0cc7a2ce4b0e91507",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 37.07,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 414,
+      "image_id": 125,
+      "category_id": 1,
+      "bbox": [
+        278,
+        77,
+        120.86,
+        46.81
+      ],
+      "area": 5657.457,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "447c4dff4cbaa951c1085ee21c8fba88cd4933eec04dd70a715e328f9479dc43",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 46.81,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 416,
+      "image_id": 126,
+      "category_id": 1,
+      "bbox": [
+        254,
+        46,
+        134.61,
+        44.05
+      ],
+      "area": 5929.57,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "fd05c01f6e284cf9db61162ae873e3b92643224db54aebfeb9b937c88fbf7d1b",
+    "group_id": "v4g13",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 44.05,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 428,
+      "image_id": 130,
+      "category_id": 1,
+      "bbox": [
+        275,
+        140,
+        82.37,
+        45.08
+      ],
+      "area": 3713.24,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "285046f221b6b4481341982eb7281996f005c14de57697454232e72bdbaa67dd",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 45.08,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 431,
+      "image_id": 132,
+      "category_id": 1,
+      "bbox": [
+        73,
+        31,
+        151.89,
+        105.3
+      ],
+      "area": 15994.017,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "fe56362931672ab45028dbbabf6e37e8a26e1088daae62faa54a223d33cc3aff",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 105.3,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 434,
+      "image_id": 132,
+      "category_id": 1,
+      "bbox": [
+        419,
+        27,
+        179.58,
+        109.3
+      ],
+      "area": 19628.094,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "fe56362931672ab45028dbbabf6e37e8a26e1088daae62faa54a223d33cc3aff",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 109.3,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 455,
+      "image_id": 139,
+      "category_id": 1,
+      "bbox": [
+        172,
+        29,
+        99.13,
+        74.8
+      ],
+      "area": 7414.924,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "20ce57486958dbf7f70296330d3ca52c406134ca58d205bd3ec2238a362706d5",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 74.8,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 458,
+      "image_id": 139,
+      "category_id": 1,
+      "bbox": [
+        380,
+        24,
+        103.35,
+        66.04
+      ],
+      "area": 6825.234,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "20ce57486958dbf7f70296330d3ca52c406134ca58d205bd3ec2238a362706d5",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 66.04,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 463,
+      "image_id": 141,
+      "category_id": 1,
+      "bbox": [
+        297,
+        20,
+        77.12,
+        45.04
+      ],
+      "area": 3473.485,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "8d38694622597059e58ebc35873e998e5e87daddb16dafe187c9f116f943144a",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 45.04,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 467,
+      "image_id": 142,
+      "category_id": 1,
+      "bbox": [
+        250,
+        23,
+        142.36,
+        40.79
+      ],
+      "area": 5806.864,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "64bf3cece82b78e2c870e884257175eaa04efd39b2c8bf6965835df4ded23e9d",
+    "group_id": "v4g14",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 40.79,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 475,
+      "image_id": 145,
+      "category_id": 1,
+      "bbox": [
+        195,
+        113,
+        74.38,
+        27.07
+      ],
+      "area": 2013.467,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "8f1e01e70e164acb54ed0c5667104d9022220348b1c912c5fa4b5a5fe081d624",
+    "group_id": "v4g10",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 27.07,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 484,
+      "image_id": 148,
+      "category_id": 1,
+      "bbox": [
+        293,
+        24,
+        66.87,
+        47.29
+      ],
+      "area": 3162.282,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "a95560393ff9afe75a61d15037cd0910f03610c91910464781c7ee731fd9264f",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 47.29,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 486,
+      "image_id": 149,
+      "category_id": 1,
+      "bbox": [
+        184,
+        30,
+        104.63,
+        45.05
+      ],
+      "area": 4713.581,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "cf24d956a28a72b64062f447391f8e3220a63adb71559fb75086b4884d301bd8",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 45.05,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 495,
+      "image_id": 150,
+      "category_id": 1,
+      "bbox": [
+        552,
+        218,
+        26.15,
+        21.82
+      ],
+      "area": 570.593,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "42af3342a7a0065916fc73bd8b685ff9bdd0705875ee8c4db87ccde2d5c75ea5",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 10.91,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 496,
+      "image_id": 150,
+      "category_id": 1,
+      "bbox": [
+        700,
+        213,
+        26.13,
+        24.67
+      ],
+      "area": 644.627,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "42af3342a7a0065916fc73bd8b685ff9bdd0705875ee8c4db87ccde2d5c75ea5",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 12.335,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 497,
+      "image_id": 150,
+      "category_id": 1,
+      "bbox": [
+        854,
+        208,
+        30.1,
+        25.24
+      ],
+      "area": 759.724,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "42af3342a7a0065916fc73bd8b685ff9bdd0705875ee8c4db87ccde2d5c75ea5",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 12.62,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 498,
+      "image_id": 150,
+      "category_id": 1,
+      "bbox": [
+        986,
+        213,
+        32.94,
+        20.39
+      ],
+      "area": 671.647,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "42af3342a7a0065916fc73bd8b685ff9bdd0705875ee8c4db87ccde2d5c75ea5",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 10.195,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 499,
+      "image_id": 150,
+      "category_id": 1,
+      "bbox": [
+        1220,
+        210,
+        24.9,
+        19.82
+      ],
+      "area": 493.518,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "42af3342a7a0065916fc73bd8b685ff9bdd0705875ee8c4db87ccde2d5c75ea5",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 9.91,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 504,
+      "image_id": 152,
+      "category_id": 1,
+      "bbox": [
+        224,
+        74,
+        163.86,
+        76.06
+      ],
+      "area": 12463.192,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "c0682f39fbe224d8c93e25e678f6cdab27689eac09b908d0204ca5e21b7b2ed7",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 76.06,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 512,
+      "image_id": 155,
+      "category_id": 1,
+      "bbox": [
+        270,
+        101,
+        78.37,
+        105.32
+      ],
+      "area": 8253.928,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "6007afc19d480a077da2b1ba849b61e23be45d5c781362659c927cfcdc28f9cf",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 78.37,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 525,
+      "image_id": 157,
+      "category_id": 1,
+      "bbox": [
+        115,
+        274,
+        31.37,
+        28.69
+      ],
+      "area": 900.005,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "6ea38b38ff83de5a10def8a8ff4f0af55c2be5518fb2815ad548f6344242434b",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 14.345000000000002,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 526,
+      "image_id": 157,
+      "category_id": 1,
+      "bbox": [
+        307,
+        272,
+        32.76,
+        19.55
+      ],
+      "area": 640.458,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "6ea38b38ff83de5a10def8a8ff4f0af55c2be5518fb2815ad548f6344242434b",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 9.775,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 527,
+      "image_id": 157,
+      "category_id": 1,
+      "bbox": [
+        479,
+        262,
+        31.59,
+        22.69
+      ],
+      "area": 716.777,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "6ea38b38ff83de5a10def8a8ff4f0af55c2be5518fb2815ad548f6344242434b",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 11.345,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 528,
+      "image_id": 157,
+      "category_id": 1,
+      "bbox": [
+        659,
+        260,
+        25.28,
+        17.83
+      ],
+      "area": 450.742,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "6ea38b38ff83de5a10def8a8ff4f0af55c2be5518fb2815ad548f6344242434b",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 8.915,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 529,
+      "image_id": 157,
+      "category_id": 1,
+      "bbox": [
+        929,
+        249,
+        31.8,
+        25.26
+      ],
+      "area": 803.268,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "6ea38b38ff83de5a10def8a8ff4f0af55c2be5518fb2815ad548f6344242434b",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 12.63,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 530,
+      "image_id": 157,
+      "category_id": 1,
+      "bbox": [
+        1032,
+        245,
+        23.79,
+        21.25
+      ],
+      "area": 505.537,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "6ea38b38ff83de5a10def8a8ff4f0af55c2be5518fb2815ad548f6344242434b",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 10.625,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 531,
+      "image_id": 157,
+      "category_id": 1,
+      "bbox": [
+        1128,
+        239,
+        24.91,
+        19.54
+      ],
+      "area": 486.741,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "6ea38b38ff83de5a10def8a8ff4f0af55c2be5518fb2815ad548f6344242434b",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 9.77,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 536,
+      "image_id": 158,
+      "category_id": 1,
+      "bbox": [
+        360,
+        336,
+        33.61,
+        25.57
+      ],
+      "area": 859.408,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "95f0117c6264915c30e76260be4da61a4ebce3d329977190e104f33536276957",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 12.785,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 537,
+      "image_id": 158,
+      "category_id": 1,
+      "bbox": [
+        536,
+        316,
+        27.01,
+        18.99
+      ],
+      "area": 512.92,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "95f0117c6264915c30e76260be4da61a4ebce3d329977190e104f33536276957",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 9.495,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 538,
+      "image_id": 158,
+      "category_id": 1,
+      "bbox": [
+        653,
+        297,
+        27.28,
+        19.55
+      ],
+      "area": 533.324,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "95f0117c6264915c30e76260be4da61a4ebce3d329977190e104f33536276957",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 9.775,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 539,
+      "image_id": 158,
+      "category_id": 1,
+      "bbox": [
+        175,
+        362,
+        33.07,
+        23.57
+      ],
+      "area": 779.46,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "95f0117c6264915c30e76260be4da61a4ebce3d329977190e104f33536276957",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 11.785,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 542,
+      "image_id": 159,
+      "category_id": 1,
+      "bbox": [
+        284,
+        33,
+        90.62,
+        42.05
+      ],
+      "area": 3810.571,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "eb17440577361787595146047d5cb307c7f85cf534e9ec5cdc28db1e61357dc4",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 42.05,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 548,
+      "image_id": 160,
+      "category_id": 1,
+      "bbox": [
+        297,
+        60,
+        34.77,
+        32.06
+      ],
+      "area": 1114.726,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "a4f083ade39893c7211e60a90246698eb95f41d022b9ab78a035745c77f86726",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 16.03,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 554,
+      "image_id": 162,
+      "category_id": 1,
+      "bbox": [
+        278,
+        41,
+        84.87,
+        50.3
+      ],
+      "area": 4268.961,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "9f665d74d932b721c60b93b093b5725385e40f8f3a5cbc83eb0713751b8cc3bd",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 50.3,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 556,
+      "image_id": 163,
+      "category_id": 1,
+      "bbox": [
+        117,
+        12,
+        131.14,
+        78.04
+      ],
+      "area": 10234.166,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "7b5b66242289c15324bf45450f6df18c8d49a78bf4528c7ffd72642835df18a8",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 78.04,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 557,
+      "image_id": 163,
+      "category_id": 1,
+      "bbox": [
+        358,
+        0,
+        144.84,
+        82.54
+      ],
+      "area": 11955.094,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "7b5b66242289c15324bf45450f6df18c8d49a78bf4528c7ffd72642835df18a8",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 82.54,
+    "touches_border": true
+  },
+  {
+    "annotation_original": {
+      "id": 558,
+      "image_id": 163,
+      "category_id": 1,
+      "bbox": [
+        263,
+        29,
+        105.87,
+        59.8
+      ],
+      "area": 6331.026,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "7b5b66242289c15324bf45450f6df18c8d49a78bf4528c7ffd72642835df18a8",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 59.8,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 563,
+      "image_id": 164,
+      "category_id": 1,
+      "bbox": [
+        267,
+        41,
+        82.12,
+        35.3
+      ],
+      "area": 2898.836,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "9ee862e9bad563bd99eca30efda7c643e8474a20e6655744f8128f6031a58a74",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 35.3,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 567,
+      "image_id": 165,
+      "category_id": 1,
+      "bbox": [
+        168,
+        63,
+        101.88,
+        442.06
+      ],
+      "area": 45037.073,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "afaa5a58dd7917b9788b463663cddd66c96897f7eecf0b033533928e5a6d24f1",
+    "group_id": "v4g10",
+    "estado_auditoria": "CAJA_INCORRECTA",
+    "observacion_tecnica": "Delimita la botella completa, no la tapa; marca Shutterstock visible.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 101.88,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 572,
+      "image_id": 167,
+      "category_id": 1,
+      "bbox": [
+        267,
+        82,
+        133.11,
+        85.56
+      ],
+      "area": 11388.892,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "ee16817964786f4ee78102c9f6dbd6ac6be0d8d9895d944eb5610fd14c89558e",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 85.56,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 576,
+      "image_id": 169,
+      "category_id": 1,
+      "bbox": [
+        278,
+        111,
+        78.87,
+        45.32
+      ],
+      "area": 3574.388,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "81fedd277250e7cf4aa484a105512dff50558d12f4106bef0687bcfed0920f29",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 45.32,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 579,
+      "image_id": 170,
+      "category_id": 1,
+      "bbox": [
+        257,
+        35,
+        123.11,
+        71.3
+      ],
+      "area": 8777.743,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "bc23d6c9c35f8f1b6b1a27da31d011f3f07ee65eb60775467edcea15b5f240aa",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 71.3,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 582,
+      "image_id": 171,
+      "category_id": 1,
+      "bbox": [
+        252,
+        23,
+        141.11,
+        43.29
+      ],
+      "area": 6108.652,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "06684f8d82fc8c44dbb44619019c4ff0afd0da7ed67616ce38dc5a3ce86a1eb4",
+    "group_id": "v4g14",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 43.29,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 606,
+      "image_id": 179,
+      "category_id": 1,
+      "bbox": [
+        298,
+        120,
+        83.86,
+        26.32
+      ],
+      "area": 2207.195,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "b9c49801cf0011d59e83e5f06540fdd50418c7d86949b023643e40fdcdeb6697",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 26.32,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 609,
+      "image_id": 180,
+      "category_id": 1,
+      "bbox": [
+        288,
+        112,
+        61.87,
+        56.82
+      ],
+      "area": 3515.453,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "366d4496635c859c201714e2dec5546bfc876acefa5c47d7d3e722cd71e642b6",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 56.82000000000001,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 623,
+      "image_id": 185,
+      "category_id": 1,
+      "bbox": [
+        287,
+        36,
+        87.12,
+        37.8
+      ],
+      "area": 3293.136,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "b911cdd2fd730380ccc339924913d798be892f814a25470782e7c98c87f6a2d4",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 37.8,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 629,
+      "image_id": 186,
+      "category_id": 1,
+      "bbox": [
+        217,
+        215,
+        37.06,
+        36.68
+      ],
+      "area": 1359.361,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "b404785b02e1bcc3ee072fcca66cb1be6466ee2b099baa59bbfe5feec31d8c14",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 18.34,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 632,
+      "image_id": 187,
+      "category_id": 1,
+      "bbox": [
+        297,
+        129,
+        57.12,
+        36.07
+      ],
+      "area": 2060.318,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "50bf9321bd715617e82f3b6b5881cd0b5837cb300017fc524b76addf7d4c6719",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 36.07,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 636,
+      "image_id": 188,
+      "category_id": 1,
+      "bbox": [
+        287,
+        115,
+        65.12,
+        55.07
+      ],
+      "area": 3586.158,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "3ad6addf5c63c270a236d821b05db967b0372281ac2a41564bce1c37ecfca5d0",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 55.07000000000001,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 639,
+      "image_id": 189,
+      "category_id": 1,
+      "bbox": [
+        432,
+        458,
+        28.1,
+        62.32
+      ],
+      "area": 1751.192,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "6feadc2e70bbc23390bf1b6f6398f6ea0c67310bea1fc34f5eb2a5d5a8d15354",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 28.1,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 643,
+      "image_id": 189,
+      "category_id": 1,
+      "bbox": [
+        355,
+        44,
+        35.36,
+        36.05
+      ],
+      "area": 1274.728,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "6feadc2e70bbc23390bf1b6f6398f6ea0c67310bea1fc34f5eb2a5d5a8d15354",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 35.36,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 647,
+      "image_id": 191,
+      "category_id": 1,
+      "bbox": [
+        33,
+        25,
+        75.91,
+        50.04
+      ],
+      "area": 3798.536,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "c1f3b360dcc3c894fd3dcfb60a1bdd952c00983e55483bb151b1c889edff74c3",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 50.04,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 648,
+      "image_id": 191,
+      "category_id": 1,
+      "bbox": [
+        210,
+        21,
+        69.38,
+        50.29
+      ],
+      "area": 3489.12,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "c1f3b360dcc3c894fd3dcfb60a1bdd952c00983e55483bb151b1c889edff74c3",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 50.29,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 649,
+      "image_id": 191,
+      "category_id": 1,
+      "bbox": [
+        348,
+        27,
+        76.86,
+        48.05
+      ],
+      "area": 3693.123,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "c1f3b360dcc3c894fd3dcfb60a1bdd952c00983e55483bb151b1c889edff74c3",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 48.05,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 650,
+      "image_id": 191,
+      "category_id": 1,
+      "bbox": [
+        514,
+        19,
+        70.58,
+        56.04
+      ],
+      "area": 3955.303,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "c1f3b360dcc3c894fd3dcfb60a1bdd952c00983e55483bb151b1c889edff74c3",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 56.04,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 662,
+      "image_id": 193,
+      "category_id": 1,
+      "bbox": [
+        144,
+        141,
+        107.64,
+        27.83
+      ],
+      "area": 2995.621,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "a2f5b3ba736c5ea3b6934d06dd8245a0221658543d40af6b44a542e64172c50d",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 27.829999999999995,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 665,
+      "image_id": 193,
+      "category_id": 1,
+      "bbox": [
+        493,
+        309,
+        98.83,
+        27.37
+      ],
+      "area": 2704.977,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "a2f5b3ba736c5ea3b6934d06dd8245a0221658543d40af6b44a542e64172c50d",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 27.369999999999997,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 698,
+      "image_id": 204,
+      "category_id": 1,
+      "bbox": [
+        322,
+        238,
+        56.12,
+        77.1
+      ],
+      "area": 4326.852,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "671f6c09a40dd5643329efc43e7a33290d018a6515d93b6c5513177c703885c9",
+    "group_id": "v4g12",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 56.11999999999999,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 705,
+      "image_id": 207,
+      "category_id": 1,
+      "bbox": [
+        255,
+        27,
+        147.36,
+        58.05
+      ],
+      "area": 8554.248,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "2d6f7294058c51085399e0365883613c51572552e52115f784a8baf7814c6eba",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 58.05,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 707,
+      "image_id": 208,
+      "category_id": 1,
+      "bbox": [
+        945,
+        504,
+        56.08,
+        49.04
+      ],
+      "area": 2750.163,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "81828c21c46d8faa1dc5ebca2fdd360443f12698793d3245e07470a740eb477c",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 24.52,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 708,
+      "image_id": 208,
+      "category_id": 1,
+      "bbox": [
+        797,
+        479,
+        53.54,
+        45.6
+      ],
+      "area": 2441.424,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "81828c21c46d8faa1dc5ebca2fdd360443f12698793d3245e07470a740eb477c",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 22.8,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 709,
+      "image_id": 208,
+      "category_id": 1,
+      "bbox": [
+        725,
+        453,
+        52.12,
+        44.74
+      ],
+      "area": 2331.849,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "81828c21c46d8faa1dc5ebca2fdd360443f12698793d3245e07470a740eb477c",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 22.37,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 710,
+      "image_id": 208,
+      "category_id": 1,
+      "bbox": [
+        653,
+        442,
+        49.28,
+        36.45
+      ],
+      "area": 1796.256,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "81828c21c46d8faa1dc5ebca2fdd360443f12698793d3245e07470a740eb477c",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 18.225,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 711,
+      "image_id": 208,
+      "category_id": 1,
+      "bbox": [
+        530,
+        407,
+        44.15,
+        39.01
+      ],
+      "area": 1722.291,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "81828c21c46d8faa1dc5ebca2fdd360443f12698793d3245e07470a740eb477c",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 19.505,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 712,
+      "image_id": 208,
+      "category_id": 1,
+      "bbox": [
+        459,
+        392,
+        44.74,
+        33.87
+      ],
+      "area": 1515.344,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "81828c21c46d8faa1dc5ebca2fdd360443f12698793d3245e07470a740eb477c",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 16.935,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 713,
+      "image_id": 208,
+      "category_id": 1,
+      "bbox": [
+        367,
+        374,
+        37.9,
+        30.72
+      ],
+      "area": 1164.288,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "81828c21c46d8faa1dc5ebca2fdd360443f12698793d3245e07470a740eb477c",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 15.36,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 714,
+      "image_id": 208,
+      "category_id": 1,
+      "bbox": [
+        262,
+        343,
+        37.34,
+        33
+      ],
+      "area": 1232.22,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "81828c21c46d8faa1dc5ebca2fdd360443f12698793d3245e07470a740eb477c",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 16.5,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 733,
+      "image_id": 213,
+      "category_id": 1,
+      "bbox": [
+        263,
+        48,
+        83.87,
+        60.8
+      ],
+      "area": 5099.296,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "e25b51b5f6a2cdde19475d9fc8bfdc6e279755a82199cb9b32ec8e68b59a7e14",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 60.8,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 740,
+      "image_id": 215,
+      "category_id": 1,
+      "bbox": [
+        208,
+        97,
+        104.88,
+        38.06
+      ],
+      "area": 3991.733,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "82dc2c53725f70dabaacf7e2f5cd0f60c28925ac52401902ca94eccefebed541",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 38.06,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 749,
+      "image_id": 218,
+      "category_id": 1,
+      "bbox": [
+        267,
+        68,
+        133.11,
+        49.56
+      ],
+      "area": 6596.932,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "73bb9efdc22de0645a24d3168ad0674ecdde82b8c56063406bd3bd268c8bd39f",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 49.56,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 751,
+      "image_id": 219,
+      "category_id": 1,
+      "bbox": [
+        223,
+        273,
+        31.35,
+        24.12
+      ],
+      "area": 756.162,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "7c3d14d73e369ae3e8c16b034993f822c1b15fc5c1b73b0cd0dafd7babc7c6e0",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 12.06,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 752,
+      "image_id": 219,
+      "category_id": 1,
+      "bbox": [
+        392,
+        266,
+        25.04,
+        19.55
+      ],
+      "area": 489.532,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "7c3d14d73e369ae3e8c16b034993f822c1b15fc5c1b73b0cd0dafd7babc7c6e0",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 9.775,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 753,
+      "image_id": 219,
+      "category_id": 1,
+      "bbox": [
+        557,
+        254,
+        36.44,
+        24.97
+      ],
+      "area": 909.907,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "7c3d14d73e369ae3e8c16b034993f822c1b15fc5c1b73b0cd0dafd7babc7c6e0",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 12.485,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 754,
+      "image_id": 219,
+      "category_id": 1,
+      "bbox": [
+        726,
+        250,
+        27.84,
+        24.11
+      ],
+      "area": 671.222,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "7c3d14d73e369ae3e8c16b034993f822c1b15fc5c1b73b0cd0dafd7babc7c6e0",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 12.055,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 755,
+      "image_id": 219,
+      "category_id": 1,
+      "bbox": [
+        865,
+        250,
+        26.39,
+        19.83
+      ],
+      "area": 523.314,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "7c3d14d73e369ae3e8c16b034993f822c1b15fc5c1b73b0cd0dafd7babc7c6e0",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 9.915,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 756,
+      "image_id": 219,
+      "category_id": 1,
+      "bbox": [
+        1000,
+        246,
+        27.79,
+        20.11
+      ],
+      "area": 558.857,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "7c3d14d73e369ae3e8c16b034993f822c1b15fc5c1b73b0cd0dafd7babc7c6e0",
+    "group_id": "v4g03",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 10.055,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 773,
+      "image_id": 223,
+      "category_id": 1,
+      "bbox": [
+        534,
+        137,
+        188.97,
+        157.44
+      ],
+      "area": 29751.437,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "78038843497e66346be8c1e26aa94e87764c5fdca0eb91bc2545ff10843d03b7",
+    "group_id": "v4g02",
+    "estado_auditoria": "DUDOSA_REQUIERE_ADJUDICACION",
+    "observacion_tecnica": "Rosca/boca azul: no confirmar tapa física sin revisión humana.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 52.480000000000004,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 775,
+      "image_id": 224,
+      "category_id": 1,
+      "bbox": [
+        394,
+        35,
+        76.6,
+        45.05
+      ],
+      "area": 3450.83,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "e8df112905c2190247961fc40157762b56b886da5283fb9ed9d0fdd61fa52746",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 45.05,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 779,
+      "image_id": 225,
+      "category_id": 1,
+      "bbox": [
+        135,
+        0,
+        109.39,
+        65.25
+      ],
+      "area": 7137.698,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "a648f32d3b613b7a696c4e23304edf38a87a071e312fe2511446285f7d9c5b16",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 65.25,
+    "touches_border": true
+  },
+  {
+    "annotation_original": {
+      "id": 782,
+      "image_id": 226,
+      "category_id": 1,
+      "bbox": [
+        268,
+        40,
+        80.87,
+        38.8
+      ],
+      "area": 3137.756,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "a193830d388c7dded07e362f9ed610855432db70d60234e6e3e20e337c760fa8",
+    "group_id": "v4g04",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 38.8,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 787,
+      "image_id": 228,
+      "category_id": 1,
+      "bbox": [
+        224,
+        67,
+        166.61,
+        78.06
+      ],
+      "area": 13005.577,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "2281c1be9586a43b5eca2e1970b2c7fb3e91d718041c63ebdd5781ab9cf1846b",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 78.06,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 797,
+      "image_id": 231,
+      "category_id": 1,
+      "bbox": [
+        254,
+        45,
+        130.61,
+        41.3
+      ],
+      "area": 5394.193,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "1bbfffcf12aefa88e31ead82d7a0c3b286588b124797a7ad1414d60aac8d3f5f",
+    "group_id": "v4g13",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 41.3,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 809,
+      "image_id": 235,
+      "category_id": 1,
+      "bbox": [
+        34,
+        0,
+        85.66,
+        49
+      ],
+      "area": 4197.34,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "86a81c23edd761fe0bd24c54e15f269676f80985da0967c1dd785bd1a022fe82",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 49.0,
+    "touches_border": true
+  },
+  {
+    "annotation_original": {
+      "id": 814,
+      "image_id": 235,
+      "category_id": 1,
+      "bbox": [
+        527,
+        0,
+        86.08,
+        45.25
+      ],
+      "area": 3895.12,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "86a81c23edd761fe0bd24c54e15f269676f80985da0967c1dd785bd1a022fe82",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 45.25,
+    "touches_border": true
+  },
+  {
+    "annotation_original": {
+      "id": 816,
+      "image_id": 235,
+      "category_id": 1,
+      "bbox": [
+        355,
+        1,
+        86.35,
+        56.54
+      ],
+      "area": 4882.229,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "86a81c23edd761fe0bd24c54e15f269676f80985da0967c1dd785bd1a022fe82",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 56.54,
+    "touches_border": true
+  },
+  {
+    "annotation_original": {
+      "id": 818,
+      "image_id": 236,
+      "category_id": 1,
+      "bbox": [
+        288,
+        155,
+        68.87,
+        40.08
+      ],
+      "area": 2760.31,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "815f178de35c7f3e8dc99007f80186d312dba731b467cf6dfb7a1126e4cefad2",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 40.08,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 832,
+      "image_id": 241,
+      "category_id": 1,
+      "bbox": [
+        486,
+        343,
+        97.08,
+        168.32
+      ],
+      "area": 16340.506,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "13ca1d4e43f0818569e489db36dd22d1c0b81c7008efca05eeca8c76c0041e5a",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 97.08,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 834,
+      "image_id": 242,
+      "category_id": 1,
+      "bbox": [
+        163,
+        21,
+        87.89,
+        66.54
+      ],
+      "area": 5848.201,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "353973ee6942bd88b9a598f7bdb863ebeb2b05d905a7072747d582c554d76d0d",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 66.54,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 835,
+      "image_id": 242,
+      "category_id": 1,
+      "bbox": [
+        380,
+        22,
+        92.35,
+        68.04
+      ],
+      "area": 6283.494,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "353973ee6942bd88b9a598f7bdb863ebeb2b05d905a7072747d582c554d76d0d",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 68.04,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 846,
+      "image_id": 244,
+      "category_id": 1,
+      "bbox": [
+        471,
+        38,
+        88.09,
+        44.55
+      ],
+      "area": 3924.409,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "2daa8c2589ec1eda7bf8955609cc4dd4d1e083424d0954540419321b0f33b4a5",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 44.55,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 847,
+      "image_id": 244,
+      "category_id": 1,
+      "bbox": [
+        80,
+        37,
+        81.4,
+        43.05
+      ],
+      "area": 3504.27,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "2daa8c2589ec1eda7bf8955609cc4dd4d1e083424d0954540419321b0f33b4a5",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 43.05,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 848,
+      "image_id": 244,
+      "category_id": 1,
+      "bbox": [
+        278,
+        31,
+        79.87,
+        44.05
+      ],
+      "area": 3518.273,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "2daa8c2589ec1eda7bf8955609cc4dd4d1e083424d0954540419321b0f33b4a5",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 44.05,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 852,
+      "image_id": 245,
+      "category_id": 1,
+      "bbox": [
+        78,
+        99,
+        47.91,
+        33.57
+      ],
+      "area": 1608.339,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "59faee30c1ba38fa9de0d923585e69150a21742874d98eaa459e18124a8b42bf",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 33.57,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 862,
+      "image_id": 248,
+      "category_id": 1,
+      "bbox": [
+        284,
+        156,
+        75.62,
+        49.08
+      ],
+      "area": 3711.43,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "fed8cbd35173d8d8520be5f893d04698cee657a6b9929bbb10455800dd6bb79c",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 49.08,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 872,
+      "image_id": 251,
+      "category_id": 1,
+      "bbox": [
+        112,
+        19,
+        77.9,
+        50.79
+      ],
+      "area": 3956.541,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "b173c18fd7dbc10fb02c6464a0f743ec38b04c7ecb87830d848366d2701286f3",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 50.79,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 873,
+      "image_id": 251,
+      "category_id": 1,
+      "bbox": [
+        438,
+        22,
+        74.84,
+        46.79
+      ],
+      "area": 3501.764,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "b173c18fd7dbc10fb02c6464a0f743ec38b04c7ecb87830d848366d2701286f3",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 46.79,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 892,
+      "image_id": 257,
+      "category_id": 1,
+      "bbox": [
+        243,
+        165,
+        67.88,
+        43.83
+      ],
+      "area": 2975.18,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "a8446d0dcf11887ec759b8cb37c35b9a736f82d6935c6f78594be934627047a7",
+    "group_id": "v4g10",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 43.83,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 896,
+      "image_id": 257,
+      "category_id": 1,
+      "bbox": [
+        553,
+        172,
+        75.82,
+        45.58
+      ],
+      "area": 3455.876,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "a8446d0dcf11887ec759b8cb37c35b9a736f82d6935c6f78594be934627047a7",
+    "group_id": "v4g10",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 45.58,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 900,
+      "image_id": 258,
+      "category_id": 1,
+      "bbox": [
+        272,
+        37,
+        91.12,
+        41.8
+      ],
+      "area": 3808.816,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "e9aeaca3c18e7346a130c315ae78e27f18e4be2b230cf3f317959a8d16227e63",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 41.8,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 901,
+      "image_id": 258,
+      "category_id": 1,
+      "bbox": [
+        80,
+        38,
+        84.4,
+        42.05
+      ],
+      "area": 3549.02,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "e9aeaca3c18e7346a130c315ae78e27f18e4be2b230cf3f317959a8d16227e63",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 42.05,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 902,
+      "image_id": 258,
+      "category_id": 1,
+      "bbox": [
+        465,
+        41,
+        92.34,
+        40.3
+      ],
+      "area": 3721.302,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "e9aeaca3c18e7346a130c315ae78e27f18e4be2b230cf3f317959a8d16227e63",
+    "group_id": "v4g01",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 40.3,
+    "touches_border": false
+  },
+  {
+    "annotation_original": {
+      "id": 907,
+      "image_id": 259,
+      "category_id": 1,
+      "bbox": [
+        291,
+        44,
+        64.12,
+        36.05
+      ],
+      "area": 2311.526,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    "image_sha256": "b52cc13d8de5fdbee3870c2d3c6c135004971ae443147a48c94c447ec2391294",
+    "group_id": "v4g07",
+    "estado_auditoria": "SIN_ALERTA_EN_INSPECCION_VISUAL",
+    "observacion_tecnica": "Sin adjudicación humana nueva; no equivale a etiqueta certificada.",
+    "autor_tipo": "ASISTENTE_AUDITOR_NO_ADJUDICADOR",
+    "visibilidad_humana": null,
+    "min_side_at_640": 36.05,
+    "touches_border": false
+  }
+]

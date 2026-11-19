@@ -1,0 +1,58 @@
+{
+  "status": "PROPUESTA_NO_ENTRENAMIENTO",
+  "physical_merge": false,
+  "public_sources": {
+    "mendeley": 7907,
+    "roboflow_v26": 570,
+    "roboflow_v4_local": 0
+  },
+  "quarantined_human_frames": 25,
+  "routes": {
+    "superficie": {
+      "source": "mendeley_kthmmbsh8t_v1",
+      "task": "Detecci?n nativa de defectos; dent y scuff conservan gravedad",
+      "keep_source_classes": true,
+      "source_bbox": true,
+      "infer_missing_negatives": false
+    },
+    "estado_tapa": {
+      "source": "roboflow_caps_v26",
+      "task": "Benchmark de estados/ROI fuente; no detector de tapa f?sica autom?tico",
+      "classes_source": [
+        "Good Cap",
+        "Broken Cap",
+        "Loose Cap",
+        "Broken Ring",
+        "No Cap"
+      ],
+      "absence_requires_process_context_for_project_defect": true
+    },
+    "objeto_tapa": {
+      "candidate_source_bbox_classes": [
+        "Good Cap",
+        "Broken Cap"
+      ],
+      "candidate_images": 272,
+      "candidate_boxes": 272,
+      "geometry_review_required": true,
+      "do_not_map_physical_cap": [
+        "No Cap",
+        "Broken Ring",
+        "Loose Cap without geometry adjudication"
+      ]
+    },
+    "objetos_humanos": {
+      "images": 25,
+      "boxes": 244,
+      "ENVASE": 101,
+      "TAPA": 143,
+      "keep_unchanged": true,
+      "include_in_training": false,
+      "reason": "Derechos/procedencia de videos pendientes"
+    },
+    "roboflow_v4": {
+      "status": "EXPORT_NO_LOCALIZADO",
+      "next_minimal_action": "Obtener exportaci?n COCO/YOLO real v4; verificar contenido y duplicados antes de mezclar"
+    }
+  }
+}

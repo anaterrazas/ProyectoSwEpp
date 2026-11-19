@@ -1,0 +1,14 @@
+{
+  "origen": "datasets/publicos_calidad_botellas/selections/pretrain_v001/split_proposal.jsonl",
+  "sha256": "1f504337bf103b0848d60ef8ceb605022a940bc48b7ae2058eaabdf8b1ff4d1d",
+  "imagenes": 8477,
+  "grupos": 202,
+  "cruces_actuales": 0,
+  "restricciones": [
+    "No dividir ning?n grupo existente al a?adir v4",
+    "Unir grupos si se detecta origen compartido o duplicados v4",
+    "Si una fusi?n cruza splits previos, reasignar el componente completo antes de aprobar",
+    "262 im?genes publicadas no equivale a 262 im?genes ?nicas adicionales",
+    "No adoptar train=262 como partici?n final"
+  ]
+}
